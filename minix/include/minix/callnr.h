@@ -120,6 +120,7 @@
 #define VFS_GETSYSINFO		(VFS_BASE + 48)
 #define VFS_LSR				(VFS_BASE + 49)
 /* CS356, added VFS_LSR to this as well as incrementing NR_VFS_CALLS */
+
 #define NR_VFS_CALLS		50	/* highest number from base plus one */
 
 #endif /* !_MINIX_CALLNR_H */
