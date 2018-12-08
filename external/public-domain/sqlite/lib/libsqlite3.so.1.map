@@ -1,0 +1,574 @@
+Archive member included because of file (symbol)
+
+libsqlite3_pic.a(sqlite3.pico)
+                              (--whole-archive)
+
+Discarded input sections
+
+ .note.GNU-stack
+                0x00000000        0x0 libsqlite3_pic.a(sqlite3.pico)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD /usr/lib/crti.o
+LOAD /usr/lib/crtbeginS.o
+LOAD libsqlite3_pic.a
+LOAD /usr/lib/libc.so
+LOAD /usr/lib/crtendS.o
+LOAD /usr/lib/crtn.o
+                0x000000f4                . = (0x0 + SIZEOF_HEADERS)
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.hash           0x000000f4      0x700
+ *(.hash)
+ .hash          0x000000f4      0x700 /usr/lib/crti.o
+
+.gnu.hash
+ *(.gnu.hash)
+
+.dynsym         0x000007f4      0xf90
+ *(.dynsym)
+ .dynsym        0x000007f4      0xf90 /usr/lib/crti.o
+
+.dynstr         0x00001784     0x11b7
+ *(.dynstr)
+ .dynstr        0x00001784     0x11b7 /usr/lib/crti.o
+
+.gnu.version    0x0000293c        0x0
+ *(.gnu.version)
+ .gnu.version   0x00000000        0x0 /usr/lib/crti.o
+
+.gnu.version_d  0x0000293c        0x0
+ *(.gnu.version_d)
+ .gnu.version_d
+                0x00000000        0x0 /usr/lib/crti.o
+
+.gnu.version_r  0x0000293c        0x0
+ *(.gnu.version_r)
+ .gnu.version_r
+                0x00000000        0x0 /usr/lib/crti.o
+
+.rel.dyn        0x0000293c     0x19e8
+ *(.rel.init)
+ *(.rel.text .rel.text.* .rel.gnu.linkonce.t.*)
+ *(.rel.fini)
+ *(.rel.rodata .rel.rodata.* .rel.gnu.linkonce.r.*)
+ *(.rel.data.rel.ro .rel.data.rel.ro.* .rel.gnu.linkonce.d.rel.ro.*)
+ .rel.data.rel.ro.local
+                0x0000293c      0xc78 /usr/lib/crti.o
+ .rel.data.rel.ro
+                0x000035b4      0x550 /usr/lib/crti.o
+ *(.rel.data .rel.data.* .rel.gnu.linkonce.d.*)
+ .rel.data.rel  0x00003b04      0x118 /usr/lib/crti.o
+ .rel.data.rel.local
+                0x00003c1c      0x6b8 /usr/lib/crti.o
+ *(.rel.tdata .rel.tdata.* .rel.gnu.linkonce.td.*)
+ *(.rel.tbss .rel.tbss.* .rel.gnu.linkonce.tb.*)
+ *(.rel.ctors)
+ *(.rel.dtors)
+ *(.rel.got)
+ .rel.got       0x000042d4       0x50 /usr/lib/crti.o
+ *(.rel.bss .rel.bss.* .rel.gnu.linkonce.b.*)
+ *(.rel.ifunc)
+ .rel.ifunc     0x00000000        0x0 /usr/lib/crti.o
+
+.rel.plt        0x00004324      0x460
+ *(.rel.plt)
+ .rel.plt       0x00004324      0x460 /usr/lib/crti.o
+ *(.rel.iplt)
+
+.init           0x00004790        0xa
+ *(SORT(.init))
+ .init          0x00004790        0x3 /usr/lib/crti.o
+                0x00004790                _init
+ .init          0x00004793        0x5 /usr/lib/crtbeginS.o
+ .init          0x00004798        0x2 /usr/lib/crtn.o
+
+.plt            0x000047a0      0x8d0
+ *(.plt)
+ .plt           0x000047a0      0x8d0 /usr/lib/crti.o
+ *(.iplt)
+
+.text           0x00005070    0xd1e30
+                0x00005070                PROVIDE (__eprol, .)
+ *(.text.unlikely .text.*_unlikely)
+ *(.text.exit .text.exit.*)
+ *(.text.startup .text.startup.*)
+ *(.text.hot .text.hot.*)
+ *(.text .stub .text.* .gnu.linkonce.t.*)
+ .text          0x00005070        0x0 /usr/lib/crti.o
+ .text          0x00005070       0xef /usr/lib/crtbeginS.o
+ *fill*         0x0000515f        0x1 
+ .text          0x00005160    0xd1d3f libsqlite3_pic.a(sqlite3.pico)
+                0x00005160                sqlite3_compileoption_used
+                0x00005280                sqlite3_strnicmp
+                0x00005400                sqlite3_compileoption_get
+                0x00005460                sqlite3_status
+                0x00005590                sqlite3_db_status
+                0x00006030                sqlite3_vfs_find
+                0x000060f0                sqlite3_initialize
+                0x00006360                sqlite3_vfs_register
+                0x00006510                sqlite3_vfs_unregister
+                0x00006550                sqlite3_release_memory
+                0x00006570                sqlite3_memory_alarm
+                0x00006700                sqlite3_soft_heap_limit64
+                0x00006940                sqlite3_memory_used
+                0x000069a0                sqlite3_soft_heap_limit
+                0x00006a00                sqlite3_memory_highwater
+                0x00006a60                sqlite3_malloc
+                0x00006b60                sqlite3_free
+                0x00006ca0                sqlite3_realloc
+                0x00006f70                sqlite3_vmprintf
+                0x000095c0                sqlite3_mprintf
+                0x00009630                sqlite3_vsnprintf
+                0x00009710                sqlite3_snprintf
+                0x00009770                sqlite3_log
+                0x00009900                sqlite3_randomness
+                0x00009b70                sqlite3_os_init
+                0x0000aef0                sqlite3_os_end
+                0x0000af00                sqlite3_enable_shared_cache
+                0x0000af30                sqlite3_backup_init
+                0x0000b4c0                sqlite3_backup_step
+                0x0000db10                sqlite3_backup_finish
+                0x0000de20                sqlite3_backup_remaining
+                0x0000de40                sqlite3_backup_pagecount
+                0x0000de60                sqlite3_sql
+                0x0000dec0                sqlite3_expired
+                0x0000df10                sqlite3_finalize
+                0x0000e180                sqlite3_reset
+                0x0000e3f0                sqlite3_clear_bindings
+                0x0000e540                sqlite3_value_blob
+                0x0000e710                sqlite3_value_text
+                0x0000e750                sqlite3_value_bytes
+                0x0000e840                sqlite3_value_bytes16
+                0x0000e880                sqlite3_value_double
+                0x0000e9b0                sqlite3_value_int
+                0x0000eb00                sqlite3_value_int64
+                0x0000ece0                sqlite3_value_text16
+                0x0000ed20                sqlite3_value_text16be
+                0x0000ed60                sqlite3_value_text16le
+                0x0000eda0                sqlite3_value_type
+                0x0000edc0                sqlite3_result_blob
+                0x0000eec0                sqlite3_result_double
+                0x0000efa0                sqlite3_result_error
+                0x0000f3a0                sqlite3_result_error16
+                0x0000f420                sqlite3_result_int
+                0x0000f4e0                sqlite3_result_int64
+                0x0000f530                sqlite3_result_null
+                0x0000f620                sqlite3_result_text
+                0x0000f690                sqlite3_result_text16
+                0x0000f700                sqlite3_result_text16be
+                0x0000f770                sqlite3_result_text16le
+                0x0000f7e0                sqlite3_result_value
+                0x0000f920                sqlite3_result_zeroblob
+                0x0000f9d0                sqlite3_result_error_code
+                0x0000fb10                sqlite3_result_error_toobig
+                0x0000fb90                sqlite3_result_error_nomem
+                0x0000fbe0                sqlite3_step
+                0x00010490                sqlite3_user_data
+                0x000104b0                sqlite3_context_db_handle
+                0x000104d0                sqlite3_aggregate_context
+                0x00010910                sqlite3_get_auxdata
+                0x00010980                sqlite3_set_auxdata
+                0x00010ca0                sqlite3_aggregate_count
+                0x00010cc0                sqlite3_column_count
+                0x00010d10                sqlite3_data_count
+                0x00010d60                sqlite3_column_blob
+                0x00010f00                sqlite3_column_bytes
+                0x00010f60                sqlite3_column_bytes16
+                0x00010fc0                sqlite3_column_double
+                0x00011030                sqlite3_column_int
+                0x00011090                sqlite3_column_int64
+                0x00011110                sqlite3_column_text
+                0x00011170                sqlite3_column_value
+                0x00011200                sqlite3_column_text16
+                0x00011260                sqlite3_column_type
+                0x000112c0                sqlite3_column_name
+                0x000113f0                sqlite3_column_name16
+                0x00011450                sqlite3_column_decltype
+                0x000114b0                sqlite3_column_decltype16
+                0x00011510                sqlite3_column_database_name
+                0x00011570                sqlite3_column_database_name16
+                0x000115d0                sqlite3_column_table_name
+                0x00011630                sqlite3_column_table_name16
+                0x00011690                sqlite3_column_origin_name
+                0x000116f0                sqlite3_column_origin_name16
+                0x00011750                sqlite3_bind_blob
+                0x00011950                sqlite3_bind_double
+                0x00011c20                sqlite3_bind_int
+                0x00011c70                sqlite3_bind_int64
+                0x00011d20                sqlite3_bind_null
+                0x00011d80                sqlite3_bind_text
+                0x00011e00                sqlite3_bind_text16
+                0x00011e80                sqlite3_bind_value
+                0x00012010                sqlite3_bind_zeroblob
+                0x000120a0                sqlite3_bind_parameter_count
+                0x000120f0                sqlite3_bind_parameter_name
+                0x00012160                sqlite3_bind_parameter_index
+                0x000122c0                sqlite3_transfer_bindings
+                0x00012430                sqlite3_db_handle
+                0x00012470                sqlite3_stmt_readonly
+                0x000124b0                sqlite3_stmt_busy
+                0x00012510                sqlite3_next_stmt
+                0x00012560                sqlite3_stmt_status
+                0x000125c0                sqlite3_value_numeric_type
+                0x00012810                sqlite3_blob_open
+                0x000149f0                sqlite3_blob_close
+                0x00014a70                sqlite3_blob_read
+                0x00014d60                sqlite3_blob_write
+                0x00014ed0                sqlite3_blob_bytes
+                0x00014f30                sqlite3_blob_reopen
+                0x000150b0                sqlite3_set_authorizer
+                0x00015150                sqlite3_exec
+                0x000157d0                sqlite3_prepare
+                0x00015860                sqlite3_errcode
+                0x00015910                sqlite3_errmsg
+                0x00015a20                sqlite3_load_extension
+                0x00015e70                sqlite3_enable_load_extension
+                0x00015ec0                sqlite3_auto_extension
+                0x00015ff0                sqlite3_reset_auto_extension
+                0x000161a0                sqlite3_prepare_v2
+                0x00016230                sqlite3_prepare16
+                0x00016460                sqlite3_prepare16_v2
+                0x000164e0                sqlite3_get_table
+                0x00016aa0                sqlite3_free_table
+                0x00016b40                sqlite3_create_module
+                0x00016d70                sqlite3_create_module_v2
+                0x00016de0                sqlite3_declare_vtab
+                0x000177b0                sqlite3_vtab_on_conflict
+                0x000177e0                sqlite3_vtab_config
+                0x000178e0                sqlite3_complete
+                0x00018020                sqlite3_complete16
+                0x000182a0                sqlite3_libversion
+                0x000182c0                sqlite3_sourceid
+                0x000182e0                sqlite3_libversion_number
+                0x000182f0                sqlite3_threadsafe
+                0x00018770                sqlite3_shutdown
+                0x00018910                sqlite3_config
+                0x00018cc0                sqlite3_db_mutex
+                0x00018ce0                sqlite3_db_release_memory
+                0x00018dc0                sqlite3_db_config
+                0x000191d0                sqlite3_last_insert_rowid
+                0x000191f0                sqlite3_changes
+                0x00019210                sqlite3_total_changes
+                0x00019230                sqlite3_close
+                0x00019c50                sqlite3_busy_handler
+                0x00019ca0                sqlite3_progress_handler
+                0x00019d30                sqlite3_busy_timeout
+                0x00019ed0                sqlite3_interrupt
+                0x00019ef0                sqlite3_create_function
+                0x00019fb0                sqlite3_create_function_v2
+                0x0001a550                sqlite3_create_function16
+                0x0001a7a0                sqlite3_overload_function
+                0x0001ac20                sqlite3_trace
+                0x0001ac70                sqlite3_profile
+                0x0001acc0                sqlite3_commit_hook
+                0x0001ad10                sqlite3_update_hook
+                0x0001ad60                sqlite3_rollback_hook
+                0x0001adb0                sqlite3_wal_autocheckpoint
+                0x0001add0                sqlite3_wal_hook
+                0x0001ae00                sqlite3_wal_checkpoint_v2
+                0x0001ae40                sqlite3_wal_checkpoint
+                0x0001aea0                sqlite3_errmsg16
+                0x0001afe0                sqlite3_extended_errcode
+                0x0001b080                sqlite3_limit
+                0x0001b130                sqlite3_open
+                0x0001ba10                sqlite3_open_v2
+                0x0001ba70                sqlite3_open16
+                0x0001bc10                sqlite3_create_collation
+                0x0001bf80                sqlite3_create_collation_v2
+                0x0001c020                sqlite3_create_collation16
+                0x0001c120                sqlite3_collation_needed
+                0x0001c170                sqlite3_collation_needed16
+                0x0001c1c0                sqlite3_global_recover
+                0x0001c1d0                sqlite3_get_autocommit
+                0x0001c1f0                sqlite3_thread_cleanup
+                0x0001c200                sqlite3_table_column_metadata
+                0x0001c9c0                sqlite3_sleep
+                0x0001ca90                sqlite3_extended_result_codes
+                0x0001cac0                sqlite3_file_control
+                0x0001cca0                sqlite3_test_control
+                0x0001d990                sqlite3_uri_parameter
+                0x0001da70                sqlite3_uri_boolean
+                0x0001db40                sqlite3_uri_int64
+                0x0001dfb0                sqlite3_db_filename
+                0x0001e0c0                sqlite3_unlock_notify
+ *fill*         0x000d6e9f        0x1 
+ .text          0x000d6ea0        0x0 /usr/lib/crtendS.o
+ .text          0x000d6ea0        0x0 /usr/lib/crtn.o
+ *(.gnu.warning)
+
+.fini           0x000d6ea0        0xa
+ *(SORT(.fini))
+ .fini          0x000d6ea0        0x3 /usr/lib/crti.o
+                0x000d6ea0                _fini
+ .fini          0x000d6ea3        0x5 /usr/lib/crtbeginS.o
+ .fini          0x000d6ea8        0x2 /usr/lib/crtn.o
+                0x000d6eaa                PROVIDE (__etext, .)
+                0x000d6eaa                PROVIDE (_etext, .)
+                0x000d6eaa                PROVIDE (etext, .)
+
+.rodata         0x000d6eb0     0x89fe
+ *(.rodata .rodata.* .gnu.linkonce.r.*)
+ .rodata        0x000d6eb0     0x3da8 libsqlite3_pic.a(sqlite3.pico)
+                0x000d7ea4                sqlite3_version
+ .rodata.cst8   0x000dac58       0x50 libsqlite3_pic.a(sqlite3.pico)
+ .rodata.cst4   0x000daca8       0x58 libsqlite3_pic.a(sqlite3.pico)
+                                 0xa4 (size before relaxing)
+ .rodata.cst16  0x000dad00       0x20 libsqlite3_pic.a(sqlite3.pico)
+ .rodata.str1.1
+                0x000dad20     0x4b8e libsqlite3_pic.a(sqlite3.pico)
+                               0x4e27 (size before relaxing)
+
+.rodata1
+ *(.rodata1)
+
+.eh_frame_hdr   0x000df8b0     0x359c
+ *(.eh_frame_hdr)
+ .eh_frame_hdr  0x000df8b0     0x359c libsqlite3_pic.a(sqlite3.pico)
+
+.eh_frame       0x000e2e4c     0xcb28
+ *(.eh_frame)
+ .eh_frame      0x000e2e4c       0x3c /usr/lib/crti.o
+                                 0x40 (size before relaxing)
+ .eh_frame      0x000e2e88        0x0 /usr/lib/crtbeginS.o
+ .eh_frame      0x000e2e88     0xcae8 libsqlite3_pic.a(sqlite3.pico)
+                               0xcb00 (size before relaxing)
+ .eh_frame      0x000ef970        0x4 /usr/lib/crtendS.o
+
+.note.minix.ident
+                0x000ef974       0x18
+ .note.minix.ident
+                0x000ef974       0x18 /usr/lib/crti.o
+
+.note.netbsd.pax
+                0x000ef98c       0x14
+ .note.netbsd.pax
+                0x000ef98c       0x14 /usr/lib/crti.o
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.exception_ranges
+ *(.exception_ranges .exception_ranges*)
+                0x000ef9a0                . = (ALIGN (0x1000) - ((0x1000 - .) & 0xfff))
+                0x000f0000                . = DATA_SEGMENT_ALIGN (0x1000, 0x1000)
+
+.eh_frame
+ *(.eh_frame)
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.exception_ranges
+ *(.exception_ranges .exception_ranges*)
+
+.tdata
+ *(.tdata .tdata.* .gnu.linkonce.td.*)
+
+.tbss
+ *(.tbss .tbss.* .gnu.linkonce.tb.*)
+ *(.tcommon)
+
+.preinit_array
+ *(.preinit_array)
+
+.init_array
+ *(SORT(.init_array.*))
+ *(.init_array)
+
+.fini_array
+ *(SORT(.fini_array.*))
+ *(.fini_array)
+
+.ctors          0x000f0000        0x8
+ *crtbegin.o(.ctors)
+ *crtbegin?.o(.ctors)
+ .ctors         0x000f0000        0x4 /usr/lib/crtbeginS.o
+ *(EXCLUDE_FILE(*crtend?.o *crtend.o) .ctors)
+ *(SORT(.ctors.*))
+ *(.ctors)
+ .ctors         0x000f0004        0x4 /usr/lib/crtendS.o
+                0x000f0004                __CTOR_LIST_END__
+
+.dtors          0x000f0008        0x8
+ *crtbegin.o(.dtors)
+ *crtbegin?.o(.dtors)
+ .dtors         0x000f0008        0x4 /usr/lib/crtbeginS.o
+ *(EXCLUDE_FILE(*crtend?.o *crtend.o) .dtors)
+ *(SORT(.dtors.*))
+ *(.dtors)
+ .dtors         0x000f000c        0x4 /usr/lib/crtendS.o
+
+.jcr            0x000f0010        0x4
+ *(.jcr)
+ .jcr           0x000f0010        0x0 /usr/lib/crtbeginS.o
+ .jcr           0x000f0010        0x4 /usr/lib/crtendS.o
+
+.data.rel.ro    0x000f0014      0xab0
+ *(.data.rel.ro.local* .gnu.linkonce.d.rel.ro.local.*)
+ .data.rel.ro.local
+                0x000f0014      0x7e4 libsqlite3_pic.a(sqlite3.pico)
+ *(.data.rel.ro .data.rel.ro.* .gnu.linkonce.d.rel.ro.*)
+ .data.rel.ro   0x000f07f8      0x2cc libsqlite3_pic.a(sqlite3.pico)
+
+.dynamic        0x000f0ac4       0xb0
+ *(.dynamic)
+ .dynamic       0x000f0ac4       0xb0 /usr/lib/crti.o
+                0x000f0ac4                _DYNAMIC
+
+.got            0x000f0b74       0x28
+ *(.got)
+ .got           0x000f0b74       0x28 /usr/lib/crti.o
+ *(.igot)
+                0x000f0b9c                . = DATA_SEGMENT_RELRO_END (., (SIZEOF (.got.plt) >= 0xc)?0xc:0x0)
+
+.got.plt        0x000f0b9c      0x23c
+ *(.got.plt)
+ .got.plt       0x000f0b9c      0x23c /usr/lib/crti.o
+                0x000f0b9c                _GLOBAL_OFFSET_TABLE_
+ *(.igot.plt)
+
+.data           0x000f0dd8      0xc98
+ *(.data .data.* .gnu.linkonce.d.*)
+ .data          0x000f0dd8        0x0 /usr/lib/crti.o
+ .data          0x000f0dd8        0x0 /usr/lib/crtbeginS.o
+ .data.rel      0x000f0dd8       0x26 /usr/lib/crtbeginS.o
+                0x000f0dd8                __dso_handle
+ *fill*         0x000f0dfe        0x2 
+ .data          0x000f0e00       0xf0 libsqlite3_pic.a(sqlite3.pico)
+ .data.rel.local
+                0x000f0ef0      0xa90 libsqlite3_pic.a(sqlite3.pico)
+ .data.rel      0x000f1980       0xf0 libsqlite3_pic.a(sqlite3.pico)
+ .data          0x000f1a70        0x0 /usr/lib/crtendS.o
+ .data          0x000f1a70        0x0 /usr/lib/crtn.o
+
+.data1
+ *(.data1)
+                0x000f1a70                _edata = .
+                0x000f1a70                PROVIDE (edata, .)
+                0x000f1a70                . = .
+                0x000f1a70                __bss_start = .
+
+.bss            0x000f1a70      0x354
+ *(.dynbss)
+ .dynbss        0x00000000        0x0 /usr/lib/crti.o
+ *(.bss .bss.* .gnu.linkonce.b.*)
+ .bss           0x000f1a70        0x0 /usr/lib/crti.o
+ .bss           0x000f1a70        0x0 /usr/lib/crtbeginS.o
+ .bss           0x000f1a70      0x354 libsqlite3_pic.a(sqlite3.pico)
+                0x000f1a70                sqlite3_temp_directory
+ .bss           0x000f1dc4        0x0 /usr/lib/crtendS.o
+ .bss           0x000f1dc4        0x0 /usr/lib/crtn.o
+ *(COMMON)
+                0x000f1dc4                . = ALIGN ((. != 0x0)?0x4:0x1)
+                0x000f1dc4                . = ALIGN (0x4)
+                0x000f1dc4                . = ALIGN (0x4)
+                0x000f1dc4                _end = .
+                0x000f1dc4                PROVIDE (end, .)
+                0x000f1dc4                . = DATA_SEGMENT_END (.)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x00000000       0x28
+ *(.comment)
+ .comment       0x00000000       0x28 libsqlite3_pic.a(sqlite3.pico)
+                                 0x29 (size before relaxing)
+
+.ident          0x00000000       0xde
+ .ident         0x00000000       0x36 /usr/lib/crti.o
+ .ident         0x00000036       0x3a /usr/lib/crtbeginS.o
+ .ident         0x00000070       0x38 /usr/lib/crtendS.o
+ .ident         0x000000a8       0x36 /usr/lib/crtn.o
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges
+ *(.debug_aranges)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info
+ *(.debug_info .gnu.linkonce.wi.*)
+
+.debug_abbrev
+ *(.debug_abbrev)
+
+.debug_line
+ *(.debug_line)
+
+.debug_frame
+ *(.debug_frame)
+
+.debug_str
+ *(.debug_str)
+
+.debug_loc
+ *(.debug_loc)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges
+ *(.debug_ranges)
+
+.debug_macro
+ *(.debug_macro)
+
+.gnu.attributes
+ *(.gnu.attributes)
+
+/DISCARD/
+ *(.note.GNU-stack)
+ *(.gnu_debuglink)
+ *(.gnu.lto_*)
+OUTPUT(libsqlite3.so.1.1 elf32-i386-minix)

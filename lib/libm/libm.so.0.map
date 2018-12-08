@@ -1,0 +1,3534 @@
+Archive member included because of file (symbol)
+
+libm_pic.a(divsc3.pico)       (--whole-archive)
+libm_pic.a(divdc3.pico)       (--whole-archive)
+libm_pic.a(divxc3.pico)       (--whole-archive)
+libm_pic.a(mulsc3.pico)       (--whole-archive)
+libm_pic.a(mulxc3.pico)       (--whole-archive)
+libm_pic.a(nanl.pico)         (--whole-archive)
+libm_pic.a(nanf.pico)         (--whole-archive)
+libm_pic.a(nan.pico)          (--whole-archive)
+libm_pic.a(cprojf.pico)       (--whole-archive)
+libm_pic.a(cproj.pico)        (--whole-archive)
+libm_pic.a(catanhf.pico)      (--whole-archive)
+libm_pic.a(cacoshf.pico)      (--whole-archive)
+libm_pic.a(casinhf.pico)      (--whole-archive)
+libm_pic.a(catanf.pico)       (--whole-archive)
+libm_pic.a(cacosf.pico)       (--whole-archive)
+libm_pic.a(casinf.pico)       (--whole-archive)
+libm_pic.a(ctanhf.pico)       (--whole-archive)
+libm_pic.a(ccoshf.pico)       (--whole-archive)
+libm_pic.a(csinhf.pico)       (--whole-archive)
+libm_pic.a(ctanf.pico)        (--whole-archive)
+libm_pic.a(ccosf.pico)        (--whole-archive)
+libm_pic.a(csinf.pico)        (--whole-archive)
+libm_pic.a(cephes_subrf.pico)
+                              (--whole-archive)
+libm_pic.a(cpowf.pico)        (--whole-archive)
+libm_pic.a(clogf.pico)        (--whole-archive)
+libm_pic.a(cexpf.pico)        (--whole-archive)
+libm_pic.a(csqrtf.pico)       (--whole-archive)
+libm_pic.a(catanh.pico)       (--whole-archive)
+libm_pic.a(cacosh.pico)       (--whole-archive)
+libm_pic.a(casinh.pico)       (--whole-archive)
+libm_pic.a(catan.pico)        (--whole-archive)
+libm_pic.a(cacos.pico)        (--whole-archive)
+libm_pic.a(casin.pico)        (--whole-archive)
+libm_pic.a(ctanh.pico)        (--whole-archive)
+libm_pic.a(ccosh.pico)        (--whole-archive)
+libm_pic.a(csinh.pico)        (--whole-archive)
+libm_pic.a(ctan.pico)         (--whole-archive)
+libm_pic.a(ccos.pico)         (--whole-archive)
+libm_pic.a(csin.pico)         (--whole-archive)
+libm_pic.a(cephes_subr.pico)  (--whole-archive)
+libm_pic.a(cpow.pico)         (--whole-archive)
+libm_pic.a(clog.pico)         (--whole-archive)
+libm_pic.a(cexp.pico)         (--whole-archive)
+libm_pic.a(csqrt.pico)        (--whole-archive)
+libm_pic.a(conjl.pico)        (--whole-archive)
+libm_pic.a(conjf.pico)        (--whole-archive)
+libm_pic.a(conj.pico)         (--whole-archive)
+libm_pic.a(cimagl.pico)       (--whole-archive)
+libm_pic.a(cimagf.pico)       (--whole-archive)
+libm_pic.a(cimag.pico)        (--whole-archive)
+libm_pic.a(creall.pico)       (--whole-archive)
+libm_pic.a(crealf.pico)       (--whole-archive)
+libm_pic.a(creal.pico)        (--whole-archive)
+libm_pic.a(cargf.pico)        (--whole-archive)
+libm_pic.a(carg.pico)         (--whole-archive)
+libm_pic.a(cabsf.pico)        (--whole-archive)
+libm_pic.a(cabs.pico)         (--whole-archive)
+libm_pic.a(compat_cabsf.pico)
+                              (--whole-archive)
+libm_pic.a(compat_cabs.pico)  (--whole-archive)
+libm_pic.a(s_fdim.pico)       (--whole-archive)
+libm_pic.a(s_fminl.pico)      (--whole-archive)
+libm_pic.a(s_fminf.pico)      (--whole-archive)
+libm_pic.a(s_fmin.pico)       (--whole-archive)
+libm_pic.a(s_fmaxl.pico)      (--whole-archive)
+libm_pic.a(s_fmaxf.pico)      (--whole-archive)
+libm_pic.a(s_fmax.pico)       (--whole-archive)
+libm_pic.a(s_modf.pico)       (--whole-archive)
+libm_pic.a(llroundf.pico)     (--whole-archive)
+libm_pic.a(llround.pico)      (--whole-archive)
+libm_pic.a(lroundf.pico)      (--whole-archive)
+libm_pic.a(lround.pico)       (--whole-archive)
+libm_pic.a(llrintf.pico)      (--whole-archive)
+libm_pic.a(llrint.pico)       (--whole-archive)
+libm_pic.a(lrintf.pico)       (--whole-archive)
+libm_pic.a(lrint.pico)        (--whole-archive)
+libm_pic.a(w_sqrtl.pico)      (--whole-archive)
+libm_pic.a(w_sqrtf.pico)      (--whole-archive)
+libm_pic.a(w_sqrt.pico)       (--whole-archive)
+libm_pic.a(w_sinhf.pico)      (--whole-archive)
+libm_pic.a(w_scalbf.pico)     (--whole-archive)
+libm_pic.a(w_powf.pico)       (--whole-archive)
+libm_pic.a(w_logf.pico)       (--whole-archive)
+libm_pic.a(w_log2f.pico)      (--whole-archive)
+libm_pic.a(w_log2.pico)       (--whole-archive)
+libm_pic.a(w_log10f.pico)     (--whole-archive)
+libm_pic.a(w_lgammaf_r.pico)  (--whole-archive)
+libm_pic.a(w_lgammaf.pico)    (--whole-archive)
+libm_pic.a(w_lgamma_r.pico)   (--whole-archive)
+libm_pic.a(w_lgamma.pico)     (--whole-archive)
+libm_pic.a(w_jnf.pico)        (--whole-archive)
+libm_pic.a(w_jn.pico)         (--whole-archive)
+libm_pic.a(w_j1f.pico)        (--whole-archive)
+libm_pic.a(w_j1.pico)         (--whole-archive)
+libm_pic.a(w_j0f.pico)        (--whole-archive)
+libm_pic.a(w_j0.pico)         (--whole-archive)
+libm_pic.a(w_hypotf.pico)     (--whole-archive)
+libm_pic.a(w_gammaf_r.pico)   (--whole-archive)
+libm_pic.a(w_gammaf.pico)     (--whole-archive)
+libm_pic.a(w_gamma_r.pico)    (--whole-archive)
+libm_pic.a(w_gamma.pico)      (--whole-archive)
+libm_pic.a(w_fmodl.pico)      (--whole-archive)
+libm_pic.a(w_fmodf.pico)      (--whole-archive)
+libm_pic.a(w_fmod.pico)       (--whole-archive)
+libm_pic.a(w_expf.pico)       (--whole-archive)
+libm_pic.a(w_dremf.pico)      (--whole-archive)
+libm_pic.a(w_drem.pico)       (--whole-archive)
+libm_pic.a(w_coshf.pico)      (--whole-archive)
+libm_pic.a(w_atanhf.pico)     (--whole-archive)
+libm_pic.a(w_atan2f.pico)     (--whole-archive)
+libm_pic.a(w_asinf.pico)      (--whole-archive)
+libm_pic.a(w_acoshf.pico)     (--whole-archive)
+libm_pic.a(w_acosf.pico)      (--whole-archive)
+libm_pic.a(s_truncl.pico)     (--whole-archive)
+libm_pic.a(s_truncf.pico)     (--whole-archive)
+libm_pic.a(s_trunc.pico)      (--whole-archive)
+libm_pic.a(s_tgammaf.pico)    (--whole-archive)
+libm_pic.a(s_tanhf.pico)      (--whole-archive)
+libm_pic.a(s_tanf.pico)       (--whole-archive)
+libm_pic.a(s_significandf.pico)
+                              (--whole-archive)
+libm_pic.a(s_significand.pico)
+                              (--whole-archive)
+libm_pic.a(s_signgam.pico)    (--whole-archive)
+libm_pic.a(s_scalbnl.pico)    (--whole-archive)
+libm_pic.a(s_roundl.pico)     (--whole-archive)
+libm_pic.a(s_roundf.pico)     (--whole-archive)
+libm_pic.a(s_round.pico)      (--whole-archive)
+libm_pic.a(s_remquof.pico)    (--whole-archive)
+libm_pic.a(s_remquo.pico)     (--whole-archive)
+libm_pic.a(s_nextafterf.pico)
+                              (--whole-archive)
+libm_pic.a(s_modff.pico)      (--whole-archive)
+libm_pic.a(s_logbl.pico)      (--whole-archive)
+libm_pic.a(s_logbf.pico)      (--whole-archive)
+libm_pic.a(s_isinff.pico)     (--whole-archive)
+libm_pic.a(s_ilogbf.pico)     (--whole-archive)
+libm_pic.a(s_frexpf.pico)     (--whole-archive)
+libm_pic.a(s_floorl.pico)     (--whole-archive)
+libm_pic.a(s_finitef.pico)    (--whole-archive)
+libm_pic.a(s_fabsl.pico)      (--whole-archive)
+libm_pic.a(s_fabsf.pico)      (--whole-archive)
+libm_pic.a(s_exp2f.pico)      (--whole-archive)
+libm_pic.a(s_erff.pico)       (--whole-archive)
+libm_pic.a(s_erf.pico)        (--whole-archive)
+libm_pic.a(s_copysignl.pico)  (--whole-archive)
+libm_pic.a(s_copysignf.pico)  (--whole-archive)
+libm_pic.a(s_copysign.pico)   (--whole-archive)
+libm_pic.a(s_ceill.pico)      (--whole-archive)
+libm_pic.a(s_ceilf.pico)      (--whole-archive)
+libm_pic.a(s_cbrtl.pico)      (--whole-archive)
+libm_pic.a(s_cbrtf.pico)      (--whole-archive)
+libm_pic.a(s_cbrt.pico)       (--whole-archive)
+libm_pic.a(s_atanf.pico)      (--whole-archive)
+libm_pic.a(s_asinhf.pico)     (--whole-archive)
+libm_pic.a(ldbl_dummy.pico)   (--whole-archive)
+libm_pic.a(k_tanf.pico)       (--whole-archive)
+libm_pic.a(k_tan.pico)        (--whole-archive)
+libm_pic.a(e_sqrtl.pico)      (--whole-archive)
+libm_pic.a(e_sinhf.pico)      (--whole-archive)
+libm_pic.a(e_scalbf.pico)     (--whole-archive)
+libm_pic.a(e_rem_pio2f.pico)  (--whole-archive)
+libm_pic.a(e_rem_pio2.pico)   (--whole-archive)
+libm_pic.a(e_powf.pico)       (--whole-archive)
+libm_pic.a(e_log2f.pico)      (--whole-archive)
+libm_pic.a(e_log10f.pico)     (--whole-archive)
+libm_pic.a(e_log2.pico)       (--whole-archive)
+libm_pic.a(e_lgammaf_r.pico)  (--whole-archive)
+libm_pic.a(e_lgamma_r.pico)   (--whole-archive)
+libm_pic.a(e_jnf.pico)        (--whole-archive)
+libm_pic.a(e_jn.pico)         (--whole-archive)
+libm_pic.a(e_j1f.pico)        (--whole-archive)
+libm_pic.a(e_j1.pico)         (--whole-archive)
+libm_pic.a(e_j0f.pico)        (--whole-archive)
+libm_pic.a(e_j0.pico)         (--whole-archive)
+libm_pic.a(e_hypotf.pico)     (--whole-archive)
+libm_pic.a(e_fmodl.pico)      (--whole-archive)
+libm_pic.a(e_fmodf.pico)      (--whole-archive)
+libm_pic.a(e_fmod.pico)       (--whole-archive)
+libm_pic.a(e_coshf.pico)      (--whole-archive)
+libm_pic.a(e_atanhf.pico)     (--whole-archive)
+libm_pic.a(e_atan2f.pico)     (--whole-archive)
+libm_pic.a(e_asinf.pico)      (--whole-archive)
+libm_pic.a(e_acoshf.pico)     (--whole-archive)
+libm_pic.a(e_acosf.pico)      (--whole-archive)
+libm_pic.a(b_tgamma.pico)     (--whole-archive)
+libm_pic.a(b_log.pico)        (--whole-archive)
+libm_pic.a(b_exp.pico)        (--whole-archive)
+libm_pic.a(s_fmal.pico)       (--whole-archive)
+libm_pic.a(s_fmaf.pico)       (--whole-archive)
+libm_pic.a(s_fma.pico)        (--whole-archive)
+libm_pic.a(s_nearbyint.pico)  (--whole-archive)
+libm_pic.a(s_nexttowardf.pico)
+                              (--whole-archive)
+libm_pic.a(s_nexttoward.pico)
+                              (--whole-archive)
+libm_pic.a(fenv.pico)         (--whole-archive)
+libm_pic.a(s_frexpl.pico)     (--whole-archive)
+libm_pic.a(s_frexp.pico)      (--whole-archive)
+libm_pic.a(w_sinh.pico)       (--whole-archive)
+libm_pic.a(w_scalb.pico)      (--whole-archive)
+libm_pic.a(w_remainderf.pico)
+                              (--whole-archive)
+libm_pic.a(w_remainder.pico)  (--whole-archive)
+libm_pic.a(w_pow.pico)        (--whole-archive)
+libm_pic.a(w_log10.pico)      (--whole-archive)
+libm_pic.a(w_log.pico)        (--whole-archive)
+libm_pic.a(w_hypot.pico)      (--whole-archive)
+libm_pic.a(w_exp.pico)        (--whole-archive)
+libm_pic.a(w_cosh.pico)       (--whole-archive)
+libm_pic.a(w_atanh.pico)      (--whole-archive)
+libm_pic.a(w_atan2.pico)      (--whole-archive)
+libm_pic.a(w_asin.pico)       (--whole-archive)
+libm_pic.a(w_acosh.pico)      (--whole-archive)
+libm_pic.a(w_acos.pico)       (--whole-archive)
+libm_pic.a(s_tanh.pico)       (--whole-archive)
+libm_pic.a(s_tan.pico)        (--whole-archive)
+libm_pic.a(s_sinf.pico)       (--whole-archive)
+libm_pic.a(s_sin.pico)        (--whole-archive)
+libm_pic.a(s_rintf.pico)      (--whole-archive)
+libm_pic.a(s_nextafterl.pico)
+                              (--whole-archive)
+libm_pic.a(s_nextafter.pico)  (--whole-archive)
+libm_pic.a(s_logb.pico)       (--whole-archive)
+libm_pic.a(s_log1pf.pico)     (--whole-archive)
+libm_pic.a(s_isnanf.pico)     (--whole-archive)
+libm_pic.a(s_ilogbl.pico)     (--whole-archive)
+libm_pic.a(s_ilogb.pico)      (--whole-archive)
+libm_pic.a(s_finite.pico)     (--whole-archive)
+libm_pic.a(s_expm1f.pico)     (--whole-archive)
+libm_pic.a(s_exp2.pico)       (--whole-archive)
+libm_pic.a(s_cosf.pico)       (--whole-archive)
+libm_pic.a(s_cos.pico)        (--whole-archive)
+libm_pic.a(s_ceil.pico)       (--whole-archive)
+libm_pic.a(s_atan.pico)       (--whole-archive)
+libm_pic.a(s_asinh.pico)      (--whole-archive)
+libm_pic.a(k_standard.pico)   (--whole-archive)
+libm_pic.a(k_sinf.pico)       (--whole-archive)
+libm_pic.a(k_sin.pico)        (--whole-archive)
+libm_pic.a(k_rem_pio2f.pico)  (--whole-archive)
+libm_pic.a(k_rem_pio2.pico)   (--whole-archive)
+libm_pic.a(k_cosf.pico)       (--whole-archive)
+libm_pic.a(k_cos.pico)        (--whole-archive)
+libm_pic.a(e_sqrtf.pico)      (--whole-archive)
+libm_pic.a(e_sinh.pico)       (--whole-archive)
+libm_pic.a(e_scalb.pico)      (--whole-archive)
+libm_pic.a(e_remainderf.pico)
+                              (--whole-archive)
+libm_pic.a(e_remainder.pico)  (--whole-archive)
+libm_pic.a(e_pow.pico)        (--whole-archive)
+libm_pic.a(e_logf.pico)       (--whole-archive)
+libm_pic.a(e_log10.pico)      (--whole-archive)
+libm_pic.a(e_hypot.pico)      (--whole-archive)
+libm_pic.a(e_expf.pico)       (--whole-archive)
+libm_pic.a(e_cosh.pico)       (--whole-archive)
+libm_pic.a(e_atanh.pico)      (--whole-archive)
+libm_pic.a(e_atan2.pico)      (--whole-archive)
+libm_pic.a(e_asin.pico)       (--whole-archive)
+libm_pic.a(e_acosh.pico)      (--whole-archive)
+libm_pic.a(e_acos.pico)       (--whole-archive)
+libm_pic.a(s_rintl.pico)      (--whole-archive)
+libm_pic.a(s_scalbnf.pico)    (--whole-archive)
+libm_pic.a(s_scalbn.pico)     (--whole-archive)
+libm_pic.a(s_rint.pico)       (--whole-archive)
+libm_pic.a(s_matherr.pico)    (--whole-archive)
+libm_pic.a(s_log1p.pico)      (--whole-archive)
+libm_pic.a(s_lib_version.pico)
+                              (--whole-archive)
+libm_pic.a(s_floorf.pico)     (--whole-archive)
+libm_pic.a(s_floor.pico)      (--whole-archive)
+libm_pic.a(s_expm1.pico)      (--whole-archive)
+libm_pic.a(e_sqrt.pico)       (--whole-archive)
+libm_pic.a(e_log.pico)        (--whole-archive)
+libm_pic.a(e_exp.pico)        (--whole-archive)
+
+Discarded input sections
+
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(divsc3.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(divdc3.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(divxc3.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(mulsc3.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(mulxc3.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(nanl.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(nanf.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(nan.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(cprojf.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(cproj.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(catanhf.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(cacoshf.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(casinhf.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(catanf.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(cacosf.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(casinf.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(ctanhf.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(ccoshf.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(csinhf.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(ctanf.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(ccosf.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(csinf.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(cephes_subrf.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(cpowf.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(clogf.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(cexpf.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(csqrtf.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(catanh.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(cacosh.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(casinh.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(catan.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(cacos.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(casin.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(ctanh.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(ccosh.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(csinh.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(ctan.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(ccos.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(csin.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(cephes_subr.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(cpow.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(clog.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(cexp.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(csqrt.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(conjl.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(conjf.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(conj.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(cimagl.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(cimagf.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(cimag.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(creall.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(crealf.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(creal.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(cargf.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(carg.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(cabsf.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(cabs.pico)
+ .gnu.warning.cabsf
+                0x00000000        0x0 libm_pic.a(compat_cabsf.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(compat_cabsf.pico)
+ .gnu.warning.cabs
+                0x00000000        0x0 libm_pic.a(compat_cabs.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(compat_cabs.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(s_fdim.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(s_fminl.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(s_fminf.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(s_fmin.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(s_fmaxl.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(s_fmaxf.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(s_fmax.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(s_modf.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(llroundf.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(llround.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(lroundf.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(lround.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(llrintf.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(llrint.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(lrintf.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(w_sqrtl.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(w_sqrtf.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(w_sqrt.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(w_sinhf.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(w_scalbf.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(w_powf.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(w_logf.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(w_log2f.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(w_log2.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(w_log10f.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(w_lgammaf_r.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(w_lgammaf.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(w_lgamma_r.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(w_lgamma.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(w_jnf.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(w_jn.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(w_j1f.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(w_j1.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(w_j0f.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(w_j0.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(w_hypotf.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(w_gammaf_r.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(w_gammaf.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(w_gamma_r.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(w_gamma.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(w_fmodl.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(w_fmodf.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(w_fmod.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(w_expf.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(w_dremf.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(w_drem.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(w_coshf.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(w_atanhf.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(w_atan2f.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(w_asinf.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(w_acoshf.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(w_acosf.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(s_truncl.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(s_truncf.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(s_trunc.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(s_tgammaf.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(s_tanhf.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(s_signgam.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(s_roundl.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(s_roundf.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(s_round.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(s_remquof.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(s_remquo.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(s_nextafterf.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(s_modff.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(s_isinff.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(s_frexpf.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(s_floorl.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(s_fabsl.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(s_fabsf.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(s_exp2f.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(s_erff.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(s_erf.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(s_copysignl.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(s_ceill.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(s_cbrtl.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(s_cbrtf.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(s_cbrt.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(s_asinhf.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(ldbl_dummy.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(k_tanf.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(k_tan.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(e_sqrtl.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(e_sinhf.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(e_rem_pio2f.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(e_rem_pio2.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(e_powf.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(e_lgammaf_r.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(e_lgamma_r.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(e_jnf.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(e_jn.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(e_j1f.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(e_j1.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(e_j0f.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(e_j0.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(e_hypotf.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(e_fmodl.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(e_fmodf.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(e_coshf.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(e_atanhf.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(e_asinf.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(e_acoshf.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(e_acosf.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(b_tgamma.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(b_log.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(b_exp.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(s_fmal.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(s_fmaf.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(s_fma.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(s_nearbyint.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(s_nexttowardf.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(s_nexttoward.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(fenv.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(s_frexpl.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(s_frexp.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(w_sinh.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(w_scalb.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(w_remainderf.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(w_remainder.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(w_pow.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(w_log10.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(w_log.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(w_hypot.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(w_exp.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(w_cosh.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(w_atanh.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(w_atan2.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(w_asin.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(w_acosh.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(w_acos.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(s_tanh.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(s_nextafterl.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(s_nextafter.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(s_isnanf.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(s_expm1f.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(s_exp2.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(s_asinh.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(k_standard.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(k_sinf.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(k_sin.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(k_rem_pio2f.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(k_rem_pio2.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(k_cosf.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(k_cos.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(e_sinh.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(e_pow.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(e_hypot.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(e_cosh.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(e_atanh.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(e_acosh.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(s_rintl.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(s_matherr.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(s_lib_version.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libm_pic.a(s_expm1.pico)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD /usr/lib/crti.o
+LOAD /usr/lib/crtbeginS.o
+LOAD libm_pic.a
+LOAD /usr/lib/libc.so
+LOAD /usr/lib/crtendS.o
+LOAD /usr/lib/crtn.o
+                0x000000f4                . = (0x0 + SIZEOF_HEADERS)
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.hash           0x000000f4      0xa7c
+ *(.hash)
+ .hash          0x000000f4      0xa7c /usr/lib/crti.o
+
+.gnu.hash
+ *(.gnu.hash)
+
+.dynsym         0x00000b70     0x1960
+ *(.dynsym)
+ .dynsym        0x00000b70     0x1960 /usr/lib/crti.o
+
+.dynstr         0x000024d0      0xa5f
+ *(.dynstr)
+ .dynstr        0x000024d0      0xa5f /usr/lib/crti.o
+
+.gnu.version    0x00002f30        0x0
+ *(.gnu.version)
+ .gnu.version   0x00000000        0x0 /usr/lib/crti.o
+
+.gnu.version_d  0x00002f30        0x0
+ *(.gnu.version_d)
+ .gnu.version_d
+                0x00000000        0x0 /usr/lib/crti.o
+
+.gnu.version_r  0x00002f30        0x0
+ *(.gnu.version_r)
+ .gnu.version_r
+                0x00000000        0x0 /usr/lib/crti.o
+
+.rel.dyn        0x00002f30       0x70
+ *(.rel.init)
+ *(.rel.text .rel.text.* .rel.gnu.linkonce.t.*)
+ *(.rel.fini)
+ *(.rel.rodata .rel.rodata.* .rel.gnu.linkonce.r.*)
+ *(.rel.data.rel.ro .rel.data.rel.ro.* .rel.gnu.linkonce.d.rel.ro.*)
+ *(.rel.data .rel.data.* .rel.gnu.linkonce.d.*)
+ .rel.data.rel  0x00002f30        0x8 /usr/lib/crti.o
+ *(.rel.tdata .rel.tdata.* .rel.gnu.linkonce.td.*)
+ *(.rel.tbss .rel.tbss.* .rel.gnu.linkonce.tb.*)
+ *(.rel.ctors)
+ .rel.ctors     0x00002f38        0x8 /usr/lib/crti.o
+ *(.rel.dtors)
+ *(.rel.got)
+ .rel.got       0x00002f40       0x60 /usr/lib/crti.o
+ *(.rel.bss .rel.bss.* .rel.gnu.linkonce.b.*)
+ *(.rel.ifunc)
+ .rel.ifunc     0x00000000        0x0 /usr/lib/crti.o
+
+.rel.plt        0x00002fa0      0x588
+ *(.rel.plt)
+ .rel.plt       0x00002fa0      0x588 /usr/lib/crti.o
+ *(.rel.iplt)
+
+.init           0x00003530        0xa
+ *(SORT(.init))
+ .init          0x00003530        0x3 /usr/lib/crti.o
+                0x00003530                _init
+ .init          0x00003533        0x5 /usr/lib/crtbeginS.o
+ .init          0x00003538        0x2 /usr/lib/crtn.o
+
+.plt            0x00003540      0xb20
+ *(.plt)
+ .plt           0x00003540      0xb20 /usr/lib/crti.o
+ *(.iplt)
+
+.text           0x00004060    0x1564c
+                0x00004060                PROVIDE (__eprol, .)
+ *(.text.unlikely .text.*_unlikely)
+ *(.text.exit .text.exit.*)
+ *(.text.startup .text.startup.*)
+ *(.text.hot .text.hot.*)
+ *(.text .stub .text.* .gnu.linkonce.t.*)
+ .text          0x00004060        0x0 /usr/lib/crti.o
+ .text          0x00004060       0xef /usr/lib/crtbeginS.o
+ *fill*         0x0000414f        0x1 
+ .text          0x00004150      0x3bd libm_pic.a(divsc3.pico)
+                0x00004150                __divsc3
+ *fill*         0x0000450d        0x3 
+ .text          0x00004510      0x3da libm_pic.a(divdc3.pico)
+                0x00004510                __divdc3
+ *fill*         0x000048ea        0x6 
+ .text          0x000048f0      0x436 libm_pic.a(divxc3.pico)
+                0x000048f0                __divxc3
+ *fill*         0x00004d26        0xa 
+ .text          0x00004d30      0x4f5 libm_pic.a(mulsc3.pico)
+                0x00004d30                __mulsc3
+ *fill*         0x00005225        0xb 
+ .text          0x00005230      0x69a libm_pic.a(mulxc3.pico)
+                0x00005230                __mulxc3
+ *fill*         0x000058ca        0x6 
+ .text          0x000058d0       0x98 libm_pic.a(nanl.pico)
+                0x000058d0                nanl
+ *fill*         0x00005968        0x8 
+ .text          0x00005970       0x98 libm_pic.a(nanf.pico)
+                0x00005970                nanf
+ *fill*         0x00005a08        0x8 
+ .text          0x00005a10       0x98 libm_pic.a(nan.pico)
+                0x00005a10                nan
+ *fill*         0x00005aa8        0x8 
+ .text          0x00005ab0       0x74 libm_pic.a(cprojf.pico)
+                0x00005ab0                cprojf
+ *fill*         0x00005b24        0xc 
+ .text          0x00005b30       0x82 libm_pic.a(cproj.pico)
+                0x00005b30                cproj
+ *fill*         0x00005bb2        0xe 
+ .text          0x00005bc0       0x7f libm_pic.a(catanhf.pico)
+                0x00005bc0                catanhf
+ *fill*         0x00005c3f        0x1 
+ .text          0x00005c40       0xeb libm_pic.a(cacoshf.pico)
+                0x00005c40                cacoshf
+ *fill*         0x00005d2b        0x5 
+ .text          0x00005d30       0x7f libm_pic.a(casinhf.pico)
+                0x00005d30                casinhf
+ *fill*         0x00005daf        0x1 
+ .text          0x00005db0      0x101 libm_pic.a(catanf.pico)
+                0x00005db0                _catanf
+                0x00005db0                catanf
+ *fill*         0x00005eb1        0xf 
+ .text          0x00005ec0       0x7b libm_pic.a(cacosf.pico)
+                0x00005ec0                cacosf
+ *fill*         0x00005f3b        0x5 
+ .text          0x00005f40       0xf1 libm_pic.a(casinf.pico)
+                0x00005f40                _casinf
+                0x00005f40                casinf
+ *fill*         0x00006031        0xf 
+ .text          0x00006040       0x8a libm_pic.a(ctanhf.pico)
+                0x00006040                ctanhf
+ *fill*         0x000060ca        0x6 
+ .text          0x000060d0       0x7e libm_pic.a(ccoshf.pico)
+                0x000060d0                ccoshf
+ *fill*         0x0000614e        0x2 
+ .text          0x00006150       0x7e libm_pic.a(csinhf.pico)
+                0x00006150                csinhf
+ *fill*         0x000061ce        0x2 
+ .text          0x000061d0       0xfd libm_pic.a(ctanf.pico)
+                0x000061d0                ctanf
+ *fill*         0x000062cd        0x3 
+ .text          0x000062d0       0x73 libm_pic.a(ccosf.pico)
+                0x000062d0                ccosf
+ *fill*         0x00006343        0xd 
+ .text          0x00006350       0x71 libm_pic.a(csinf.pico)
+                0x00006350                csinf
+ *fill*         0x000063c1        0xf 
+ .text          0x000063d0      0x245 libm_pic.a(cephes_subrf.pico)
+                0x000063d0                _cchshf
+                0x00006450                _redupif
+                0x000064e0                _ctansf
+ *fill*         0x00006615        0xb 
+ .text          0x00006620      0x183 libm_pic.a(cpowf.pico)
+                0x00006620                cpowf
+ *fill*         0x000067a3        0xd 
+ .text          0x000067b0       0x8d libm_pic.a(clogf.pico)
+                0x000067b0                clogf
+ *fill*         0x0000683d        0x3 
+ .text          0x00006840       0x6d libm_pic.a(cexpf.pico)
+                0x00006840                cexpf
+ *fill*         0x000068ad        0x3 
+ .text          0x000068b0      0x1b4 libm_pic.a(csqrtf.pico)
+                0x000068b0                csqrtf
+ *fill*         0x00006a64        0xc 
+ .text          0x00006a70       0x8c libm_pic.a(catanh.pico)
+                0x00006a70                catanh
+ *fill*         0x00006afc        0x4 
+ .text          0x00006b00      0x155 libm_pic.a(cacosh.pico)
+                0x00006b00                cacosh
+ *fill*         0x00006c55        0xb 
+ .text          0x00006c60       0x8c libm_pic.a(casinh.pico)
+                0x00006c60                casinh
+ *fill*         0x00006cec        0x4 
+ .text          0x00006cf0      0x12f libm_pic.a(catan.pico)
+                0x00006cf0                catan
+                0x00006cf0                _catan
+ *fill*         0x00006e1f        0x1 
+ .text          0x00006e20       0x88 libm_pic.a(cacos.pico)
+                0x00006e20                cacos
+ *fill*         0x00006ea8        0x8 
+ .text          0x00006eb0      0x111 libm_pic.a(casin.pico)
+                0x00006eb0                casin
+                0x00006eb0                _casin
+ *fill*         0x00006fc1        0xf 
+ .text          0x00006fd0       0x88 libm_pic.a(ctanh.pico)
+                0x00006fd0                ctanh
+ *fill*         0x00007058        0x8 
+ .text          0x00007060       0x7c libm_pic.a(ccosh.pico)
+                0x00007060                ccosh
+ *fill*         0x000070dc        0x4 
+ .text          0x000070e0       0x7c libm_pic.a(csinh.pico)
+                0x000070e0                csinh
+ *fill*         0x0000715c        0x4 
+ .text          0x00007160      0x123 libm_pic.a(ctan.pico)
+                0x00007160                ctan
+ *fill*         0x00007283        0xd 
+ .text          0x00007290       0x7f libm_pic.a(ccos.pico)
+                0x00007290                ccos
+ *fill*         0x0000730f        0x1 
+ .text          0x00007310       0x7d libm_pic.a(csin.pico)
+                0x00007310                csin
+ *fill*         0x0000738d        0x3 
+ .text          0x00007390      0x239 libm_pic.a(cephes_subr.pico)
+                0x00007390                _cchsh
+                0x00007410                _redupi
+                0x00007490                _ctans
+ *fill*         0x000075c9        0x7 
+ .text          0x000075d0      0x1a6 libm_pic.a(cpow.pico)
+                0x000075d0                cpow
+ *fill*         0x00007776        0xa 
+ .text          0x00007780       0x97 libm_pic.a(clog.pico)
+                0x00007780                clog
+ *fill*         0x00007817        0x9 
+ .text          0x00007820       0x6b libm_pic.a(cexp.pico)
+                0x00007820                cexp
+ *fill*         0x0000788b        0x5 
+ .text          0x00007890      0x1ce libm_pic.a(csqrt.pico)
+                0x00007890                csqrt
+ *fill*         0x00007a5e        0x2 
+ .text          0x00007a60       0x19 libm_pic.a(conjl.pico)
+                0x00007a60                conjl
+ *fill*         0x00007a79        0x7 
+ .text          0x00007a80       0x10 libm_pic.a(conjf.pico)
+                0x00007a80                conjf
+ .text          0x00007a90       0x19 libm_pic.a(conj.pico)
+                0x00007a90                conj
+ *fill*         0x00007aa9        0x7 
+ .text          0x00007ab0        0x8 libm_pic.a(cimagl.pico)
+                0x00007ab0                cimagl
+ *fill*         0x00007ab8        0x8 
+ .text          0x00007ac0        0x8 libm_pic.a(cimagf.pico)
+                0x00007ac0                cimagf
+ *fill*         0x00007ac8        0x8 
+ .text          0x00007ad0        0x8 libm_pic.a(cimag.pico)
+                0x00007ad0                cimag
+ *fill*         0x00007ad8        0x8 
+ .text          0x00007ae0        0x8 libm_pic.a(creall.pico)
+                0x00007ae0                creall
+ *fill*         0x00007ae8        0x8 
+ .text          0x00007af0        0x8 libm_pic.a(crealf.pico)
+                0x00007af0                crealf
+ *fill*         0x00007af8        0x8 
+ .text          0x00007b00        0x8 libm_pic.a(creal.pico)
+                0x00007b00                creal
+ *fill*         0x00007b08        0x8 
+ .text          0x00007b10       0x2b libm_pic.a(cargf.pico)
+                0x00007b10                cargf
+ *fill*         0x00007b3b        0x5 
+ .text          0x00007b40       0x2b libm_pic.a(carg.pico)
+                0x00007b40                carg
+ *fill*         0x00007b6b        0x5 
+ .text          0x00007b70       0x2b libm_pic.a(cabsf.pico)
+                0x00007b70                __c99_cabsf
+ *fill*         0x00007b9b        0x5 
+ .text          0x00007ba0       0x2b libm_pic.a(cabs.pico)
+                0x00007ba0                __c99_cabs
+ *fill*         0x00007bcb        0x5 
+ .text          0x00007bd0       0x18 libm_pic.a(compat_cabsf.pico)
+                0x00007bd0                cabsf
+ *fill*         0x00007be8        0x8 
+ .text          0x00007bf0       0x18 libm_pic.a(compat_cabs.pico)
+                0x00007bf0                cabs
+ *fill*         0x00007c08        0x8 
+ .text          0x00007c10      0x150 libm_pic.a(s_fdim.pico)
+                0x00007c10                fdim
+                0x00007c80                fdimf
+                0x00007cf0                fdiml
+ .text          0x00007d60       0x99 libm_pic.a(s_fminl.pico)
+                0x00007d60                fminl
+ *fill*         0x00007df9        0x7 
+ .text          0x00007e00       0x8e libm_pic.a(s_fminf.pico)
+                0x00007e00                fminf
+ *fill*         0x00007e8e        0x2 
+ .text          0x00007e90       0x92 libm_pic.a(s_fmin.pico)
+                0x00007e90                fmin
+ *fill*         0x00007f22        0xe 
+ .text          0x00007f30       0x95 libm_pic.a(s_fmaxl.pico)
+                0x00007f30                fmaxl
+ *fill*         0x00007fc5        0xb 
+ .text          0x00007fd0       0x94 libm_pic.a(s_fmaxf.pico)
+                0x00007fd0                fmaxf
+ *fill*         0x00008064        0xc 
+ .text          0x00008070       0x96 libm_pic.a(s_fmax.pico)
+                0x00008070                fmax
+ *fill*         0x00008106        0xa 
+ .text          0x00008110      0x113 libm_pic.a(s_modf.pico)
+                0x00008110                modf
+ *fill*         0x00008223        0xd 
+ .text          0x00008230       0xdf libm_pic.a(llroundf.pico)
+                0x00008230                llroundf
+ *fill*         0x0000830f        0x1 
+ .text          0x00008310      0x15b libm_pic.a(llround.pico)
+                0x00008310                llround
+ *fill*         0x0000846b        0x5 
+ .text          0x00008470       0xaa libm_pic.a(lroundf.pico)
+                0x00008470                lroundf
+ *fill*         0x0000851a        0x6 
+ .text          0x00008520       0xe8 libm_pic.a(lround.pico)
+                0x00008520                lround
+ *fill*         0x00008608        0x8 
+ .text          0x00008610       0xe8 libm_pic.a(llrintf.pico)
+                0x00008610                llrintf
+ *fill*         0x000086f8        0x8 
+ .text          0x00008700      0x15f libm_pic.a(llrint.pico)
+                0x00008700                llrint
+ *fill*         0x0000885f        0x1 
+ .text          0x00008860       0xb0 libm_pic.a(lrintf.pico)
+                0x00008860                lrintf
+ .text          0x00008910       0x11 libm_pic.a(lrint.pico)
+                0x00008910                lrint
+ *fill*         0x00008921        0xf 
+ .text          0x00008930       0x8a libm_pic.a(w_sqrtl.pico)
+                0x00008930                sqrtl
+                0x00008930                _sqrtl
+ *fill*         0x000089ba        0x6 
+ .text          0x000089c0       0x79 libm_pic.a(w_sqrtf.pico)
+                0x000089c0                sqrtf
+ *fill*         0x00008a39        0x7 
+ .text          0x00008a40       0x6b libm_pic.a(w_sqrt.pico)
+                0x00008a40                sqrt
+ *fill*         0x00008aab        0x5 
+ .text          0x00008ab0       0x77 libm_pic.a(w_sinhf.pico)
+                0x00008ab0                _sinhf
+                0x00008ab0                sinhf
+ *fill*         0x00008b27        0x9 
+ .text          0x00008b30       0xf3 libm_pic.a(w_scalbf.pico)
+                0x00008b30                scalbf
+ *fill*         0x00008c23        0xd 
+ .text          0x00008c30      0x273 libm_pic.a(w_powf.pico)
+                0x00008c30                powf
+ *fill*         0x00008ea3        0xd 
+ .text          0x00008eb0       0xa8 libm_pic.a(w_logf.pico)
+                0x00008eb0                logf
+                0x00008eb0                _logf
+ *fill*         0x00008f58        0x8 
+ .text          0x00008f60       0xac libm_pic.a(w_log2f.pico)
+                0x00008f60                log2f
+ *fill*         0x0000900c        0x4 
+ .text          0x00009010       0x9e libm_pic.a(w_log2.pico)
+                0x00009010                log2
+ *fill*         0x000090ae        0x2 
+ .text          0x000090b0       0xac libm_pic.a(w_log10f.pico)
+                0x000090b0                log10f
+ *fill*         0x0000915c        0x4 
+ .text          0x00009160       0xbd libm_pic.a(w_lgammaf_r.pico)
+                0x00009160                lgammaf_r
+ *fill*         0x0000921d        0x3 
+ .text          0x00009220       0xc0 libm_pic.a(w_lgammaf.pico)
+                0x00009220                lgammaf
+ .text          0x000092e0       0xa6 libm_pic.a(w_lgamma_r.pico)
+                0x000092e0                lgamma_r
+ *fill*         0x00009386        0xa 
+ .text          0x00009390       0xa9 libm_pic.a(w_lgamma.pico)
+                0x00009390                lgamma
+ *fill*         0x00009439        0x7 
+ .text          0x00009440      0x184 libm_pic.a(w_jnf.pico)
+                0x00009440                jnf
+                0x000094d0                ynf
+ *fill*         0x000095c4        0xc 
+ .text          0x000095d0      0x150 libm_pic.a(w_jn.pico)
+                0x000095d0                jn
+                0x00009650                yn
+ .text          0x00009720      0x15a libm_pic.a(w_j1f.pico)
+                0x00009720                j1f
+                0x000097a0                y1f
+ *fill*         0x0000987a        0x6 
+ .text          0x00009880      0x139 libm_pic.a(w_j1.pico)
+                0x00009880                j1
+                0x00009900                y1
+ *fill*         0x000099b9        0x7 
+ .text          0x000099c0      0x15a libm_pic.a(w_j0f.pico)
+                0x000099c0                j0f
+                0x00009a40                y0f
+ *fill*         0x00009b1a        0x6 
+ .text          0x00009b20      0x139 libm_pic.a(w_j0.pico)
+                0x00009b20                j0
+                0x00009ba0                y0
+ *fill*         0x00009c59        0x7 
+ .text          0x00009c60       0x98 libm_pic.a(w_hypotf.pico)
+                0x00009c60                _hypotf
+                0x00009c60                hypotf
+ *fill*         0x00009cf8        0x8 
+ .text          0x00009d00       0xbd libm_pic.a(w_gammaf_r.pico)
+                0x00009d00                gammaf_r
+ *fill*         0x00009dbd        0x3 
+ .text          0x00009dc0       0xc0 libm_pic.a(w_gammaf.pico)
+                0x00009dc0                gammaf
+ .text          0x00009e80       0xa6 libm_pic.a(w_gamma_r.pico)
+                0x00009e80                gamma_r
+ *fill*         0x00009f26        0xa 
+ .text          0x00009f30       0xa9 libm_pic.a(w_gamma.pico)
+                0x00009f30                gamma
+ *fill*         0x00009fd9        0x7 
+ .text          0x00009fe0       0x9e libm_pic.a(w_fmodl.pico)
+                0x00009fe0                fmodl
+                0x00009fe0                _fmodl
+ *fill*         0x0000a07e        0x2 
+ .text          0x0000a080       0xa0 libm_pic.a(w_fmodf.pico)
+                0x0000a080                fmodf
+ .text          0x0000a120       0x8a libm_pic.a(w_fmod.pico)
+                0x0000a120                fmod
+ *fill*         0x0000a1aa        0x6 
+ .text          0x0000a1b0       0xac libm_pic.a(w_expf.pico)
+                0x0000a1b0                expf
+                0x0000a1b0                _expf
+ *fill*         0x0000a25c        0x4 
+ .text          0x0000a260       0x18 libm_pic.a(w_dremf.pico)
+                0x0000a260                dremf
+ *fill*         0x0000a278        0x8 
+ .text          0x0000a280       0x18 libm_pic.a(w_drem.pico)
+                0x0000a280                drem
+ *fill*         0x0000a298        0x8 
+ .text          0x0000a2a0       0x7f libm_pic.a(w_coshf.pico)
+                0x0000a2a0                coshf
+                0x0000a2a0                _coshf
+ *fill*         0x0000a31f        0x1 
+ .text          0x0000a320       0xb3 libm_pic.a(w_atanhf.pico)
+                0x0000a320                atanhf
+ *fill*         0x0000a3d3        0xd 
+ .text          0x0000a3e0       0xbf libm_pic.a(w_atan2f.pico)
+                0x0000a3e0                atan2f
+                0x0000a3e0                _atan2f
+ *fill*         0x0000a49f        0x1 
+ .text          0x0000a4a0       0x7b libm_pic.a(w_asinf.pico)
+                0x0000a4a0                _asinf
+                0x0000a4a0                asinf
+ *fill*         0x0000a51b        0x5 
+ .text          0x0000a520       0x79 libm_pic.a(w_acoshf.pico)
+                0x0000a520                acoshf
+ *fill*         0x0000a599        0x7 
+ .text          0x0000a5a0       0x7b libm_pic.a(w_acosf.pico)
+                0x0000a5a0                acosf
+ *fill*         0x0000a61b        0x5 
+ .text          0x0000a620      0x121 libm_pic.a(s_truncl.pico)
+                0x0000a620                _truncl
+                0x0000a620                truncl
+ *fill*         0x0000a741        0xf 
+ .text          0x0000a750       0x81 libm_pic.a(s_truncf.pico)
+                0x0000a750                truncf
+ *fill*         0x0000a7d1        0xf 
+ .text          0x0000a7e0       0xd1 libm_pic.a(s_trunc.pico)
+                0x0000a7e0                trunc
+ *fill*         0x0000a8b1        0xf 
+ .text          0x0000a8c0       0x2a libm_pic.a(s_tgammaf.pico)
+                0x0000a8c0                tgammaf
+ *fill*         0x0000a8ea        0x6 
+ .text          0x0000a8f0       0xa9 libm_pic.a(s_tanhf.pico)
+                0x0000a8f0                tanhf
+ *fill*         0x0000a999        0x7 
+ .text          0x0000a9a0        0x9 libm_pic.a(s_tanf.pico)
+                0x0000a9a0                tanf
+ *fill*         0x0000a9a9        0x7 
+ .text          0x0000a9b0        0x9 libm_pic.a(s_significandf.pico)
+                0x0000a9b0                significandf
+ *fill*         0x0000a9b9        0x7 
+ .text          0x0000a9c0        0x9 libm_pic.a(s_significand.pico)
+                0x0000a9c0                significand
+ *fill*         0x0000a9c9        0x3 
+ .text          0x0000a9cc        0x0 libm_pic.a(s_signgam.pico)
+ *fill*         0x0000a9cc        0x4 
+ .text          0x0000a9d0        0xd libm_pic.a(s_scalbnl.pico)
+                0x0000a9d0                _scalblnl
+                0x0000a9d0                ldexpl
+                0x0000a9d0                scalbnl
+                0x0000a9d0                _scalbnl
+                0x0000a9d0                scalblnl
+ *fill*         0x0000a9dd        0x3 
+ .text          0x0000a9e0       0x8c libm_pic.a(s_roundl.pico)
+                0x0000a9e0                roundl
+                0x0000a9e0                _roundl
+ *fill*         0x0000aa6c        0x4 
+ .text          0x0000aa70       0x8b libm_pic.a(s_roundf.pico)
+                0x0000aa70                roundf
+ *fill*         0x0000aafb        0x5 
+ .text          0x0000ab00       0x85 libm_pic.a(s_round.pico)
+                0x0000ab00                round
+ *fill*         0x0000ab85        0xb 
+ .text          0x0000ab90      0x2aa libm_pic.a(s_remquof.pico)
+                0x0000ab90                remquof
+ *fill*         0x0000ae3a        0x6 
+ .text          0x0000ae40      0x416 libm_pic.a(s_remquo.pico)
+                0x0000ae40                remquo
+ *fill*         0x0000b256        0xa 
+ .text          0x0000b260       0xb5 libm_pic.a(s_nextafterf.pico)
+                0x0000b260                nextafterf
+ *fill*         0x0000b315        0xb 
+ .text          0x0000b320       0x7b libm_pic.a(s_modff.pico)
+                0x0000b320                modff
+ *fill*         0x0000b39b        0x5 
+ .text          0x0000b3a0        0x9 libm_pic.a(s_logbl.pico)
+                0x0000b3a0                logbl
+ *fill*         0x0000b3a9        0x7 
+ .text          0x0000b3b0        0x9 libm_pic.a(s_logbf.pico)
+                0x0000b3b0                logbf
+ *fill*         0x0000b3b9        0x7 
+ .text          0x0000b3c0       0x18 libm_pic.a(s_isinff.pico)
+                0x0000b3c0                isinff
+ *fill*         0x0000b3d8        0x8 
+ .text          0x0000b3e0       0x15 libm_pic.a(s_ilogbf.pico)
+                0x0000b3e0                ilogbf
+ *fill*         0x0000b3f5        0xb 
+ .text          0x0000b400       0x86 libm_pic.a(s_frexpf.pico)
+                0x0000b400                frexpf
+ *fill*         0x0000b486        0xa 
+ .text          0x0000b490      0x251 libm_pic.a(s_floorl.pico)
+                0x0000b490                _floorl
+                0x0000b490                floorl
+ *fill*         0x0000b6e1        0xf 
+ .text          0x0000b6f0       0x17 libm_pic.a(s_finitef.pico)
+                0x0000b6f0                finitef
+ *fill*         0x0000b707        0x9 
+ .text          0x0000b710       0x2e libm_pic.a(s_fabsl.pico)
+                0x0000b710                fabsl
+ *fill*         0x0000b73e        0x2 
+ .text          0x0000b740       0x17 libm_pic.a(s_fabsf.pico)
+                0x0000b740                fabsf
+ *fill*         0x0000b757        0x9 
+ .text          0x0000b760      0x12e libm_pic.a(s_exp2f.pico)
+                0x0000b760                exp2f
+ *fill*         0x0000b88e        0x2 
+ .text          0x0000b890      0x693 libm_pic.a(s_erff.pico)
+                0x0000b890                erff
+                0x0000bbc0                erfcf
+ *fill*         0x0000bf23        0xd 
+ .text          0x0000bf30      0x6d1 libm_pic.a(s_erf.pico)
+                0x0000bf30                erf
+                0x0000c280                erfc
+ *fill*         0x0000c601        0xf 
+ .text          0x0000c610       0x3e libm_pic.a(s_copysignl.pico)
+                0x0000c610                copysignl
+ *fill*         0x0000c64e        0x2 
+ .text          0x0000c650       0x1e libm_pic.a(s_copysignf.pico)
+                0x0000c650                copysignf
+ *fill*         0x0000c66e        0x2 
+ .text          0x0000c670       0x1e libm_pic.a(s_copysign.pico)
+                0x0000c670                copysign
+ *fill*         0x0000c68e        0x2 
+ .text          0x0000c690      0x279 libm_pic.a(s_ceill.pico)
+                0x0000c690                _ceill
+                0x0000c690                ceill
+ *fill*         0x0000c909        0x7 
+ .text          0x0000c910       0x29 libm_pic.a(s_ceilf.pico)
+                0x0000c910                ceilf
+ *fill*         0x0000c939        0x7 
+ .text          0x0000c940      0x1bc libm_pic.a(s_cbrtl.pico)
+                0x0000c940                cbrtl
+                0x0000c940                _cbrtl
+ *fill*         0x0000cafc        0x4 
+ .text          0x0000cb00       0xc7 libm_pic.a(s_cbrtf.pico)
+                0x0000cb00                cbrtf
+ *fill*         0x0000cbc7        0x9 
+ .text          0x0000cbd0      0x122 libm_pic.a(s_cbrt.pico)
+                0x0000cbd0                cbrt
+ *fill*         0x0000ccf2        0xe 
+ .text          0x0000cd00        0x9 libm_pic.a(s_atanf.pico)
+                0x0000cd00                atanf
+ *fill*         0x0000cd09        0x7 
+ .text          0x0000cd10       0xeb libm_pic.a(s_asinhf.pico)
+                0x0000cd10                asinhf
+ *fill*         0x0000cdfb        0x5 
+ .text          0x0000ce00      0x384 libm_pic.a(ldbl_dummy.pico)
+                0x0000ce00                _atan2l
+                0x0000ce00                atan2l
+                0x0000ce30                hypotl
+                0x0000ce30                _hypotl
+                0x0000ce60                logl
+                0x0000ce60                _logl
+                0x0000ce90                _log10l
+                0x0000ce90                log10l
+                0x0000cec0                expl
+                0x0000cec0                _expl
+                0x0000cef0                _exp2l
+                0x0000cef0                exp2l
+                0x0000cf20                powl
+                0x0000cf20                _powl
+                0x0000cf50                _cosl
+                0x0000cf50                cosl
+                0x0000cf80                _sinl
+                0x0000cf80                sinl
+                0x0000cfb0                _tanl
+                0x0000cfb0                tanl
+                0x0000cfe0                sinhl
+                0x0000cfe0                _sinhl
+                0x0000d010                coshl
+                0x0000d010                _coshl
+                0x0000d040                _tanhl
+                0x0000d040                tanhl
+                0x0000d070                acosl
+                0x0000d070                _acosl
+                0x0000d0a0                asinl
+                0x0000d0a0                _asinl
+                0x0000d0d0                _atanl
+                0x0000d0d0                atanl
+                0x0000d100                _asinhl
+                0x0000d100                asinhl
+                0x0000d130                acoshl
+                0x0000d130                _acoshl
+                0x0000d160                atanhl
+                0x0000d160                _atanhl
+ *fill*         0x0000d184        0xc 
+ .text          0x0000d190      0x1bd libm_pic.a(k_tanf.pico)
+                0x0000d190                __kernel_tanf
+ *fill*         0x0000d34d        0x3 
+ .text          0x0000d350      0x230 libm_pic.a(k_tan.pico)
+                0x0000d350                __kernel_tan
+ .text          0x0000d580      0x3f7 libm_pic.a(e_sqrtl.pico)
+                0x0000d580                __ieee754_sqrtl
+ *fill*         0x0000d977        0x9 
+ .text          0x0000d980       0xe1 libm_pic.a(e_sinhf.pico)
+                0x0000d980                __ieee754_sinhf
+ *fill*         0x0000da61        0xf 
+ .text          0x0000da70        0xb libm_pic.a(e_scalbf.pico)
+                0x0000da70                __ieee754_scalbf
+ *fill*         0x0000da7b        0x5 
+ .text          0x0000da80      0x30f libm_pic.a(e_rem_pio2f.pico)
+                0x0000da80                __ieee754_rem_pio2f
+ *fill*         0x0000dd8f        0x1 
+ .text          0x0000dd90      0x33e libm_pic.a(e_rem_pio2.pico)
+                0x0000dd90                __ieee754_rem_pio2
+ *fill*         0x0000e0ce        0x2 
+ .text          0x0000e0d0      0x630 libm_pic.a(e_powf.pico)
+                0x0000e0d0                __ieee754_powf
+ .text          0x0000e700        0x9 libm_pic.a(e_log2f.pico)
+                0x0000e700                __ieee754_log2f
+ *fill*         0x0000e709        0x7 
+ .text          0x0000e710        0x9 libm_pic.a(e_log10f.pico)
+                0x0000e710                __ieee754_log10f
+ *fill*         0x0000e719        0x7 
+ .text          0x0000e720        0x9 libm_pic.a(e_log2.pico)
+                0x0000e720                __ieee754_log2
+ *fill*         0x0000e729        0x7 
+ .text          0x0000e730      0x66c libm_pic.a(e_lgammaf_r.pico)
+                0x0000e730                __ieee754_lgammaf_r
+ *fill*         0x0000ed9c        0x4 
+ .text          0x0000eda0      0x6b9 libm_pic.a(e_lgamma_r.pico)
+                0x0000eda0                __ieee754_lgamma_r
+ *fill*         0x0000f459        0x7 
+ .text          0x0000f460      0x4af libm_pic.a(e_jnf.pico)
+                0x0000f460                __ieee754_jnf
+                0x0000f7f0                __ieee754_ynf
+ *fill*         0x0000f90f        0x1 
+ .text          0x0000f910      0x687 libm_pic.a(e_jn.pico)
+                0x0000f910                __ieee754_jn
+                0x0000fd90                __ieee754_yn
+ *fill*         0x0000ff97        0x9 
+ .text          0x0000ffa0      0x592 libm_pic.a(e_j1f.pico)
+                0x0000ffa0                __ieee754_j1f
+                0x000102a0                __ieee754_y1f
+ *fill*         0x00010532        0xe 
+ .text          0x00010540      0x5e4 libm_pic.a(e_j1.pico)
+                0x00010540                __ieee754_j1
+                0x00010890                __ieee754_y1
+ *fill*         0x00010b24        0xc 
+ .text          0x00010b30      0x5b6 libm_pic.a(e_j0f.pico)
+                0x00010b30                __ieee754_j0f
+                0x00010e50                __ieee754_y0f
+ *fill*         0x000110e6        0xa 
+ .text          0x000110f0      0x607 libm_pic.a(e_j0.pico)
+                0x000110f0                __ieee754_j0
+                0x00011460                __ieee754_y0
+ *fill*         0x000116f7        0x9 
+ .text          0x00011700      0x176 libm_pic.a(e_hypotf.pico)
+                0x00011700                __ieee754_hypotf
+ *fill*         0x00011876        0xa 
+ .text          0x00011880      0x328 libm_pic.a(e_fmodl.pico)
+                0x00011880                __ieee754_fmodl
+ *fill*         0x00011ba8        0x8 
+ .text          0x00011bb0      0x19e libm_pic.a(e_fmodf.pico)
+                0x00011bb0                __ieee754_fmodf
+ *fill*         0x00011d4e        0x2 
+ .text          0x00011d50       0x17 libm_pic.a(e_fmod.pico)
+                0x00011d50                __ieee754_fmod
+ *fill*         0x00011d67        0x9 
+ .text          0x00011d70       0xdc libm_pic.a(e_coshf.pico)
+                0x00011d70                __ieee754_coshf
+ *fill*         0x00011e4c        0x4 
+ .text          0x00011e50       0xa7 libm_pic.a(e_atanhf.pico)
+                0x00011e50                __ieee754_atanhf
+ *fill*         0x00011ef7        0x9 
+ .text          0x00011f00        0xb libm_pic.a(e_atan2f.pico)
+                0x00011f00                __ieee754_atan2f
+ *fill*         0x00011f0b        0x5 
+ .text          0x00011f10      0x1e2 libm_pic.a(e_asinf.pico)
+                0x00011f10                __ieee754_asinf
+ *fill*         0x000120f2        0xe 
+ .text          0x00012100       0xbf libm_pic.a(e_acoshf.pico)
+                0x00012100                __ieee754_acoshf
+ *fill*         0x000121bf        0x1 
+ .text          0x000121c0      0x21e libm_pic.a(e_acosf.pico)
+                0x000121c0                __ieee754_acosf
+ *fill*         0x000123de        0x2 
+ .text          0x000123e0      0xa20 libm_pic.a(b_tgamma.pico)
+                0x000123e0                tgamma
+ .text          0x00012e00      0x221 libm_pic.a(b_log.pico)
+                0x00012e00                __log__D
+ *fill*         0x00013021        0xf 
+ .text          0x00013030      0x182 libm_pic.a(b_exp.pico)
+                0x00013030                __exp__D
+ *fill*         0x000131b2        0xe 
+ .text          0x000131c0      0x477 libm_pic.a(s_fmal.pico)
+                0x000131c0                fmal
+ *fill*         0x00013637        0x9 
+ .text          0x00013640       0xf3 libm_pic.a(s_fmaf.pico)
+                0x00013640                fmaf
+ *fill*         0x00013733        0xd 
+ .text          0x00013740      0x470 libm_pic.a(s_fma.pico)
+                0x00013740                fma
+ .text          0x00013bb0       0xf0 libm_pic.a(s_nearbyint.pico)
+                0x00013bb0                nearbyint
+                0x00013c00                nearbyintf
+                0x00013c50                nearbyintl
+ .text          0x00013ca0      0x125 libm_pic.a(s_nexttowardf.pico)
+                0x00013ca0                nexttowardf
+ *fill*         0x00013dc5        0xb 
+ .text          0x00013dd0      0x14d libm_pic.a(s_nexttoward.pico)
+                0x00013dd0                nexttoward
+ *fill*         0x00013f1d        0x3 
+ .text          0x00013f20      0x3c7 libm_pic.a(fenv.pico)
+                0x00013f50                feclearexcept
+                0x00013f90                fegetexceptflag
+                0x00013fb0                feraiseexcept
+                0x00013ff0                fesetexceptflag
+                0x00014030                fetestexcept
+                0x00014050                fegetround
+                0x00014070                fesetround
+                0x000140a0                fegetenv
+                0x000140b0                feholdexcept
+                0x000140c0                fesetenv
+                0x00014150                feupdateenv
+                0x00014270                feenableexcept
+                0x000142a0                fedisableexcept
+                0x000142d0                fegetexcept
+ *fill*         0x000142e7        0x9 
+ .text          0x000142f0       0xb0 libm_pic.a(s_frexpl.pico)
+                0x000142f0                frexpl
+ .text          0x000143a0       0xa0 libm_pic.a(s_frexp.pico)
+                0x000143a0                frexp
+ .text          0x00014440       0x6f libm_pic.a(w_sinh.pico)
+                0x00014440                _sinh
+                0x00014440                sinh
+ *fill*         0x000144af        0x1 
+ .text          0x000144b0       0xe7 libm_pic.a(w_scalb.pico)
+                0x000144b0                scalb
+ *fill*         0x00014597        0x9 
+ .text          0x000145a0       0x86 libm_pic.a(w_remainderf.pico)
+                0x000145a0                remainderf
+ *fill*         0x00014626        0xa 
+ .text          0x00014630       0x75 libm_pic.a(w_remainder.pico)
+                0x00014630                remainder
+ *fill*         0x000146a5        0xb 
+ .text          0x000146b0      0x241 libm_pic.a(w_pow.pico)
+                0x000146b0                pow
+ *fill*         0x000148f1        0xf 
+ .text          0x00014900       0x9e libm_pic.a(w_log10.pico)
+                0x00014900                log10
+ *fill*         0x0001499e        0x2 
+ .text          0x000149a0       0x9a libm_pic.a(w_log.pico)
+                0x000149a0                log
+                0x000149a0                _log
+ *fill*         0x00014a3a        0x6 
+ .text          0x00014a40       0x8e libm_pic.a(w_hypot.pico)
+                0x00014a40                _hypot
+                0x00014a40                hypot
+ *fill*         0x00014ace        0x2 
+ .text          0x00014ad0       0x98 libm_pic.a(w_exp.pico)
+                0x00014ad0                _exp
+                0x00014ad0                exp
+ *fill*         0x00014b68        0x8 
+ .text          0x00014b70       0x71 libm_pic.a(w_cosh.pico)
+                0x00014b70                cosh
+                0x00014b70                _cosh
+ *fill*         0x00014be1        0xf 
+ .text          0x00014bf0       0xa6 libm_pic.a(w_atanh.pico)
+                0x00014bf0                atanh
+ *fill*         0x00014c96        0xa 
+ .text          0x00014ca0       0xaa libm_pic.a(w_atan2.pico)
+                0x00014ca0                atan2
+                0x00014ca0                _atan2
+ *fill*         0x00014d4a        0x6 
+ .text          0x00014d50       0x6d libm_pic.a(w_asin.pico)
+                0x00014d50                _asin
+                0x00014d50                asin
+ *fill*         0x00014dbd        0x3 
+ .text          0x00014dc0       0x6b libm_pic.a(w_acosh.pico)
+                0x00014dc0                acosh
+ *fill*         0x00014e2b        0x5 
+ .text          0x00014e30       0x6d libm_pic.a(w_acos.pico)
+                0x00014e30                acos
+ *fill*         0x00014e9d        0x3 
+ .text          0x00014ea0      0x177 libm_pic.a(s_tanh.pico)
+                0x00014ea0                tanh
+ *fill*         0x00015017        0x9 
+ .text          0x00015020       0x29 libm_pic.a(s_tan.pico)
+                0x00015020                tan
+ *fill*         0x00015049        0x7 
+ .text          0x00015050        0x7 libm_pic.a(s_sinf.pico)
+                0x00015050                sinf
+ *fill*         0x00015057        0x9 
+ .text          0x00015060       0x24 libm_pic.a(s_sin.pico)
+                0x00015060                sin
+ *fill*         0x00015084        0xc 
+ .text          0x00015090        0x7 libm_pic.a(s_rintf.pico)
+                0x00015090                rintf
+ *fill*         0x00015097        0x9 
+ .text          0x000150a0      0x1f5 libm_pic.a(s_nextafterl.pico)
+                0x000150a0                nextafterl
+ *fill*         0x00015295        0xb 
+ .text          0x000152a0      0x107 libm_pic.a(s_nextafter.pico)
+                0x000152a0                nextafter
+ *fill*         0x000153a7        0x9 
+ .text          0x000153b0        0x9 libm_pic.a(s_logb.pico)
+                0x000153b0                logb
+ *fill*         0x000153b9        0x7 
+ .text          0x000153c0       0x35 libm_pic.a(s_log1pf.pico)
+                0x000153c0                log1pf
+ *fill*         0x000153f5        0xb 
+ .text          0x00015400       0x17 libm_pic.a(s_isnanf.pico)
+                0x00015400                isnanf
+ *fill*         0x00015417        0x9 
+ .text          0x00015420        0xe libm_pic.a(s_ilogbl.pico)
+                0x00015420                ilogbl
+ *fill*         0x0001542e        0x2 
+ .text          0x00015430       0x15 libm_pic.a(s_ilogb.pico)
+                0x00015430                ilogb
+ *fill*         0x00015445        0xb 
+ .text          0x00015450       0x17 libm_pic.a(s_finite.pico)
+                0x00015450                finite
+ *fill*         0x00015467        0x9 
+ .text          0x00015470      0x2ac libm_pic.a(s_expm1f.pico)
+                0x00015470                expm1f
+ *fill*         0x0001571c        0x4 
+ .text          0x00015720      0x16b libm_pic.a(s_exp2.pico)
+                0x00015720                exp2
+ *fill*         0x0001588b        0x5 
+ .text          0x00015890        0x7 libm_pic.a(s_cosf.pico)
+                0x00015890                cosf
+ *fill*         0x00015897        0x9 
+ .text          0x000158a0       0x24 libm_pic.a(s_cos.pico)
+                0x000158a0                cos
+ *fill*         0x000158c4        0xc 
+ .text          0x000158d0       0x29 libm_pic.a(s_ceil.pico)
+                0x000158d0                ceil
+ *fill*         0x000158f9        0x7 
+ .text          0x00015900        0x9 libm_pic.a(s_atan.pico)
+                0x00015900                atan
+ *fill*         0x00015909        0x7 
+ .text          0x00015910       0xfb libm_pic.a(s_asinh.pico)
+                0x00015910                asinh
+ *fill*         0x00015a0b        0x5 
+ .text          0x00015a10     0x1409 libm_pic.a(k_standard.pico)
+                0x00015a10                __kernel_standard
+ *fill*         0x00016e19        0x7 
+ .text          0x00016e20       0xbc libm_pic.a(k_sinf.pico)
+                0x00016e20                __kernel_sinf
+ *fill*         0x00016edc        0x4 
+ .text          0x00016ee0       0xce libm_pic.a(k_sin.pico)
+                0x00016ee0                __kernel_sin
+ *fill*         0x00016fae        0x2 
+ .text          0x00016fb0      0x90c libm_pic.a(k_rem_pio2f.pico)
+                0x00016fb0                __kernel_rem_pio2f
+ *fill*         0x000178bc        0x4 
+ .text          0x000178c0      0x82a libm_pic.a(k_rem_pio2.pico)
+                0x000178c0                __kernel_rem_pio2
+ *fill*         0x000180ea        0x6 
+ .text          0x000180f0       0xf7 libm_pic.a(k_cosf.pico)
+                0x000180f0                __kernel_cosf
+ *fill*         0x000181e7        0x9 
+ .text          0x000181f0      0x110 libm_pic.a(k_cos.pico)
+                0x000181f0                __kernel_cos
+ .text          0x00018300        0x7 libm_pic.a(e_sqrtf.pico)
+                0x00018300                __ieee754_sqrtf
+ *fill*         0x00018307        0x9 
+ .text          0x00018310       0xf8 libm_pic.a(e_sinh.pico)
+                0x00018310                __ieee754_sinh
+ *fill*         0x00018408        0x8 
+ .text          0x00018410        0xd libm_pic.a(e_scalb.pico)
+                0x00018410                __ieee754_scalb
+ *fill*         0x0001841d        0x3 
+ .text          0x00018420       0x17 libm_pic.a(e_remainderf.pico)
+                0x00018420                __ieee754_remainderf
+ *fill*         0x00018437        0x9 
+ .text          0x00018440       0x17 libm_pic.a(e_remainder.pico)
+                0x00018440                __ieee754_remainder
+ *fill*         0x00018457        0x9 
+ .text          0x00018460      0x809 libm_pic.a(e_pow.pico)
+                0x00018460                __ieee754_pow
+ *fill*         0x00018c69        0x7 
+ .text          0x00018c70        0x9 libm_pic.a(e_logf.pico)
+                0x00018c70                __ieee754_logf
+ *fill*         0x00018c79        0x7 
+ .text          0x00018c80        0x9 libm_pic.a(e_log10.pico)
+                0x00018c80                __ieee754_log10
+ *fill*         0x00018c89        0x7 
+ .text          0x00018c90      0x22e libm_pic.a(e_hypot.pico)
+                0x00018c90                __ieee754_hypot
+ *fill*         0x00018ebe        0x2 
+ .text          0x00018ec0       0x3e libm_pic.a(e_expf.pico)
+                0x00018ec0                __ieee754_expf
+ *fill*         0x00018efe        0x2 
+ .text          0x00018f00      0x100 libm_pic.a(e_cosh.pico)
+                0x00018f00                __ieee754_cosh
+ .text          0x00019000       0xc3 libm_pic.a(e_atanh.pico)
+                0x00019000                __ieee754_atanh
+ *fill*         0x000190c3        0xd 
+ .text          0x000190d0        0xb libm_pic.a(e_atan2.pico)
+                0x000190d0                __ieee754_atan2
+ *fill*         0x000190db        0x5 
+ .text          0x000190e0       0x11 libm_pic.a(e_asin.pico)
+                0x000190e0                __ieee754_asin
+ *fill*         0x000190f1        0xf 
+ .text          0x00019100       0xcb libm_pic.a(e_acosh.pico)
+                0x00019100                __ieee754_acosh
+ *fill*         0x000191cb        0x5 
+ .text          0x000191d0       0x13 libm_pic.a(e_acos.pico)
+                0x000191d0                __ieee754_acos
+ *fill*         0x000191e3        0xd 
+ .text          0x000191f0       0x39 libm_pic.a(s_rintl.pico)
+                0x000191f0                rintl
+ *fill*         0x00019229        0x7 
+ .text          0x00019230        0xd libm_pic.a(s_scalbnf.pico)
+                0x00019230                _scalbnf
+                0x00019230                scalbnf
+                0x00019230                ldexpf
+                0x00019230                scalblnf
+                0x00019230                _scalblnf
+ *fill*         0x0001923d        0x3 
+ .text          0x00019240        0xd libm_pic.a(s_scalbn.pico)
+                0x00019240                scalbn
+                0x00019240                scalbln
+                0x00019240                _scalbln
+                0x00019240                _scalbn
+                0x00019240                ldexp
+ *fill*         0x0001924d        0x3 
+ .text          0x00019250        0x7 libm_pic.a(s_rint.pico)
+                0x00019250                rint
+ *fill*         0x00019257        0x9 
+ .text          0x00019260        0x7 libm_pic.a(s_matherr.pico)
+                0x00019260                matherr
+ *fill*         0x00019267        0x9 
+ .text          0x00019270       0x35 libm_pic.a(s_log1p.pico)
+                0x00019270                log1p
+ *fill*         0x000192a5        0x3 
+ .text          0x000192a8        0x0 libm_pic.a(s_lib_version.pico)
+ *fill*         0x000192a8        0x8 
+ .text          0x000192b0       0x29 libm_pic.a(s_floorf.pico)
+                0x000192b0                floorf
+ *fill*         0x000192d9        0x7 
+ .text          0x000192e0       0x29 libm_pic.a(s_floor.pico)
+                0x000192e0                floor
+ *fill*         0x00019309        0x7 
+ .text          0x00019310      0x306 libm_pic.a(s_expm1.pico)
+                0x00019310                expm1
+ *fill*         0x00019616        0xa 
+ .text          0x00019620        0x7 libm_pic.a(e_sqrt.pico)
+                0x00019620                __ieee754_sqrt
+ *fill*         0x00019627        0x9 
+ .text          0x00019630        0x9 libm_pic.a(e_log.pico)
+                0x00019630                __ieee754_log
+ *fill*         0x00019639        0x7 
+ .text          0x00019640       0x6b libm_pic.a(e_exp.pico)
+                0x00019640                __ieee754_exp
+ *fill*         0x000196ab        0x1 
+ .text          0x000196ac        0x0 /usr/lib/crtendS.o
+ .text          0x000196ac        0x0 /usr/lib/crtn.o
+ *(.gnu.warning)
+
+.fini           0x000196b0        0xa
+ *(SORT(.fini))
+ .fini          0x000196b0        0x3 /usr/lib/crti.o
+                0x000196b0                _fini
+ .fini          0x000196b3        0x5 /usr/lib/crtbeginS.o
+ .fini          0x000196b8        0x2 /usr/lib/crtn.o
+                0x000196ba                PROVIDE (__etext, .)
+                0x000196ba                PROVIDE (_etext, .)
+                0x000196ba                PROVIDE (etext, .)
+
+.rodata         0x000196c0     0x3cf0
+ *(.rodata .rodata.* .gnu.linkonce.r.*)
+ .rodata.cst4   0x000196c0        0x8 libm_pic.a(divsc3.pico)
+ .rodata.cst4   0x00000000        0x8 libm_pic.a(divdc3.pico)
+ .rodata.cst4   0x00000000        0x8 libm_pic.a(divxc3.pico)
+ .rodata.cst4   0x00000000        0x4 libm_pic.a(mulsc3.pico)
+ .rodata.cst4   0x00000000        0x4 libm_pic.a(mulxc3.pico)
+ .rodata.str1.1
+                0x000196c8        0x6 libm_pic.a(nanl.pico)
+ .rodata.str1.1
+                0x00000000        0x6 libm_pic.a(nanf.pico)
+ .rodata.str1.1
+                0x00000000        0x6 libm_pic.a(nan.pico)
+ .rodata.cst4   0x00000000        0x4 libm_pic.a(cprojf.pico)
+ .rodata.cst4   0x00000000        0x4 libm_pic.a(cproj.pico)
+ *fill*         0x000196ce        0x2 
+ .rodata.cst4   0x000196d0        0x8 libm_pic.a(catanf.pico)
+ .rodata.cst4   0x000196d8        0x4 libm_pic.a(cacosf.pico)
+ .rodata.cst4   0x00000000        0x4 libm_pic.a(ctanf.pico)
+ .rodata.cst4   0x000196dc       0x10 libm_pic.a(cephes_subrf.pico)
+                                 0x2c (size before relaxing)
+ *fill*         0x000196ec        0x4 
+ .rodata.cst8   0x000196f0       0x10 libm_pic.a(cephes_subrf.pico)
+                                 0x18 (size before relaxing)
+ .rodata.cst4   0x00019700       0x10 libm_pic.a(csqrtf.pico)
+                                 0x18 (size before relaxing)
+ .rodata.cst4   0x00000000        0x8 libm_pic.a(catan.pico)
+ .rodata.cst8   0x00019710        0x8 libm_pic.a(catan.pico)
+ .rodata.cst8   0x00019718        0x8 libm_pic.a(cacos.pico)
+ .rodata.cst4   0x00000000        0x4 libm_pic.a(ctan.pico)
+ .rodata.cst8   0x00000000        0x8 libm_pic.a(ctan.pico)
+ .rodata.cst4   0x00000000       0x14 libm_pic.a(cephes_subr.pico)
+ .rodata.cst8   0x00019720       0x28 libm_pic.a(cephes_subr.pico)
+                                 0x48 (size before relaxing)
+ .rodata.cst4   0x00019748        0x8 libm_pic.a(csqrt.pico)
+                                 0x18 (size before relaxing)
+ .rodata.cst16  0x00019750       0x10 libm_pic.a(llroundf.pico)
+ .rodata.cst16  0x00000000       0x10 libm_pic.a(llround.pico)
+ .rodata.cst16  0x00000000       0x10 libm_pic.a(lroundf.pico)
+ .rodata.cst16  0x00000000       0x10 libm_pic.a(lround.pico)
+ .rodata.cst8   0x00019760        0x8 libm_pic.a(llrintf.pico)
+ .rodata.cst16  0x00019768       0x10 libm_pic.a(llrint.pico)
+ .rodata.cst8   0x00000000        0x8 libm_pic.a(lrintf.pico)
+ .rodata.cst4   0x00019778        0x4 libm_pic.a(w_jnf.pico)
+                                  0x8 (size before relaxing)
+ *fill*         0x0001977c        0x4 
+ .rodata.cst8   0x00019780        0x8 libm_pic.a(w_jn.pico)
+                                 0x10 (size before relaxing)
+ .rodata.cst4   0x00000000        0x8 libm_pic.a(w_j1f.pico)
+ .rodata.cst8   0x00000000       0x10 libm_pic.a(w_j1.pico)
+ .rodata.cst4   0x00000000        0x8 libm_pic.a(w_j0f.pico)
+ .rodata.cst8   0x00000000       0x10 libm_pic.a(w_j0.pico)
+ .rodata.cst4   0x00019788        0x8 libm_pic.a(w_expf.pico)
+ .rodata.cst4   0x00019790        0x4 libm_pic.a(w_coshf.pico)
+ *fill*         0x00019794        0x4 
+ .rodata.cst8   0x00019798       0x10 libm_pic.a(s_truncl.pico)
+ .rodata.cst4   0x000197a8        0x4 libm_pic.a(s_truncf.pico)
+ .rodata.cst8   0x00000000        0x8 libm_pic.a(s_trunc.pico)
+ .rodata.cst4   0x000197ac        0x4 libm_pic.a(s_tanhf.pico)
+                                  0x8 (size before relaxing)
+ .rodata.cst4   0x00000000        0x4 libm_pic.a(s_roundl.pico)
+ .rodata.cst4   0x00000000        0x4 libm_pic.a(s_roundf.pico)
+ .rodata.cst4   0x00000000        0x4 libm_pic.a(s_round.pico)
+ .rodata.cst4   0x000197b0        0x4 libm_pic.a(s_remquof.pico)
+                                  0x8 (size before relaxing)
+ .rodata.cst8   0x000197b4        0x8 libm_pic.a(s_remquof.pico)
+ *fill*         0x000197bc        0x4 
+ .rodata.cst8   0x000197c0        0x8 libm_pic.a(s_remquo.pico)
+ .rodata.cst4   0x00000000        0x4 libm_pic.a(s_remquo.pico)
+ .rodata.cst16  0x000197c8       0x10 libm_pic.a(s_remquo.pico)
+ .rodata.cst4   0x000197d8        0x4 libm_pic.a(s_frexpf.pico)
+ .rodata.cst8   0x00000000        0x8 libm_pic.a(s_floorl.pico)
+ .rodata.cst4   0x000197dc       0x20 libm_pic.a(s_exp2f.pico)
+                                 0x24 (size before relaxing)
+ *fill*         0x000197fc        0x4 
+ .rodata        0x00019800       0x80 libm_pic.a(s_exp2f.pico)
+ .rodata.cst4   0x00019880       0xf0 libm_pic.a(s_erff.pico)
+                                0x1d8 (size before relaxing)
+ .rodata.cst8   0x00019970       0x10 libm_pic.a(s_erff.pico)
+ .rodata.cst8   0x00019980      0x1b8 libm_pic.a(s_erf.pico)
+                                0x360 (size before relaxing)
+ .rodata.cst4   0x00000000       0x2c libm_pic.a(s_erf.pico)
+ .rodata.cst16  0x00019b38       0x20 libm_pic.a(s_erf.pico)
+ .rodata.cst8   0x00000000        0x8 libm_pic.a(s_ceill.pico)
+ .rodata.cst8   0x00019b58        0x8 libm_pic.a(s_cbrtl.pico)
+ .rodata.cst4   0x00019b60        0xc libm_pic.a(s_cbrtl.pico)
+                                 0x10 (size before relaxing)
+ .rodata        0x00019b6c       0x14 libm_pic.a(s_cbrtl.pico)
+ .rodata.cst4   0x00019b80       0x18 libm_pic.a(s_cbrtf.pico)
+ .rodata.cst4   0x00000000        0x4 libm_pic.a(s_cbrt.pico)
+ .rodata.cst8   0x00019b98       0x28 libm_pic.a(s_cbrt.pico)
+ .rodata.cst4   0x00000000        0x8 libm_pic.a(s_asinhf.pico)
+ .rodata.cst4   0x00019bc0       0x3c libm_pic.a(k_tanf.pico)
+                                 0x40 (size before relaxing)
+ *fill*         0x00019bfc        0x4 
+ .rodata.cst8   0x00019c00       0x78 libm_pic.a(k_tan.pico)
+ .rodata.cst4   0x00000000        0x4 libm_pic.a(k_tan.pico)
+ .rodata.cst8   0x00000000        0x8 libm_pic.a(e_sqrtl.pico)
+ .rodata.cst8   0x00019c78        0x8 libm_pic.a(e_sinhf.pico)
+ .rodata.cst4   0x00019c80        0x4 libm_pic.a(e_sinhf.pico)
+                                  0x8 (size before relaxing)
+ .rodata.cst4   0x00019c84       0x30 libm_pic.a(e_rem_pio2f.pico)
+                                 0x34 (size before relaxing)
+ .rodata        0x00019cb4      0x398 libm_pic.a(e_rem_pio2f.pico)
+ .rodata.cst4   0x00000000        0x8 libm_pic.a(e_rem_pio2.pico)
+ *fill*         0x0001a04c        0x4 
+ .rodata.cst8   0x0001a050       0x58 libm_pic.a(e_rem_pio2.pico)
+ .rodata        0x0001a0a8      0x188 libm_pic.a(e_rem_pio2.pico)
+ .rodata.cst4   0x0001a230       0x5c libm_pic.a(e_powf.pico)
+                                 0x74 (size before relaxing)
+ .rodata.cst8   0x0001a28c       0x28 libm_pic.a(e_powf.pico)
+ .rodata.cst4   0x0001a2b4      0x100 libm_pic.a(e_lgammaf_r.pico)
+                                0x124 (size before relaxing)
+ .rodata        0x0001a3b4       0x30 libm_pic.a(e_lgammaf_r.pico)
+ .rodata.cst4   0x0001a3e4        0x4 libm_pic.a(e_lgamma_r.pico)
+                                 0x2c (size before relaxing)
+ .rodata.cst8   0x0001a3e8      0x1e8 libm_pic.a(e_lgamma_r.pico)
+                                0x1f0 (size before relaxing)
+ .rodata        0x0001a5d0       0x30 libm_pic.a(e_lgamma_r.pico)
+ .rodata.cst4   0x0001a600        0xc libm_pic.a(e_jnf.pico)
+                                 0x20 (size before relaxing)
+ *fill*         0x0001a60c        0x4 
+ .rodata.cst8   0x0001a610       0x18 libm_pic.a(e_jn.pico)
+                                 0x20 (size before relaxing)
+ .rodata.cst4   0x00000000       0x18 libm_pic.a(e_jn.pico)
+ .rodata        0x0001a628       0x20 libm_pic.a(e_jn.pico)
+ .rodata.cst4   0x0001a648       0x5c libm_pic.a(e_j1f.pico)
+                                 0x70 (size before relaxing)
+ .rodata        0x0001a6a4      0x170 libm_pic.a(e_j1f.pico)
+ *fill*         0x0001a814        0x4 
+ .rodata.cst8   0x0001a818       0x98 libm_pic.a(e_j1.pico)
+                                 0xb8 (size before relaxing)
+ .rodata.cst4   0x00000000       0x14 libm_pic.a(e_j1.pico)
+ .rodata        0x0001a8b0      0x2e0 libm_pic.a(e_j1.pico)
+ .rodata.cst4   0x0001ab90       0x50 libm_pic.a(e_j0f.pico)
+                                 0x70 (size before relaxing)
+ .rodata        0x0001abe0      0x170 libm_pic.a(e_j0f.pico)
+ .rodata.cst8   0x0001ad50       0x98 libm_pic.a(e_j0.pico)
+                                 0xb8 (size before relaxing)
+ .rodata.cst4   0x00000000       0x14 libm_pic.a(e_j0.pico)
+ .rodata        0x0001ade8      0x2e0 libm_pic.a(e_j0.pico)
+ .rodata.cst4   0x00000000        0x4 libm_pic.a(e_hypotf.pico)
+ .rodata.cst8   0x0001b0c8       0x10 libm_pic.a(e_fmodl.pico)
+ .rodata        0x0001b0d8       0x18 libm_pic.a(e_fmodl.pico)
+ .rodata.cst8   0x00000000        0x8 libm_pic.a(e_fmodf.pico)
+ .rodata.cst4   0x00000000        0x8 libm_pic.a(e_coshf.pico)
+ .rodata.cst4   0x00000000        0x8 libm_pic.a(e_atanhf.pico)
+ .rodata.cst4   0x0001b0f0       0x34 libm_pic.a(e_asinf.pico)
+                                 0x40 (size before relaxing)
+ .rodata.cst4   0x00000000        0x4 libm_pic.a(e_acoshf.pico)
+ .rodata.cst4   0x0001b124        0x4 libm_pic.a(e_acosf.pico)
+                                 0x44 (size before relaxing)
+ .rodata.cst8   0x0001b128        0x8 libm_pic.a(e_acosf.pico)
+ .rodata.cst4   0x0001b130       0x10 libm_pic.a(b_tgamma.pico)
+                                 0x20 (size before relaxing)
+ .rodata.cst8   0x0001b140       0xf8 libm_pic.a(b_tgamma.pico)
+                                0x100 (size before relaxing)
+ .rodata.cst16  0x00000000       0x10 libm_pic.a(b_tgamma.pico)
+ .rodata.cst4   0x0001b238        0xc libm_pic.a(b_log.pico)
+                                 0x14 (size before relaxing)
+ *fill*         0x0001b244        0x4 
+ .rodata.cst8   0x0001b248       0x30 libm_pic.a(b_log.pico)
+ .rodata        0x0001b278      0x810 libm_pic.a(b_log.pico)
+ .rodata.cst8   0x0001ba88       0x50 libm_pic.a(b_exp.pico)
+ .rodata.cst4   0x00000000        0xc libm_pic.a(b_exp.pico)
+ .rodata        0x0001bad8       0x18 libm_pic.a(s_fmal.pico)
+ .rodata.cst8   0x0001baf0        0x8 libm_pic.a(s_fmal.pico)
+ .rodata.cst4   0x00000000        0x8 libm_pic.a(s_fmal.pico)
+ .rodata.cst8   0x0001baf8       0x18 libm_pic.a(s_fma.pico)
+ .rodata.cst8   0x00000000        0x8 libm_pic.a(s_frexpl.pico)
+ .rodata.cst4   0x00000000        0x4 libm_pic.a(s_frexp.pico)
+ .rodata.cst8   0x0001bb10        0x8 libm_pic.a(w_exp.pico)
+                                 0x10 (size before relaxing)
+ .rodata.cst8   0x0001bb18        0x8 libm_pic.a(w_cosh.pico)
+ .rodata.cst4   0x00000000        0x8 libm_pic.a(s_tanh.pico)
+ .rodata.cst4   0x0001bb20       0x28 libm_pic.a(s_expm1f.pico)
+                                 0x50 (size before relaxing)
+ .rodata.cst8   0x0001bb48        0x8 libm_pic.a(s_expm1f.pico)
+ .rodata.cst4   0x0001bb50       0x10 libm_pic.a(s_exp2.pico)
+                                 0x14 (size before relaxing)
+ .rodata.cst8   0x0001bb60       0x30 libm_pic.a(s_exp2.pico)
+ .rodata        0x0001bb90     0x1000 libm_pic.a(s_exp2.pico)
+ .rodata.cst8   0x00000000       0x10 libm_pic.a(s_asinh.pico)
+ .rodata.cst16  0x0001cb90       0x80 libm_pic.a(k_standard.pico)
+ .rodata.cst4   0x00000000        0x8 libm_pic.a(k_standard.pico)
+ .rodata        0x0001cc10      0x254 libm_pic.a(k_standard.pico)
+ .rodata.str1.1
+                0x0001ce64      0x2df libm_pic.a(k_standard.pico)
+                                0x30a (size before relaxing)
+ *fill*         0x0001d143        0x1 
+ .rodata.cst4   0x0001d144       0x18 libm_pic.a(k_sinf.pico)
+                                 0x20 (size before relaxing)
+ *fill*         0x0001d15c        0x4 
+ .rodata.cst8   0x0001d160       0x38 libm_pic.a(k_sin.pico)
+ .rodata.cst4   0x00000000        0x4 libm_pic.a(k_sin.pico)
+ .rodata.cst4   0x0001d198        0xc libm_pic.a(k_rem_pio2f.pico)
+                                 0x18 (size before relaxing)
+ .rodata        0x0001d1a4       0x38 libm_pic.a(k_rem_pio2f.pico)
+ .rodata.cst4   0x0001d1dc        0x8 libm_pic.a(k_rem_pio2.pico)
+                                 0x18 (size before relaxing)
+ .rodata.cst16  0x0001d1e4       0x10 libm_pic.a(k_rem_pio2.pico)
+ *fill*         0x0001d1f4        0x4 
+ .rodata        0x0001d1f8       0x40 libm_pic.a(k_rem_pio2.pico)
+ .rodata.cst4   0x0001d238       0x1c libm_pic.a(k_cosf.pico)
+                                 0x20 (size before relaxing)
+ *fill*         0x0001d254        0x4 
+ .rodata.cst8   0x0001d258       0x30 libm_pic.a(k_cos.pico)
+ .rodata.cst4   0x00000000        0x8 libm_pic.a(k_cos.pico)
+ .rodata.cst16  0x00000000       0x10 libm_pic.a(e_sinh.pico)
+ .rodata.cst8   0x0001d288        0x8 libm_pic.a(e_sinh.pico)
+ .rodata.cst4   0x00000000        0x4 libm_pic.a(e_sinh.pico)
+ .rodata.cst16  0x0001d290       0x50 libm_pic.a(e_pow.pico)
+ .rodata.cst4   0x0001d2e0        0x4 libm_pic.a(e_pow.pico)
+                                 0x24 (size before relaxing)
+ *fill*         0x0001d2e4        0x4 
+ .rodata.cst8   0x0001d2e8       0x70 libm_pic.a(e_pow.pico)
+                                 0xa8 (size before relaxing)
+ .rodata.cst8   0x0001d358        0x8 libm_pic.a(e_hypot.pico)
+ .rodata.cst4   0x00000000        0x8 libm_pic.a(e_cosh.pico)
+ .rodata.cst8   0x00000000        0x8 libm_pic.a(e_atanh.pico)
+ .rodata.cst4   0x00000000        0x4 libm_pic.a(e_atanh.pico)
+ .rodata.cst8   0x00000000        0x8 libm_pic.a(e_acosh.pico)
+ .rodata.cst4   0x0001d360        0x8 libm_pic.a(s_rintl.pico)
+ .rodata.cst8   0x0001d368       0x38 libm_pic.a(s_expm1.pico)
+                                 0x68 (size before relaxing)
+ .rodata.cst4   0x00000000       0x1c libm_pic.a(s_expm1.pico)
+ .rodata.cst16  0x0001d3a0       0x10 libm_pic.a(s_expm1.pico)
+
+.rodata1
+ *(.rodata1)
+
+.eh_frame_hdr   0x0001d3b0      0x884
+ *(.eh_frame_hdr)
+ .eh_frame_hdr  0x0001d3b0      0x884 libm_pic.a(divsc3.pico)
+
+.eh_frame       0x0001dc34     0x1f54
+ *(.eh_frame)
+ .eh_frame      0x0001dc34       0x3c /usr/lib/crti.o
+                                 0x40 (size before relaxing)
+ .eh_frame      0x0001dc70        0x0 /usr/lib/crtbeginS.o
+ .eh_frame      0x0001dc70       0x20 libm_pic.a(divsc3.pico)
+                                 0x38 (size before relaxing)
+ .eh_frame      0x0001dc90       0x20 libm_pic.a(divdc3.pico)
+                                 0x38 (size before relaxing)
+ .eh_frame      0x0001dcb0       0x20 libm_pic.a(divxc3.pico)
+                                 0x38 (size before relaxing)
+ .eh_frame      0x0001dcd0       0x20 libm_pic.a(mulsc3.pico)
+                                 0x38 (size before relaxing)
+ .eh_frame      0x0001dcf0       0x20 libm_pic.a(mulxc3.pico)
+                                 0x38 (size before relaxing)
+ .eh_frame      0x0001dd10       0x20 libm_pic.a(nanl.pico)
+                                 0x38 (size before relaxing)
+ .eh_frame      0x0001dd30       0x20 libm_pic.a(nanf.pico)
+                                 0x38 (size before relaxing)
+ .eh_frame      0x0001dd50       0x20 libm_pic.a(nan.pico)
+                                 0x38 (size before relaxing)
+ .eh_frame      0x0001dd70       0x1c libm_pic.a(cprojf.pico)
+                                 0x34 (size before relaxing)
+ .eh_frame      0x0001dd8c       0x20 libm_pic.a(cproj.pico)
+                                 0x38 (size before relaxing)
+ .eh_frame      0x0001ddac       0x1c libm_pic.a(catanhf.pico)
+                                 0x34 (size before relaxing)
+ .eh_frame      0x0001ddc8       0x1c libm_pic.a(cacoshf.pico)
+                                 0x34 (size before relaxing)
+ .eh_frame      0x0001dde4       0x1c libm_pic.a(casinhf.pico)
+                                 0x34 (size before relaxing)
+ .eh_frame      0x0001de00       0x20 libm_pic.a(catanf.pico)
+                                 0x38 (size before relaxing)
+ .eh_frame      0x0001de20       0x1c libm_pic.a(cacosf.pico)
+                                 0x34 (size before relaxing)
+ .eh_frame      0x0001de3c       0x1c libm_pic.a(casinf.pico)
+                                 0x34 (size before relaxing)
+ .eh_frame      0x0001de58       0x1c libm_pic.a(ctanhf.pico)
+                                 0x34 (size before relaxing)
+ .eh_frame      0x0001de74       0x1c libm_pic.a(ccoshf.pico)
+                                 0x34 (size before relaxing)
+ .eh_frame      0x0001de90       0x1c libm_pic.a(csinhf.pico)
+                                 0x34 (size before relaxing)
+ .eh_frame      0x0001deac       0x1c libm_pic.a(ctanf.pico)
+                                 0x34 (size before relaxing)
+ .eh_frame      0x0001dec8       0x1c libm_pic.a(ccosf.pico)
+                                 0x34 (size before relaxing)
+ .eh_frame      0x0001dee4       0x1c libm_pic.a(csinf.pico)
+                                 0x34 (size before relaxing)
+ .eh_frame      0x0001df00       0x58 libm_pic.a(cephes_subrf.pico)
+                                 0x70 (size before relaxing)
+ .eh_frame      0x0001df58       0x20 libm_pic.a(cpowf.pico)
+                                 0x38 (size before relaxing)
+ .eh_frame      0x0001df78       0x1c libm_pic.a(clogf.pico)
+                                 0x34 (size before relaxing)
+ .eh_frame      0x0001df94       0x1c libm_pic.a(cexpf.pico)
+                                 0x34 (size before relaxing)
+ .eh_frame      0x0001dfb0       0x20 libm_pic.a(csqrtf.pico)
+                                 0x38 (size before relaxing)
+ .eh_frame      0x0001dfd0       0x1c libm_pic.a(catanh.pico)
+                                 0x34 (size before relaxing)
+ .eh_frame      0x0001dfec       0x1c libm_pic.a(cacosh.pico)
+                                 0x34 (size before relaxing)
+ .eh_frame      0x0001e008       0x1c libm_pic.a(casinh.pico)
+                                 0x34 (size before relaxing)
+ .eh_frame      0x0001e024       0x20 libm_pic.a(catan.pico)
+                                 0x38 (size before relaxing)
+ .eh_frame      0x0001e044       0x1c libm_pic.a(cacos.pico)
+                                 0x34 (size before relaxing)
+ .eh_frame      0x0001e060       0x1c libm_pic.a(casin.pico)
+                                 0x34 (size before relaxing)
+ .eh_frame      0x0001e07c       0x1c libm_pic.a(ctanh.pico)
+                                 0x34 (size before relaxing)
+ .eh_frame      0x0001e098       0x1c libm_pic.a(ccosh.pico)
+                                 0x34 (size before relaxing)
+ .eh_frame      0x0001e0b4       0x1c libm_pic.a(csinh.pico)
+                                 0x34 (size before relaxing)
+ .eh_frame      0x0001e0d0       0x20 libm_pic.a(ctan.pico)
+                                 0x38 (size before relaxing)
+ .eh_frame      0x0001e0f0       0x1c libm_pic.a(ccos.pico)
+                                 0x34 (size before relaxing)
+ .eh_frame      0x0001e10c       0x1c libm_pic.a(csin.pico)
+                                 0x34 (size before relaxing)
+ .eh_frame      0x0001e128       0x58 libm_pic.a(cephes_subr.pico)
+                                 0x70 (size before relaxing)
+ .eh_frame      0x0001e180       0x20 libm_pic.a(cpow.pico)
+                                 0x38 (size before relaxing)
+ .eh_frame      0x0001e1a0       0x1c libm_pic.a(clog.pico)
+                                 0x34 (size before relaxing)
+ .eh_frame      0x0001e1bc       0x1c libm_pic.a(cexp.pico)
+                                 0x34 (size before relaxing)
+ .eh_frame      0x0001e1d8       0x20 libm_pic.a(csqrt.pico)
+                                 0x38 (size before relaxing)
+ .eh_frame      0x0001e1f8       0x1c libm_pic.a(conjl.pico)
+                                 0x34 (size before relaxing)
+ .eh_frame      0x0001e214       0x1c libm_pic.a(conjf.pico)
+                                 0x34 (size before relaxing)
+ .eh_frame      0x0001e230       0x1c libm_pic.a(conj.pico)
+                                 0x34 (size before relaxing)
+ .eh_frame      0x0001e24c       0x1c libm_pic.a(cimagl.pico)
+                                 0x34 (size before relaxing)
+ .eh_frame      0x0001e268       0x1c libm_pic.a(cimagf.pico)
+                                 0x34 (size before relaxing)
+ .eh_frame      0x0001e284       0x1c libm_pic.a(cimag.pico)
+                                 0x34 (size before relaxing)
+ .eh_frame      0x0001e2a0       0x1c libm_pic.a(creall.pico)
+                                 0x34 (size before relaxing)
+ .eh_frame      0x0001e2bc       0x1c libm_pic.a(crealf.pico)
+                                 0x34 (size before relaxing)
+ .eh_frame      0x0001e2d8       0x1c libm_pic.a(creal.pico)
+                                 0x34 (size before relaxing)
+ .eh_frame      0x0001e2f4       0x1c libm_pic.a(cargf.pico)
+                                 0x34 (size before relaxing)
+ .eh_frame      0x0001e310       0x1c libm_pic.a(carg.pico)
+                                 0x34 (size before relaxing)
+ .eh_frame      0x0001e32c       0x1c libm_pic.a(cabsf.pico)
+                                 0x34 (size before relaxing)
+ .eh_frame      0x0001e348       0x1c libm_pic.a(cabs.pico)
+                                 0x34 (size before relaxing)
+ .eh_frame      0x0001e364       0x1c libm_pic.a(compat_cabsf.pico)
+                                 0x34 (size before relaxing)
+ .eh_frame      0x0001e380       0x1c libm_pic.a(compat_cabs.pico)
+                                 0x34 (size before relaxing)
+ .eh_frame      0x0001e39c       0x54 libm_pic.a(s_fdim.pico)
+                                 0x6c (size before relaxing)
+ .eh_frame      0x0001e3f0       0x20 libm_pic.a(s_fminl.pico)
+                                 0x38 (size before relaxing)
+ .eh_frame      0x0001e410       0x1c libm_pic.a(s_fminf.pico)
+                                 0x34 (size before relaxing)
+ .eh_frame      0x0001e42c       0x20 libm_pic.a(s_fmin.pico)
+                                 0x38 (size before relaxing)
+ .eh_frame      0x0001e44c       0x20 libm_pic.a(s_fmaxl.pico)
+                                 0x38 (size before relaxing)
+ .eh_frame      0x0001e46c       0x1c libm_pic.a(s_fmaxf.pico)
+                                 0x34 (size before relaxing)
+ .eh_frame      0x0001e488       0x20 libm_pic.a(s_fmax.pico)
+                                 0x38 (size before relaxing)
+ .eh_frame      0x0001e4a8       0x20 libm_pic.a(s_modf.pico)
+                                 0x38 (size before relaxing)
+ .eh_frame      0x0001e4c8       0x20 libm_pic.a(llroundf.pico)
+                                 0x38 (size before relaxing)
+ .eh_frame      0x0001e4e8       0x20 libm_pic.a(llround.pico)
+                                 0x38 (size before relaxing)
+ .eh_frame      0x0001e508       0x20 libm_pic.a(lroundf.pico)
+                                 0x38 (size before relaxing)
+ .eh_frame      0x0001e528       0x20 libm_pic.a(lround.pico)
+                                 0x38 (size before relaxing)
+ .eh_frame      0x0001e548       0x20 libm_pic.a(llrintf.pico)
+                                 0x38 (size before relaxing)
+ .eh_frame      0x0001e568       0x20 libm_pic.a(llrint.pico)
+                                 0x38 (size before relaxing)
+ .eh_frame      0x0001e588       0x20 libm_pic.a(lrintf.pico)
+                                 0x38 (size before relaxing)
+ .eh_frame      0x0001e5a8       0x1c libm_pic.a(w_sqrtl.pico)
+                                 0x34 (size before relaxing)
+ .eh_frame      0x0001e5c4       0x1c libm_pic.a(w_sqrtf.pico)
+                                 0x34 (size before relaxing)
+ .eh_frame      0x0001e5e0       0x1c libm_pic.a(w_sqrt.pico)
+                                 0x34 (size before relaxing)
+ .eh_frame      0x0001e5fc       0x1c libm_pic.a(w_sinhf.pico)
+                                 0x34 (size before relaxing)
+ .eh_frame      0x0001e618       0x1c libm_pic.a(w_scalbf.pico)
+                                 0x34 (size before relaxing)
+ .eh_frame      0x0001e634       0x1c libm_pic.a(w_powf.pico)
+                                 0x34 (size before relaxing)
+ .eh_frame      0x0001e650       0x1c libm_pic.a(w_logf.pico)
+                                 0x34 (size before relaxing)
+ .eh_frame      0x0001e66c       0x1c libm_pic.a(w_log2f.pico)
+                                 0x34 (size before relaxing)
+ .eh_frame      0x0001e688       0x1c libm_pic.a(w_log2.pico)
+                                 0x34 (size before relaxing)
+ .eh_frame      0x0001e6a4       0x1c libm_pic.a(w_log10f.pico)
+                                 0x34 (size before relaxing)
+ .eh_frame      0x0001e6c0       0x1c libm_pic.a(w_lgammaf_r.pico)
+                                 0x34 (size before relaxing)
+ .eh_frame      0x0001e6dc       0x1c libm_pic.a(w_lgammaf.pico)
+                                 0x34 (size before relaxing)
+ .eh_frame      0x0001e6f8       0x1c libm_pic.a(w_lgamma_r.pico)
+                                 0x34 (size before relaxing)
+ .eh_frame      0x0001e714       0x1c libm_pic.a(w_lgamma.pico)
+                                 0x34 (size before relaxing)
+ .eh_frame      0x0001e730       0x40 libm_pic.a(w_jnf.pico)
+                                 0x58 (size before relaxing)
+ .eh_frame      0x0001e770       0x40 libm_pic.a(w_jn.pico)
+                                 0x58 (size before relaxing)
+ .eh_frame      0x0001e7b0       0x38 libm_pic.a(w_j1f.pico)
+                                 0x50 (size before relaxing)
+ .eh_frame      0x0001e7e8       0x38 libm_pic.a(w_j1.pico)
+                                 0x50 (size before relaxing)
+ .eh_frame      0x0001e820       0x38 libm_pic.a(w_j0f.pico)
+                                 0x50 (size before relaxing)
+ .eh_frame      0x0001e858       0x38 libm_pic.a(w_j0.pico)
+                                 0x50 (size before relaxing)
+ .eh_frame      0x0001e890       0x1c libm_pic.a(w_hypotf.pico)
+                                 0x34 (size before relaxing)
+ .eh_frame      0x0001e8ac       0x1c libm_pic.a(w_gammaf_r.pico)
+                                 0x34 (size before relaxing)
+ .eh_frame      0x0001e8c8       0x1c libm_pic.a(w_gammaf.pico)
+                                 0x34 (size before relaxing)
+ .eh_frame      0x0001e8e4       0x1c libm_pic.a(w_gamma_r.pico)
+                                 0x34 (size before relaxing)
+ .eh_frame      0x0001e900       0x1c libm_pic.a(w_gamma.pico)
+                                 0x34 (size before relaxing)
+ .eh_frame      0x0001e91c       0x1c libm_pic.a(w_fmodl.pico)
+                                 0x34 (size before relaxing)
+ .eh_frame      0x0001e938       0x1c libm_pic.a(w_fmodf.pico)
+                                 0x34 (size before relaxing)
+ .eh_frame      0x0001e954       0x1c libm_pic.a(w_fmod.pico)
+                                 0x34 (size before relaxing)
+ .eh_frame      0x0001e970       0x1c libm_pic.a(w_expf.pico)
+                                 0x34 (size before relaxing)
+ .eh_frame      0x0001e98c       0x1c libm_pic.a(w_dremf.pico)
+                                 0x34 (size before relaxing)
+ .eh_frame      0x0001e9a8       0x1c libm_pic.a(w_drem.pico)
+                                 0x34 (size before relaxing)
+ .eh_frame      0x0001e9c4       0x1c libm_pic.a(w_coshf.pico)
+                                 0x34 (size before relaxing)
+ .eh_frame      0x0001e9e0       0x1c libm_pic.a(w_atanhf.pico)
+                                 0x34 (size before relaxing)
+ .eh_frame      0x0001e9fc       0x1c libm_pic.a(w_atan2f.pico)
+                                 0x34 (size before relaxing)
+ .eh_frame      0x0001ea18       0x1c libm_pic.a(w_asinf.pico)
+                                 0x34 (size before relaxing)
+ .eh_frame      0x0001ea34       0x1c libm_pic.a(w_acoshf.pico)
+                                 0x34 (size before relaxing)
+ .eh_frame      0x0001ea50       0x1c libm_pic.a(w_acosf.pico)
+                                 0x34 (size before relaxing)
+ .eh_frame      0x0001ea6c       0x20 libm_pic.a(s_truncl.pico)
+                                 0x38 (size before relaxing)
+ .eh_frame      0x0001ea8c       0x1c libm_pic.a(s_truncf.pico)
+                                 0x34 (size before relaxing)
+ .eh_frame      0x0001eaa8       0x20 libm_pic.a(s_trunc.pico)
+                                 0x38 (size before relaxing)
+ .eh_frame      0x0001eac8       0x1c libm_pic.a(s_tgammaf.pico)
+                                 0x34 (size before relaxing)
+ .eh_frame      0x0001eae4       0x20 libm_pic.a(s_tanhf.pico)
+                                 0x38 (size before relaxing)
+ .eh_frame      0x0001eb04       0x1c libm_pic.a(s_roundl.pico)
+                                 0x34 (size before relaxing)
+ .eh_frame      0x0001eb20       0x1c libm_pic.a(s_roundf.pico)
+                                 0x34 (size before relaxing)
+ .eh_frame      0x0001eb3c       0x1c libm_pic.a(s_round.pico)
+                                 0x34 (size before relaxing)
+ .eh_frame      0x0001eb58       0x20 libm_pic.a(s_remquof.pico)
+                                 0x38 (size before relaxing)
+ .eh_frame      0x0001eb78       0x20 libm_pic.a(s_remquo.pico)
+                                 0x38 (size before relaxing)
+ .eh_frame      0x0001eb98       0x1c libm_pic.a(s_nextafterf.pico)
+                                 0x34 (size before relaxing)
+ .eh_frame      0x0001ebb4       0x1c libm_pic.a(s_modff.pico)
+                                 0x34 (size before relaxing)
+ .eh_frame      0x0001ebd0       0x1c libm_pic.a(s_isinff.pico)
+                                 0x34 (size before relaxing)
+ .eh_frame      0x0001ebec       0x20 libm_pic.a(s_frexpf.pico)
+                                 0x38 (size before relaxing)
+ .eh_frame      0x0001ec0c       0x20 libm_pic.a(s_floorl.pico)
+                                 0x38 (size before relaxing)
+ .eh_frame      0x0001ec2c       0x1c libm_pic.a(s_fabsl.pico)
+                                 0x34 (size before relaxing)
+ .eh_frame      0x0001ec48       0x1c libm_pic.a(s_fabsf.pico)
+                                 0x34 (size before relaxing)
+ .eh_frame      0x0001ec64       0x1c libm_pic.a(s_exp2f.pico)
+                                 0x34 (size before relaxing)
+ .eh_frame      0x0001ec80       0x40 libm_pic.a(s_erff.pico)
+                                 0x58 (size before relaxing)
+ .eh_frame      0x0001ecc0       0x40 libm_pic.a(s_erf.pico)
+                                 0x58 (size before relaxing)
+ .eh_frame      0x0001ed00       0x1c libm_pic.a(s_copysignl.pico)
+                                 0x34 (size before relaxing)
+ .eh_frame      0x0001ed1c       0x20 libm_pic.a(s_ceill.pico)
+                                 0x38 (size before relaxing)
+ .eh_frame      0x0001ed3c       0x20 libm_pic.a(s_cbrtl.pico)
+                                 0x38 (size before relaxing)
+ .eh_frame      0x0001ed5c       0x1c libm_pic.a(s_cbrtf.pico)
+                                 0x34 (size before relaxing)
+ .eh_frame      0x0001ed78       0x20 libm_pic.a(s_cbrt.pico)
+                                 0x38 (size before relaxing)
+ .eh_frame      0x0001ed98       0x20 libm_pic.a(s_asinhf.pico)
+                                 0x38 (size before relaxing)
+ .eh_frame      0x0001edb8      0x214 libm_pic.a(ldbl_dummy.pico)
+                                0x22c (size before relaxing)
+ .eh_frame      0x0001efcc       0x20 libm_pic.a(k_tanf.pico)
+                                 0x38 (size before relaxing)
+ .eh_frame      0x0001efec       0x20 libm_pic.a(k_tan.pico)
+                                 0x38 (size before relaxing)
+ .eh_frame      0x0001f00c       0x20 libm_pic.a(e_sqrtl.pico)
+                                 0x38 (size before relaxing)
+ .eh_frame      0x0001f02c       0x20 libm_pic.a(e_sinhf.pico)
+                                 0x38 (size before relaxing)
+ .eh_frame      0x0001f04c       0x20 libm_pic.a(e_rem_pio2f.pico)
+                                 0x38 (size before relaxing)
+ .eh_frame      0x0001f06c       0x20 libm_pic.a(e_rem_pio2.pico)
+                                 0x38 (size before relaxing)
+ .eh_frame      0x0001f08c       0x20 libm_pic.a(e_powf.pico)
+                                 0x38 (size before relaxing)
+ .eh_frame      0x0001f0ac       0x20 libm_pic.a(e_lgammaf_r.pico)
+                                 0x38 (size before relaxing)
+ .eh_frame      0x0001f0cc       0x20 libm_pic.a(e_lgamma_r.pico)
+                                 0x38 (size before relaxing)
+ .eh_frame      0x0001f0ec       0x40 libm_pic.a(e_jnf.pico)
+                                 0x58 (size before relaxing)
+ .eh_frame      0x0001f12c       0x40 libm_pic.a(e_jn.pico)
+                                 0x58 (size before relaxing)
+ .eh_frame      0x0001f16c       0x5c libm_pic.a(e_j1f.pico)
+                                 0x74 (size before relaxing)
+ .eh_frame      0x0001f1c8       0x5c libm_pic.a(e_j1.pico)
+                                 0x74 (size before relaxing)
+ .eh_frame      0x0001f224       0x5c libm_pic.a(e_j0f.pico)
+                                 0x74 (size before relaxing)
+ .eh_frame      0x0001f280       0x5c libm_pic.a(e_j0.pico)
+                                 0x74 (size before relaxing)
+ .eh_frame      0x0001f2dc       0x20 libm_pic.a(e_hypotf.pico)
+                                 0x38 (size before relaxing)
+ .eh_frame      0x0001f2fc       0x20 libm_pic.a(e_fmodl.pico)
+                                 0x38 (size before relaxing)
+ .eh_frame      0x0001f31c       0x20 libm_pic.a(e_fmodf.pico)
+                                 0x38 (size before relaxing)
+ .eh_frame      0x0001f33c       0x20 libm_pic.a(e_coshf.pico)
+                                 0x38 (size before relaxing)
+ .eh_frame      0x0001f35c       0x20 libm_pic.a(e_atanhf.pico)
+                                 0x38 (size before relaxing)
+ .eh_frame      0x0001f37c       0x20 libm_pic.a(e_asinf.pico)
+                                 0x38 (size before relaxing)
+ .eh_frame      0x0001f39c       0x1c libm_pic.a(e_acoshf.pico)
+                                 0x34 (size before relaxing)
+ .eh_frame      0x0001f3b8       0x1c libm_pic.a(e_acosf.pico)
+                                 0x34 (size before relaxing)
+ .eh_frame      0x0001f3d4       0x3c libm_pic.a(b_tgamma.pico)
+                                 0x54 (size before relaxing)
+ .eh_frame      0x0001f410       0x20 libm_pic.a(b_log.pico)
+                                 0x38 (size before relaxing)
+ .eh_frame      0x0001f430       0x1c libm_pic.a(b_exp.pico)
+                                 0x34 (size before relaxing)
+ .eh_frame      0x0001f44c       0x20 libm_pic.a(s_fmal.pico)
+                                 0x38 (size before relaxing)
+ .eh_frame      0x0001f46c       0x20 libm_pic.a(s_fmaf.pico)
+                                 0x38 (size before relaxing)
+ .eh_frame      0x0001f48c       0x20 libm_pic.a(s_fma.pico)
+                                 0x38 (size before relaxing)
+ .eh_frame      0x0001f4ac       0x60 libm_pic.a(s_nearbyint.pico)
+                                 0x78 (size before relaxing)
+ .eh_frame      0x0001f50c       0x20 libm_pic.a(s_nexttowardf.pico)
+                                 0x38 (size before relaxing)
+ .eh_frame      0x0001f52c       0x20 libm_pic.a(s_nexttoward.pico)
+                                 0x38 (size before relaxing)
+ .eh_frame      0x0001f54c      0x1a4 libm_pic.a(fenv.pico)
+                                0x1bc (size before relaxing)
+ .eh_frame      0x0001f6f0       0x20 libm_pic.a(s_frexpl.pico)
+                                 0x38 (size before relaxing)
+ .eh_frame      0x0001f710       0x20 libm_pic.a(s_frexp.pico)
+                                 0x38 (size before relaxing)
+ .eh_frame      0x0001f730       0x1c libm_pic.a(w_sinh.pico)
+                                 0x34 (size before relaxing)
+ .eh_frame      0x0001f74c       0x1c libm_pic.a(w_scalb.pico)
+                                 0x34 (size before relaxing)
+ .eh_frame      0x0001f768       0x1c libm_pic.a(w_remainderf.pico)
+                                 0x34 (size before relaxing)
+ .eh_frame      0x0001f784       0x1c libm_pic.a(w_remainder.pico)
+                                 0x34 (size before relaxing)
+ .eh_frame      0x0001f7a0       0x1c libm_pic.a(w_pow.pico)
+                                 0x34 (size before relaxing)
+ .eh_frame      0x0001f7bc       0x1c libm_pic.a(w_log10.pico)
+                                 0x34 (size before relaxing)
+ .eh_frame      0x0001f7d8       0x1c libm_pic.a(w_log.pico)
+                                 0x34 (size before relaxing)
+ .eh_frame      0x0001f7f4       0x1c libm_pic.a(w_hypot.pico)
+                                 0x34 (size before relaxing)
+ .eh_frame      0x0001f810       0x1c libm_pic.a(w_exp.pico)
+                                 0x34 (size before relaxing)
+ .eh_frame      0x0001f82c       0x1c libm_pic.a(w_cosh.pico)
+                                 0x34 (size before relaxing)
+ .eh_frame      0x0001f848       0x1c libm_pic.a(w_atanh.pico)
+                                 0x34 (size before relaxing)
+ .eh_frame      0x0001f864       0x1c libm_pic.a(w_atan2.pico)
+                                 0x34 (size before relaxing)
+ .eh_frame      0x0001f880       0x1c libm_pic.a(w_asin.pico)
+                                 0x34 (size before relaxing)
+ .eh_frame      0x0001f89c       0x1c libm_pic.a(w_acosh.pico)
+                                 0x34 (size before relaxing)
+ .eh_frame      0x0001f8b8       0x1c libm_pic.a(w_acos.pico)
+                                 0x34 (size before relaxing)
+ .eh_frame      0x0001f8d4       0x1c libm_pic.a(s_tanh.pico)
+                                 0x34 (size before relaxing)
+ .eh_frame      0x0001f8f0       0x20 libm_pic.a(s_nextafterl.pico)
+                                 0x38 (size before relaxing)
+ .eh_frame      0x0001f910       0x20 libm_pic.a(s_nextafter.pico)
+                                 0x38 (size before relaxing)
+ .eh_frame      0x0001f930       0x1c libm_pic.a(s_isnanf.pico)
+                                 0x34 (size before relaxing)
+ .eh_frame      0x0001f94c       0x1c libm_pic.a(s_expm1f.pico)
+                                 0x34 (size before relaxing)
+ .eh_frame      0x0001f968       0x1c libm_pic.a(s_exp2.pico)
+                                 0x34 (size before relaxing)
+ .eh_frame      0x0001f984       0x20 libm_pic.a(s_asinh.pico)
+                                 0x38 (size before relaxing)
+ .eh_frame      0x0001f9a4       0x20 libm_pic.a(k_standard.pico)
+                                 0x38 (size before relaxing)
+ .eh_frame      0x0001f9c4       0x1c libm_pic.a(k_sinf.pico)
+                                 0x34 (size before relaxing)
+ .eh_frame      0x0001f9e0       0x1c libm_pic.a(k_sin.pico)
+                                 0x34 (size before relaxing)
+ .eh_frame      0x0001f9fc       0x20 libm_pic.a(k_rem_pio2f.pico)
+                                 0x38 (size before relaxing)
+ .eh_frame      0x0001fa1c       0x20 libm_pic.a(k_rem_pio2.pico)
+                                 0x38 (size before relaxing)
+ .eh_frame      0x0001fa3c       0x1c libm_pic.a(k_cosf.pico)
+                                 0x34 (size before relaxing)
+ .eh_frame      0x0001fa58       0x1c libm_pic.a(k_cos.pico)
+                                 0x34 (size before relaxing)
+ .eh_frame      0x0001fa74       0x20 libm_pic.a(e_sinh.pico)
+                                 0x38 (size before relaxing)
+ .eh_frame      0x0001fa94       0x20 libm_pic.a(e_pow.pico)
+                                 0x38 (size before relaxing)
+ .eh_frame      0x0001fab4       0x20 libm_pic.a(e_hypot.pico)
+                                 0x38 (size before relaxing)
+ .eh_frame      0x0001fad4       0x20 libm_pic.a(e_cosh.pico)
+                                 0x38 (size before relaxing)
+ .eh_frame      0x0001faf4       0x20 libm_pic.a(e_atanh.pico)
+                                 0x38 (size before relaxing)
+ .eh_frame      0x0001fb14       0x1c libm_pic.a(e_acosh.pico)
+                                 0x34 (size before relaxing)
+ .eh_frame      0x0001fb30       0x1c libm_pic.a(s_rintl.pico)
+                                 0x34 (size before relaxing)
+ .eh_frame      0x0001fb4c       0x1c libm_pic.a(s_matherr.pico)
+                                 0x34 (size before relaxing)
+ .eh_frame      0x0001fb68       0x1c libm_pic.a(s_expm1.pico)
+                                 0x34 (size before relaxing)
+ .eh_frame      0x0001fb84        0x4 /usr/lib/crtendS.o
+
+.note.minix.ident
+                0x0001fb88       0x18
+ .note.minix.ident
+                0x0001fb88       0x18 /usr/lib/crti.o
+
+.note.netbsd.pax
+                0x0001fba0       0x14
+ .note.netbsd.pax
+                0x0001fba0       0x14 /usr/lib/crti.o
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.exception_ranges
+ *(.exception_ranges .exception_ranges*)
+                0x0001fbb4                . = (ALIGN (0x1000) - ((0x1000 - .) & 0xfff))
+                0x00020bb4                . = DATA_SEGMENT_ALIGN (0x1000, 0x1000)
+
+.eh_frame
+ *(.eh_frame)
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.exception_ranges
+ *(.exception_ranges .exception_ranges*)
+
+.tdata
+ *(.tdata .tdata.* .gnu.linkonce.td.*)
+
+.tbss
+ *(.tbss .tbss.* .gnu.linkonce.tb.*)
+ *(.tcommon)
+
+.preinit_array
+ *(.preinit_array)
+
+.init_array
+ *(SORT(.init_array.*))
+ *(.init_array)
+
+.fini_array
+ *(SORT(.fini_array.*))
+ *(.fini_array)
+
+.ctors          0x00020bb4        0xc
+ *crtbegin.o(.ctors)
+ *crtbegin?.o(.ctors)
+ .ctors         0x00020bb4        0x4 /usr/lib/crtbeginS.o
+ *(EXCLUDE_FILE(*crtend?.o *crtend.o) .ctors)
+ .ctors         0x00020bb8        0x4 libm_pic.a(fenv.pico)
+ *(SORT(.ctors.*))
+ *(.ctors)
+ .ctors         0x00020bbc        0x4 /usr/lib/crtendS.o
+                0x00020bbc                __CTOR_LIST_END__
+
+.dtors          0x00020bc0        0x8
+ *crtbegin.o(.dtors)
+ *crtbegin?.o(.dtors)
+ .dtors         0x00020bc0        0x4 /usr/lib/crtbeginS.o
+ *(EXCLUDE_FILE(*crtend?.o *crtend.o) .dtors)
+ *(SORT(.dtors.*))
+ *(.dtors)
+ .dtors         0x00020bc4        0x4 /usr/lib/crtendS.o
+
+.jcr            0x00020bc8        0x4
+ *(.jcr)
+ .jcr           0x00020bc8        0x0 /usr/lib/crtbeginS.o
+ .jcr           0x00020bc8        0x4 /usr/lib/crtendS.o
+
+.data.rel.ro
+ *(.data.rel.ro.local* .gnu.linkonce.d.rel.ro.local.*)
+ *(.data.rel.ro .data.rel.ro.* .gnu.linkonce.d.rel.ro.*)
+
+.dynamic        0x00020bcc       0xb0
+ *(.dynamic)
+ .dynamic       0x00020bcc       0xb0 /usr/lib/crti.o
+                0x00020bcc                _DYNAMIC
+
+.got            0x00020c7c       0x30
+ *(.got)
+ .got           0x00020c7c       0x30 /usr/lib/crti.o
+ *(.igot)
+                0x00020cac                . = DATA_SEGMENT_RELRO_END (., (SIZEOF (.got.plt) >= 0xc)?0xc:0x0)
+
+.got.plt        0x00020cac      0x2d0
+ *(.got.plt)
+ .got.plt       0x00020cac      0x2d0 /usr/lib/crti.o
+                0x00020cac                _GLOBAL_OFFSET_TABLE_
+ *(.igot.plt)
+
+.data           0x00020f80       0x5c
+ *(.data .data.* .gnu.linkonce.d.*)
+ .data          0x00020f80        0x0 /usr/lib/crti.o
+ .data          0x00020f80        0x0 /usr/lib/crtbeginS.o
+ .data.rel      0x00020f80       0x26 /usr/lib/crtbeginS.o
+                0x00020f80                __dso_handle
+ *fill*         0x00020fa6        0x2 
+ .data          0x00020fa8        0x0 libm_pic.a(divsc3.pico)
+ .data          0x00020fa8        0x0 libm_pic.a(divdc3.pico)
+ .data          0x00020fa8        0x0 libm_pic.a(divxc3.pico)
+ .data          0x00020fa8        0x0 libm_pic.a(mulsc3.pico)
+ .data          0x00020fa8        0x0 libm_pic.a(mulxc3.pico)
+ .data          0x00020fa8        0x0 libm_pic.a(nanl.pico)
+ .data          0x00020fa8        0x0 libm_pic.a(nanf.pico)
+ .data          0x00020fa8        0x0 libm_pic.a(nan.pico)
+ .data          0x00020fa8        0x0 libm_pic.a(cprojf.pico)
+ .data          0x00020fa8        0x0 libm_pic.a(cproj.pico)
+ .data          0x00020fa8        0x0 libm_pic.a(catanhf.pico)
+ .data          0x00020fa8        0x0 libm_pic.a(cacoshf.pico)
+ .data          0x00020fa8        0x0 libm_pic.a(casinhf.pico)
+ .data          0x00020fa8        0x0 libm_pic.a(catanf.pico)
+ .data          0x00020fa8        0x0 libm_pic.a(cacosf.pico)
+ .data          0x00020fa8        0x0 libm_pic.a(casinf.pico)
+ .data          0x00020fa8        0x0 libm_pic.a(ctanhf.pico)
+ .data          0x00020fa8        0x0 libm_pic.a(ccoshf.pico)
+ .data          0x00020fa8        0x0 libm_pic.a(csinhf.pico)
+ .data          0x00020fa8        0x0 libm_pic.a(ctanf.pico)
+ .data          0x00020fa8        0x0 libm_pic.a(ccosf.pico)
+ .data          0x00020fa8        0x0 libm_pic.a(csinf.pico)
+ .data          0x00020fa8        0x0 libm_pic.a(cephes_subrf.pico)
+ .data          0x00020fa8        0x0 libm_pic.a(cpowf.pico)
+ .data          0x00020fa8        0x0 libm_pic.a(clogf.pico)
+ .data          0x00020fa8        0x0 libm_pic.a(cexpf.pico)
+ .data          0x00020fa8        0x0 libm_pic.a(csqrtf.pico)
+ .data          0x00020fa8        0x0 libm_pic.a(catanh.pico)
+ .data          0x00020fa8        0x0 libm_pic.a(cacosh.pico)
+ .data          0x00020fa8        0x0 libm_pic.a(casinh.pico)
+ .data          0x00020fa8        0x0 libm_pic.a(catan.pico)
+ .data          0x00020fa8        0x0 libm_pic.a(cacos.pico)
+ .data          0x00020fa8        0x0 libm_pic.a(casin.pico)
+ .data          0x00020fa8        0x0 libm_pic.a(ctanh.pico)
+ .data          0x00020fa8        0x0 libm_pic.a(ccosh.pico)
+ .data          0x00020fa8        0x0 libm_pic.a(csinh.pico)
+ .data          0x00020fa8        0x0 libm_pic.a(ctan.pico)
+ .data          0x00020fa8        0x0 libm_pic.a(ccos.pico)
+ .data          0x00020fa8        0x0 libm_pic.a(csin.pico)
+ .data          0x00020fa8        0x0 libm_pic.a(cephes_subr.pico)
+ .data          0x00020fa8        0x0 libm_pic.a(cpow.pico)
+ .data          0x00020fa8        0x0 libm_pic.a(clog.pico)
+ .data          0x00020fa8        0x0 libm_pic.a(cexp.pico)
+ .data          0x00020fa8        0x0 libm_pic.a(csqrt.pico)
+ .data          0x00020fa8        0x0 libm_pic.a(conjl.pico)
+ .data          0x00020fa8        0x0 libm_pic.a(conjf.pico)
+ .data          0x00020fa8        0x0 libm_pic.a(conj.pico)
+ .data          0x00020fa8        0x0 libm_pic.a(cimagl.pico)
+ .data          0x00020fa8        0x0 libm_pic.a(cimagf.pico)
+ .data          0x00020fa8        0x0 libm_pic.a(cimag.pico)
+ .data          0x00020fa8        0x0 libm_pic.a(creall.pico)
+ .data          0x00020fa8        0x0 libm_pic.a(crealf.pico)
+ .data          0x00020fa8        0x0 libm_pic.a(creal.pico)
+ .data          0x00020fa8        0x0 libm_pic.a(cargf.pico)
+ .data          0x00020fa8        0x0 libm_pic.a(carg.pico)
+ .data          0x00020fa8        0x0 libm_pic.a(cabsf.pico)
+ .data          0x00020fa8        0x0 libm_pic.a(cabs.pico)
+ .data          0x00020fa8        0x0 libm_pic.a(compat_cabsf.pico)
+ .data          0x00020fa8        0x0 libm_pic.a(compat_cabs.pico)
+ .data          0x00020fa8        0x0 libm_pic.a(s_fdim.pico)
+ .data          0x00020fa8        0x0 libm_pic.a(s_fminl.pico)
+ .data          0x00020fa8        0x0 libm_pic.a(s_fminf.pico)
+ .data          0x00020fa8        0x0 libm_pic.a(s_fmin.pico)
+ .data          0x00020fa8        0x0 libm_pic.a(s_fmaxl.pico)
+ .data          0x00020fa8        0x0 libm_pic.a(s_fmaxf.pico)
+ .data          0x00020fa8        0x0 libm_pic.a(s_fmax.pico)
+ .data          0x00020fa8        0x0 libm_pic.a(s_modf.pico)
+ .data          0x00020fa8        0x0 libm_pic.a(llroundf.pico)
+ .data          0x00020fa8        0x0 libm_pic.a(llround.pico)
+ .data          0x00020fa8        0x0 libm_pic.a(lroundf.pico)
+ .data          0x00020fa8        0x0 libm_pic.a(lround.pico)
+ .data          0x00020fa8        0x0 libm_pic.a(llrintf.pico)
+ .data          0x00020fa8        0x0 libm_pic.a(llrint.pico)
+ .data          0x00020fa8        0x0 libm_pic.a(lrintf.pico)
+ .data          0x00020fa8        0x0 libm_pic.a(lrint.pico)
+ .data          0x00020fa8        0x0 libm_pic.a(w_sqrtl.pico)
+ .data          0x00020fa8        0x0 libm_pic.a(w_sqrtf.pico)
+ .data          0x00020fa8        0x0 libm_pic.a(w_sqrt.pico)
+ .data          0x00020fa8        0x0 libm_pic.a(w_sinhf.pico)
+ .data          0x00020fa8        0x0 libm_pic.a(w_scalbf.pico)
+ .data          0x00020fa8        0x0 libm_pic.a(w_powf.pico)
+ .data          0x00020fa8        0x0 libm_pic.a(w_logf.pico)
+ .data          0x00020fa8        0x0 libm_pic.a(w_log2f.pico)
+ .data          0x00020fa8        0x0 libm_pic.a(w_log2.pico)
+ .data          0x00020fa8        0x0 libm_pic.a(w_log10f.pico)
+ .data          0x00020fa8        0x0 libm_pic.a(w_lgammaf_r.pico)
+ .data          0x00020fa8        0x0 libm_pic.a(w_lgammaf.pico)
+ .data          0x00020fa8        0x0 libm_pic.a(w_lgamma_r.pico)
+ .data          0x00020fa8        0x0 libm_pic.a(w_lgamma.pico)
+ .data          0x00020fa8        0x0 libm_pic.a(w_jnf.pico)
+ .data          0x00020fa8        0x0 libm_pic.a(w_jn.pico)
+ .data          0x00020fa8        0x0 libm_pic.a(w_j1f.pico)
+ .data          0x00020fa8        0x0 libm_pic.a(w_j1.pico)
+ .data          0x00020fa8        0x0 libm_pic.a(w_j0f.pico)
+ .data          0x00020fa8        0x0 libm_pic.a(w_j0.pico)
+ .data          0x00020fa8        0x0 libm_pic.a(w_hypotf.pico)
+ .data          0x00020fa8        0x0 libm_pic.a(w_gammaf_r.pico)
+ .data          0x00020fa8        0x0 libm_pic.a(w_gammaf.pico)
+ .data          0x00020fa8        0x0 libm_pic.a(w_gamma_r.pico)
+ .data          0x00020fa8        0x0 libm_pic.a(w_gamma.pico)
+ .data          0x00020fa8        0x0 libm_pic.a(w_fmodl.pico)
+ .data          0x00020fa8        0x0 libm_pic.a(w_fmodf.pico)
+ .data          0x00020fa8        0x0 libm_pic.a(w_fmod.pico)
+ .data          0x00020fa8        0x0 libm_pic.a(w_expf.pico)
+ .data          0x00020fa8        0x0 libm_pic.a(w_dremf.pico)
+ .data          0x00020fa8        0x0 libm_pic.a(w_drem.pico)
+ .data          0x00020fa8        0x0 libm_pic.a(w_coshf.pico)
+ .data          0x00020fa8        0x0 libm_pic.a(w_atanhf.pico)
+ .data          0x00020fa8        0x0 libm_pic.a(w_atan2f.pico)
+ .data          0x00020fa8        0x0 libm_pic.a(w_asinf.pico)
+ .data          0x00020fa8        0x0 libm_pic.a(w_acoshf.pico)
+ .data          0x00020fa8        0x0 libm_pic.a(w_acosf.pico)
+ .data          0x00020fa8        0x0 libm_pic.a(s_truncl.pico)
+ .data          0x00020fa8        0x0 libm_pic.a(s_truncf.pico)
+ .data          0x00020fa8        0x0 libm_pic.a(s_trunc.pico)
+ .data          0x00020fa8        0x0 libm_pic.a(s_tgammaf.pico)
+ .data          0x00020fa8        0x0 libm_pic.a(s_tanhf.pico)
+ .data          0x00020fa8        0x0 libm_pic.a(s_tanf.pico)
+ .data          0x00020fa8        0x0 libm_pic.a(s_significandf.pico)
+ .data          0x00020fa8        0x0 libm_pic.a(s_significand.pico)
+ .data          0x00020fa8        0x0 libm_pic.a(s_signgam.pico)
+ .data          0x00020fa8        0x0 libm_pic.a(s_scalbnl.pico)
+ .data          0x00020fa8        0x0 libm_pic.a(s_roundl.pico)
+ .data          0x00020fa8        0x0 libm_pic.a(s_roundf.pico)
+ .data          0x00020fa8        0x0 libm_pic.a(s_round.pico)
+ .data          0x00020fa8        0x0 libm_pic.a(s_remquof.pico)
+ .data          0x00020fa8        0x0 libm_pic.a(s_remquo.pico)
+ .data          0x00020fa8        0x0 libm_pic.a(s_nextafterf.pico)
+ .data          0x00020fa8        0x0 libm_pic.a(s_modff.pico)
+ .data          0x00020fa8        0x0 libm_pic.a(s_logbl.pico)
+ .data          0x00020fa8        0x0 libm_pic.a(s_logbf.pico)
+ .data          0x00020fa8        0x0 libm_pic.a(s_isinff.pico)
+ .data          0x00020fa8        0x0 libm_pic.a(s_ilogbf.pico)
+ .data          0x00020fa8        0x0 libm_pic.a(s_frexpf.pico)
+ .data          0x00020fa8        0x0 libm_pic.a(s_floorl.pico)
+ .data          0x00020fa8        0x0 libm_pic.a(s_finitef.pico)
+ .data          0x00020fa8        0x0 libm_pic.a(s_fabsl.pico)
+ .data          0x00020fa8        0x0 libm_pic.a(s_fabsf.pico)
+ .data          0x00020fa8        0x4 libm_pic.a(s_exp2f.pico)
+ .data          0x00020fac        0x0 libm_pic.a(s_erff.pico)
+ .data          0x00020fac        0x0 libm_pic.a(s_erf.pico)
+ .data          0x00020fac        0x0 libm_pic.a(s_copysignl.pico)
+ .data          0x00020fac        0x0 libm_pic.a(s_copysignf.pico)
+ .data          0x00020fac        0x0 libm_pic.a(s_copysign.pico)
+ .data          0x00020fac        0x0 libm_pic.a(s_ceill.pico)
+ .data          0x00020fac        0x0 libm_pic.a(s_ceilf.pico)
+ .data          0x00020fac        0x0 libm_pic.a(s_cbrtl.pico)
+ .data          0x00020fac        0x0 libm_pic.a(s_cbrtf.pico)
+ .data          0x00020fac        0x0 libm_pic.a(s_cbrt.pico)
+ .data          0x00020fac        0x0 libm_pic.a(s_atanf.pico)
+ .data          0x00020fac        0x0 libm_pic.a(s_asinhf.pico)
+ .data          0x00020fac        0x0 libm_pic.a(ldbl_dummy.pico)
+ .data          0x00020fac        0x0 libm_pic.a(k_tanf.pico)
+ .data          0x00020fac        0x0 libm_pic.a(k_tan.pico)
+ .data          0x00020fac        0x0 libm_pic.a(e_sqrtl.pico)
+ .data          0x00020fac        0x0 libm_pic.a(e_sinhf.pico)
+ .data          0x00020fac        0x0 libm_pic.a(e_scalbf.pico)
+ .data          0x00020fac        0x0 libm_pic.a(e_rem_pio2f.pico)
+ .data          0x00020fac        0x0 libm_pic.a(e_rem_pio2.pico)
+ .data          0x00020fac        0x0 libm_pic.a(e_powf.pico)
+ .data          0x00020fac        0x0 libm_pic.a(e_log2f.pico)
+ .data          0x00020fac        0x0 libm_pic.a(e_log10f.pico)
+ .data          0x00020fac        0x0 libm_pic.a(e_log2.pico)
+ .data          0x00020fac        0x0 libm_pic.a(e_lgammaf_r.pico)
+ .data          0x00020fac        0x0 libm_pic.a(e_lgamma_r.pico)
+ .data          0x00020fac        0x0 libm_pic.a(e_jnf.pico)
+ .data          0x00020fac        0x0 libm_pic.a(e_jn.pico)
+ .data          0x00020fac        0x0 libm_pic.a(e_j1f.pico)
+ .data          0x00020fac        0x0 libm_pic.a(e_j1.pico)
+ .data          0x00020fac        0x0 libm_pic.a(e_j0f.pico)
+ .data          0x00020fac        0x0 libm_pic.a(e_j0.pico)
+ .data          0x00020fac        0x0 libm_pic.a(e_hypotf.pico)
+ .data          0x00020fac        0x0 libm_pic.a(e_fmodl.pico)
+ .data          0x00020fac        0x0 libm_pic.a(e_fmodf.pico)
+ .data          0x00020fac        0x0 libm_pic.a(e_fmod.pico)
+ .data          0x00020fac        0x0 libm_pic.a(e_coshf.pico)
+ .data          0x00020fac        0x0 libm_pic.a(e_atanhf.pico)
+ .data          0x00020fac        0x0 libm_pic.a(e_atan2f.pico)
+ .data          0x00020fac        0x0 libm_pic.a(e_asinf.pico)
+ .data          0x00020fac        0x0 libm_pic.a(e_acoshf.pico)
+ .data          0x00020fac        0x0 libm_pic.a(e_acosf.pico)
+ .data          0x00020fac        0x0 libm_pic.a(b_tgamma.pico)
+ .data          0x00020fac        0x0 libm_pic.a(b_log.pico)
+ .data          0x00020fac        0x0 libm_pic.a(b_exp.pico)
+ .data          0x00020fac        0x0 libm_pic.a(s_fmal.pico)
+ .data          0x00020fac        0x0 libm_pic.a(s_fmaf.pico)
+ .data          0x00020fac        0x0 libm_pic.a(s_fma.pico)
+ .data          0x00020fac        0x0 libm_pic.a(s_nearbyint.pico)
+ .data          0x00020fac        0x0 libm_pic.a(s_nexttowardf.pico)
+ .data          0x00020fac        0x0 libm_pic.a(s_nexttoward.pico)
+ .data          0x00020fac       0x20 libm_pic.a(fenv.pico)
+                0x00020fac                __fe_dfl_env
+ .data          0x00020fcc        0x0 libm_pic.a(s_frexpl.pico)
+ .data          0x00020fcc        0x0 libm_pic.a(s_frexp.pico)
+ .data          0x00020fcc        0x0 libm_pic.a(w_sinh.pico)
+ .data          0x00020fcc        0x0 libm_pic.a(w_scalb.pico)
+ .data          0x00020fcc        0x0 libm_pic.a(w_remainderf.pico)
+ .data          0x00020fcc        0x0 libm_pic.a(w_remainder.pico)
+ .data          0x00020fcc        0x0 libm_pic.a(w_pow.pico)
+ .data          0x00020fcc        0x0 libm_pic.a(w_log10.pico)
+ .data          0x00020fcc        0x0 libm_pic.a(w_log.pico)
+ .data          0x00020fcc        0x0 libm_pic.a(w_hypot.pico)
+ .data          0x00020fcc        0x0 libm_pic.a(w_exp.pico)
+ .data          0x00020fcc        0x0 libm_pic.a(w_cosh.pico)
+ .data          0x00020fcc        0x0 libm_pic.a(w_atanh.pico)
+ .data          0x00020fcc        0x0 libm_pic.a(w_atan2.pico)
+ .data          0x00020fcc        0x0 libm_pic.a(w_asin.pico)
+ .data          0x00020fcc        0x0 libm_pic.a(w_acosh.pico)
+ .data          0x00020fcc        0x0 libm_pic.a(w_acos.pico)
+ .data          0x00020fcc        0x0 libm_pic.a(s_tanh.pico)
+ .data          0x00020fcc        0x0 libm_pic.a(s_tan.pico)
+ .data          0x00020fcc        0x0 libm_pic.a(s_sinf.pico)
+ .data          0x00020fcc        0x0 libm_pic.a(s_sin.pico)
+ .data          0x00020fcc        0x0 libm_pic.a(s_rintf.pico)
+ .data          0x00020fcc        0x0 libm_pic.a(s_nextafterl.pico)
+ .data          0x00020fcc        0x0 libm_pic.a(s_nextafter.pico)
+ .data          0x00020fcc        0x0 libm_pic.a(s_logb.pico)
+ .data          0x00020fcc        0x0 libm_pic.a(s_log1pf.pico)
+ .data          0x00020fcc        0x0 libm_pic.a(s_isnanf.pico)
+ .data          0x00020fcc        0x0 libm_pic.a(s_ilogbl.pico)
+ .data          0x00020fcc        0x0 libm_pic.a(s_ilogb.pico)
+ .data          0x00020fcc        0x0 libm_pic.a(s_finite.pico)
+ .data          0x00020fcc        0x0 libm_pic.a(s_expm1f.pico)
+ *fill*         0x00020fcc        0x4 
+ .data          0x00020fd0        0x8 libm_pic.a(s_exp2.pico)
+ .data          0x00020fd8        0x0 libm_pic.a(s_cosf.pico)
+ .data          0x00020fd8        0x0 libm_pic.a(s_cos.pico)
+ .data          0x00020fd8        0x0 libm_pic.a(s_ceil.pico)
+ .data          0x00020fd8        0x0 libm_pic.a(s_atan.pico)
+ .data          0x00020fd8        0x0 libm_pic.a(s_asinh.pico)
+ .data          0x00020fd8        0x0 libm_pic.a(k_standard.pico)
+ .data          0x00020fd8        0x0 libm_pic.a(k_sinf.pico)
+ .data          0x00020fd8        0x0 libm_pic.a(k_sin.pico)
+ .data          0x00020fd8        0x0 libm_pic.a(k_rem_pio2f.pico)
+ .data          0x00020fd8        0x0 libm_pic.a(k_rem_pio2.pico)
+ .data          0x00020fd8        0x0 libm_pic.a(k_cosf.pico)
+ .data          0x00020fd8        0x0 libm_pic.a(k_cos.pico)
+ .data          0x00020fd8        0x0 libm_pic.a(e_sqrtf.pico)
+ .data          0x00020fd8        0x0 libm_pic.a(e_sinh.pico)
+ .data          0x00020fd8        0x0 libm_pic.a(e_scalb.pico)
+ .data          0x00020fd8        0x0 libm_pic.a(e_remainderf.pico)
+ .data          0x00020fd8        0x0 libm_pic.a(e_remainder.pico)
+ .data          0x00020fd8        0x0 libm_pic.a(e_pow.pico)
+ .data          0x00020fd8        0x0 libm_pic.a(e_logf.pico)
+ .data          0x00020fd8        0x0 libm_pic.a(e_log10.pico)
+ .data          0x00020fd8        0x0 libm_pic.a(e_hypot.pico)
+ .data          0x00020fd8        0x0 libm_pic.a(e_expf.pico)
+ .data          0x00020fd8        0x0 libm_pic.a(e_cosh.pico)
+ .data          0x00020fd8        0x0 libm_pic.a(e_atanh.pico)
+ .data          0x00020fd8        0x0 libm_pic.a(e_atan2.pico)
+ .data          0x00020fd8        0x0 libm_pic.a(e_asin.pico)
+ .data          0x00020fd8        0x0 libm_pic.a(e_acosh.pico)
+ .data          0x00020fd8        0x0 libm_pic.a(e_acos.pico)
+ .data          0x00020fd8        0x0 libm_pic.a(s_rintl.pico)
+ .data          0x00020fd8        0x0 libm_pic.a(s_scalbnf.pico)
+ .data          0x00020fd8        0x0 libm_pic.a(s_scalbn.pico)
+ .data          0x00020fd8        0x0 libm_pic.a(s_rint.pico)
+ .data          0x00020fd8        0x0 libm_pic.a(s_matherr.pico)
+ .data          0x00020fd8        0x0 libm_pic.a(s_log1p.pico)
+ .data          0x00020fd8        0x4 libm_pic.a(s_lib_version.pico)
+                0x00020fd8                _fdlib_version
+ .data          0x00020fdc        0x0 libm_pic.a(s_floorf.pico)
+ .data          0x00020fdc        0x0 libm_pic.a(s_floor.pico)
+ .data          0x00020fdc        0x0 libm_pic.a(s_expm1.pico)
+ .data          0x00020fdc        0x0 libm_pic.a(e_sqrt.pico)
+ .data          0x00020fdc        0x0 libm_pic.a(e_log.pico)
+ .data          0x00020fdc        0x0 libm_pic.a(e_exp.pico)
+ .data          0x00020fdc        0x0 /usr/lib/crtendS.o
+ .data          0x00020fdc        0x0 /usr/lib/crtn.o
+
+.data1
+ *(.data1)
+                0x00020fdc                _edata = .
+                0x00020fdc                PROVIDE (edata, .)
+                0x00020fdc                . = .
+                0x00020fdc                __bss_start = .
+
+.bss            0x00020fdc        0x4
+ *(.dynbss)
+ .dynbss        0x00000000        0x0 /usr/lib/crti.o
+ *(.bss .bss.* .gnu.linkonce.b.*)
+ .bss           0x00020fdc        0x0 /usr/lib/crti.o
+ .bss           0x00020fdc        0x0 /usr/lib/crtbeginS.o
+ .bss           0x00020fdc        0x0 libm_pic.a(divsc3.pico)
+ .bss           0x00020fdc        0x0 libm_pic.a(divdc3.pico)
+ .bss           0x00020fdc        0x0 libm_pic.a(divxc3.pico)
+ .bss           0x00020fdc        0x0 libm_pic.a(mulsc3.pico)
+ .bss           0x00020fdc        0x0 libm_pic.a(mulxc3.pico)
+ .bss           0x00020fdc        0x0 libm_pic.a(nanl.pico)
+ .bss           0x00020fdc        0x0 libm_pic.a(nanf.pico)
+ .bss           0x00020fdc        0x0 libm_pic.a(nan.pico)
+ .bss           0x00020fdc        0x0 libm_pic.a(cprojf.pico)
+ .bss           0x00020fdc        0x0 libm_pic.a(cproj.pico)
+ .bss           0x00020fdc        0x0 libm_pic.a(catanhf.pico)
+ .bss           0x00020fdc        0x0 libm_pic.a(cacoshf.pico)
+ .bss           0x00020fdc        0x0 libm_pic.a(casinhf.pico)
+ .bss           0x00020fdc        0x0 libm_pic.a(catanf.pico)
+ .bss           0x00020fdc        0x0 libm_pic.a(cacosf.pico)
+ .bss           0x00020fdc        0x0 libm_pic.a(casinf.pico)
+ .bss           0x00020fdc        0x0 libm_pic.a(ctanhf.pico)
+ .bss           0x00020fdc        0x0 libm_pic.a(ccoshf.pico)
+ .bss           0x00020fdc        0x0 libm_pic.a(csinhf.pico)
+ .bss           0x00020fdc        0x0 libm_pic.a(ctanf.pico)
+ .bss           0x00020fdc        0x0 libm_pic.a(ccosf.pico)
+ .bss           0x00020fdc        0x0 libm_pic.a(csinf.pico)
+ .bss           0x00020fdc        0x0 libm_pic.a(cephes_subrf.pico)
+ .bss           0x00020fdc        0x0 libm_pic.a(cpowf.pico)
+ .bss           0x00020fdc        0x0 libm_pic.a(clogf.pico)
+ .bss           0x00020fdc        0x0 libm_pic.a(cexpf.pico)
+ .bss           0x00020fdc        0x0 libm_pic.a(csqrtf.pico)
+ .bss           0x00020fdc        0x0 libm_pic.a(catanh.pico)
+ .bss           0x00020fdc        0x0 libm_pic.a(cacosh.pico)
+ .bss           0x00020fdc        0x0 libm_pic.a(casinh.pico)
+ .bss           0x00020fdc        0x0 libm_pic.a(catan.pico)
+ .bss           0x00020fdc        0x0 libm_pic.a(cacos.pico)
+ .bss           0x00020fdc        0x0 libm_pic.a(casin.pico)
+ .bss           0x00020fdc        0x0 libm_pic.a(ctanh.pico)
+ .bss           0x00020fdc        0x0 libm_pic.a(ccosh.pico)
+ .bss           0x00020fdc        0x0 libm_pic.a(csinh.pico)
+ .bss           0x00020fdc        0x0 libm_pic.a(ctan.pico)
+ .bss           0x00020fdc        0x0 libm_pic.a(ccos.pico)
+ .bss           0x00020fdc        0x0 libm_pic.a(csin.pico)
+ .bss           0x00020fdc        0x0 libm_pic.a(cephes_subr.pico)
+ .bss           0x00020fdc        0x0 libm_pic.a(cpow.pico)
+ .bss           0x00020fdc        0x0 libm_pic.a(clog.pico)
+ .bss           0x00020fdc        0x0 libm_pic.a(cexp.pico)
+ .bss           0x00020fdc        0x0 libm_pic.a(csqrt.pico)
+ .bss           0x00020fdc        0x0 libm_pic.a(conjl.pico)
+ .bss           0x00020fdc        0x0 libm_pic.a(conjf.pico)
+ .bss           0x00020fdc        0x0 libm_pic.a(conj.pico)
+ .bss           0x00020fdc        0x0 libm_pic.a(cimagl.pico)
+ .bss           0x00020fdc        0x0 libm_pic.a(cimagf.pico)
+ .bss           0x00020fdc        0x0 libm_pic.a(cimag.pico)
+ .bss           0x00020fdc        0x0 libm_pic.a(creall.pico)
+ .bss           0x00020fdc        0x0 libm_pic.a(crealf.pico)
+ .bss           0x00020fdc        0x0 libm_pic.a(creal.pico)
+ .bss           0x00020fdc        0x0 libm_pic.a(cargf.pico)
+ .bss           0x00020fdc        0x0 libm_pic.a(carg.pico)
+ .bss           0x00020fdc        0x0 libm_pic.a(cabsf.pico)
+ .bss           0x00020fdc        0x0 libm_pic.a(cabs.pico)
+ .bss           0x00020fdc        0x0 libm_pic.a(compat_cabsf.pico)
+ .bss           0x00020fdc        0x0 libm_pic.a(compat_cabs.pico)
+ .bss           0x00020fdc        0x0 libm_pic.a(s_fdim.pico)
+ .bss           0x00020fdc        0x0 libm_pic.a(s_fminl.pico)
+ .bss           0x00020fdc        0x0 libm_pic.a(s_fminf.pico)
+ .bss           0x00020fdc        0x0 libm_pic.a(s_fmin.pico)
+ .bss           0x00020fdc        0x0 libm_pic.a(s_fmaxl.pico)
+ .bss           0x00020fdc        0x0 libm_pic.a(s_fmaxf.pico)
+ .bss           0x00020fdc        0x0 libm_pic.a(s_fmax.pico)
+ .bss           0x00020fdc        0x0 libm_pic.a(s_modf.pico)
+ .bss           0x00020fdc        0x0 libm_pic.a(llroundf.pico)
+ .bss           0x00020fdc        0x0 libm_pic.a(llround.pico)
+ .bss           0x00020fdc        0x0 libm_pic.a(lroundf.pico)
+ .bss           0x00020fdc        0x0 libm_pic.a(lround.pico)
+ .bss           0x00020fdc        0x0 libm_pic.a(llrintf.pico)
+ .bss           0x00020fdc        0x0 libm_pic.a(llrint.pico)
+ .bss           0x00020fdc        0x0 libm_pic.a(lrintf.pico)
+ .bss           0x00020fdc        0x0 libm_pic.a(lrint.pico)
+ .bss           0x00020fdc        0x0 libm_pic.a(w_sqrtl.pico)
+ .bss           0x00020fdc        0x0 libm_pic.a(w_sqrtf.pico)
+ .bss           0x00020fdc        0x0 libm_pic.a(w_sqrt.pico)
+ .bss           0x00020fdc        0x0 libm_pic.a(w_sinhf.pico)
+ .bss           0x00020fdc        0x0 libm_pic.a(w_scalbf.pico)
+ .bss           0x00020fdc        0x0 libm_pic.a(w_powf.pico)
+ .bss           0x00020fdc        0x0 libm_pic.a(w_logf.pico)
+ .bss           0x00020fdc        0x0 libm_pic.a(w_log2f.pico)
+ .bss           0x00020fdc        0x0 libm_pic.a(w_log2.pico)
+ .bss           0x00020fdc        0x0 libm_pic.a(w_log10f.pico)
+ .bss           0x00020fdc        0x0 libm_pic.a(w_lgammaf_r.pico)
+ .bss           0x00020fdc        0x0 libm_pic.a(w_lgammaf.pico)
+ .bss           0x00020fdc        0x0 libm_pic.a(w_lgamma_r.pico)
+ .bss           0x00020fdc        0x0 libm_pic.a(w_lgamma.pico)
+ .bss           0x00020fdc        0x0 libm_pic.a(w_jnf.pico)
+ .bss           0x00020fdc        0x0 libm_pic.a(w_jn.pico)
+ .bss           0x00020fdc        0x0 libm_pic.a(w_j1f.pico)
+ .bss           0x00020fdc        0x0 libm_pic.a(w_j1.pico)
+ .bss           0x00020fdc        0x0 libm_pic.a(w_j0f.pico)
+ .bss           0x00020fdc        0x0 libm_pic.a(w_j0.pico)
+ .bss           0x00020fdc        0x0 libm_pic.a(w_hypotf.pico)
+ .bss           0x00020fdc        0x0 libm_pic.a(w_gammaf_r.pico)
+ .bss           0x00020fdc        0x0 libm_pic.a(w_gammaf.pico)
+ .bss           0x00020fdc        0x0 libm_pic.a(w_gamma_r.pico)
+ .bss           0x00020fdc        0x0 libm_pic.a(w_gamma.pico)
+ .bss           0x00020fdc        0x0 libm_pic.a(w_fmodl.pico)
+ .bss           0x00020fdc        0x0 libm_pic.a(w_fmodf.pico)
+ .bss           0x00020fdc        0x0 libm_pic.a(w_fmod.pico)
+ .bss           0x00020fdc        0x0 libm_pic.a(w_expf.pico)
+ .bss           0x00020fdc        0x0 libm_pic.a(w_dremf.pico)
+ .bss           0x00020fdc        0x0 libm_pic.a(w_drem.pico)
+ .bss           0x00020fdc        0x0 libm_pic.a(w_coshf.pico)
+ .bss           0x00020fdc        0x0 libm_pic.a(w_atanhf.pico)
+ .bss           0x00020fdc        0x0 libm_pic.a(w_atan2f.pico)
+ .bss           0x00020fdc        0x0 libm_pic.a(w_asinf.pico)
+ .bss           0x00020fdc        0x0 libm_pic.a(w_acoshf.pico)
+ .bss           0x00020fdc        0x0 libm_pic.a(w_acosf.pico)
+ .bss           0x00020fdc        0x0 libm_pic.a(s_truncl.pico)
+ .bss           0x00020fdc        0x0 libm_pic.a(s_truncf.pico)
+ .bss           0x00020fdc        0x0 libm_pic.a(s_trunc.pico)
+ .bss           0x00020fdc        0x0 libm_pic.a(s_tgammaf.pico)
+ .bss           0x00020fdc        0x0 libm_pic.a(s_tanhf.pico)
+ .bss           0x00020fdc        0x0 libm_pic.a(s_tanf.pico)
+ .bss           0x00020fdc        0x0 libm_pic.a(s_significandf.pico)
+ .bss           0x00020fdc        0x0 libm_pic.a(s_significand.pico)
+ .bss           0x00020fdc        0x4 libm_pic.a(s_signgam.pico)
+                0x00020fdc                signgam
+ .bss           0x00020fe0        0x0 libm_pic.a(s_scalbnl.pico)
+ .bss           0x00020fe0        0x0 libm_pic.a(s_roundl.pico)
+ .bss           0x00020fe0        0x0 libm_pic.a(s_roundf.pico)
+ .bss           0x00020fe0        0x0 libm_pic.a(s_round.pico)
+ .bss           0x00020fe0        0x0 libm_pic.a(s_remquof.pico)
+ .bss           0x00020fe0        0x0 libm_pic.a(s_remquo.pico)
+ .bss           0x00020fe0        0x0 libm_pic.a(s_nextafterf.pico)
+ .bss           0x00020fe0        0x0 libm_pic.a(s_modff.pico)
+ .bss           0x00020fe0        0x0 libm_pic.a(s_logbl.pico)
+ .bss           0x00020fe0        0x0 libm_pic.a(s_logbf.pico)
+ .bss           0x00020fe0        0x0 libm_pic.a(s_isinff.pico)
+ .bss           0x00020fe0        0x0 libm_pic.a(s_ilogbf.pico)
+ .bss           0x00020fe0        0x0 libm_pic.a(s_frexpf.pico)
+ .bss           0x00020fe0        0x0 libm_pic.a(s_floorl.pico)
+ .bss           0x00020fe0        0x0 libm_pic.a(s_finitef.pico)
+ .bss           0x00020fe0        0x0 libm_pic.a(s_fabsl.pico)
+ .bss           0x00020fe0        0x0 libm_pic.a(s_fabsf.pico)
+ .bss           0x00020fe0        0x0 libm_pic.a(s_exp2f.pico)
+ .bss           0x00020fe0        0x0 libm_pic.a(s_erff.pico)
+ .bss           0x00020fe0        0x0 libm_pic.a(s_erf.pico)
+ .bss           0x00020fe0        0x0 libm_pic.a(s_copysignl.pico)
+ .bss           0x00020fe0        0x0 libm_pic.a(s_copysignf.pico)
+ .bss           0x00020fe0        0x0 libm_pic.a(s_copysign.pico)
+ .bss           0x00020fe0        0x0 libm_pic.a(s_ceill.pico)
+ .bss           0x00020fe0        0x0 libm_pic.a(s_ceilf.pico)
+ .bss           0x00020fe0        0x0 libm_pic.a(s_cbrtl.pico)
+ .bss           0x00020fe0        0x0 libm_pic.a(s_cbrtf.pico)
+ .bss           0x00020fe0        0x0 libm_pic.a(s_cbrt.pico)
+ .bss           0x00020fe0        0x0 libm_pic.a(s_atanf.pico)
+ .bss           0x00020fe0        0x0 libm_pic.a(s_asinhf.pico)
+ .bss           0x00020fe0        0x0 libm_pic.a(ldbl_dummy.pico)
+ .bss           0x00020fe0        0x0 libm_pic.a(k_tanf.pico)
+ .bss           0x00020fe0        0x0 libm_pic.a(k_tan.pico)
+ .bss           0x00020fe0        0x0 libm_pic.a(e_sqrtl.pico)
+ .bss           0x00020fe0        0x0 libm_pic.a(e_sinhf.pico)
+ .bss           0x00020fe0        0x0 libm_pic.a(e_scalbf.pico)
+ .bss           0x00020fe0        0x0 libm_pic.a(e_rem_pio2f.pico)
+ .bss           0x00020fe0        0x0 libm_pic.a(e_rem_pio2.pico)
+ .bss           0x00020fe0        0x0 libm_pic.a(e_powf.pico)
+ .bss           0x00020fe0        0x0 libm_pic.a(e_log2f.pico)
+ .bss           0x00020fe0        0x0 libm_pic.a(e_log10f.pico)
+ .bss           0x00020fe0        0x0 libm_pic.a(e_log2.pico)
+ .bss           0x00020fe0        0x0 libm_pic.a(e_lgammaf_r.pico)
+ .bss           0x00020fe0        0x0 libm_pic.a(e_lgamma_r.pico)
+ .bss           0x00020fe0        0x0 libm_pic.a(e_jnf.pico)
+ .bss           0x00020fe0        0x0 libm_pic.a(e_jn.pico)
+ .bss           0x00020fe0        0x0 libm_pic.a(e_j1f.pico)
+ .bss           0x00020fe0        0x0 libm_pic.a(e_j1.pico)
+ .bss           0x00020fe0        0x0 libm_pic.a(e_j0f.pico)
+ .bss           0x00020fe0        0x0 libm_pic.a(e_j0.pico)
+ .bss           0x00020fe0        0x0 libm_pic.a(e_hypotf.pico)
+ .bss           0x00020fe0        0x0 libm_pic.a(e_fmodl.pico)
+ .bss           0x00020fe0        0x0 libm_pic.a(e_fmodf.pico)
+ .bss           0x00020fe0        0x0 libm_pic.a(e_fmod.pico)
+ .bss           0x00020fe0        0x0 libm_pic.a(e_coshf.pico)
+ .bss           0x00020fe0        0x0 libm_pic.a(e_atanhf.pico)
+ .bss           0x00020fe0        0x0 libm_pic.a(e_atan2f.pico)
+ .bss           0x00020fe0        0x0 libm_pic.a(e_asinf.pico)
+ .bss           0x00020fe0        0x0 libm_pic.a(e_acoshf.pico)
+ .bss           0x00020fe0        0x0 libm_pic.a(e_acosf.pico)
+ .bss           0x00020fe0        0x0 libm_pic.a(b_tgamma.pico)
+ .bss           0x00020fe0        0x0 libm_pic.a(b_log.pico)
+ .bss           0x00020fe0        0x0 libm_pic.a(b_exp.pico)
+ .bss           0x00020fe0        0x0 libm_pic.a(s_fmal.pico)
+ .bss           0x00020fe0        0x0 libm_pic.a(s_fmaf.pico)
+ .bss           0x00020fe0        0x0 libm_pic.a(s_fma.pico)
+ .bss           0x00020fe0        0x0 libm_pic.a(s_nearbyint.pico)
+ .bss           0x00020fe0        0x0 libm_pic.a(s_nexttowardf.pico)
+ .bss           0x00020fe0        0x0 libm_pic.a(s_nexttoward.pico)
+ .bss           0x00020fe0        0x0 libm_pic.a(fenv.pico)
+ .bss           0x00020fe0        0x0 libm_pic.a(s_frexpl.pico)
+ .bss           0x00020fe0        0x0 libm_pic.a(s_frexp.pico)
+ .bss           0x00020fe0        0x0 libm_pic.a(w_sinh.pico)
+ .bss           0x00020fe0        0x0 libm_pic.a(w_scalb.pico)
+ .bss           0x00020fe0        0x0 libm_pic.a(w_remainderf.pico)
+ .bss           0x00020fe0        0x0 libm_pic.a(w_remainder.pico)
+ .bss           0x00020fe0        0x0 libm_pic.a(w_pow.pico)
+ .bss           0x00020fe0        0x0 libm_pic.a(w_log10.pico)
+ .bss           0x00020fe0        0x0 libm_pic.a(w_log.pico)
+ .bss           0x00020fe0        0x0 libm_pic.a(w_hypot.pico)
+ .bss           0x00020fe0        0x0 libm_pic.a(w_exp.pico)
+ .bss           0x00020fe0        0x0 libm_pic.a(w_cosh.pico)
+ .bss           0x00020fe0        0x0 libm_pic.a(w_atanh.pico)
+ .bss           0x00020fe0        0x0 libm_pic.a(w_atan2.pico)
+ .bss           0x00020fe0        0x0 libm_pic.a(w_asin.pico)
+ .bss           0x00020fe0        0x0 libm_pic.a(w_acosh.pico)
+ .bss           0x00020fe0        0x0 libm_pic.a(w_acos.pico)
+ .bss           0x00020fe0        0x0 libm_pic.a(s_tanh.pico)
+ .bss           0x00020fe0        0x0 libm_pic.a(s_tan.pico)
+ .bss           0x00020fe0        0x0 libm_pic.a(s_sinf.pico)
+ .bss           0x00020fe0        0x0 libm_pic.a(s_sin.pico)
+ .bss           0x00020fe0        0x0 libm_pic.a(s_rintf.pico)
+ .bss           0x00020fe0        0x0 libm_pic.a(s_nextafterl.pico)
+ .bss           0x00020fe0        0x0 libm_pic.a(s_nextafter.pico)
+ .bss           0x00020fe0        0x0 libm_pic.a(s_logb.pico)
+ .bss           0x00020fe0        0x0 libm_pic.a(s_log1pf.pico)
+ .bss           0x00020fe0        0x0 libm_pic.a(s_isnanf.pico)
+ .bss           0x00020fe0        0x0 libm_pic.a(s_ilogbl.pico)
+ .bss           0x00020fe0        0x0 libm_pic.a(s_ilogb.pico)
+ .bss           0x00020fe0        0x0 libm_pic.a(s_finite.pico)
+ .bss           0x00020fe0        0x0 libm_pic.a(s_expm1f.pico)
+ .bss           0x00020fe0        0x0 libm_pic.a(s_exp2.pico)
+ .bss           0x00020fe0        0x0 libm_pic.a(s_cosf.pico)
+ .bss           0x00020fe0        0x0 libm_pic.a(s_cos.pico)
+ .bss           0x00020fe0        0x0 libm_pic.a(s_ceil.pico)
+ .bss           0x00020fe0        0x0 libm_pic.a(s_atan.pico)
+ .bss           0x00020fe0        0x0 libm_pic.a(s_asinh.pico)
+ .bss           0x00020fe0        0x0 libm_pic.a(k_standard.pico)
+ .bss           0x00020fe0        0x0 libm_pic.a(k_sinf.pico)
+ .bss           0x00020fe0        0x0 libm_pic.a(k_sin.pico)
+ .bss           0x00020fe0        0x0 libm_pic.a(k_rem_pio2f.pico)
+ .bss           0x00020fe0        0x0 libm_pic.a(k_rem_pio2.pico)
+ .bss           0x00020fe0        0x0 libm_pic.a(k_cosf.pico)
+ .bss           0x00020fe0        0x0 libm_pic.a(k_cos.pico)
+ .bss           0x00020fe0        0x0 libm_pic.a(e_sqrtf.pico)
+ .bss           0x00020fe0        0x0 libm_pic.a(e_sinh.pico)
+ .bss           0x00020fe0        0x0 libm_pic.a(e_scalb.pico)
+ .bss           0x00020fe0        0x0 libm_pic.a(e_remainderf.pico)
+ .bss           0x00020fe0        0x0 libm_pic.a(e_remainder.pico)
+ .bss           0x00020fe0        0x0 libm_pic.a(e_pow.pico)
+ .bss           0x00020fe0        0x0 libm_pic.a(e_logf.pico)
+ .bss           0x00020fe0        0x0 libm_pic.a(e_log10.pico)
+ .bss           0x00020fe0        0x0 libm_pic.a(e_hypot.pico)
+ .bss           0x00020fe0        0x0 libm_pic.a(e_expf.pico)
+ .bss           0x00020fe0        0x0 libm_pic.a(e_cosh.pico)
+ .bss           0x00020fe0        0x0 libm_pic.a(e_atanh.pico)
+ .bss           0x00020fe0        0x0 libm_pic.a(e_atan2.pico)
+ .bss           0x00020fe0        0x0 libm_pic.a(e_asin.pico)
+ .bss           0x00020fe0        0x0 libm_pic.a(e_acosh.pico)
+ .bss           0x00020fe0        0x0 libm_pic.a(e_acos.pico)
+ .bss           0x00020fe0        0x0 libm_pic.a(s_rintl.pico)
+ .bss           0x00020fe0        0x0 libm_pic.a(s_scalbnf.pico)
+ .bss           0x00020fe0        0x0 libm_pic.a(s_scalbn.pico)
+ .bss           0x00020fe0        0x0 libm_pic.a(s_rint.pico)
+ .bss           0x00020fe0        0x0 libm_pic.a(s_matherr.pico)
+ .bss           0x00020fe0        0x0 libm_pic.a(s_log1p.pico)
+ .bss           0x00020fe0        0x0 libm_pic.a(s_lib_version.pico)
+ .bss           0x00020fe0        0x0 libm_pic.a(s_floorf.pico)
+ .bss           0x00020fe0        0x0 libm_pic.a(s_floor.pico)
+ .bss           0x00020fe0        0x0 libm_pic.a(s_expm1.pico)
+ .bss           0x00020fe0        0x0 libm_pic.a(e_sqrt.pico)
+ .bss           0x00020fe0        0x0 libm_pic.a(e_log.pico)
+ .bss           0x00020fe0        0x0 libm_pic.a(e_exp.pico)
+ .bss           0x00020fe0        0x0 /usr/lib/crtendS.o
+ .bss           0x00020fe0        0x0 /usr/lib/crtn.o
+ *(COMMON)
+                0x00020fe0                . = ALIGN ((. != 0x0)?0x4:0x1)
+                0x00020fe0                . = ALIGN (0x4)
+                0x00020fe0                . = ALIGN (0x4)
+                0x00020fe0                _end = .
+                0x00020fe0                PROVIDE (end, .)
+                0x00020fe0                . = DATA_SEGMENT_END (.)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x00000000       0x28
+ *(.comment)
+ .comment       0x00000000       0x28 libm_pic.a(divsc3.pico)
+                                 0x29 (size before relaxing)
+ .comment       0x00000000       0x29 libm_pic.a(divdc3.pico)
+ .comment       0x00000000       0x29 libm_pic.a(divxc3.pico)
+ .comment       0x00000000       0x29 libm_pic.a(mulsc3.pico)
+ .comment       0x00000000       0x29 libm_pic.a(mulxc3.pico)
+ .comment       0x00000000       0x29 libm_pic.a(nanl.pico)
+ .comment       0x00000000       0x29 libm_pic.a(nanf.pico)
+ .comment       0x00000000       0x29 libm_pic.a(nan.pico)
+ .comment       0x00000000       0x29 libm_pic.a(cprojf.pico)
+ .comment       0x00000000       0x29 libm_pic.a(cproj.pico)
+ .comment       0x00000000       0x29 libm_pic.a(catanhf.pico)
+ .comment       0x00000000       0x29 libm_pic.a(cacoshf.pico)
+ .comment       0x00000000       0x29 libm_pic.a(casinhf.pico)
+ .comment       0x00000000       0x29 libm_pic.a(catanf.pico)
+ .comment       0x00000000       0x29 libm_pic.a(cacosf.pico)
+ .comment       0x00000000       0x29 libm_pic.a(casinf.pico)
+ .comment       0x00000000       0x29 libm_pic.a(ctanhf.pico)
+ .comment       0x00000000       0x29 libm_pic.a(ccoshf.pico)
+ .comment       0x00000000       0x29 libm_pic.a(csinhf.pico)
+ .comment       0x00000000       0x29 libm_pic.a(ctanf.pico)
+ .comment       0x00000000       0x29 libm_pic.a(ccosf.pico)
+ .comment       0x00000000       0x29 libm_pic.a(csinf.pico)
+ .comment       0x00000000       0x29 libm_pic.a(cephes_subrf.pico)
+ .comment       0x00000000       0x29 libm_pic.a(cpowf.pico)
+ .comment       0x00000000       0x29 libm_pic.a(clogf.pico)
+ .comment       0x00000000       0x29 libm_pic.a(cexpf.pico)
+ .comment       0x00000000       0x29 libm_pic.a(csqrtf.pico)
+ .comment       0x00000000       0x29 libm_pic.a(catanh.pico)
+ .comment       0x00000000       0x29 libm_pic.a(cacosh.pico)
+ .comment       0x00000000       0x29 libm_pic.a(casinh.pico)
+ .comment       0x00000000       0x29 libm_pic.a(catan.pico)
+ .comment       0x00000000       0x29 libm_pic.a(cacos.pico)
+ .comment       0x00000000       0x29 libm_pic.a(casin.pico)
+ .comment       0x00000000       0x29 libm_pic.a(ctanh.pico)
+ .comment       0x00000000       0x29 libm_pic.a(ccosh.pico)
+ .comment       0x00000000       0x29 libm_pic.a(csinh.pico)
+ .comment       0x00000000       0x29 libm_pic.a(ctan.pico)
+ .comment       0x00000000       0x29 libm_pic.a(ccos.pico)
+ .comment       0x00000000       0x29 libm_pic.a(csin.pico)
+ .comment       0x00000000       0x29 libm_pic.a(cephes_subr.pico)
+ .comment       0x00000000       0x29 libm_pic.a(cpow.pico)
+ .comment       0x00000000       0x29 libm_pic.a(clog.pico)
+ .comment       0x00000000       0x29 libm_pic.a(cexp.pico)
+ .comment       0x00000000       0x29 libm_pic.a(csqrt.pico)
+ .comment       0x00000000       0x29 libm_pic.a(conjl.pico)
+ .comment       0x00000000       0x29 libm_pic.a(conjf.pico)
+ .comment       0x00000000       0x29 libm_pic.a(conj.pico)
+ .comment       0x00000000       0x29 libm_pic.a(cimagl.pico)
+ .comment       0x00000000       0x29 libm_pic.a(cimagf.pico)
+ .comment       0x00000000       0x29 libm_pic.a(cimag.pico)
+ .comment       0x00000000       0x29 libm_pic.a(creall.pico)
+ .comment       0x00000000       0x29 libm_pic.a(crealf.pico)
+ .comment       0x00000000       0x29 libm_pic.a(creal.pico)
+ .comment       0x00000000       0x29 libm_pic.a(cargf.pico)
+ .comment       0x00000000       0x29 libm_pic.a(carg.pico)
+ .comment       0x00000000       0x29 libm_pic.a(cabsf.pico)
+ .comment       0x00000000       0x29 libm_pic.a(cabs.pico)
+ .comment       0x00000000       0x29 libm_pic.a(compat_cabsf.pico)
+ .comment       0x00000000       0x29 libm_pic.a(compat_cabs.pico)
+ .comment       0x00000000       0x29 libm_pic.a(s_fdim.pico)
+ .comment       0x00000000       0x29 libm_pic.a(s_fminl.pico)
+ .comment       0x00000000       0x29 libm_pic.a(s_fminf.pico)
+ .comment       0x00000000       0x29 libm_pic.a(s_fmin.pico)
+ .comment       0x00000000       0x29 libm_pic.a(s_fmaxl.pico)
+ .comment       0x00000000       0x29 libm_pic.a(s_fmaxf.pico)
+ .comment       0x00000000       0x29 libm_pic.a(s_fmax.pico)
+ .comment       0x00000000       0x29 libm_pic.a(s_modf.pico)
+ .comment       0x00000000       0x29 libm_pic.a(llroundf.pico)
+ .comment       0x00000000       0x29 libm_pic.a(llround.pico)
+ .comment       0x00000000       0x29 libm_pic.a(lroundf.pico)
+ .comment       0x00000000       0x29 libm_pic.a(lround.pico)
+ .comment       0x00000000       0x29 libm_pic.a(llrintf.pico)
+ .comment       0x00000000       0x29 libm_pic.a(llrint.pico)
+ .comment       0x00000000       0x29 libm_pic.a(lrintf.pico)
+ .comment       0x00000000       0x29 libm_pic.a(w_sqrtl.pico)
+ .comment       0x00000000       0x29 libm_pic.a(w_sqrtf.pico)
+ .comment       0x00000000       0x29 libm_pic.a(w_sqrt.pico)
+ .comment       0x00000000       0x29 libm_pic.a(w_sinhf.pico)
+ .comment       0x00000000       0x29 libm_pic.a(w_scalbf.pico)
+ .comment       0x00000000       0x29 libm_pic.a(w_powf.pico)
+ .comment       0x00000000       0x29 libm_pic.a(w_logf.pico)
+ .comment       0x00000000       0x29 libm_pic.a(w_log2f.pico)
+ .comment       0x00000000       0x29 libm_pic.a(w_log2.pico)
+ .comment       0x00000000       0x29 libm_pic.a(w_log10f.pico)
+ .comment       0x00000000       0x29 libm_pic.a(w_lgammaf_r.pico)
+ .comment       0x00000000       0x29 libm_pic.a(w_lgammaf.pico)
+ .comment       0x00000000       0x29 libm_pic.a(w_lgamma_r.pico)
+ .comment       0x00000000       0x29 libm_pic.a(w_lgamma.pico)
+ .comment       0x00000000       0x29 libm_pic.a(w_jnf.pico)
+ .comment       0x00000000       0x29 libm_pic.a(w_jn.pico)
+ .comment       0x00000000       0x29 libm_pic.a(w_j1f.pico)
+ .comment       0x00000000       0x29 libm_pic.a(w_j1.pico)
+ .comment       0x00000000       0x29 libm_pic.a(w_j0f.pico)
+ .comment       0x00000000       0x29 libm_pic.a(w_j0.pico)
+ .comment       0x00000000       0x29 libm_pic.a(w_hypotf.pico)
+ .comment       0x00000000       0x29 libm_pic.a(w_gammaf_r.pico)
+ .comment       0x00000000       0x29 libm_pic.a(w_gammaf.pico)
+ .comment       0x00000000       0x29 libm_pic.a(w_gamma_r.pico)
+ .comment       0x00000000       0x29 libm_pic.a(w_gamma.pico)
+ .comment       0x00000000       0x29 libm_pic.a(w_fmodl.pico)
+ .comment       0x00000000       0x29 libm_pic.a(w_fmodf.pico)
+ .comment       0x00000000       0x29 libm_pic.a(w_fmod.pico)
+ .comment       0x00000000       0x29 libm_pic.a(w_expf.pico)
+ .comment       0x00000000       0x29 libm_pic.a(w_dremf.pico)
+ .comment       0x00000000       0x29 libm_pic.a(w_drem.pico)
+ .comment       0x00000000       0x29 libm_pic.a(w_coshf.pico)
+ .comment       0x00000000       0x29 libm_pic.a(w_atanhf.pico)
+ .comment       0x00000000       0x29 libm_pic.a(w_atan2f.pico)
+ .comment       0x00000000       0x29 libm_pic.a(w_asinf.pico)
+ .comment       0x00000000       0x29 libm_pic.a(w_acoshf.pico)
+ .comment       0x00000000       0x29 libm_pic.a(w_acosf.pico)
+ .comment       0x00000000       0x29 libm_pic.a(s_truncl.pico)
+ .comment       0x00000000       0x29 libm_pic.a(s_truncf.pico)
+ .comment       0x00000000       0x29 libm_pic.a(s_trunc.pico)
+ .comment       0x00000000       0x29 libm_pic.a(s_tgammaf.pico)
+ .comment       0x00000000       0x29 libm_pic.a(s_tanhf.pico)
+ .comment       0x00000000       0x29 libm_pic.a(s_signgam.pico)
+ .comment       0x00000000       0x29 libm_pic.a(s_roundl.pico)
+ .comment       0x00000000       0x29 libm_pic.a(s_roundf.pico)
+ .comment       0x00000000       0x29 libm_pic.a(s_round.pico)
+ .comment       0x00000000       0x29 libm_pic.a(s_remquof.pico)
+ .comment       0x00000000       0x29 libm_pic.a(s_remquo.pico)
+ .comment       0x00000000       0x29 libm_pic.a(s_nextafterf.pico)
+ .comment       0x00000000       0x29 libm_pic.a(s_modff.pico)
+ .comment       0x00000000       0x29 libm_pic.a(s_isinff.pico)
+ .comment       0x00000000       0x29 libm_pic.a(s_frexpf.pico)
+ .comment       0x00000000       0x29 libm_pic.a(s_floorl.pico)
+ .comment       0x00000000       0x29 libm_pic.a(s_fabsl.pico)
+ .comment       0x00000000       0x29 libm_pic.a(s_fabsf.pico)
+ .comment       0x00000000       0x29 libm_pic.a(s_exp2f.pico)
+ .comment       0x00000000       0x29 libm_pic.a(s_erff.pico)
+ .comment       0x00000000       0x29 libm_pic.a(s_erf.pico)
+ .comment       0x00000000       0x29 libm_pic.a(s_copysignl.pico)
+ .comment       0x00000000       0x29 libm_pic.a(s_ceill.pico)
+ .comment       0x00000000       0x29 libm_pic.a(s_cbrtl.pico)
+ .comment       0x00000000       0x29 libm_pic.a(s_cbrtf.pico)
+ .comment       0x00000000       0x29 libm_pic.a(s_cbrt.pico)
+ .comment       0x00000000       0x29 libm_pic.a(s_asinhf.pico)
+ .comment       0x00000000       0x29 libm_pic.a(ldbl_dummy.pico)
+ .comment       0x00000000       0x29 libm_pic.a(k_tanf.pico)
+ .comment       0x00000000       0x29 libm_pic.a(k_tan.pico)
+ .comment       0x00000000       0x29 libm_pic.a(e_sqrtl.pico)
+ .comment       0x00000000       0x29 libm_pic.a(e_sinhf.pico)
+ .comment       0x00000000       0x29 libm_pic.a(e_rem_pio2f.pico)
+ .comment       0x00000000       0x29 libm_pic.a(e_rem_pio2.pico)
+ .comment       0x00000000       0x29 libm_pic.a(e_powf.pico)
+ .comment       0x00000000       0x29 libm_pic.a(e_lgammaf_r.pico)
+ .comment       0x00000000       0x29 libm_pic.a(e_lgamma_r.pico)
+ .comment       0x00000000       0x29 libm_pic.a(e_jnf.pico)
+ .comment       0x00000000       0x29 libm_pic.a(e_jn.pico)
+ .comment       0x00000000       0x29 libm_pic.a(e_j1f.pico)
+ .comment       0x00000000       0x29 libm_pic.a(e_j1.pico)
+ .comment       0x00000000       0x29 libm_pic.a(e_j0f.pico)
+ .comment       0x00000000       0x29 libm_pic.a(e_j0.pico)
+ .comment       0x00000000       0x29 libm_pic.a(e_hypotf.pico)
+ .comment       0x00000000       0x29 libm_pic.a(e_fmodl.pico)
+ .comment       0x00000000       0x29 libm_pic.a(e_fmodf.pico)
+ .comment       0x00000000       0x29 libm_pic.a(e_coshf.pico)
+ .comment       0x00000000       0x29 libm_pic.a(e_atanhf.pico)
+ .comment       0x00000000       0x29 libm_pic.a(e_asinf.pico)
+ .comment       0x00000000       0x29 libm_pic.a(e_acoshf.pico)
+ .comment       0x00000000       0x29 libm_pic.a(e_acosf.pico)
+ .comment       0x00000000       0x29 libm_pic.a(b_tgamma.pico)
+ .comment       0x00000000       0x29 libm_pic.a(b_log.pico)
+ .comment       0x00000000       0x29 libm_pic.a(b_exp.pico)
+ .comment       0x00000000       0x29 libm_pic.a(s_fmal.pico)
+ .comment       0x00000000       0x29 libm_pic.a(s_fmaf.pico)
+ .comment       0x00000000       0x29 libm_pic.a(s_fma.pico)
+ .comment       0x00000000       0x29 libm_pic.a(s_nearbyint.pico)
+ .comment       0x00000000       0x29 libm_pic.a(s_nexttowardf.pico)
+ .comment       0x00000000       0x29 libm_pic.a(s_nexttoward.pico)
+ .comment       0x00000000       0x29 libm_pic.a(fenv.pico)
+ .comment       0x00000000       0x29 libm_pic.a(s_frexpl.pico)
+ .comment       0x00000000       0x29 libm_pic.a(s_frexp.pico)
+ .comment       0x00000000       0x29 libm_pic.a(w_sinh.pico)
+ .comment       0x00000000       0x29 libm_pic.a(w_scalb.pico)
+ .comment       0x00000000       0x29 libm_pic.a(w_remainderf.pico)
+ .comment       0x00000000       0x29 libm_pic.a(w_remainder.pico)
+ .comment       0x00000000       0x29 libm_pic.a(w_pow.pico)
+ .comment       0x00000000       0x29 libm_pic.a(w_log10.pico)
+ .comment       0x00000000       0x29 libm_pic.a(w_log.pico)
+ .comment       0x00000000       0x29 libm_pic.a(w_hypot.pico)
+ .comment       0x00000000       0x29 libm_pic.a(w_exp.pico)
+ .comment       0x00000000       0x29 libm_pic.a(w_cosh.pico)
+ .comment       0x00000000       0x29 libm_pic.a(w_atanh.pico)
+ .comment       0x00000000       0x29 libm_pic.a(w_atan2.pico)
+ .comment       0x00000000       0x29 libm_pic.a(w_asin.pico)
+ .comment       0x00000000       0x29 libm_pic.a(w_acosh.pico)
+ .comment       0x00000000       0x29 libm_pic.a(w_acos.pico)
+ .comment       0x00000000       0x29 libm_pic.a(s_tanh.pico)
+ .comment       0x00000000       0x29 libm_pic.a(s_nextafterl.pico)
+ .comment       0x00000000       0x29 libm_pic.a(s_nextafter.pico)
+ .comment       0x00000000       0x29 libm_pic.a(s_isnanf.pico)
+ .comment       0x00000000       0x29 libm_pic.a(s_expm1f.pico)
+ .comment       0x00000000       0x29 libm_pic.a(s_exp2.pico)
+ .comment       0x00000000       0x29 libm_pic.a(s_asinh.pico)
+ .comment       0x00000000       0x29 libm_pic.a(k_standard.pico)
+ .comment       0x00000000       0x29 libm_pic.a(k_sinf.pico)
+ .comment       0x00000000       0x29 libm_pic.a(k_sin.pico)
+ .comment       0x00000000       0x29 libm_pic.a(k_rem_pio2f.pico)
+ .comment       0x00000000       0x29 libm_pic.a(k_rem_pio2.pico)
+ .comment       0x00000000       0x29 libm_pic.a(k_cosf.pico)
+ .comment       0x00000000       0x29 libm_pic.a(k_cos.pico)
+ .comment       0x00000000       0x29 libm_pic.a(e_sinh.pico)
+ .comment       0x00000000       0x29 libm_pic.a(e_pow.pico)
+ .comment       0x00000000       0x29 libm_pic.a(e_hypot.pico)
+ .comment       0x00000000       0x29 libm_pic.a(e_cosh.pico)
+ .comment       0x00000000       0x29 libm_pic.a(e_atanh.pico)
+ .comment       0x00000000       0x29 libm_pic.a(e_acosh.pico)
+ .comment       0x00000000       0x29 libm_pic.a(s_rintl.pico)
+ .comment       0x00000000       0x29 libm_pic.a(s_matherr.pico)
+ .comment       0x00000000       0x29 libm_pic.a(s_lib_version.pico)
+ .comment       0x00000000       0x29 libm_pic.a(s_expm1.pico)
+
+.ident          0x00000000     0x2e98
+ .ident         0x00000000       0x36 /usr/lib/crti.o
+ .ident         0x00000036       0x3a /usr/lib/crtbeginS.o
+ .ident         0x00000070       0x37 libm_pic.a(nanl.pico)
+ .ident         0x000000a7       0x37 libm_pic.a(nanf.pico)
+ .ident         0x000000de       0x36 libm_pic.a(nan.pico)
+ .ident         0x00000114       0x3b libm_pic.a(cprojf.pico)
+ .ident         0x0000014f       0x3a libm_pic.a(cproj.pico)
+ .ident         0x00000189       0x3a libm_pic.a(conjl.pico)
+ .ident         0x000001c3       0x3b libm_pic.a(cimagl.pico)
+ .ident         0x000001fe       0x3b libm_pic.a(creall.pico)
+ .ident         0x00000239       0x41 libm_pic.a(compat_cabsf.pico)
+ .ident         0x0000027a       0x40 libm_pic.a(compat_cabs.pico)
+ .ident         0x000002ba        0x9 libm_pic.a(s_fdim.pico)
+ .ident         0x000002c3       0x39 libm_pic.a(s_fminl.pico)
+ .ident         0x000002fc       0x37 libm_pic.a(s_fminf.pico)
+ .ident         0x00000333       0x38 libm_pic.a(s_fmin.pico)
+ .ident         0x0000036b       0x39 libm_pic.a(s_fmaxl.pico)
+ .ident         0x000003a4       0x37 libm_pic.a(s_fmaxf.pico)
+ .ident         0x000003db       0x38 libm_pic.a(s_fmax.pico)
+ .ident         0x00000413       0x3c libm_pic.a(s_modf.pico)
+ .ident         0x0000044f       0x39 libm_pic.a(w_sqrtl.pico)
+ .ident         0x00000488       0x37 libm_pic.a(w_sqrtf.pico)
+ .ident         0x000004bf       0x39 libm_pic.a(w_sqrt.pico)
+ .ident         0x000004f8       0x3c libm_pic.a(w_sinhf.pico)
+ .ident         0x00000534       0x38 libm_pic.a(w_scalbf.pico)
+ .ident         0x0000056c       0x36 libm_pic.a(w_powf.pico)
+ .ident         0x000005a2       0x3b libm_pic.a(w_logf.pico)
+ .ident         0x000005dd       0x3c libm_pic.a(w_log2f.pico)
+ .ident         0x00000619       0x3b libm_pic.a(w_log2.pico)
+ .ident         0x00000654       0x38 libm_pic.a(w_log10f.pico)
+ .ident         0x0000068c       0x3b libm_pic.a(w_lgammaf_r.pico)
+ .ident         0x000006c7       0x39 libm_pic.a(w_lgammaf.pico)
+ .ident         0x00000700       0x3b libm_pic.a(w_lgamma_r.pico)
+ .ident         0x0000073b       0x39 libm_pic.a(w_lgamma.pico)
+ .ident         0x00000774       0x35 libm_pic.a(w_jnf.pico)
+ .ident         0x000007a9       0x34 libm_pic.a(w_jn.pico)
+ .ident         0x000007dd       0x35 libm_pic.a(w_j1f.pico)
+ .ident         0x00000812       0x34 libm_pic.a(w_j1.pico)
+ .ident         0x00000846       0x35 libm_pic.a(w_j0f.pico)
+ .ident         0x0000087b       0x34 libm_pic.a(w_j0.pico)
+ .ident         0x000008af       0x3d libm_pic.a(w_hypotf.pico)
+ .ident         0x000008ec       0x3a libm_pic.a(w_gammaf_r.pico)
+ .ident         0x00000926       0x38 libm_pic.a(w_gammaf.pico)
+ .ident         0x0000095e       0x3a libm_pic.a(w_gamma_r.pico)
+ .ident         0x00000998       0x38 libm_pic.a(w_gamma.pico)
+ .ident         0x000009d0       0x3a libm_pic.a(w_fmodl.pico)
+ .ident         0x00000a0a       0x37 libm_pic.a(w_fmodf.pico)
+ .ident         0x00000a41       0x39 libm_pic.a(w_fmod.pico)
+ .ident         0x00000a7a       0x3b libm_pic.a(w_expf.pico)
+ .ident         0x00000ab5       0x3c libm_pic.a(w_dremf.pico)
+ .ident         0x00000af1       0x3b libm_pic.a(w_drem.pico)
+ .ident         0x00000b2c       0x3c libm_pic.a(w_coshf.pico)
+ .ident         0x00000b68       0x38 libm_pic.a(w_atanhf.pico)
+ .ident         0x00000ba0       0x3d libm_pic.a(w_atan2f.pico)
+ .ident         0x00000bdd       0x3c libm_pic.a(w_asinf.pico)
+ .ident         0x00000c19       0x38 libm_pic.a(w_acoshf.pico)
+ .ident         0x00000c51       0x37 libm_pic.a(w_acosf.pico)
+ .ident         0x00000c88       0x3a libm_pic.a(s_truncl.pico)
+ .ident         0x00000cc2       0x3d libm_pic.a(s_truncf.pico)
+ .ident         0x00000cff       0x39 libm_pic.a(s_trunc.pico)
+ .ident         0x00000d38       0x3e libm_pic.a(s_tgammaf.pico)
+ .ident         0x00000d76       0x37 libm_pic.a(s_tanhf.pico)
+ .ident         0x00000dad       0x37 libm_pic.a(s_tanf.pico)
+ .ident         0x00000de4       0x3f libm_pic.a(s_significandf.pico)
+ .ident         0x00000e23       0x3e libm_pic.a(s_significand.pico)
+ .ident         0x00000e61       0x3d libm_pic.a(s_scalbnl.pico)
+ .ident         0x00000e9e       0x3a libm_pic.a(s_roundl.pico)
+ .ident         0x00000ed8       0x3d libm_pic.a(s_roundf.pico)
+ .ident         0x00000f15       0x39 libm_pic.a(s_round.pico)
+ .ident         0x00000f4e       0x41 libm_pic.a(s_nextafterf.pico)
+ .ident         0x00000f8f       0x3c libm_pic.a(s_modff.pico)
+ .ident         0x00000fcb       0x39 libm_pic.a(s_logbl.pico)
+ .ident         0x00001004       0x38 libm_pic.a(s_logbf.pico)
+ .ident         0x0000103c       0x39 libm_pic.a(s_isinff.pico)
+ .ident         0x00001075       0x39 libm_pic.a(s_ilogbf.pico)
+ .ident         0x000010ae       0x3e libm_pic.a(s_frexpf.pico)
+ .ident         0x000010ec       0x3a libm_pic.a(s_floorl.pico)
+ .ident         0x00001126       0x3a libm_pic.a(s_finitef.pico)
+ .ident         0x00001160       0x39 libm_pic.a(s_fabsl.pico)
+ .ident         0x00001199       0x37 libm_pic.a(s_fabsf.pico)
+ .ident         0x000011d0       0x3c libm_pic.a(s_exp2f.pico)
+ .ident         0x0000120c       0x36 libm_pic.a(s_erff.pico)
+ .ident         0x00001242       0x36 libm_pic.a(s_erf.pico)
+ .ident         0x00001278       0x40 libm_pic.a(s_copysignl.pico)
+ .ident         0x000012b8       0x3d libm_pic.a(s_copysignf.pico)
+ .ident         0x000012f5       0x3c libm_pic.a(s_copysign.pico)
+ .ident         0x00001331       0x39 libm_pic.a(s_ceill.pico)
+ .ident         0x0000136a       0x39 libm_pic.a(s_ceilf.pico)
+ .ident         0x000013a3       0x39 libm_pic.a(s_cbrtl.pico)
+ .ident         0x000013dc       0x37 libm_pic.a(s_cbrtf.pico)
+ .ident         0x00001413       0x39 libm_pic.a(s_cbrt.pico)
+ .ident         0x0000144c       0x38 libm_pic.a(s_atanf.pico)
+ .ident         0x00001484       0x38 libm_pic.a(s_asinhf.pico)
+ .ident         0x000014bc       0x3c libm_pic.a(ldbl_dummy.pico)
+ .ident         0x000014f8       0x36 libm_pic.a(k_tanf.pico)
+ .ident         0x0000152e       0x3b libm_pic.a(k_tan.pico)
+ .ident         0x00001569       0x3a libm_pic.a(e_sqrtl.pico)
+ .ident         0x000015a3       0x37 libm_pic.a(e_sinhf.pico)
+ .ident         0x000015da       0x39 libm_pic.a(e_scalbf.pico)
+ .ident         0x00001613       0x3d libm_pic.a(e_rem_pio2f.pico)
+ .ident         0x00001650       0x3b libm_pic.a(e_rem_pio2.pico)
+ .ident         0x0000168b       0x3c libm_pic.a(e_powf.pico)
+ .ident         0x000016c7       0x3a libm_pic.a(e_log2f.pico)
+ .ident         0x00001701       0x39 libm_pic.a(e_log10f.pico)
+ .ident         0x0000173a       0x39 libm_pic.a(e_log2.pico)
+ .ident         0x00001773       0x3b libm_pic.a(e_lgammaf_r.pico)
+ .ident         0x000017ae       0x3b libm_pic.a(e_lgamma_r.pico)
+ .ident         0x000017e9       0x3b libm_pic.a(e_jnf.pico)
+ .ident         0x00001824       0x3a libm_pic.a(e_jn.pico)
+ .ident         0x0000185e       0x3b libm_pic.a(e_j1f.pico)
+ .ident         0x00001899       0x3a libm_pic.a(e_j1.pico)
+ .ident         0x000018d3       0x3b libm_pic.a(e_j0f.pico)
+ .ident         0x0000190e       0x3a libm_pic.a(e_j0.pico)
+ .ident         0x00001948       0x3d libm_pic.a(e_hypotf.pico)
+ .ident         0x00001985       0x3a libm_pic.a(e_fmodl.pico)
+ .ident         0x000019bf       0x37 libm_pic.a(e_fmodf.pico)
+ .ident         0x000019f6       0x37 libm_pic.a(e_fmod.pico)
+ .ident         0x00001a2d       0x37 libm_pic.a(e_coshf.pico)
+ .ident         0x00001a64       0x38 libm_pic.a(e_atanhf.pico)
+ .ident         0x00001a9c       0x39 libm_pic.a(e_atan2f.pico)
+ .ident         0x00001ad5       0x37 libm_pic.a(e_asinf.pico)
+ .ident         0x00001b0c       0x38 libm_pic.a(e_acoshf.pico)
+ .ident         0x00001b44       0x37 libm_pic.a(e_acosf.pico)
+ .ident         0x00001b7b       0x3d libm_pic.a(b_tgamma.pico)
+ .ident         0x00001bb8       0x3a libm_pic.a(b_log.pico)
+ .ident         0x00001bf2       0x3a libm_pic.a(b_exp.pico)
+ .ident         0x00001c2c       0x39 libm_pic.a(s_fmal.pico)
+ .ident         0x00001c65       0x3b libm_pic.a(s_fmaf.pico)
+ .ident         0x00001ca0       0x36 libm_pic.a(s_fma.pico)
+ .ident         0x00001cd6       0x40 libm_pic.a(s_nearbyint.pico)
+ .ident         0x00001d16       0x42 libm_pic.a(s_nexttowardf.pico)
+ .ident         0x00001d58       0x3f libm_pic.a(s_nexttoward.pico)
+ .ident         0x00001d97       0x36 libm_pic.a(fenv.pico)
+ .ident         0x00001dcd       0x3b libm_pic.a(s_frexpl.pico)
+ .ident         0x00001e08       0x3d libm_pic.a(s_frexp.pico)
+ .ident         0x00001e45       0x3c libm_pic.a(w_sinh.pico)
+ .ident         0x00001e81       0x37 libm_pic.a(w_scalb.pico)
+ .ident         0x00001eb8       0x3c libm_pic.a(w_remainderf.pico)
+ .ident         0x00001ef4       0x3b libm_pic.a(w_remainder.pico)
+ .ident         0x00001f2f       0x35 libm_pic.a(w_pow.pico)
+ .ident         0x00001f64       0x37 libm_pic.a(w_log10.pico)
+ .ident         0x00001f9b       0x3b libm_pic.a(w_log.pico)
+ .ident         0x00001fd6       0x3d libm_pic.a(w_hypot.pico)
+ .ident         0x00002013       0x3b libm_pic.a(w_exp.pico)
+ .ident         0x0000204e       0x3c libm_pic.a(w_cosh.pico)
+ .ident         0x0000208a       0x37 libm_pic.a(w_atanh.pico)
+ .ident         0x000020c1       0x3d libm_pic.a(w_atan2.pico)
+ .ident         0x000020fe       0x3c libm_pic.a(w_asin.pico)
+ .ident         0x0000213a       0x37 libm_pic.a(w_acosh.pico)
+ .ident         0x00002171       0x36 libm_pic.a(w_acos.pico)
+ .ident         0x000021a7       0x37 libm_pic.a(s_tanh.pico)
+ .ident         0x000021de       0x36 libm_pic.a(s_tan.pico)
+ .ident         0x00002214       0x37 libm_pic.a(s_sinf.pico)
+ .ident         0x0000224b       0x36 libm_pic.a(s_sin.pico)
+ .ident         0x00002281       0x38 libm_pic.a(s_rintf.pico)
+ .ident         0x000022b9       0x3d libm_pic.a(s_nextafterl.pico)
+ .ident         0x000022f6       0x3d libm_pic.a(s_nextafter.pico)
+ .ident         0x00002333       0x37 libm_pic.a(s_logb.pico)
+ .ident         0x0000236a       0x3e libm_pic.a(s_log1pf.pico)
+ .ident         0x000023a8       0x38 libm_pic.a(s_isnanf.pico)
+ .ident         0x000023e0       0x3a libm_pic.a(s_ilogbl.pico)
+ .ident         0x0000241a       0x38 libm_pic.a(s_ilogb.pico)
+ .ident         0x00002452       0x39 libm_pic.a(s_finite.pico)
+ .ident         0x0000248b       0x39 libm_pic.a(s_expm1f.pico)
+ .ident         0x000024c4       0x3b libm_pic.a(s_exp2.pico)
+ .ident         0x000024ff       0x37 libm_pic.a(s_cosf.pico)
+ .ident         0x00002536       0x36 libm_pic.a(s_cos.pico)
+ .ident         0x0000256c       0x38 libm_pic.a(s_ceil.pico)
+ .ident         0x000025a4       0x37 libm_pic.a(s_atan.pico)
+ .ident         0x000025db       0x38 libm_pic.a(s_asinh.pico)
+ .ident         0x00002613       0x3d libm_pic.a(k_standard.pico)
+ .ident         0x00002650       0x36 libm_pic.a(k_sinf.pico)
+ .ident         0x00002686       0x36 libm_pic.a(k_sin.pico)
+ .ident         0x000026bc       0x40 libm_pic.a(k_rem_pio2f.pico)
+ .ident         0x000026fc       0x40 libm_pic.a(k_rem_pio2.pico)
+ .ident         0x0000273c       0x36 libm_pic.a(k_cosf.pico)
+ .ident         0x00002772       0x36 libm_pic.a(k_cos.pico)
+ .ident         0x000027a8       0x38 libm_pic.a(e_sqrtf.pico)
+ .ident         0x000027e0       0x37 libm_pic.a(e_sinh.pico)
+ .ident         0x00002817       0x38 libm_pic.a(e_scalb.pico)
+ .ident         0x0000284f       0x3d libm_pic.a(e_remainderf.pico)
+ .ident         0x0000288c       0x3c libm_pic.a(e_remainder.pico)
+ .ident         0x000028c8       0x3b libm_pic.a(e_pow.pico)
+ .ident         0x00002903       0x37 libm_pic.a(e_logf.pico)
+ .ident         0x0000293a       0x38 libm_pic.a(e_log10.pico)
+ .ident         0x00002972       0x3d libm_pic.a(e_hypot.pico)
+ .ident         0x000029af       0x3b libm_pic.a(e_expf.pico)
+ .ident         0x000029ea       0x37 libm_pic.a(e_cosh.pico)
+ .ident         0x00002a21       0x38 libm_pic.a(e_atanh.pico)
+ .ident         0x00002a59       0x38 libm_pic.a(e_atan2.pico)
+ .ident         0x00002a91       0x37 libm_pic.a(e_asin.pico)
+ .ident         0x00002ac8       0x38 libm_pic.a(e_acosh.pico)
+ .ident         0x00002b00       0x37 libm_pic.a(e_acos.pico)
+ .ident         0x00002b37       0x3a libm_pic.a(s_rintl.pico)
+ .ident         0x00002b71       0x3e libm_pic.a(s_scalbnf.pico)
+ .ident         0x00002baf       0x3b libm_pic.a(s_scalbn.pico)
+ .ident         0x00002bea       0x37 libm_pic.a(s_rint.pico)
+ .ident         0x00002c21       0x39 libm_pic.a(s_matherr.pico)
+ .ident         0x00002c5a       0x3d libm_pic.a(s_log1p.pico)
+ .ident         0x00002c97       0x40 libm_pic.a(s_lib_version.pico)
+ .ident         0x00002cd7       0x3a libm_pic.a(s_floorf.pico)
+ .ident         0x00002d11       0x39 libm_pic.a(s_floor.pico)
+ .ident         0x00002d4a       0x38 libm_pic.a(s_expm1.pico)
+ .ident         0x00002d82       0x37 libm_pic.a(e_sqrt.pico)
+ .ident         0x00002db9       0x36 libm_pic.a(e_log.pico)
+ .ident         0x00002def       0x3b libm_pic.a(e_exp.pico)
+ .ident         0x00002e2a       0x38 /usr/lib/crtendS.o
+ .ident         0x00002e62       0x36 /usr/lib/crtn.o
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges
+ *(.debug_aranges)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info
+ *(.debug_info .gnu.linkonce.wi.*)
+
+.debug_abbrev
+ *(.debug_abbrev)
+
+.debug_line
+ *(.debug_line)
+
+.debug_frame
+ *(.debug_frame)
+
+.debug_str
+ *(.debug_str)
+
+.debug_loc
+ *(.debug_loc)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges
+ *(.debug_ranges)
+
+.debug_macro
+ *(.debug_macro)
+
+.gnu.attributes
+ *(.gnu.attributes)
+
+/DISCARD/
+ *(.note.GNU-stack)
+ *(.gnu_debuglink)
+ *(.gnu.lto_*)
+OUTPUT(libm.so.0.10 elf32-i386-minix)

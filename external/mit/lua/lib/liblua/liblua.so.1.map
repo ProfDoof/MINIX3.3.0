@@ -1,0 +1,1020 @@
+Archive member included because of file (symbol)
+
+liblua_pic.a(linit.pico)      (--whole-archive)
+liblua_pic.a(ldblib.pico)     (--whole-archive)
+liblua_pic.a(lbaselib.pico)   (--whole-archive)
+liblua_pic.a(ltablib.pico)    (--whole-archive)
+liblua_pic.a(lstrlib.pico)    (--whole-archive)
+liblua_pic.a(loslib.pico)     (--whole-archive)
+liblua_pic.a(loadlib.pico)    (--whole-archive)
+liblua_pic.a(lmathlib.pico)   (--whole-archive)
+liblua_pic.a(liolib.pico)     (--whole-archive)
+liblua_pic.a(lauxlib.pico)    (--whole-archive)
+liblua_pic.a(lzio.pico)       (--whole-archive)
+liblua_pic.a(lvm.pico)        (--whole-archive)
+liblua_pic.a(lundump.pico)    (--whole-archive)
+liblua_pic.a(ltm.pico)        (--whole-archive)
+liblua_pic.a(ltable.pico)     (--whole-archive)
+liblua_pic.a(lstring.pico)    (--whole-archive)
+liblua_pic.a(lstate.pico)     (--whole-archive)
+liblua_pic.a(lparser.pico)    (--whole-archive)
+liblua_pic.a(lcode.pico)      (--whole-archive)
+liblua_pic.a(llex.pico)       (--whole-archive)
+liblua_pic.a(lobject.pico)    (--whole-archive)
+liblua_pic.a(lmem.pico)       (--whole-archive)
+liblua_pic.a(lgc.pico)        (--whole-archive)
+liblua_pic.a(ldo.pico)        (--whole-archive)
+liblua_pic.a(ldebug.pico)     (--whole-archive)
+liblua_pic.a(lopcodes.pico)   (--whole-archive)
+liblua_pic.a(lapi.pico)       (--whole-archive)
+liblua_pic.a(lfunc.pico)      (--whole-archive)
+liblua_pic.a(ldump.pico)      (--whole-archive)
+
+Discarded input sections
+
+ .note.GNU-stack
+                0x00000000        0x0 liblua_pic.a(linit.pico)
+ .note.GNU-stack
+                0x00000000        0x0 liblua_pic.a(ldblib.pico)
+ .note.GNU-stack
+                0x00000000        0x0 liblua_pic.a(lbaselib.pico)
+ .note.GNU-stack
+                0x00000000        0x0 liblua_pic.a(ltablib.pico)
+ .note.GNU-stack
+                0x00000000        0x0 liblua_pic.a(lstrlib.pico)
+ .note.GNU-stack
+                0x00000000        0x0 liblua_pic.a(loslib.pico)
+ .note.GNU-stack
+                0x00000000        0x0 liblua_pic.a(loadlib.pico)
+ .note.GNU-stack
+                0x00000000        0x0 liblua_pic.a(lmathlib.pico)
+ .note.GNU-stack
+                0x00000000        0x0 liblua_pic.a(liolib.pico)
+ .note.GNU-stack
+                0x00000000        0x0 liblua_pic.a(lauxlib.pico)
+ .note.GNU-stack
+                0x00000000        0x0 liblua_pic.a(lzio.pico)
+ .note.GNU-stack
+                0x00000000        0x0 liblua_pic.a(lvm.pico)
+ .note.GNU-stack
+                0x00000000        0x0 liblua_pic.a(lundump.pico)
+ .note.GNU-stack
+                0x00000000        0x0 liblua_pic.a(ltm.pico)
+ .note.GNU-stack
+                0x00000000        0x0 liblua_pic.a(ltable.pico)
+ .note.GNU-stack
+                0x00000000        0x0 liblua_pic.a(lstring.pico)
+ .note.GNU-stack
+                0x00000000        0x0 liblua_pic.a(lstate.pico)
+ .note.GNU-stack
+                0x00000000        0x0 liblua_pic.a(lparser.pico)
+ .note.GNU-stack
+                0x00000000        0x0 liblua_pic.a(lcode.pico)
+ .note.GNU-stack
+                0x00000000        0x0 liblua_pic.a(llex.pico)
+ .note.GNU-stack
+                0x00000000        0x0 liblua_pic.a(lobject.pico)
+ .note.GNU-stack
+                0x00000000        0x0 liblua_pic.a(lmem.pico)
+ .note.GNU-stack
+                0x00000000        0x0 liblua_pic.a(lgc.pico)
+ .note.GNU-stack
+                0x00000000        0x0 liblua_pic.a(ldo.pico)
+ .note.GNU-stack
+                0x00000000        0x0 liblua_pic.a(ldebug.pico)
+ .note.GNU-stack
+                0x00000000        0x0 liblua_pic.a(lopcodes.pico)
+ .note.GNU-stack
+                0x00000000        0x0 liblua_pic.a(lapi.pico)
+ .note.GNU-stack
+                0x00000000        0x0 liblua_pic.a(lfunc.pico)
+ .note.GNU-stack
+                0x00000000        0x0 liblua_pic.a(ldump.pico)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD /usr/lib/crti.o
+LOAD /usr/lib/crtbeginS.o
+LOAD liblua_pic.a
+LOAD /usr/src/lib/libm/libm.so
+LOAD /usr/lib/libc.so
+LOAD /usr/lib/crtendS.o
+LOAD /usr/lib/crtn.o
+                0x000000f4                . = (0x0 + SIZEOF_HEADERS)
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.hash           0x000000f4      0x698
+ *(.hash)
+ .hash          0x000000f4      0x698 /usr/lib/crti.o
+
+.gnu.hash
+ *(.gnu.hash)
+
+.dynsym         0x0000078c      0xdf0
+ *(.dynsym)
+ .dynsym        0x0000078c      0xdf0 /usr/lib/crti.o
+
+.dynstr         0x0000157c      0x980
+ *(.dynstr)
+ .dynstr        0x0000157c      0x980 /usr/lib/crti.o
+
+.gnu.version    0x00001efc        0x0
+ *(.gnu.version)
+ .gnu.version   0x00000000        0x0 /usr/lib/crti.o
+
+.gnu.version_d  0x00001efc        0x0
+ *(.gnu.version_d)
+ .gnu.version_d
+                0x00000000        0x0 /usr/lib/crti.o
+
+.gnu.version_r  0x00001efc        0x0
+ *(.gnu.version_r)
+ .gnu.version_r
+                0x00000000        0x0 /usr/lib/crti.o
+
+.rel.dyn        0x00001efc      0xcc0
+ *(.rel.init)
+ *(.rel.text .rel.text.* .rel.gnu.linkonce.t.*)
+ .rel.text      0x00000000        0x0 /usr/lib/crti.o
+ *(.rel.fini)
+ *(.rel.rodata .rel.rodata.* .rel.gnu.linkonce.r.*)
+ *(.rel.data.rel.ro .rel.data.rel.ro.* .rel.gnu.linkonce.d.rel.ro.*)
+ .rel.data.rel.ro.local
+                0x00001efc      0xc18 /usr/lib/crti.o
+ *(.rel.data .rel.data.* .rel.gnu.linkonce.d.*)
+ .rel.data.rel  0x00002b14        0x8 /usr/lib/crti.o
+ *(.rel.tdata .rel.tdata.* .rel.gnu.linkonce.td.*)
+ *(.rel.tbss .rel.tbss.* .rel.gnu.linkonce.tb.*)
+ *(.rel.ctors)
+ *(.rel.dtors)
+ *(.rel.got)
+ .rel.got       0x00002b1c       0xa0 /usr/lib/crti.o
+ *(.rel.bss .rel.bss.* .rel.gnu.linkonce.b.*)
+ *(.rel.ifunc)
+ .rel.ifunc     0x00000000        0x0 /usr/lib/crti.o
+
+.rel.plt        0x00002bbc      0x5f8
+ *(.rel.plt)
+ .rel.plt       0x00002bbc      0x5f8 /usr/lib/crti.o
+ *(.rel.iplt)
+
+.init           0x000031c0        0xa
+ *(SORT(.init))
+ .init          0x000031c0        0x3 /usr/lib/crti.o
+                0x000031c0                _init
+ .init          0x000031c3        0x5 /usr/lib/crtbeginS.o
+ .init          0x000031c8        0x2 /usr/lib/crtn.o
+
+.plt            0x000031d0      0xc00
+ *(.plt)
+ .plt           0x000031d0      0xc00 /usr/lib/crti.o
+ *(.iplt)
+
+.text           0x00003dd0    0x214dc
+                0x00003dd0                PROVIDE (__eprol, .)
+ *(.text.unlikely .text.*_unlikely)
+ *(.text.exit .text.exit.*)
+ *(.text.startup .text.startup.*)
+ *(.text.hot .text.hot.*)
+ *(.text .stub .text.* .gnu.linkonce.t.*)
+ .text          0x00003dd0        0x0 /usr/lib/crti.o
+ .text          0x00003dd0       0xef /usr/lib/crtbeginS.o
+ *fill*         0x00003ebf        0x1 
+ .text          0x00003ec0      0x23e liblua_pic.a(linit.pico)
+                0x00003ec0                luaL_openlibs
+ *fill*         0x000040fe        0x2 
+ .text          0x00004100     0x131a liblua_pic.a(ldblib.pico)
+                0x00004100                luaopen_debug
+ *fill*         0x0000541a        0x6 
+ .text          0x00005420     0x1c1f liblua_pic.a(lbaselib.pico)
+                0x00005420                luaopen_base
+ *fill*         0x0000703f        0x1 
+ .text          0x00007040      0xdfd liblua_pic.a(ltablib.pico)
+                0x00007040                luaopen_table
+ *fill*         0x00007e3d        0x3 
+ .text          0x00007e40     0x2664 liblua_pic.a(lstrlib.pico)
+                0x00007e40                luaopen_string
+ *fill*         0x0000a4a4        0xc 
+ .text          0x0000a4b0      0xb61 liblua_pic.a(loslib.pico)
+                0x0000a4b0                luaopen_os
+ *fill*         0x0000b011        0xf 
+ .text          0x0000b020     0x129e liblua_pic.a(loadlib.pico)
+                0x0000b020                luaopen_package
+ *fill*         0x0000c2be        0x2 
+ .text          0x0000c2c0      0xbd7 liblua_pic.a(lmathlib.pico)
+                0x0000c2c0                luaopen_math
+ *fill*         0x0000ce97        0x9 
+ .text          0x0000cea0     0x19b5 liblua_pic.a(liolib.pico)
+                0x0000cea0                luaopen_io
+ *fill*         0x0000e855        0xb 
+ .text          0x0000e860     0x1a17 liblua_pic.a(lauxlib.pico)
+                0x0000e860                luaL_argerror
+                0x0000e950                luaL_error
+                0x0000ea30                luaL_typerror
+                0x0000eaa0                luaL_where
+                0x0000eb40                luaL_checkoption
+                0x0000ec00                luaL_optlstring
+                0x0000ec70                luaL_checklstring
+                0x0000ed10                luaL_newmetatable
+                0x0000edb0                luaL_checkudata
+                0x0000ee90                luaL_checkstack
+                0x0000eee0                luaL_checktype
+                0x0000ef70                luaL_checkany
+                0x0000efc0                luaL_checknumber
+                0x0000f080                luaL_optnumber
+                0x0000f0c0                luaL_checkinteger
+                0x0000f170                luaL_optinteger
+                0x0000f1b0                luaL_getmetafield
+                0x0000f250                luaL_callmeta
+                0x0000f2e0                luaL_register
+                0x0000f320                luaL_openlib
+                0x0000f4f0                luaL_findtable
+                0x0000f660                luaL_gsub
+                0x0000f800                luaL_buffinit
+                0x0000f820                luaL_addlstring
+                0x0000f880                luaL_addstring
+                0x0000f8e0                luaL_pushresult
+                0x0000f940                luaL_prepbuffer
+                0x0000fa30                luaL_addvalue
+                0x0000fb80                luaL_ref
+                0x0000fc80                luaL_unref
+                0x0000fd20                luaL_loadfile
+                0x000100b0                luaL_loadbuffer
+                0x00010130                luaL_loadstring
+                0x00010190                luaL_newstate
+ *fill*         0x00010277        0x9 
+ .text          0x00010280      0x21a liblua_pic.a(lzio.pico)
+                0x00010280                luaZ_fill
+                0x000102e0                luaZ_lookahead
+                0x00010340                luaZ_init
+                0x00010370                luaZ_read
+                0x00010430                luaZ_openspace
+ *fill*         0x0001049a        0x6 
+ .text          0x000104a0     0x25a1 liblua_pic.a(lvm.pico)
+                0x000104a0                luaV_tonumber
+                0x00010500                luaV_tostring
+                0x00010570                luaV_gettable
+                0x00010780                luaV_settable
+                0x000109c0                luaV_lessthan
+                0x00010b70                luaV_equalval
+                0x00010ce0                luaV_concat
+                0x00011080                luaV_execute
+ *fill*         0x00012a41        0xf 
+ .text          0x00012a50     0x10ab liblua_pic.a(lundump.pico)
+                0x00012a50                luaU_undump
+                0x000139e0                luaU_header
+ *fill*         0x00013afb        0x5 
+ .text          0x00013b00      0x124 liblua_pic.a(ltm.pico)
+                0x00013b00                luaT_init
+                0x00013b70                luaT_gettm
+                0x00013bc0                luaT_gettmbyobj
+ *fill*         0x00013c24        0xc 
+ .text          0x00013c30     0x12c4 liblua_pic.a(ltable.pico)
+                0x00013c30                luaH_next
+                0x00013df0                luaH_resizearray
+                0x000140a0                luaH_new
+                0x00014290                luaH_free
+                0x00014320                luaH_getnum
+                0x000143d0                luaH_getstr
+                0x00014430                luaH_get
+                0x00014630                luaH_set
+                0x00014ac0                luaH_setnum
+                0x00014b90                luaH_setstr
+                0x00014c10                luaH_getn
+ *fill*         0x00014ef4        0xc 
+ .text          0x00014f00      0x328 liblua_pic.a(lstring.pico)
+                0x00014f00                luaS_resize
+                0x00015020                luaS_newlstr
+                0x000151b0                luaS_newudata
+ *fill*         0x00015228        0x8 
+ .text          0x00015230      0x719 liblua_pic.a(lstate.pico)
+                0x00015230                luaE_newthread
+                0x000153b0                luaE_freethread
+                0x00015440                lua_newstate
+                0x000158a0                lua_close
+ *fill*         0x00015949        0x7 
+ .text          0x00015950     0x371a liblua_pic.a(lparser.pico)
+                0x00015950                luaY_parser
+ *fill*         0x0001906a        0x6 
+ .text          0x00019070     0x2941 liblua_pic.a(lcode.pico)
+                0x00019070                luaK_nil
+                0x00019130                luaK_codeABC
+                0x00019180                luaK_jump
+                0x00019260                luaK_codeABx
+                0x000192a0                luaK_concat
+                0x00019360                luaK_ret
+                0x000193a0                luaK_getlabel
+                0x000193b0                luaK_patchlist
+                0x000195b0                luaK_patchtohere
+                0x00019670                luaK_checkstack
+                0x000196d0                luaK_reserveregs
+                0x00019740                luaK_stringK
+                0x000198c0                luaK_numberK
+                0x00019900                luaK_setreturns
+                0x000199e0                luaK_setoneret
+                0x00019a40                luaK_dischargevars
+                0x00019b20                luaK_exp2nextreg
+                0x0001a170                luaK_exp2anyreg
+                0x0001a1e0                luaK_exp2val
+                0x0001a260                luaK_exp2RK
+                0x0001a380                luaK_storevar
+                0x0001a4f0                luaK_self
+                0x0001a640                luaK_goiftrue
+                0x0001a960                luaK_indexed
+                0x0001a9a0                luaK_prefix
+                0x0001af90                luaK_infix
+                0x0001b190                luaK_posfix
+                0x0001b5b0                luaK_fixline
+                0x0001b800                luaK_setlist
+ *fill*         0x0001b9b1        0xf 
+ .text          0x0001b9c0     0x16f9 liblua_pic.a(llex.pico)
+                0x0001b9c0                luaX_init
+                0x0001ba20                luaX_token2str
+                0x0001ba90                luaX_lexerror
+                0x0001bba0                luaX_syntaxerror
+                0x0001bbe0                luaX_newstring
+                0x0001bc60                luaX_setinput
+                0x0001bd10                luaX_next
+                0x0001c860                luaX_lookahead
+ *fill*         0x0001d0b9        0x7 
+ .text          0x0001d0c0      0x744 liblua_pic.a(lobject.pico)
+                0x0001d0c0                luaO_int2fb
+                0x0001d0f0                luaO_fb2int
+                0x0001d110                luaO_log2
+                0x0001d160                luaO_rawequalObj
+                0x0001d1c0                luaO_str2d
+                0x0001d280                luaO_pushvfstring
+                0x0001d6a0                luaO_pushfstring
+                0x0001d6e0                luaO_chunkid
+ *fill*         0x0001d804        0xc 
+ .text          0x0001d810      0x190 liblua_pic.a(lmem.pico)
+                0x0001d810                luaM_growaux_
+                0x0001d900                luaM_realloc_
+                0x0001d970                luaM_toobig
+ .text          0x0001d9a0     0x11e5 liblua_pic.a(lgc.pico)
+                0x0001d9a0                luaC_separateudata
+                0x0001da90                luaC_callGCTM
+                0x0001dbd0                luaC_freeall
+                0x0001ddb0                luaC_step
+                0x0001e260                luaC_fullgc
+                0x0001e380                luaC_barrierf
+                0x0001e480                luaC_barrierback
+                0x0001e4a0                luaC_link
+                0x0001e4d0                luaC_linkupval
+ *fill*         0x0001eb85        0xb 
+ .text          0x0001eb90     0x1321 liblua_pic.a(ldo.pico)
+                0x0001eb90                luaD_seterrorobj
+                0x0001ec20                luaD_throw
+                0x0001ed80                luaD_rawrunprotected
+                0x0001edf0                luaD_reallocstack
+                0x0001eee0                luaD_reallocCI
+                0x0001ef60                luaD_growstack
+                0x0001efa0                luaD_callhook
+                0x0001f090                luaD_precall
+                0x0001f700                luaD_poscall
+                0x0001f820                luaD_call
+                0x0001f8c0                lua_resume
+                0x0001fb10                lua_yield
+                0x0001fb70                luaD_pcall
+                0x0001fd10                luaD_protectedparser
+ *fill*         0x0001feb1        0xf 
+ .text          0x0001fec0     0x13f7 liblua_pic.a(ldebug.pico)
+                0x0001fec0                lua_sethook
+                0x0001ff10                lua_gethook
+                0x0001ff20                lua_gethookmask
+                0x0001ff30                lua_gethookcount
+                0x0001ff40                lua_getstack
+                0x0001ffb0                lua_getlocal
+                0x000200b0                lua_setlocal
+                0x000201b0                lua_getinfo
+                0x000206c0                luaG_checkopenop
+                0x000206f0                luaG_checkcode
+                0x00020d80                luaG_typeerror
+                0x00020ff0                luaG_runerror
+                0x000210c0                luaG_concaterror
+                0x00021110                luaG_aritherror
+                0x00021170                luaG_ordererror
+                0x000211e0                luaG_errormsg
+ *fill*         0x000212b7        0x1 
+ .text          0x000212b8        0x0 liblua_pic.a(lopcodes.pico)
+ *fill*         0x000212b8        0x8 
+ .text          0x000212c0     0x310f liblua_pic.a(lapi.pico)
+                0x000212c0                luaA_pushobject
+                0x000212f0                lua_checkstack
+                0x00021380                lua_xmove
+                0x000213f0                lua_setlevel
+                0x00021410                lua_atpanic
+                0x00021430                lua_newthread
+                0x00021480                lua_gettop
+                0x000214a0                lua_settop
+                0x00021510                lua_remove
+                0x000215f0                lua_insert
+                0x000216d0                lua_replace
+                0x00021850                lua_pushvalue
+                0x00021920                lua_type
+                0x000219e0                lua_typename
+                0x00021a10                lua_iscfunction
+                0x00021ae0                lua_isnumber
+                0x00021bc0                lua_isstring
+                0x00021c90                lua_isuserdata
+                0x00021d50                lua_rawequal
+                0x00021eb0                lua_equal
+                0x00022030                lua_lessthan
+                0x00022190                lua_tonumber
+                0x00022270                lua_tointeger
+                0x00022360                lua_toboolean
+                0x00022430                lua_tolstring
+                0x000225e0                lua_objlen
+                0x000226e0                lua_tocfunction
+                0x000227a0                lua_touserdata
+                0x00022870                lua_tothread
+                0x00022930                lua_topointer
+                0x00022ab0                lua_pushnil
+                0x00022ad0                lua_pushnumber
+                0x00022af0                lua_pushinteger
+                0x00022b20                lua_pushlstring
+                0x00022b80                lua_pushstring
+                0x00022c00                lua_pushvfstring
+                0x00022c40                lua_pushfstring
+                0x00022c90                lua_pushcclosure
+                0x00022d50                lua_pushboolean
+                0x00022d80                lua_pushlightuserdata
+                0x00022da0                lua_pushthread
+                0x00022dd0                lua_gettable
+                0x00022ea0                lua_getfield
+                0x00022fd0                lua_rawget
+                0x000230b0                lua_rawgeti
+                0x00023190                lua_createtable
+                0x000231f0                lua_getmetatable
+                0x000232d0                lua_getfenv
+                0x000233d0                lua_settable
+                0x000234a0                lua_setfield
+                0x000235d0                lua_rawset
+                0x000236f0                lua_rawseti
+                0x00023810                lua_setmetatable
+                0x00023940                lua_setfenv
+                0x00023a60                lua_call
+                0x00023ac0                lua_pcall
+                0x00023c30                lua_cpcall
+                0x00023d30                lua_load
+                0x00023da0                lua_dump
+                0x00023e00                lua_status
+                0x00023e10                lua_gc
+                0x00023ee0                lua_error
+                0x00023f10                lua_next
+                0x00023ff0                lua_concat
+                0x00024090                lua_getallocf
+                0x000240b0                lua_setallocf
+                0x000240d0                lua_newuserdata
+                0x00024140                lua_getupvalue
+                0x00024250                lua_setupvalue
+ *fill*         0x000243cf        0x1 
+ .text          0x000243d0      0x5e1 liblua_pic.a(lfunc.pico)
+                0x000243d0                luaF_newCclosure
+                0x00024440                luaF_newLclosure
+                0x000244d0                luaF_newupval
+                0x00024540                luaF_findupval
+                0x000245f0                luaF_freeupval
+                0x00024650                luaF_close
+                0x00024730                luaF_newproto
+                0x00024800                luaF_freeproto
+                0x00024910                luaF_freeclosure
+                0x00024960                luaF_getlocalname
+ *fill*         0x000249b1        0xf 
+ .text          0x000249c0      0x8eb liblua_pic.a(ldump.pico)
+                0x000249c0                luaU_dump
+ *fill*         0x000252ab        0x1 
+ .text          0x000252ac        0x0 /usr/lib/crtendS.o
+ .text          0x000252ac        0x0 /usr/lib/crtn.o
+ *(.gnu.warning)
+
+.fini           0x000252b0        0xa
+ *(SORT(.fini))
+ .fini          0x000252b0        0x3 /usr/lib/crti.o
+                0x000252b0                _fini
+ .fini          0x000252b3        0x5 /usr/lib/crtbeginS.o
+ .fini          0x000252b8        0x2 /usr/lib/crtn.o
+                0x000252ba                PROVIDE (__etext, .)
+                0x000252ba                PROVIDE (_etext, .)
+                0x000252ba                PROVIDE (etext, .)
+
+.rodata         0x000252c0     0x1ec4
+ *(.rodata .rodata.* .gnu.linkonce.r.*)
+ .rodata.str1.1
+                0x000252c0       0x16 liblua_pic.a(linit.pico)
+                                 0x27 (size before relaxing)
+ .rodata.str1.1
+                0x000252d6      0x1ff liblua_pic.a(ldblib.pico)
+                                0x22f (size before relaxing)
+ .rodata        0x000254d5        0x1 liblua_pic.a(ldblib.pico)
+ *fill*         0x000254d6        0x2 
+ .rodata.cst4   0x000254d8        0x4 liblua_pic.a(lbaselib.pico)
+ .rodata        0x000254dc       0x30 liblua_pic.a(lbaselib.pico)
+ .rodata.str1.1
+                0x0002550c      0x306 liblua_pic.a(lbaselib.pico)
+                                0x3c6 (size before relaxing)
+ .rodata.str1.1
+                0x00025812       0xc4 liblua_pic.a(ltablib.pico)
+                                 0xd2 (size before relaxing)
+ *fill*         0x000258d6        0x2 
+ .rodata        0x000258d8       0xac liblua_pic.a(lstrlib.pico)
+ .rodata.str1.1
+                0x00025984      0x24e liblua_pic.a(lstrlib.pico)
+                                0x270 (size before relaxing)
+ *fill*         0x00025bd2        0x2 
+ .rodata.cst4   0x00025bd4        0x4 liblua_pic.a(loslib.pico)
+ .rodata.str1.1
+                0x00025bd8       0xe4 liblua_pic.a(loslib.pico)
+                                0x102 (size before relaxing)
+ .rodata        0x00025cbc       0x18 liblua_pic.a(loslib.pico)
+ .rodata.str1.1
+                0x00025cd4      0x2b7 liblua_pic.a(loadlib.pico)
+                                0x2da (size before relaxing)
+ *fill*         0x00025f8b        0x1 
+ .rodata        0x00025f8c        0x4 liblua_pic.a(loadlib.pico)
+ .rodata.cst8   0x00025f90       0x10 liblua_pic.a(lmathlib.pico)
+                                 0x18 (size before relaxing)
+ .rodata.str1.1
+                0x00025fa0       0xaa liblua_pic.a(lmathlib.pico)
+                                 0xcb (size before relaxing)
+ .rodata.str1.1
+                0x0002604a      0x10a liblua_pic.a(liolib.pico)
+                                0x181 (size before relaxing)
+ .rodata        0x00026154       0x18 liblua_pic.a(liolib.pico)
+ .rodata.str1.1
+                0x0002616c      0x107 liblua_pic.a(lauxlib.pico)
+                                0x140 (size before relaxing)
+ *fill*         0x00026273        0x1 
+ .rodata        0x00026274       0xd4 liblua_pic.a(lvm.pico)
+ .rodata.str1.1
+                0x00026348       0xa5 liblua_pic.a(lvm.pico)
+                                 0xb1 (size before relaxing)
+ *fill*         0x000263ed        0x3 
+ .rodata        0x000263f0       0x14 liblua_pic.a(lundump.pico)
+ .rodata.str1.1
+                0x00026404       0x77 liblua_pic.a(lundump.pico)
+ .rodata.str1.1
+                0x0002647b       0x7e liblua_pic.a(ltm.pico)
+                                 0xb3 (size before relaxing)
+ *fill*         0x000264f9        0x3 
+ .rodata.cst4   0x000264fc        0x4 liblua_pic.a(ltable.pico)
+                                  0xc (size before relaxing)
+ .rodata        0x00026500       0x2c liblua_pic.a(ltable.pico)
+ .rodata.str1.1
+                0x0002652c       0x3c liblua_pic.a(ltable.pico)
+                                 0x4b (size before relaxing)
+ .rodata.str1.1
+                0x00026568       0x12 liblua_pic.a(lstate.pico)
+ *fill*         0x0002657a        0x2 
+ .rodata        0x0002657c       0xee liblua_pic.a(lparser.pico)
+ .rodata.str1.1
+                0x0002666a      0x237 liblua_pic.a(lparser.pico)
+                                0x248 (size before relaxing)
+ *fill*         0x000268a1        0x3 
+ .rodata        0x000268a4      0x130 liblua_pic.a(lcode.pico)
+ .rodata.str1.1
+                0x000269d4       0x51 liblua_pic.a(lcode.pico)
+                                 0x69 (size before relaxing)
+ *fill*         0x00026a25        0x3 
+ .rodata        0x00026a28       0x24 liblua_pic.a(llex.pico)
+ .rodata.str1.1
+                0x00026a4c      0x161 liblua_pic.a(llex.pico)
+                                0x1a5 (size before relaxing)
+ *fill*         0x00026bad        0x3 
+ .rodata        0x00026bb0      0x11c liblua_pic.a(lobject.pico)
+                0x00026bc0                luaO_nilobject_
+ .rodata.str1.1
+                0x00026ccc       0x19 liblua_pic.a(lobject.pico)
+                                 0x1d (size before relaxing)
+ .rodata.str1.1
+                0x00026ce5       0x27 liblua_pic.a(lmem.pico)
+ .rodata        0x00026d0c       0x5c liblua_pic.a(lgc.pico)
+ .rodata.str1.1
+                0x00026d68       0x82 liblua_pic.a(ldo.pico)
+                                 0xaa (size before relaxing)
+ *fill*         0x00026dea        0x2 
+ .rodata        0x00026dec       0xc0 liblua_pic.a(ldebug.pico)
+ .rodata.str1.1
+                0x00026eac       0xd9 liblua_pic.a(ldebug.pico)
+                                 0xfb (size before relaxing)
+ .rodata.str1.1
+                0x00026f85       0xe2 liblua_pic.a(lopcodes.pico)
+                                 0xf2 (size before relaxing)
+ .rodata        0x00027067       0x26 liblua_pic.a(lopcodes.pico)
+                0x00027067                luaP_opmodes
+ .rodata.cst4   0x00000000        0x4 liblua_pic.a(lapi.pico)
+ *fill*         0x0002708d        0x3 
+ .rodata        0x00027090       0xdd liblua_pic.a(lapi.pico)
+                0x000270e0                lua_ident
+ .rodata.str1.1
+                0x0002716d       0x17 liblua_pic.a(lapi.pico)
+                                 0x23 (size before relaxing)
+
+.rodata1
+ *(.rodata1)
+
+.eh_frame_hdr   0x00027184      0xf2c
+ *(.eh_frame_hdr)
+ .eh_frame_hdr  0x00027184      0xf2c liblua_pic.a(linit.pico)
+
+.eh_frame       0x000280b0     0x3b68
+ *(.eh_frame)
+ .eh_frame      0x000280b0       0x3c /usr/lib/crti.o
+                                 0x40 (size before relaxing)
+ .eh_frame      0x000280ec        0x0 /usr/lib/crtbeginS.o
+ .eh_frame      0x000280ec       0x20 liblua_pic.a(linit.pico)
+                                 0x38 (size before relaxing)
+ .eh_frame      0x0002810c      0x234 liblua_pic.a(ldblib.pico)
+                                0x24c (size before relaxing)
+ .eh_frame      0x00028340      0x4e0 liblua_pic.a(lbaselib.pico)
+                                0x4f8 (size before relaxing)
+ .eh_frame      0x00028820      0x19c liblua_pic.a(ltablib.pico)
+                                0x1b4 (size before relaxing)
+ .eh_frame      0x000289bc      0x2cc liblua_pic.a(lstrlib.pico)
+                                0x2e4 (size before relaxing)
+ .eh_frame      0x00028c88      0x1b8 liblua_pic.a(loslib.pico)
+                                0x1d0 (size before relaxing)
+ .eh_frame      0x00028e40      0x1a0 liblua_pic.a(loadlib.pico)
+                                0x1b8 (size before relaxing)
+ .eh_frame      0x00028fe0      0x39c liblua_pic.a(lmathlib.pico)
+                                0x3b4 (size before relaxing)
+ .eh_frame      0x0002937c      0x3b8 liblua_pic.a(liolib.pico)
+                                0x3d0 (size before relaxing)
+ .eh_frame      0x00029734      0x4a4 liblua_pic.a(lauxlib.pico)
+                                0x4bc (size before relaxing)
+ .eh_frame      0x00029bd8       0x9c liblua_pic.a(lzio.pico)
+                                 0xb4 (size before relaxing)
+ .eh_frame      0x00029c74      0x17c liblua_pic.a(lvm.pico)
+                                0x194 (size before relaxing)
+ .eh_frame      0x00029df0       0x7c liblua_pic.a(lundump.pico)
+                                 0x94 (size before relaxing)
+ .eh_frame      0x00029e6c       0x60 liblua_pic.a(ltm.pico)
+                                 0x78 (size before relaxing)
+ .eh_frame      0x00029ecc      0x1e0 liblua_pic.a(ltable.pico)
+                                0x1f8 (size before relaxing)
+ .eh_frame      0x0002a0ac       0x60 liblua_pic.a(lstring.pico)
+                                 0x78 (size before relaxing)
+ .eh_frame      0x0002a10c       0xdc liblua_pic.a(lstate.pico)
+                                 0xf4 (size before relaxing)
+ .eh_frame      0x0002a1e8      0x2c0 liblua_pic.a(lparser.pico)
+                                0x2d8 (size before relaxing)
+ .eh_frame      0x0002a4a8      0x464 liblua_pic.a(lcode.pico)
+                                0x47c (size before relaxing)
+ .eh_frame      0x0002a90c      0x1b8 liblua_pic.a(llex.pico)
+                                0x1d0 (size before relaxing)
+ .eh_frame      0x0002aac4       0xf0 liblua_pic.a(lobject.pico)
+                                0x108 (size before relaxing)
+ .eh_frame      0x0002abb4       0x5c liblua_pic.a(lmem.pico)
+                                 0x74 (size before relaxing)
+ .eh_frame      0x0002ac10      0x1f0 liblua_pic.a(lgc.pico)
+                                0x208 (size before relaxing)
+ .eh_frame      0x0002ae00      0x1fc liblua_pic.a(ldo.pico)
+                                0x214 (size before relaxing)
+ .eh_frame      0x0002affc      0x228 liblua_pic.a(ldebug.pico)
+                                0x240 (size before relaxing)
+ .eh_frame      0x0002b224      0x874 liblua_pic.a(lapi.pico)
+                                0x88c (size before relaxing)
+ .eh_frame      0x0002ba98      0x13c liblua_pic.a(lfunc.pico)
+                                0x154 (size before relaxing)
+ .eh_frame      0x0002bbd4       0x40 liblua_pic.a(ldump.pico)
+                                 0x58 (size before relaxing)
+ .eh_frame      0x0002bc14        0x4 /usr/lib/crtendS.o
+
+.note.minix.ident
+                0x0002bc18       0x18
+ .note.minix.ident
+                0x0002bc18       0x18 /usr/lib/crti.o
+
+.note.netbsd.pax
+                0x0002bc30       0x14
+ .note.netbsd.pax
+                0x0002bc30       0x14 /usr/lib/crti.o
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.exception_ranges
+ *(.exception_ranges .exception_ranges*)
+                0x0002bc44                . = (ALIGN (0x1000) - ((0x1000 - .) & 0xfff))
+                0x0002c000                . = DATA_SEGMENT_ALIGN (0x1000, 0x1000)
+
+.eh_frame
+ *(.eh_frame)
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.exception_ranges
+ *(.exception_ranges .exception_ranges*)
+
+.tdata
+ *(.tdata .tdata.* .gnu.linkonce.td.*)
+
+.tbss
+ *(.tbss .tbss.* .gnu.linkonce.tb.*)
+ *(.tcommon)
+
+.preinit_array
+ *(.preinit_array)
+
+.init_array
+ *(SORT(.init_array.*))
+ *(.init_array)
+
+.fini_array
+ *(SORT(.fini_array.*))
+ *(.fini_array)
+
+.ctors          0x0002c000        0x8
+ *crtbegin.o(.ctors)
+ *crtbegin?.o(.ctors)
+ .ctors         0x0002c000        0x4 /usr/lib/crtbeginS.o
+ *(EXCLUDE_FILE(*crtend?.o *crtend.o) .ctors)
+ *(SORT(.ctors.*))
+ *(.ctors)
+ .ctors         0x0002c004        0x4 /usr/lib/crtendS.o
+                0x0002c004                __CTOR_LIST_END__
+
+.dtors          0x0002c008        0x8
+ *crtbegin.o(.dtors)
+ *crtbegin?.o(.dtors)
+ .dtors         0x0002c008        0x4 /usr/lib/crtbeginS.o
+ *(EXCLUDE_FILE(*crtend?.o *crtend.o) .dtors)
+ *(SORT(.dtors.*))
+ *(.dtors)
+ .dtors         0x0002c00c        0x4 /usr/lib/crtendS.o
+
+.jcr            0x0002c010        0x4
+ *(.jcr)
+ .jcr           0x0002c010        0x0 /usr/lib/crtbeginS.o
+ .jcr           0x0002c010        0x4 /usr/lib/crtendS.o
+
+.data.rel.ro    0x0002c014      0x67c
+ *(.data.rel.ro.local* .gnu.linkonce.d.rel.ro.local.*)
+ .data.rel.ro.local
+                0x0002c014       0x8c liblua_pic.a(ldblib.pico)
+ .data.rel.ro.local
+                0x0002c0a0      0x130 liblua_pic.a(lbaselib.pico)
+ .data.rel.ro.local
+                0x0002c1d0       0x50 liblua_pic.a(ltablib.pico)
+ .data.rel.ro.local
+                0x0002c220       0x80 liblua_pic.a(lstrlib.pico)
+ .data.rel.ro.local
+                0x0002c2a0       0x7c liblua_pic.a(loslib.pico)
+ .data.rel.ro.local
+                0x0002c31c       0x30 liblua_pic.a(loadlib.pico)
+ .data.rel.ro.local
+                0x0002c34c       0xe8 liblua_pic.a(lmathlib.pico)
+ .data.rel.ro.local
+                0x0002c434       0xd0 liblua_pic.a(liolib.pico)
+ .data.rel.ro.local
+                0x0002c504       0x70 liblua_pic.a(ltm.pico)
+                0x0002c504                luaT_typenames
+ .data.rel.ro.local
+                0x0002c574       0x80 liblua_pic.a(llex.pico)
+                0x0002c574                luaX_tokens
+ .data.rel.ro.local
+                0x0002c5f4       0x9c liblua_pic.a(lopcodes.pico)
+                0x0002c5f4                luaP_opnames
+ *(.data.rel.ro .data.rel.ro.* .gnu.linkonce.d.rel.ro.*)
+
+.dynamic        0x0002c690       0xb8
+ *(.dynamic)
+ .dynamic       0x0002c690       0xb8 /usr/lib/crti.o
+                0x0002c690                _DYNAMIC
+
+.got            0x0002c748       0x50
+ *(.got)
+ .got           0x0002c748       0x50 /usr/lib/crti.o
+ *(.igot)
+                0x0002c798                . = DATA_SEGMENT_RELRO_END (., (SIZEOF (.got.plt) >= 0xc)?0xc:0x0)
+
+.got.plt        0x0002c798      0x308
+ *(.got.plt)
+ .got.plt       0x0002c798      0x308 /usr/lib/crti.o
+                0x0002c798                _GLOBAL_OFFSET_TABLE_
+ *(.igot.plt)
+
+.data           0x0002caa0       0x28
+ *(.data .data.* .gnu.linkonce.d.*)
+ .data          0x0002caa0        0x0 /usr/lib/crti.o
+ .data          0x0002caa0        0x0 /usr/lib/crtbeginS.o
+ .data.rel      0x0002caa0       0x26 /usr/lib/crtbeginS.o
+                0x0002caa0                __dso_handle
+ *fill*         0x0002cac6        0x2 
+ .data          0x0002cac8        0x0 liblua_pic.a(linit.pico)
+ .data          0x0002cac8        0x0 liblua_pic.a(ldblib.pico)
+ .data          0x0002cac8        0x0 liblua_pic.a(lbaselib.pico)
+ .data          0x0002cac8        0x0 liblua_pic.a(ltablib.pico)
+ .data          0x0002cac8        0x0 liblua_pic.a(lstrlib.pico)
+ .data          0x0002cac8        0x0 liblua_pic.a(loslib.pico)
+ .data          0x0002cac8        0x0 liblua_pic.a(loadlib.pico)
+ .data          0x0002cac8        0x0 liblua_pic.a(lmathlib.pico)
+ .data          0x0002cac8        0x0 liblua_pic.a(liolib.pico)
+ .data          0x0002cac8        0x0 liblua_pic.a(lauxlib.pico)
+ .data          0x0002cac8        0x0 liblua_pic.a(lzio.pico)
+ .data          0x0002cac8        0x0 liblua_pic.a(lvm.pico)
+ .data          0x0002cac8        0x0 liblua_pic.a(lundump.pico)
+ .data          0x0002cac8        0x0 liblua_pic.a(ltm.pico)
+ .data          0x0002cac8        0x0 liblua_pic.a(ltable.pico)
+ .data          0x0002cac8        0x0 liblua_pic.a(lstring.pico)
+ .data          0x0002cac8        0x0 liblua_pic.a(lstate.pico)
+ .data          0x0002cac8        0x0 liblua_pic.a(lparser.pico)
+ .data          0x0002cac8        0x0 liblua_pic.a(lcode.pico)
+ .data          0x0002cac8        0x0 liblua_pic.a(llex.pico)
+ .data          0x0002cac8        0x0 liblua_pic.a(lobject.pico)
+ .data          0x0002cac8        0x0 liblua_pic.a(lmem.pico)
+ .data          0x0002cac8        0x0 liblua_pic.a(lgc.pico)
+ .data          0x0002cac8        0x0 liblua_pic.a(ldo.pico)
+ .data          0x0002cac8        0x0 liblua_pic.a(ldebug.pico)
+ .data          0x0002cac8        0x0 liblua_pic.a(lopcodes.pico)
+ .data          0x0002cac8        0x0 liblua_pic.a(lapi.pico)
+ .data          0x0002cac8        0x0 liblua_pic.a(lfunc.pico)
+ .data          0x0002cac8        0x0 liblua_pic.a(ldump.pico)
+ .data          0x0002cac8        0x0 /usr/lib/crtendS.o
+ .data          0x0002cac8        0x0 /usr/lib/crtn.o
+
+.data1
+ *(.data1)
+                0x0002cac8                _edata = .
+                0x0002cac8                PROVIDE (edata, .)
+                0x0002cac8                . = .
+                0x0002cac8                __bss_start = .
+
+.bss            0x0002cac8        0x0
+ *(.dynbss)
+ .dynbss        0x00000000        0x0 /usr/lib/crti.o
+ *(.bss .bss.* .gnu.linkonce.b.*)
+ .bss           0x0002cac8        0x0 /usr/lib/crti.o
+ .bss           0x0002cac8        0x0 /usr/lib/crtbeginS.o
+ .bss           0x0002cac8        0x0 liblua_pic.a(linit.pico)
+ .bss           0x0002cac8        0x0 liblua_pic.a(ldblib.pico)
+ .bss           0x0002cac8        0x0 liblua_pic.a(lbaselib.pico)
+ .bss           0x0002cac8        0x0 liblua_pic.a(ltablib.pico)
+ .bss           0x0002cac8        0x0 liblua_pic.a(lstrlib.pico)
+ .bss           0x0002cac8        0x0 liblua_pic.a(loslib.pico)
+ .bss           0x0002cac8        0x0 liblua_pic.a(loadlib.pico)
+ .bss           0x0002cac8        0x0 liblua_pic.a(lmathlib.pico)
+ .bss           0x0002cac8        0x0 liblua_pic.a(liolib.pico)
+ .bss           0x0002cac8        0x0 liblua_pic.a(lauxlib.pico)
+ .bss           0x0002cac8        0x0 liblua_pic.a(lzio.pico)
+ .bss           0x0002cac8        0x0 liblua_pic.a(lvm.pico)
+ .bss           0x0002cac8        0x0 liblua_pic.a(lundump.pico)
+ .bss           0x0002cac8        0x0 liblua_pic.a(ltm.pico)
+ .bss           0x0002cac8        0x0 liblua_pic.a(ltable.pico)
+ .bss           0x0002cac8        0x0 liblua_pic.a(lstring.pico)
+ .bss           0x0002cac8        0x0 liblua_pic.a(lstate.pico)
+ .bss           0x0002cac8        0x0 liblua_pic.a(lparser.pico)
+ .bss           0x0002cac8        0x0 liblua_pic.a(lcode.pico)
+ .bss           0x0002cac8        0x0 liblua_pic.a(llex.pico)
+ .bss           0x0002cac8        0x0 liblua_pic.a(lobject.pico)
+ .bss           0x0002cac8        0x0 liblua_pic.a(lmem.pico)
+ .bss           0x0002cac8        0x0 liblua_pic.a(lgc.pico)
+ .bss           0x0002cac8        0x0 liblua_pic.a(ldo.pico)
+ .bss           0x0002cac8        0x0 liblua_pic.a(ldebug.pico)
+ .bss           0x0002cac8        0x0 liblua_pic.a(lopcodes.pico)
+ .bss           0x0002cac8        0x0 liblua_pic.a(lapi.pico)
+ .bss           0x0002cac8        0x0 liblua_pic.a(lfunc.pico)
+ .bss           0x0002cac8        0x0 liblua_pic.a(ldump.pico)
+ .bss           0x0002cac8        0x0 /usr/lib/crtendS.o
+ .bss           0x0002cac8        0x0 /usr/lib/crtn.o
+ *(COMMON)
+                0x0002cac8                . = ALIGN ((. != 0x0)?0x4:0x1)
+                0x0002cac8                . = ALIGN (0x4)
+                0x0002cac8                . = ALIGN (0x4)
+                0x0002cac8                _end = .
+                0x0002cac8                PROVIDE (end, .)
+                0x0002cac8                . = DATA_SEGMENT_END (.)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x00000000       0x28
+ *(.comment)
+ .comment       0x00000000       0x28 liblua_pic.a(linit.pico)
+                                 0x29 (size before relaxing)
+ .comment       0x00000000       0x29 liblua_pic.a(ldblib.pico)
+ .comment       0x00000000       0x29 liblua_pic.a(lbaselib.pico)
+ .comment       0x00000000       0x29 liblua_pic.a(ltablib.pico)
+ .comment       0x00000000       0x29 liblua_pic.a(lstrlib.pico)
+ .comment       0x00000000       0x29 liblua_pic.a(loslib.pico)
+ .comment       0x00000000       0x29 liblua_pic.a(loadlib.pico)
+ .comment       0x00000000       0x29 liblua_pic.a(lmathlib.pico)
+ .comment       0x00000000       0x29 liblua_pic.a(liolib.pico)
+ .comment       0x00000000       0x29 liblua_pic.a(lauxlib.pico)
+ .comment       0x00000000       0x29 liblua_pic.a(lzio.pico)
+ .comment       0x00000000       0x29 liblua_pic.a(lvm.pico)
+ .comment       0x00000000       0x29 liblua_pic.a(lundump.pico)
+ .comment       0x00000000       0x29 liblua_pic.a(ltm.pico)
+ .comment       0x00000000       0x29 liblua_pic.a(ltable.pico)
+ .comment       0x00000000       0x29 liblua_pic.a(lstring.pico)
+ .comment       0x00000000       0x29 liblua_pic.a(lstate.pico)
+ .comment       0x00000000       0x29 liblua_pic.a(lparser.pico)
+ .comment       0x00000000       0x29 liblua_pic.a(lcode.pico)
+ .comment       0x00000000       0x29 liblua_pic.a(llex.pico)
+ .comment       0x00000000       0x29 liblua_pic.a(lobject.pico)
+ .comment       0x00000000       0x29 liblua_pic.a(lmem.pico)
+ .comment       0x00000000       0x29 liblua_pic.a(lgc.pico)
+ .comment       0x00000000       0x29 liblua_pic.a(ldo.pico)
+ .comment       0x00000000       0x29 liblua_pic.a(ldebug.pico)
+ .comment       0x00000000       0x29 liblua_pic.a(lopcodes.pico)
+ .comment       0x00000000       0x29 liblua_pic.a(lapi.pico)
+ .comment       0x00000000       0x29 liblua_pic.a(lfunc.pico)
+ .comment       0x00000000       0x29 liblua_pic.a(ldump.pico)
+
+.ident          0x00000000       0xde
+ .ident         0x00000000       0x36 /usr/lib/crti.o
+ .ident         0x00000036       0x3a /usr/lib/crtbeginS.o
+ .ident         0x00000070       0x38 /usr/lib/crtendS.o
+ .ident         0x000000a8       0x36 /usr/lib/crtn.o
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges
+ *(.debug_aranges)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info
+ *(.debug_info .gnu.linkonce.wi.*)
+
+.debug_abbrev
+ *(.debug_abbrev)
+
+.debug_line
+ *(.debug_line)
+
+.debug_frame
+ *(.debug_frame)
+
+.debug_str
+ *(.debug_str)
+
+.debug_loc
+ *(.debug_loc)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges
+ *(.debug_ranges)
+
+.debug_macro
+ *(.debug_macro)
+
+.gnu.attributes
+ *(.gnu.attributes)
+
+/DISCARD/
+ *(.note.GNU-stack)
+ *(.gnu_debuglink)
+ *(.gnu.lto_*)
+OUTPUT(liblua.so.1.0 elf32-i386-minix)

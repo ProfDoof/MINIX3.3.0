@@ -1,0 +1,698 @@
+Archive member included because of file (symbol)
+
+libprop_pic.a(prop_kern.pico)
+                              (--whole-archive)
+libprop_pic.a(prop_ingest.pico)
+                              (--whole-archive)
+libprop_pic.a(prop_dictionary_util.pico)
+                              (--whole-archive)
+libprop_pic.a(prop_array_util.pico)
+                              (--whole-archive)
+libprop_pic.a(prop_string.pico)
+                              (--whole-archive)
+libprop_pic.a(prop_object.pico)
+                              (--whole-archive)
+libprop_pic.a(prop_number.pico)
+                              (--whole-archive)
+libprop_pic.a(prop_dictionary.pico)
+                              (--whole-archive)
+libprop_pic.a(prop_data.pico)
+                              (--whole-archive)
+libprop_pic.a(prop_bool.pico)
+                              (--whole-archive)
+libprop_pic.a(prop_array.pico)
+                              (--whole-archive)
+libprop_pic.a(prop_stack.pico)
+                              (--whole-archive)
+
+Discarded input sections
+
+ .note.GNU-stack
+                0x00000000        0x0 libprop_pic.a(prop_kern.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libprop_pic.a(prop_ingest.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libprop_pic.a(prop_dictionary_util.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libprop_pic.a(prop_array_util.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libprop_pic.a(prop_string.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libprop_pic.a(prop_object.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libprop_pic.a(prop_number.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libprop_pic.a(prop_dictionary.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libprop_pic.a(prop_data.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libprop_pic.a(prop_bool.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libprop_pic.a(prop_array.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libprop_pic.a(prop_stack.pico)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD /usr/lib/crti.o
+LOAD /usr/lib/crtbeginS.o
+LOAD libprop_pic.a
+LOAD /usr/lib/libc.so
+LOAD /usr/lib/crtendS.o
+LOAD /usr/lib/crtn.o
+                0x000000f4                . = (0x0 + SIZEOF_HEADERS)
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.hash           0x000000f4      0x690
+ *(.hash)
+ .hash          0x000000f4      0x690 /usr/lib/crti.o
+
+.gnu.hash
+ *(.gnu.hash)
+
+.dynsym         0x00000784      0xdd0
+ *(.dynsym)
+ .dynsym        0x00000784      0xdd0 /usr/lib/crti.o
+
+.dynstr         0x00001554     0x12c5
+ *(.dynstr)
+ .dynstr        0x00001554     0x12c5 /usr/lib/crti.o
+
+.gnu.version    0x0000281a        0x0
+ *(.gnu.version)
+ .gnu.version   0x00000000        0x0 /usr/lib/crti.o
+
+.gnu.version_d  0x0000281c        0x0
+ *(.gnu.version_d)
+ .gnu.version_d
+                0x00000000        0x0 /usr/lib/crti.o
+
+.gnu.version_r  0x0000281c        0x0
+ *(.gnu.version_r)
+ .gnu.version_r
+                0x00000000        0x0 /usr/lib/crti.o
+
+.rel.dyn        0x0000281c      0x1a8
+ *(.rel.init)
+ *(.rel.text .rel.text.* .rel.gnu.linkonce.t.*)
+ *(.rel.fini)
+ *(.rel.rodata .rel.rodata.* .rel.gnu.linkonce.r.*)
+ *(.rel.data.rel.ro .rel.data.rel.ro.* .rel.gnu.linkonce.d.rel.ro.*)
+ .rel.data.rel.ro.local
+                0x0000281c      0x108 /usr/lib/crti.o
+ .rel.data.rel.ro
+                0x00002924       0x70 /usr/lib/crti.o
+ *(.rel.data .rel.data.* .rel.gnu.linkonce.d.*)
+ .rel.data.rel  0x00002994        0x8 /usr/lib/crti.o
+ *(.rel.tdata .rel.tdata.* .rel.gnu.linkonce.td.*)
+ *(.rel.tbss .rel.tbss.* .rel.gnu.linkonce.tb.*)
+ *(.rel.ctors)
+ *(.rel.dtors)
+ *(.rel.got)
+ .rel.got       0x0000299c       0x28 /usr/lib/crti.o
+ *(.rel.bss .rel.bss.* .rel.gnu.linkonce.b.*)
+ *(.rel.ifunc)
+ .rel.ifunc     0x00000000        0x0 /usr/lib/crti.o
+
+.rel.plt        0x000029c4      0x2c8
+ *(.rel.plt)
+ .rel.plt       0x000029c4      0x2c8 /usr/lib/crti.o
+ *(.rel.iplt)
+
+.init           0x00002c90        0xa
+ *(SORT(.init))
+ .init          0x00002c90        0x3 /usr/lib/crti.o
+                0x00002c90                _init
+ .init          0x00002c93        0x5 /usr/lib/crtbeginS.o
+ .init          0x00002c98        0x2 /usr/lib/crtn.o
+
+.plt            0x00002ca0      0x5a0
+ *(.plt)
+ .plt           0x00002ca0      0x5a0 /usr/lib/crti.o
+ *(.iplt)
+
+.text           0x00003240     0x860c
+                0x00003240                PROVIDE (__eprol, .)
+ *(.text.unlikely .text.*_unlikely)
+ *(.text.exit .text.exit.*)
+ *(.text.startup .text.startup.*)
+ *(.text.hot .text.hot.*)
+ *(.text .stub .text.* .gnu.linkonce.t.*)
+ .text          0x00003240        0x0 /usr/lib/crti.o
+ .text          0x00003240       0xef /usr/lib/crtbeginS.o
+ *fill*         0x0000332f        0x1 
+ .text          0x00003330        0x0 libprop_pic.a(prop_kern.pico)
+ .text          0x00003330      0x18e libprop_pic.a(prop_ingest.pico)
+                0x00003330                prop_ingest_context_alloc
+                0x00003380                prop_ingest_context_free
+                0x000033a0                prop_ingest_context_error
+                0x000033b0                prop_ingest_context_type
+                0x000033c0                prop_ingest_context_key
+                0x000033d0                prop_ingest_context_private
+                0x000033e0                prop_dictionary_ingest
+ *fill*         0x000034be        0x2 
+ .text          0x000034c0      0xabd libprop_pic.a(prop_dictionary_util.pico)
+                0x000034c0                prop_dictionary_get_dict
+                0x00003520                prop_dictionary_get_bool
+                0x00003580                prop_dictionary_set_bool
+                0x000035e0                prop_dictionary_get_int8
+                0x00003680                prop_dictionary_get_uint8
+                0x00003710                prop_dictionary_set_int8
+                0x00003780                prop_dictionary_set_uint8
+                0x000037e0                prop_dictionary_get_int16
+                0x00003880                prop_dictionary_get_uint16
+                0x00003910                prop_dictionary_set_int16
+                0x00003980                prop_dictionary_set_uint16
+                0x000039e0                prop_dictionary_get_int32
+                0x00003a80                prop_dictionary_get_uint32
+                0x00003b10                prop_dictionary_set_int32
+                0x00003b70                prop_dictionary_set_uint32
+                0x00003bd0                prop_dictionary_get_int64
+                0x00003c60                prop_dictionary_get_uint64
+                0x00003cf0                prop_dictionary_set_int64
+                0x00003d50                prop_dictionary_set_uint64
+                0x00003db0                prop_dictionary_get_cstring
+                0x00003e10                prop_dictionary_set_cstring
+                0x00003e70                prop_dictionary_get_cstring_nocopy
+                0x00003ed0                prop_dictionary_set_cstring_nocopy
+                0x00003f30                prop_dictionary_set_and_rel
+ *fill*         0x00003f7d        0x3 
+ .text          0x00003f80      0xd56 libprop_pic.a(prop_array_util.pico)
+                0x00003f80                prop_array_get_bool
+                0x00003fe0                prop_array_set_bool
+                0x00004040                prop_array_get_int8
+                0x000040e0                prop_array_get_uint8
+                0x00004170                prop_array_set_int8
+                0x000041e0                prop_array_set_uint8
+                0x00004240                prop_array_add_int8
+                0x000042a0                prop_array_add_uint8
+                0x00004300                prop_array_get_int16
+                0x000043a0                prop_array_get_uint16
+                0x00004430                prop_array_set_int16
+                0x000044a0                prop_array_set_uint16
+                0x00004500                prop_array_add_int16
+                0x00004560                prop_array_add_uint16
+                0x000045c0                prop_array_get_int32
+                0x00004660                prop_array_get_uint32
+                0x000046f0                prop_array_set_int32
+                0x00004750                prop_array_set_uint32
+                0x000047b0                prop_array_add_int32
+                0x00004810                prop_array_add_uint32
+                0x00004870                prop_array_get_int64
+                0x00004900                prop_array_get_uint64
+                0x00004990                prop_array_set_int64
+                0x000049f0                prop_array_set_uint64
+                0x00004a50                prop_array_add_int64
+                0x00004ab0                prop_array_add_uint64
+                0x00004b10                prop_array_get_cstring
+                0x00004b70                prop_array_set_cstring
+                0x00004bd0                prop_array_get_cstring_nocopy
+                0x00004c30                prop_array_set_cstring_nocopy
+                0x00004c90                prop_array_add_and_rel
+ *fill*         0x00004cd6        0xa 
+ .text          0x00004ce0      0x902 libprop_pic.a(prop_string.pico)
+                0x00004ce0                prop_string_create
+                0x00004d40                prop_string_create_cstring
+                0x00004de0                prop_string_create_cstring_nocopy
+                0x00004e50                prop_string_copy
+                0x00004f10                prop_string_copy_mutable
+                0x00004fc0                prop_string_size
+                0x00004ff0                prop_string_mutable
+                0x00005030                prop_string_cstring
+                0x00005090                prop_string_cstring_nocopy
+                0x000050d0                prop_string_append
+                0x000051b0                prop_string_append_cstring
+                0x000052a0                prop_string_equals
+                0x000052f0                prop_string_equals_cstring
+                0x00005350                _prop_string_internalize
+ *fill*         0x000055e2        0xe 
+ .text          0x000055f0     0x198c libprop_pic.a(prop_object.pico)
+                0x000055f0                _prop_object_init
+                0x00005610                _prop_object_fini
+                0x00005620                _prop_object_externalize_start_tag
+                0x000056c0                _prop_object_externalize_append_char
+                0x000057b0                _prop_object_externalize_append_cstring
+                0x00005810                _prop_object_externalize_end_tag
+                0x000058b0                _prop_object_externalize_empty_tag
+                0x00005980                _prop_object_externalize_append_encoded_cstring
+                0x00005a80                _prop_object_externalize_header
+                0x00005af0                _prop_object_externalize_footer
+                0x00005b40                _prop_object_externalize_context_alloc
+                0x00005ba0                _prop_object_externalize_context_free
+                0x00005bc0                _prop_object_internalize_find_tag
+                0x00005f90                _prop_object_internalize_decode_string
+                0x000060c0                _prop_object_internalize_match
+                0x00006110                _prop_object_internalize_by_tag
+                0x00006350                _prop_generic_internalize
+                0x00006440                _prop_object_internalize_context_alloc
+                0x00006590                prop_object_release
+                0x00006830                _prop_object_internalize_context_free
+                0x00006850                _prop_object_externalize_write_file
+                0x00006a60                _prop_object_internalize_map_file
+                0x00006ba0                _prop_object_internalize_unmap_file
+                0x00006bc0                prop_object_retain
+                0x00006c10                prop_object_type
+                0x00006c30                prop_object_equals
+                0x00006c70                prop_object_equals_with_error
+                0x00006f30                prop_object_iterator_next
+                0x00006f40                prop_object_iterator_reset
+                0x00006f50                prop_object_iterator_release
+ *fill*         0x00006f7c        0x4 
+ .text          0x00006f80      0x8dd libprop_pic.a(prop_number.pico)
+                0x00006f80                prop_number_create_integer
+                0x000070e0                prop_number_create_unsigned_integer
+                0x00007120                prop_number_copy
+                0x00007160                prop_number_unsigned
+                0x00007170                prop_number_size
+                0x00007230                prop_number_integer_value
+                0x00007270                prop_number_unsigned_integer_value
+                0x000072b0                prop_number_equals
+                0x00007300                prop_number_equals_integer
+                0x00007360                prop_number_equals_unsigned_integer
+                0x000073b0                _prop_number_internalize
+ *fill*         0x0000785d        0x3 
+ .text          0x00007860     0x1cb5 libprop_pic.a(prop_dictionary.pico)
+                0x00007860                prop_dictionary_create
+                0x00007970                prop_dictionary_create_with_capacity
+                0x00007990                prop_dictionary_copy
+                0x00007a40                prop_dictionary_copy_mutable
+                0x00007a80                prop_dictionary_make_immutable
+                0x00007aa0                prop_dictionary_count
+                0x00007ad0                prop_dictionary_ensure_capacity
+                0x00007b80                prop_dictionary_iterator
+                0x00007c40                prop_dictionary_all_keys
+                0x00007ce0                prop_dictionary_get
+                0x00007de0                prop_dictionary_get_keysym
+                0x00007f00                prop_dictionary_set
+                0x00008370                prop_dictionary_set_keysym
+                0x000083d0                prop_dictionary_remove
+                0x00008520                prop_dictionary_remove_keysym
+                0x00008570                prop_dictionary_equals
+                0x000085c0                prop_dictionary_keysym_cstring_nocopy
+                0x000085f0                prop_dictionary_keysym_equals
+                0x00008640                prop_dictionary_externalize
+                0x000086b0                _prop_dictionary_internalize
+                0x00008930                prop_dictionary_internalize
+                0x00008960                prop_dictionary_externalize_to_file
+                0x000089e0                prop_dictionary_internalize_from_file
+ *fill*         0x00009515        0xb 
+ .text          0x00009520      0xc2b libprop_pic.a(prop_data.pico)
+                0x00009520                prop_data_create_data
+                0x000095c0                prop_data_create_data_nocopy
+                0x00009620                prop_data_copy
+                0x000096f0                prop_data_size
+                0x00009720                prop_data_data
+                0x000097e0                prop_data_data_nocopy
+                0x00009850                prop_data_equals
+                0x000098a0                prop_data_equals_data
+                0x00009900                _prop_data_internalize
+ *fill*         0x0000a14b        0x5 
+ .text          0x0000a150      0x319 libprop_pic.a(prop_bool.pico)
+                0x0000a150                prop_bool_create
+                0x0000a1e0                prop_bool_copy
+                0x0000a220                prop_bool_true
+                0x0000a260                prop_bool_equals
+                0x0000a2b0                _prop_bool_internalize
+ *fill*         0x0000a469        0x7 
+ .text          0x0000a470     0x11c5 libprop_pic.a(prop_array.pico)
+                0x0000a470                prop_array_create
+                0x0000a590                prop_array_create_with_capacity
+                0x0000a5b0                prop_array_copy
+                0x0000a640                prop_array_copy_mutable
+                0x0000a6d0                prop_array_capacity
+                0x0000a700                prop_array_count
+                0x0000a730                prop_array_ensure_capacity
+                0x0000a7e0                prop_array_iterator
+                0x0000a8a0                prop_array_make_immutable
+                0x0000a8c0                prop_array_mutable
+                0x0000a8e0                prop_array_get
+                0x0000a950                prop_array_set
+                0x0000ab40                prop_array_add
+                0x0000ab80                prop_array_remove
+                0x0000ac50                prop_array_equals
+                0x0000aca0                prop_array_externalize
+                0x0000ad10                _prop_array_internalize
+                0x0000aea0                prop_array_internalize
+                0x0000aed0                prop_array_externalize_to_file
+                0x0000af50                prop_array_internalize_from_file
+ *fill*         0x0000b635        0xb 
+ .text          0x0000b640      0x20a libprop_pic.a(prop_stack.pico)
+                0x0000b640                _prop_stack_init
+                0x0000b660                _prop_stack_push
+                0x0000b750                _prop_stack_pop
+ *fill*         0x0000b84a        0x2 
+ .text          0x0000b84c        0x0 /usr/lib/crtendS.o
+ .text          0x0000b84c        0x0 /usr/lib/crtn.o
+ *(.gnu.warning)
+
+.fini           0x0000b850        0xa
+ *(SORT(.fini))
+ .fini          0x0000b850        0x3 /usr/lib/crti.o
+                0x0000b850                _fini
+ .fini          0x0000b853        0x5 /usr/lib/crtbeginS.o
+ .fini          0x0000b858        0x2 /usr/lib/crtn.o
+                0x0000b85a                PROVIDE (__etext, .)
+                0x0000b85a                PROVIDE (_etext, .)
+                0x0000b85a                PROVIDE (etext, .)
+
+.rodata         0x0000b85c      0xdea
+ *(.rodata .rodata.* .gnu.linkonce.r.*)
+ .rodata.str1.1
+                0x0000b85c       0x5c libprop_pic.a(prop_string.pico)
+                                 0x64 (size before relaxing)
+ .rodata.str1.1
+                0x0000b8b8      0x1fd libprop_pic.a(prop_object.pico)
+                                0x20f (size before relaxing)
+ .rodata        0x0000bab5       0x98 libprop_pic.a(prop_object.pico)
+ .rodata.str1.1
+                0x0000bb4d       0x53 libprop_pic.a(prop_number.pico)
+                                 0x5b (size before relaxing)
+ .rodata.str1.1
+                0x0000bba0      0x43f libprop_pic.a(prop_dictionary.pico)
+                                0x45c (size before relaxing)
+ *fill*         0x0000bfdf        0x1 
+ .rodata        0x0000bfe0       0x51 libprop_pic.a(prop_data.pico)
+ .rodata.str1.1
+                0x0000c031      0x1c6 libprop_pic.a(prop_data.pico)
+                                0x1cd (size before relaxing)
+ .rodata.str1.1
+                0x0000c1f7       0xa8 libprop_pic.a(prop_bool.pico)
+                                 0xb3 (size before relaxing)
+ .rodata.str1.1
+                0x0000c29f      0x2ee libprop_pic.a(prop_array.pico)
+                                0x33f (size before relaxing)
+ .rodata.str1.1
+                0x0000c58d       0xb9 libprop_pic.a(prop_stack.pico)
+
+.rodata1
+ *(.rodata1)
+
+.eh_frame_hdr   0x0000c648      0x70c
+ *(.eh_frame_hdr)
+ .eh_frame_hdr  0x0000c648      0x70c libprop_pic.a(prop_ingest.pico)
+
+.eh_frame       0x0000cd54     0x1b34
+ *(.eh_frame)
+ .eh_frame      0x0000cd54       0x3c /usr/lib/crti.o
+                                 0x40 (size before relaxing)
+ .eh_frame      0x0000cd90        0x0 /usr/lib/crtbeginS.o
+ .eh_frame      0x0000cd90       0xc8 libprop_pic.a(prop_ingest.pico)
+                                 0xe0 (size before relaxing)
+ .eh_frame      0x0000ce58      0x300 libprop_pic.a(prop_dictionary_util.pico)
+                                0x318 (size before relaxing)
+ .eh_frame      0x0000d158      0x3e0 libprop_pic.a(prop_array_util.pico)
+                                0x3f8 (size before relaxing)
+ .eh_frame      0x0000d538      0x210 libprop_pic.a(prop_string.pico)
+                                0x228 (size before relaxing)
+ .eh_frame      0x0000d748      0x390 libprop_pic.a(prop_object.pico)
+                                0x3a8 (size before relaxing)
+ .eh_frame      0x0000dad8      0x244 libprop_pic.a(prop_number.pico)
+                                0x25c (size before relaxing)
+ .eh_frame      0x0000dd1c      0x4c8 libprop_pic.a(prop_dictionary.pico)
+                                0x4e0 (size before relaxing)
+ .eh_frame      0x0000e1e4      0x198 libprop_pic.a(prop_data.pico)
+                                0x1b0 (size before relaxing)
+ .eh_frame      0x0000e37c       0xf0 libprop_pic.a(prop_bool.pico)
+                                0x108 (size before relaxing)
+ .eh_frame      0x0000e46c      0x3bc libprop_pic.a(prop_array.pico)
+                                0x3d4 (size before relaxing)
+ .eh_frame      0x0000e828       0x5c libprop_pic.a(prop_stack.pico)
+                                 0x74 (size before relaxing)
+ .eh_frame      0x0000e884        0x4 /usr/lib/crtendS.o
+
+.note.minix.ident
+                0x0000e888       0x18
+ .note.minix.ident
+                0x0000e888       0x18 /usr/lib/crti.o
+
+.note.netbsd.pax
+                0x0000e8a0       0x14
+ .note.netbsd.pax
+                0x0000e8a0       0x14 /usr/lib/crti.o
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.exception_ranges
+ *(.exception_ranges .exception_ranges*)
+                0x0000e8b4                . = (ALIGN (0x1000) - ((0x1000 - .) & 0xfff))
+                0x0000f8b4                . = DATA_SEGMENT_ALIGN (0x1000, 0x1000)
+
+.eh_frame
+ *(.eh_frame)
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.exception_ranges
+ *(.exception_ranges .exception_ranges*)
+
+.tdata
+ *(.tdata .tdata.* .gnu.linkonce.td.*)
+
+.tbss
+ *(.tbss .tbss.* .gnu.linkonce.tb.*)
+ *(.tcommon)
+
+.preinit_array
+ *(.preinit_array)
+
+.init_array
+ *(SORT(.init_array.*))
+ *(.init_array)
+
+.fini_array
+ *(SORT(.fini_array.*))
+ *(.fini_array)
+
+.ctors          0x0000f8b4        0x8
+ *crtbegin.o(.ctors)
+ *crtbegin?.o(.ctors)
+ .ctors         0x0000f8b4        0x4 /usr/lib/crtbeginS.o
+ *(EXCLUDE_FILE(*crtend?.o *crtend.o) .ctors)
+ *(SORT(.ctors.*))
+ *(.ctors)
+ .ctors         0x0000f8b8        0x4 /usr/lib/crtendS.o
+                0x0000f8b8                __CTOR_LIST_END__
+
+.dtors          0x0000f8bc        0x8
+ *crtbegin.o(.dtors)
+ *crtbegin?.o(.dtors)
+ .dtors         0x0000f8bc        0x4 /usr/lib/crtbeginS.o
+ *(EXCLUDE_FILE(*crtend?.o *crtend.o) .dtors)
+ *(SORT(.dtors.*))
+ *(.dtors)
+ .dtors         0x0000f8c0        0x4 /usr/lib/crtendS.o
+
+.jcr            0x0000f8c4        0x4
+ *(.jcr)
+ .jcr           0x0000f8c4        0x0 /usr/lib/crtbeginS.o
+ .jcr           0x0000f8c4        0x4 /usr/lib/crtendS.o
+
+.data.rel.ro    0x0000f8c8      0x160
+ *(.data.rel.ro.local* .gnu.linkonce.d.rel.ro.local.*)
+ .data.rel.ro.local
+                0x0000f8c8       0x20 libprop_pic.a(prop_string.pico)
+ .data.rel.ro.local
+                0x0000f8e8       0x30 libprop_pic.a(prop_number.pico)
+ .data.rel.ro.local
+                0x0000f918       0x50 libprop_pic.a(prop_dictionary.pico)
+ .data.rel.ro.local
+                0x0000f968       0x20 libprop_pic.a(prop_data.pico)
+ .data.rel.ro.local
+                0x0000f988       0x20 libprop_pic.a(prop_bool.pico)
+ .data.rel.ro.local
+                0x0000f9a8       0x20 libprop_pic.a(prop_array.pico)
+ *(.data.rel.ro .data.rel.ro.* .gnu.linkonce.d.rel.ro.*)
+ .data.rel.ro   0x0000f9c8       0x60 libprop_pic.a(prop_object.pico)
+
+.dynamic        0x0000fa28       0xb0
+ *(.dynamic)
+ .dynamic       0x0000fa28       0xb0 /usr/lib/crti.o
+                0x0000fa28                _DYNAMIC
+
+.got            0x0000fad8       0x14
+ *(.got)
+ .got           0x0000fad8       0x14 /usr/lib/crti.o
+ *(.igot)
+                0x0000faec                . = DATA_SEGMENT_RELRO_END (., (SIZEOF (.got.plt) >= 0xc)?0xc:0x0)
+
+.got.plt        0x0000faec      0x170
+ *(.got.plt)
+ .got.plt       0x0000faec      0x170 /usr/lib/crti.o
+                0x0000faec                _GLOBAL_OFFSET_TABLE_
+ *(.igot.plt)
+
+.data           0x0000fc5c       0x28
+ *(.data .data.* .gnu.linkonce.d.*)
+ .data          0x0000fc5c        0x0 /usr/lib/crti.o
+ .data          0x0000fc5c        0x0 /usr/lib/crtbeginS.o
+ .data.rel      0x0000fc5c       0x26 /usr/lib/crtbeginS.o
+                0x0000fc5c                __dso_handle
+ *fill*         0x0000fc82        0x2 
+ .data          0x0000fc84        0x0 libprop_pic.a(prop_kern.pico)
+ .data          0x0000fc84        0x0 libprop_pic.a(prop_ingest.pico)
+ .data          0x0000fc84        0x0 libprop_pic.a(prop_dictionary_util.pico)
+ .data          0x0000fc84        0x0 libprop_pic.a(prop_array_util.pico)
+ .data          0x0000fc84        0x0 libprop_pic.a(prop_string.pico)
+ .data          0x0000fc84        0x0 libprop_pic.a(prop_object.pico)
+ .data          0x0000fc84        0x0 libprop_pic.a(prop_number.pico)
+ .data          0x0000fc84        0x0 libprop_pic.a(prop_dictionary.pico)
+ .data          0x0000fc84        0x0 libprop_pic.a(prop_data.pico)
+ .data          0x0000fc84        0x0 libprop_pic.a(prop_bool.pico)
+ .data          0x0000fc84        0x0 libprop_pic.a(prop_array.pico)
+ .data          0x0000fc84        0x0 libprop_pic.a(prop_stack.pico)
+ .data          0x0000fc84        0x0 /usr/lib/crtendS.o
+ .data          0x0000fc84        0x0 /usr/lib/crtn.o
+
+.data1
+ *(.data1)
+                0x0000fc84                _edata = .
+                0x0000fc84                PROVIDE (edata, .)
+                0x0000fc84                . = .
+                0x0000fc84                __bss_start = .
+
+.bss            0x0000fc84       0x44
+ *(.dynbss)
+ .dynbss        0x00000000        0x0 /usr/lib/crti.o
+ *(.bss .bss.* .gnu.linkonce.b.*)
+ .bss           0x0000fc84        0x0 /usr/lib/crti.o
+ .bss           0x0000fc84        0x0 /usr/lib/crtbeginS.o
+ .bss           0x0000fc84        0x0 libprop_pic.a(prop_kern.pico)
+ .bss           0x0000fc84        0x0 libprop_pic.a(prop_ingest.pico)
+ .bss           0x0000fc84        0x0 libprop_pic.a(prop_dictionary_util.pico)
+ .bss           0x0000fc84        0x0 libprop_pic.a(prop_array_util.pico)
+ .bss           0x0000fc84        0x0 libprop_pic.a(prop_string.pico)
+ .bss           0x0000fc84        0x0 libprop_pic.a(prop_object.pico)
+ .bss           0x0000fc84       0x14 libprop_pic.a(prop_number.pico)
+ .bss           0x0000fc98       0x11 libprop_pic.a(prop_dictionary.pico)
+ *fill*         0x0000fca9        0x3 
+ .bss           0x0000fcac        0x0 libprop_pic.a(prop_data.pico)
+ .bss           0x0000fcac       0x1c libprop_pic.a(prop_bool.pico)
+ .bss           0x0000fcc8        0x0 libprop_pic.a(prop_array.pico)
+ .bss           0x0000fcc8        0x0 libprop_pic.a(prop_stack.pico)
+ .bss           0x0000fcc8        0x0 /usr/lib/crtendS.o
+ .bss           0x0000fcc8        0x0 /usr/lib/crtn.o
+ *(COMMON)
+                0x0000fcc8                . = ALIGN ((. != 0x0)?0x4:0x1)
+                0x0000fcc8                . = ALIGN (0x4)
+                0x0000fcc8                . = ALIGN (0x4)
+                0x0000fcc8                _end = .
+                0x0000fcc8                PROVIDE (end, .)
+                0x0000fcc8                . = DATA_SEGMENT_END (.)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x00000000       0x28
+ *(.comment)
+ .comment       0x00000000       0x28 libprop_pic.a(prop_kern.pico)
+                                 0x29 (size before relaxing)
+ .comment       0x00000000       0x29 libprop_pic.a(prop_ingest.pico)
+ .comment       0x00000000       0x29 libprop_pic.a(prop_dictionary_util.pico)
+ .comment       0x00000000       0x29 libprop_pic.a(prop_array_util.pico)
+ .comment       0x00000000       0x29 libprop_pic.a(prop_string.pico)
+ .comment       0x00000000       0x29 libprop_pic.a(prop_object.pico)
+ .comment       0x00000000       0x29 libprop_pic.a(prop_number.pico)
+ .comment       0x00000000       0x29 libprop_pic.a(prop_dictionary.pico)
+ .comment       0x00000000       0x29 libprop_pic.a(prop_data.pico)
+ .comment       0x00000000       0x29 libprop_pic.a(prop_bool.pico)
+ .comment       0x00000000       0x29 libprop_pic.a(prop_array.pico)
+ .comment       0x00000000       0x29 libprop_pic.a(prop_stack.pico)
+
+.ident          0x00000000       0xde
+ .ident         0x00000000       0x36 /usr/lib/crti.o
+ .ident         0x00000036       0x3a /usr/lib/crtbeginS.o
+ .ident         0x00000070       0x38 /usr/lib/crtendS.o
+ .ident         0x000000a8       0x36 /usr/lib/crtn.o
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges
+ *(.debug_aranges)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info
+ *(.debug_info .gnu.linkonce.wi.*)
+
+.debug_abbrev
+ *(.debug_abbrev)
+
+.debug_line
+ *(.debug_line)
+
+.debug_frame
+ *(.debug_frame)
+
+.debug_str
+ *(.debug_str)
+
+.debug_loc
+ *(.debug_loc)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges
+ *(.debug_ranges)
+
+.debug_macro
+ *(.debug_macro)
+
+.gnu.attributes
+ *(.gnu.attributes)
+
+/DISCARD/
+ *(.note.GNU-stack)
+ *(.gnu_debuglink)
+ *(.gnu.lto_*)
+OUTPUT(libprop.so.1.1 elf32-i386-minix)

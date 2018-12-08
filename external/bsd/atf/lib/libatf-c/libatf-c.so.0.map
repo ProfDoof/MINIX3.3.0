@@ -1,0 +1,813 @@
+Archive member included because of file (symbol)
+
+libatf-c_pic.a(tp_main.pico)  (--whole-archive)
+libatf-c_pic.a(tp.pico)       (--whole-archive)
+libatf-c_pic.a(check.pico)    (--whole-archive)
+libatf-c_pic.a(build.pico)    (--whole-archive)
+libatf-c_pic.a(process.pico)  (--whole-archive)
+libatf-c_pic.a(config.pico)   (--whole-archive)
+libatf-c_pic.a(tc.pico)       (--whole-archive)
+libatf-c_pic.a(map.pico)      (--whole-archive)
+libatf-c_pic.a(fs.pico)       (--whole-archive)
+libatf-c_pic.a(env.pico)      (--whole-archive)
+libatf-c_pic.a(user.pico)     (--whole-archive)
+libatf-c_pic.a(utils.pico)    (--whole-archive)
+libatf-c_pic.a(text.pico)     (--whole-archive)
+libatf-c_pic.a(list.pico)     (--whole-archive)
+libatf-c_pic.a(dynstr.pico)   (--whole-archive)
+libatf-c_pic.a(error.pico)    (--whole-archive)
+libatf-c_pic.a(sanity.pico)   (--whole-archive)
+
+Discarded input sections
+
+ .note.GNU-stack
+                0x00000000        0x0 libatf-c_pic.a(tp_main.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libatf-c_pic.a(tp.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libatf-c_pic.a(check.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libatf-c_pic.a(build.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libatf-c_pic.a(process.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libatf-c_pic.a(config.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libatf-c_pic.a(tc.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libatf-c_pic.a(map.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libatf-c_pic.a(fs.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libatf-c_pic.a(env.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libatf-c_pic.a(user.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libatf-c_pic.a(utils.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libatf-c_pic.a(text.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libatf-c_pic.a(list.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libatf-c_pic.a(dynstr.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libatf-c_pic.a(error.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libatf-c_pic.a(sanity.pico)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD /usr/lib/crti.o
+LOAD /usr/lib/crtbeginS.o
+LOAD libatf-c_pic.a
+LOAD /usr/lib/libc.so
+LOAD /usr/lib/crtendS.o
+LOAD /usr/lib/crtn.o
+                0x000000f4                . = (0x0 + SIZEOF_HEADERS)
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.hash           0x000000f4      0x904
+ *(.hash)
+ .hash          0x000000f4      0x904 /usr/lib/crti.o
+
+.gnu.hash
+ *(.gnu.hash)
+
+.dynsym         0x000009f8     0x1380
+ *(.dynsym)
+ .dynsym        0x000009f8     0x1380 /usr/lib/crti.o
+
+.dynstr         0x00001d78     0x146b
+ *(.dynstr)
+ .dynstr        0x00001d78     0x146b /usr/lib/crti.o
+
+.gnu.version    0x000031e4        0x0
+ *(.gnu.version)
+ .gnu.version   0x00000000        0x0 /usr/lib/crti.o
+
+.gnu.version_d  0x000031e4        0x0
+ *(.gnu.version_d)
+ .gnu.version_d
+                0x00000000        0x0 /usr/lib/crti.o
+
+.gnu.version_r  0x000031e4        0x0
+ *(.gnu.version_r)
+ .gnu.version_r
+                0x00000000        0x0 /usr/lib/crti.o
+
+.rel.dyn        0x000031e4      0x1b0
+ *(.rel.init)
+ *(.rel.text .rel.text.* .rel.gnu.linkonce.t.*)
+ *(.rel.fini)
+ *(.rel.rodata .rel.rodata.* .rel.gnu.linkonce.r.*)
+ *(.rel.data.rel.ro .rel.data.rel.ro.* .rel.gnu.linkonce.d.rel.ro.*)
+ *(.rel.data .rel.data.* .rel.gnu.linkonce.d.*)
+ .rel.data.rel  0x000031e4        0x8 /usr/lib/crti.o
+ .rel.data.rel.local
+                0x000031ec       0xf0 /usr/lib/crti.o
+ *(.rel.tdata .rel.tdata.* .rel.gnu.linkonce.td.*)
+ *(.rel.tbss .rel.tbss.* .rel.gnu.linkonce.tb.*)
+ *(.rel.ctors)
+ *(.rel.dtors)
+ *(.rel.got)
+ .rel.got       0x000032dc       0xb8 /usr/lib/crti.o
+ *(.rel.bss .rel.bss.* .rel.gnu.linkonce.b.*)
+ *(.rel.ifunc)
+ .rel.ifunc     0x00000000        0x0 /usr/lib/crti.o
+
+.rel.plt        0x00003394      0x5c8
+ *(.rel.plt)
+ .rel.plt       0x00003394      0x5c8 /usr/lib/crti.o
+ *(.rel.iplt)
+
+.init           0x00003960        0xa
+ *(SORT(.init))
+ .init          0x00003960        0x3 /usr/lib/crti.o
+                0x00003960                _init
+ .init          0x00003963        0x5 /usr/lib/crtbeginS.o
+ .init          0x00003968        0x2 /usr/lib/crtn.o
+
+.plt            0x00003970      0xba0
+ *(.plt)
+ .plt           0x00003970      0xba0 /usr/lib/crti.o
+ *(.iplt)
+
+.text           0x00004510     0xa978
+                0x00004510                PROVIDE (__eprol, .)
+ *(.text.unlikely .text.*_unlikely)
+ *(.text.exit .text.exit.*)
+ *(.text.startup .text.startup.*)
+ *(.text.hot .text.hot.*)
+ *(.text .stub .text.* .gnu.linkonce.t.*)
+ .text          0x00004510        0x0 /usr/lib/crti.o
+ .text          0x00004510       0xef /usr/lib/crtbeginS.o
+ *fill*         0x000045ff        0x1 
+ .text          0x00004600      0xe9e libatf-c_pic.a(tp_main.pico)
+                0x00004600                atf_tp_main
+ *fill*         0x0000549e        0x2 
+ .text          0x000054a0      0x624 libatf-c_pic.a(tp.pico)
+                0x000054a0                atf_tp_init
+                0x00005580                atf_tp_fini
+                0x00005660                atf_tp_get_config
+                0x00005690                atf_tp_has_tc
+                0x000057b0                atf_tp_get_tc
+                0x00005800                atf_tp_get_tcs
+                0x00005960                atf_tp_add_tc
+                0x00005a10                atf_tp_run
+                0x00005a70                atf_tp_cleanup
+ *fill*         0x00005ac4        0xc 
+ .text          0x00005ad0      0xb5b libatf-c_pic.a(check.pico)
+                0x00005ad0                atf_check_result_fini
+                0x00005ca0                atf_check_result_stdout
+                0x00005cd0                atf_check_result_stderr
+                0x00005d00                atf_check_result_exited
+                0x00005d30                atf_check_result_exitcode
+                0x00005d60                atf_check_result_signaled
+                0x00005d90                atf_check_result_termsig
+                0x00005dc0                atf_check_build_c_o
+                0x000060c0                atf_check_build_cpp
+                0x00006130                atf_check_build_cxx_o
+                0x000061a0                atf_check_exec_array
+ *fill*         0x0000662b        0x5 
+ .text          0x00006630      0x8e7 libatf-c_pic.a(build.pico)
+                0x00006630                atf_build_c_o
+                0x00006a50                atf_build_cpp
+                0x00006c70                atf_build_cxx_o
+ *fill*         0x00006f17        0x9 
+ .text          0x00006f20     0x1001 libatf-c_pic.a(process.pico)
+                0x00006f20                atf_process_stream_init_capture
+                0x00006f50                atf_process_stream_init_connect
+                0x00007010                atf_process_stream_init_inherit
+                0x00007040                atf_process_stream_init_redirect_fd
+                0x00007070                atf_process_stream_init_redirect_path
+                0x000070a0                atf_process_stream_fini
+                0x000070f0                atf_process_stream_type
+                0x00007140                atf_process_status_init
+                0x00007160                atf_process_status_fini
+                0x00007170                atf_process_status_exited
+                0x00007190                atf_process_status_exitstatus
+                0x000071e0                atf_process_status_signaled
+                0x00007200                atf_process_status_termsig
+                0x00007260                atf_process_status_coredump
+                0x000072c0                atf_process_child_wait
+                0x00007350                atf_process_child_pid
+                0x00007360                atf_process_child_stdout
+                0x000073b0                atf_process_child_stderr
+                0x00007400                atf_process_fork
+                0x000077e0                atf_process_exec_array
+                0x00007a50                atf_process_exec_list
+ *fill*         0x00007f21        0xf 
+ .text          0x00007f30      0x1d1 libatf-c_pic.a(config.pico)
+                0x00007f30                atf_config_get
+                0x000080c0                __atf_config_reinit
+ *fill*         0x00008101        0xf 
+ .text          0x00008110     0x221a libatf-c_pic.a(tc.pico)
+                0x00008110                atf_tc_init
+                0x00008290                atf_tc_set_md_var
+                0x00008310                atf_tc_get_md_var
+                0x000084b0                atf_tc_init_pack
+                0x00008500                atf_tc_fini
+                0x00008540                atf_tc_get_ident
+                0x00008550                atf_tc_get_config_var
+                0x00008680                atf_tc_has_config_var
+                0x00008730                atf_tc_get_config_var_wd
+                0x000087f0                atf_tc_get_config_var_as_bool
+                0x00008870                atf_tc_fail
+                0x00008900                atf_tc_get_config_var_as_bool_wd
+                0x00008a10                atf_tc_get_config_var_as_long
+                0x00008a90                atf_tc_get_config_var_as_long_wd
+                0x00008b90                atf_tc_has_md_var
+                0x00008c40                atf_tc_get_md_vars
+                0x00008c70                atf_tc_run
+                0x00009090                atf_tc_cleanup
+                0x000090c0                atf_tc_fail_nonfatal
+                0x00009150                atf_tc_fail_check
+                0x000091f0                atf_tc_fail_requirement
+                0x00009290                atf_tc_pass
+                0x000092e0                atf_tc_require_prog
+                0x00009560                atf_tc_skip
+                0x000095e0                atf_tc_check_errno
+                0x000096b0                atf_tc_require_errno
+                0x00009780                atf_tc_expect_pass
+                0x000097e0                atf_tc_expect_fail
+                0x000098e0                atf_tc_expect_exit
+                0x000099e0                atf_tc_expect_signal
+                0x00009ae0                atf_tc_expect_death
+                0x00009be0                atf_tc_expect_timeout
+ *fill*         0x0000a32a        0x6 
+ .text          0x0000a330      0xb2e libatf-c_pic.a(map.pico)
+                0x0000a330                atf_map_citer_key
+                0x0000a380                atf_map_citer_data
+                0x0000a3d0                atf_map_citer_next
+                0x0000a440                atf_equal_map_citer_map_citer
+                0x0000a470                atf_map_iter_key
+                0x0000a4c0                atf_map_iter_data
+                0x0000a510                atf_map_iter_next
+                0x0000a580                atf_equal_map_iter_map_iter
+                0x0000a5b0                atf_map_init
+                0x0000a5d0                atf_map_init_charpp
+                0x0000a6a0                atf_map_insert
+                0x0000a800                atf_map_fini
+                0x0000a900                atf_map_begin
+                0x0000a960                atf_map_begin_c
+                0x0000a9c0                atf_map_end
+                0x0000aa20                atf_map_end_c
+                0x0000aa80                atf_map_find
+                0x0000abb0                atf_map_find_c
+                0x0000ace0                atf_map_size
+                0x0000ad00                atf_map_to_charpp
+ *fill*         0x0000ae5e        0x2 
+ .text          0x0000ae60     0x1327 libatf-c_pic.a(fs.pico)
+                0x0000ae60                atf_fs_path_init_ap
+                0x0000b040                atf_fs_path_init_fmt
+                0x0000b080                atf_fs_path_copy
+                0x0000b0a0                atf_fs_path_fini
+                0x0000b0c0                atf_fs_path_branch_path
+                0x0000b140                atf_fs_path_cstring
+                0x0000b160                atf_fs_path_leaf_name
+                0x0000b1c0                atf_fs_path_is_absolute
+                0x0000b1f0                atf_fs_path_is_root
+                0x0000b230                atf_fs_path_append_ap
+                0x0000b2d0                atf_fs_path_append_fmt
+                0x0000b310                atf_fs_path_append_path
+                0x0000b350                atf_fs_path_to_absolute
+                0x0000b440                atf_fs_getcwd
+                0x0000b4c0                atf_equal_fs_path_fs_path
+                0x0000b4e0                atf_fs_stat_init
+                0x0000b670                atf_fs_stat_copy
+                0x0000b690                atf_fs_stat_fini
+                0x0000b6a0                atf_fs_stat_get_device
+                0x0000b6b0                atf_fs_stat_get_inode
+                0x0000b6c0                atf_fs_stat_get_mode
+                0x0000b6d0                atf_fs_stat_get_size
+                0x0000b6e0                atf_fs_stat_get_type
+                0x0000b6f0                atf_fs_stat_is_owner_readable
+                0x0000b700                atf_fs_stat_is_owner_writable
+                0x0000b720                atf_fs_stat_is_owner_executable
+                0x0000b740                atf_fs_stat_is_group_readable
+                0x0000b760                atf_fs_stat_is_group_writable
+                0x0000b780                atf_fs_stat_is_group_executable
+                0x0000b7a0                atf_fs_stat_is_other_readable
+                0x0000b7c0                atf_fs_stat_is_other_writable
+                0x0000b7e0                atf_fs_stat_is_other_executable
+                0x0000b7f0                atf_fs_eaccess
+                0x0000ba20                atf_fs_exists
+                0x0000baa0                atf_fs_mkdtemp
+                0x0000bd70                atf_fs_mkstemp
+                0x0000bf20                atf_fs_rmdir
+                0x0000bf90                atf_fs_unlink
+ *fill*         0x0000c187        0x9 
+ .text          0x0000c190      0x119 libatf-c_pic.a(env.pico)
+                0x0000c190                atf_env_get
+                0x0000c1e0                atf_env_has
+                0x0000c210                atf_env_set
+                0x0000c280                atf_env_unset
+ *fill*         0x0000c2a9        0x7 
+ .text          0x0000c2b0      0x110 libatf-c_pic.a(user.pico)
+                0x0000c2b0                atf_user_euid
+                0x0000c2d0                atf_user_is_member_of_group
+                0x0000c380                atf_user_is_root
+                0x0000c3a0                atf_user_is_unprivileged
+ .text          0x0000c3c0      0xeb5 libatf-c_pic.a(utils.pico)
+                0x0000c3c0                atf_utils_cat_file
+                0x0000c590                atf_utils_compare_file
+                0x0000c6f0                atf_utils_copy_file
+                0x0000c8e0                atf_utils_create_file
+                0x0000ca10                atf_utils_file_exists
+                0x0000ca80                atf_utils_fork
+                0x0000caf0                atf_utils_redirect
+                0x0000cba0                atf_utils_free_charpp
+                0x0000cbe0                atf_utils_grep_file
+                0x0000cd10                atf_utils_readline
+                0x0000cf50                atf_utils_grep_string
+                0x0000cff0                atf_utils_wait
+ *fill*         0x0000d275        0xb 
+ .text          0x0000d280      0x4a0 libatf-c_pic.a(text.pico)
+                0x0000d280                atf_text_for_each_word
+                0x0000d330                atf_text_format
+                0x0000d3a0                atf_text_format_ap
+                0x0000d410                atf_text_split
+                0x0000d5c0                atf_text_to_bool
+                0x0000d670                atf_text_to_long
+ .text          0x0000d720      0x6e4 libatf-c_pic.a(list.pico)
+                0x0000d720                atf_list_citer_data
+                0x0000d770                atf_list_citer_next
+                0x0000d7d0                atf_equal_list_citer_list_citer
+                0x0000d7f0                atf_list_iter_data
+                0x0000d840                atf_list_iter_next
+                0x0000d8a0                atf_equal_list_iter_list_iter
+                0x0000d8c0                atf_list_init
+                0x0000d970                atf_list_fini
+                0x0000da00                atf_list_begin
+                0x0000da20                atf_list_begin_c
+                0x0000da40                atf_list_end
+                0x0000da60                atf_list_end_c
+                0x0000da80                atf_list_index
+                0x0000db50                atf_list_size
+                0x0000db60                atf_list_index_c
+                0x0000dc30                atf_list_to_charpp
+                0x0000dd10                atf_list_append
+                0x0000dd80                atf_list_append_list
+ *fill*         0x0000de04        0xc 
+ .text          0x0000de10      0x757 libatf-c_pic.a(dynstr.pico)
+                0x0000de10                atf_dynstr_init
+                0x0000de60                atf_dynstr_init_ap
+                0x0000df70                atf_dynstr_init_fmt
+                0x0000dfb0                atf_dynstr_init_raw
+                0x0000e050                atf_dynstr_init_rep
+                0x0000e0d0                atf_dynstr_init_substr
+                0x0000e130                atf_dynstr_copy
+                0x0000e1a0                atf_dynstr_fini
+                0x0000e1f0                atf_dynstr_fini_disown
+                0x0000e240                atf_dynstr_cstring
+                0x0000e250                atf_dynstr_length
+                0x0000e260                atf_dynstr_rfind_ch
+                0x0000e290                atf_dynstr_append_ap
+                0x0000e410                atf_dynstr_append_fmt
+                0x0000e450                atf_dynstr_clear
+                0x0000e470                atf_dynstr_prepend_ap
+                0x0000e4b0                atf_dynstr_prepend_fmt
+                0x0000e4f0                atf_equal_dynstr_cstring
+                0x0000e530                atf_equal_dynstr_dynstr
+ *fill*         0x0000e567        0x9 
+ .text          0x0000e570      0x7de libatf-c_pic.a(error.pico)
+                0x0000e570                atf_error_new
+                0x0000e740                atf_no_memory_error
+                0x0000e7c0                atf_error_free
+                0x0000e860                atf_no_error
+                0x0000e870                atf_is_error
+                0x0000e880                atf_error_is
+                0x0000e8e0                atf_error_data
+                0x0000e930                atf_error_format
+                0x0000e980                atf_libc_error
+                0x0000eae0                atf_libc_error_code
+                0x0000eb90                atf_libc_error_msg
+ *fill*         0x0000ed4e        0x2 
+ .text          0x0000ed50      0x136 libatf-c_pic.a(sanity.pico)
+                0x0000ed50                atf_sanity_inv
+                0x0000ee10                atf_sanity_pre
+                0x0000ee50                atf_sanity_post
+ *fill*         0x0000ee86        0x2 
+ .text          0x0000ee88        0x0 /usr/lib/crtendS.o
+ .text          0x0000ee88        0x0 /usr/lib/crtn.o
+ *(.gnu.warning)
+
+.fini           0x0000ee90        0xa
+ *(SORT(.fini))
+ .fini          0x0000ee90        0x3 /usr/lib/crti.o
+                0x0000ee90                _fini
+ .fini          0x0000ee93        0x5 /usr/lib/crtbeginS.o
+ .fini          0x0000ee98        0x2 /usr/lib/crtn.o
+                0x0000ee9a                PROVIDE (__etext, .)
+                0x0000ee9a                PROVIDE (_etext, .)
+                0x0000ee9a                PROVIDE (etext, .)
+
+.rodata         0x0000eea0     0x1e02
+ *(.rodata .rodata.* .gnu.linkonce.r.*)
+ .rodata.str1.1
+                0x0000eea0      0x339 libatf-c_pic.a(tp_main.pico)
+                                0x360 (size before relaxing)
+ *fill*         0x0000f1d9        0x7 
+ .rodata.str1.16
+                0x0000f1e0       0x40 libatf-c_pic.a(tp_main.pico)
+                                 0x31 (size before relaxing)
+ .rodata.str1.1
+                0x0000f220       0x8d libatf-c_pic.a(tp.pico)
+                                 0xab (size before relaxing)
+ .rodata.str1.1
+                0x0000f2ad      0x13d libatf-c_pic.a(check.pico)
+                                0x15a (size before relaxing)
+ .rodata.str1.1
+                0x0000f3ea       0x66 libatf-c_pic.a(build.pico)
+                                 0x68 (size before relaxing)
+ .rodata        0x0000f450       0x34 libatf-c_pic.a(process.pico)
+                0x0000f464                atf_process_stream_type_capture
+                0x0000f468                atf_process_stream_type_connect
+                0x0000f46c                atf_process_stream_type_inherit
+                0x0000f470                atf_process_stream_type_redirect_fd
+                0x0000f474                atf_process_stream_type_redirect_path
+ .rodata.str1.1
+                0x0000f484      0x289 libatf-c_pic.a(process.pico)
+                                0x290 (size before relaxing)
+ .rodata.str1.1
+                0x0000f70d      0x12a libatf-c_pic.a(config.pico)
+                                0x1a5 (size before relaxing)
+ *fill*         0x0000f837        0x1 
+ .rodata        0x0000f838       0x18 libatf-c_pic.a(tc.pico)
+ .rodata.str1.1
+                0x0000f850      0x692 libatf-c_pic.a(tc.pico)
+                                0x6cc (size before relaxing)
+ .rodata.str1.1
+                0x0000fee2       0x88 libatf-c_pic.a(map.pico)
+ *fill*         0x0000ff6a        0x2 
+ .rodata        0x0000ff6c       0x50 libatf-c_pic.a(fs.pico)
+                0x0000ff8c                atf_fs_stat_blk_type
+                0x0000ff90                atf_fs_stat_chr_type
+                0x0000ff94                atf_fs_stat_dir_type
+                0x0000ff98                atf_fs_stat_fifo_type
+                0x0000ff9c                atf_fs_stat_lnk_type
+                0x0000ffa0                atf_fs_stat_reg_type
+                0x0000ffa4                atf_fs_stat_sock_type
+                0x0000ffa8                atf_fs_stat_wht_type
+                0x0000ffac                atf_fs_access_f
+                0x0000ffb0                atf_fs_access_r
+                0x0000ffb4                atf_fs_access_w
+                0x0000ffb8                atf_fs_access_x
+ .rodata.str1.1
+                0x0000ffbc      0x38c libatf-c_pic.a(fs.pico)
+                                0x3bd (size before relaxing)
+ .rodata.str1.1
+                0x00010348       0x5f libatf-c_pic.a(env.pico)
+                                 0x6b (size before relaxing)
+ .rodata.str1.1
+                0x000103a7       0x40 libatf-c_pic.a(user.pico)
+ .rodata.str1.1
+                0x000103e7      0x489 libatf-c_pic.a(utils.pico)
+                                0x48c (size before relaxing)
+ .rodata.str1.1
+                0x00010870       0xb6 libatf-c_pic.a(text.pico)
+                                 0xce (size before relaxing)
+ .rodata.str1.1
+                0x00010926       0x6f libatf-c_pic.a(list.pico)
+ *fill*         0x00010995        0x3 
+ .rodata        0x00010998        0x4 libatf-c_pic.a(dynstr.pico)
+                0x00010998                atf_dynstr_npos
+ .rodata.str1.1
+                0x0001099c       0x89 libatf-c_pic.a(dynstr.pico)
+                                 0x9c (size before relaxing)
+ .rodata.str1.1
+                0x00010a25       0xe4 libatf-c_pic.a(error.pico)
+                                0x100 (size before relaxing)
+ .rodata.str1.1
+                0x00010b09      0x199 libatf-c_pic.a(sanity.pico)
+                                0x19d (size before relaxing)
+
+.rodata1
+ *(.rodata1)
+
+.eh_frame_hdr   0x00010ca4      0x7ec
+ *(.eh_frame_hdr)
+ .eh_frame_hdr  0x00010ca4      0x7ec libatf-c_pic.a(tp_main.pico)
+
+.eh_frame       0x00011490     0x1e44
+ *(.eh_frame)
+ .eh_frame      0x00011490       0x3c /usr/lib/crti.o
+                                 0x40 (size before relaxing)
+ .eh_frame      0x000114cc        0x0 /usr/lib/crtbeginS.o
+ .eh_frame      0x000114cc       0xa0 libatf-c_pic.a(tp_main.pico)
+                                 0xb8 (size before relaxing)
+ .eh_frame      0x0001156c      0x138 libatf-c_pic.a(tp.pico)
+                                0x150 (size before relaxing)
+ .eh_frame      0x000116a4      0x1a8 libatf-c_pic.a(check.pico)
+                                0x1c0 (size before relaxing)
+ .eh_frame      0x0001184c       0x80 libatf-c_pic.a(build.pico)
+                                 0x98 (size before relaxing)
+ .eh_frame      0x000118cc      0x2f8 libatf-c_pic.a(process.pico)
+                                0x310 (size before relaxing)
+ .eh_frame      0x00011bc4       0x3c libatf-c_pic.a(config.pico)
+                                 0x54 (size before relaxing)
+ .eh_frame      0x00011c00      0x580 libatf-c_pic.a(tc.pico)
+                                0x598 (size before relaxing)
+ .eh_frame      0x00012180      0x270 libatf-c_pic.a(map.pico)
+                                0x288 (size before relaxing)
+ .eh_frame      0x000123f0      0x4fc libatf-c_pic.a(fs.pico)
+                                0x514 (size before relaxing)
+ .eh_frame      0x000128ec       0x78 libatf-c_pic.a(env.pico)
+                                 0x90 (size before relaxing)
+ .eh_frame      0x00012964       0x74 libatf-c_pic.a(user.pico)
+                                 0x8c (size before relaxing)
+ .eh_frame      0x000129d8      0x1a0 libatf-c_pic.a(utils.pico)
+                                0x1b8 (size before relaxing)
+ .eh_frame      0x00012b78       0xc0 libatf-c_pic.a(text.pico)
+                                 0xd8 (size before relaxing)
+ .eh_frame      0x00012c38      0x224 libatf-c_pic.a(list.pico)
+                                0x23c (size before relaxing)
+ .eh_frame      0x00012e5c      0x250 libatf-c_pic.a(dynstr.pico)
+                                0x268 (size before relaxing)
+ .eh_frame      0x000130ac      0x1b0 libatf-c_pic.a(error.pico)
+                                0x1c8 (size before relaxing)
+ .eh_frame      0x0001325c       0x74 libatf-c_pic.a(sanity.pico)
+                                 0x8c (size before relaxing)
+ .eh_frame      0x000132d0        0x4 /usr/lib/crtendS.o
+
+.note.minix.ident
+                0x000132d4       0x18
+ .note.minix.ident
+                0x000132d4       0x18 /usr/lib/crti.o
+
+.note.netbsd.pax
+                0x000132ec       0x14
+ .note.netbsd.pax
+                0x000132ec       0x14 /usr/lib/crti.o
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.exception_ranges
+ *(.exception_ranges .exception_ranges*)
+                0x00013300                . = (ALIGN (0x1000) - ((0x1000 - .) & 0xfff))
+                0x00014300                . = DATA_SEGMENT_ALIGN (0x1000, 0x1000)
+
+.eh_frame
+ *(.eh_frame)
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.exception_ranges
+ *(.exception_ranges .exception_ranges*)
+
+.tdata
+ *(.tdata .tdata.* .gnu.linkonce.td.*)
+
+.tbss
+ *(.tbss .tbss.* .gnu.linkonce.tb.*)
+ *(.tcommon)
+
+.preinit_array
+ *(.preinit_array)
+
+.init_array
+ *(SORT(.init_array.*))
+ *(.init_array)
+
+.fini_array
+ *(SORT(.fini_array.*))
+ *(.fini_array)
+
+.ctors          0x00014300        0x8
+ *crtbegin.o(.ctors)
+ *crtbegin?.o(.ctors)
+ .ctors         0x00014300        0x4 /usr/lib/crtbeginS.o
+ *(EXCLUDE_FILE(*crtend?.o *crtend.o) .ctors)
+ *(SORT(.ctors.*))
+ *(.ctors)
+ .ctors         0x00014304        0x4 /usr/lib/crtendS.o
+                0x00014304                __CTOR_LIST_END__
+
+.dtors          0x00014308        0x8
+ *crtbegin.o(.dtors)
+ *crtbegin?.o(.dtors)
+ .dtors         0x00014308        0x4 /usr/lib/crtbeginS.o
+ *(EXCLUDE_FILE(*crtend?.o *crtend.o) .dtors)
+ *(SORT(.dtors.*))
+ *(.dtors)
+ .dtors         0x0001430c        0x4 /usr/lib/crtendS.o
+
+.jcr            0x00014310        0x4
+ *(.jcr)
+ .jcr           0x00014310        0x0 /usr/lib/crtbeginS.o
+ .jcr           0x00014310        0x4 /usr/lib/crtendS.o
+
+.data.rel.ro
+ *(.data.rel.ro.local* .gnu.linkonce.d.rel.ro.local.*)
+ *(.data.rel.ro .data.rel.ro.* .gnu.linkonce.d.rel.ro.*)
+
+.dynamic        0x00014314       0xb0
+ *(.dynamic)
+ .dynamic       0x00014314       0xb0 /usr/lib/crti.o
+                0x00014314                _DYNAMIC
+
+.got            0x000143c4       0x5c
+ *(.got)
+ .got           0x000143c4       0x5c /usr/lib/crti.o
+ *(.igot)
+                0x00014420                . = DATA_SEGMENT_RELRO_END (., (SIZEOF (.got.plt) >= 0xc)?0xc:0x0)
+
+.got.plt        0x00014420      0x2f0
+ *(.got.plt)
+ .got.plt       0x00014420      0x2f0 /usr/lib/crti.o
+                0x00014420                _GLOBAL_OFFSET_TABLE_
+ *(.igot.plt)
+
+.data           0x00014710      0x134
+ *(.data .data.* .gnu.linkonce.d.*)
+ .data          0x00014710        0x0 /usr/lib/crti.o
+ .data          0x00014710        0x0 /usr/lib/crtbeginS.o
+ .data.rel      0x00014710       0x26 /usr/lib/crtbeginS.o
+                0x00014710                __dso_handle
+ *fill*         0x00014736        0x2 
+ .data          0x00014738        0x0 libatf-c_pic.a(tp_main.pico)
+ .data          0x00014738        0x0 libatf-c_pic.a(tp.pico)
+ .data          0x00014738        0x0 libatf-c_pic.a(check.pico)
+ .data          0x00014738        0x0 libatf-c_pic.a(build.pico)
+ .data          0x00014738        0x0 libatf-c_pic.a(process.pico)
+ .data          0x00014738        0x0 libatf-c_pic.a(config.pico)
+ .data.rel.local
+                0x00014738      0x100 libatf-c_pic.a(config.pico)
+ .data          0x00014838        0x5 libatf-c_pic.a(tc.pico)
+ *fill*         0x0001483d        0x3 
+ .data          0x00014840        0x0 libatf-c_pic.a(map.pico)
+ .data          0x00014840        0x0 libatf-c_pic.a(fs.pico)
+ .data          0x00014840        0x0 libatf-c_pic.a(env.pico)
+ .data          0x00014840        0x4 libatf-c_pic.a(user.pico)
+ .data          0x00014844        0x0 libatf-c_pic.a(utils.pico)
+ .data          0x00014844        0x0 libatf-c_pic.a(text.pico)
+ .data          0x00014844        0x0 libatf-c_pic.a(list.pico)
+ .data          0x00014844        0x0 libatf-c_pic.a(dynstr.pico)
+ .data          0x00014844        0x0 libatf-c_pic.a(error.pico)
+ .data          0x00014844        0x0 libatf-c_pic.a(sanity.pico)
+ .data          0x00014844        0x0 /usr/lib/crtendS.o
+ .data          0x00014844        0x0 /usr/lib/crtn.o
+
+.data1
+ *(.data1)
+                0x00014844                _edata = .
+                0x00014844                PROVIDE (edata, .)
+                0x00014844                . = .
+                0x00014844                __bss_start = .
+
+.bss            0x00014844       0x88
+ *(.dynbss)
+ .dynbss        0x00000000        0x0 /usr/lib/crti.o
+ *(.bss .bss.* .gnu.linkonce.b.*)
+ .bss           0x00014844        0x0 /usr/lib/crti.o
+ .bss           0x00014844        0x0 /usr/lib/crtbeginS.o
+ .bss           0x00014844        0x4 libatf-c_pic.a(tp_main.pico)
+ .bss           0x00014848        0x0 libatf-c_pic.a(tp.pico)
+ .bss           0x00014848        0x0 libatf-c_pic.a(check.pico)
+ .bss           0x00014848        0x0 libatf-c_pic.a(build.pico)
+ .bss           0x00014848        0x0 libatf-c_pic.a(process.pico)
+ .bss           0x00014848        0x1 libatf-c_pic.a(config.pico)
+ *fill*         0x00014849        0x3 
+ .bss           0x0001484c       0x2c libatf-c_pic.a(tc.pico)
+ .bss           0x00014878        0x0 libatf-c_pic.a(map.pico)
+ .bss           0x00014878        0x0 libatf-c_pic.a(fs.pico)
+ .bss           0x00014878        0x0 libatf-c_pic.a(env.pico)
+ .bss           0x00014878       0x40 libatf-c_pic.a(user.pico)
+ .bss           0x000148b8        0x0 libatf-c_pic.a(utils.pico)
+ .bss           0x000148b8        0x0 libatf-c_pic.a(text.pico)
+ .bss           0x000148b8        0x0 libatf-c_pic.a(list.pico)
+ .bss           0x000148b8        0x0 libatf-c_pic.a(dynstr.pico)
+ .bss           0x000148b8       0x14 libatf-c_pic.a(error.pico)
+ .bss           0x000148cc        0x0 libatf-c_pic.a(sanity.pico)
+ .bss           0x000148cc        0x0 /usr/lib/crtendS.o
+ .bss           0x000148cc        0x0 /usr/lib/crtn.o
+ *(COMMON)
+                0x000148cc                . = ALIGN ((. != 0x0)?0x4:0x1)
+                0x000148cc                . = ALIGN (0x4)
+                0x000148cc                . = ALIGN (0x4)
+                0x000148cc                _end = .
+                0x000148cc                PROVIDE (end, .)
+                0x000148cc                . = DATA_SEGMENT_END (.)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x00000000       0x28
+ *(.comment)
+ .comment       0x00000000       0x28 libatf-c_pic.a(tp_main.pico)
+                                 0x29 (size before relaxing)
+ .comment       0x00000000       0x29 libatf-c_pic.a(tp.pico)
+ .comment       0x00000000       0x29 libatf-c_pic.a(check.pico)
+ .comment       0x00000000       0x29 libatf-c_pic.a(build.pico)
+ .comment       0x00000000       0x29 libatf-c_pic.a(process.pico)
+ .comment       0x00000000       0x29 libatf-c_pic.a(config.pico)
+ .comment       0x00000000       0x29 libatf-c_pic.a(tc.pico)
+ .comment       0x00000000       0x29 libatf-c_pic.a(map.pico)
+ .comment       0x00000000       0x29 libatf-c_pic.a(fs.pico)
+ .comment       0x00000000       0x29 libatf-c_pic.a(env.pico)
+ .comment       0x00000000       0x29 libatf-c_pic.a(user.pico)
+ .comment       0x00000000       0x29 libatf-c_pic.a(utils.pico)
+ .comment       0x00000000       0x29 libatf-c_pic.a(text.pico)
+ .comment       0x00000000       0x29 libatf-c_pic.a(list.pico)
+ .comment       0x00000000       0x29 libatf-c_pic.a(dynstr.pico)
+ .comment       0x00000000       0x29 libatf-c_pic.a(error.pico)
+ .comment       0x00000000       0x29 libatf-c_pic.a(sanity.pico)
+
+.ident          0x00000000       0xde
+ .ident         0x00000000       0x36 /usr/lib/crti.o
+ .ident         0x00000036       0x3a /usr/lib/crtbeginS.o
+ .ident         0x00000070       0x38 /usr/lib/crtendS.o
+ .ident         0x000000a8       0x36 /usr/lib/crtn.o
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges
+ *(.debug_aranges)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info
+ *(.debug_info .gnu.linkonce.wi.*)
+
+.debug_abbrev
+ *(.debug_abbrev)
+
+.debug_line
+ *(.debug_line)
+
+.debug_frame
+ *(.debug_frame)
+
+.debug_str
+ *(.debug_str)
+
+.debug_loc
+ *(.debug_loc)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges
+ *(.debug_ranges)
+
+.debug_macro
+ *(.debug_macro)
+
+.gnu.attributes
+ *(.gnu.attributes)
+
+/DISCARD/
+ *(.note.GNU-stack)
+ *(.gnu_debuglink)
+ *(.gnu.lto_*)
+OUTPUT(libatf-c.so.0.0 elf32-i386-minix)

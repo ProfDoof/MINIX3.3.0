@@ -1,0 +1,648 @@
+Archive member included because of file (symbol)
+
+libform_pic.a(type_ipv6.pico)
+                              (--whole-archive)
+libform_pic.a(type_ipv4.pico)
+                              (--whole-archive)
+libform_pic.a(type_regex.pico)
+                              (--whole-archive)
+libform_pic.a(type_enum.pico)
+                              (--whole-archive)
+libform_pic.a(type_numeric.pico)
+                              (--whole-archive)
+libform_pic.a(type_integer.pico)
+                              (--whole-archive)
+libform_pic.a(type_alpha.pico)
+                              (--whole-archive)
+libform_pic.a(type_alnum.pico)
+                              (--whole-archive)
+libform_pic.a(post.pico)      (--whole-archive)
+libform_pic.a(field_types.pico)
+                              (--whole-archive)
+libform_pic.a(driver.pico)    (--whole-archive)
+libform_pic.a(form.pico)      (--whole-archive)
+libform_pic.a(field.pico)     (--whole-archive)
+libform_pic.a(internals.pico)
+                              (--whole-archive)
+
+Discarded input sections
+
+ .note.GNU-stack
+                0x00000000        0x0 libform_pic.a(type_ipv6.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libform_pic.a(type_ipv4.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libform_pic.a(type_regex.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libform_pic.a(type_enum.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libform_pic.a(type_numeric.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libform_pic.a(type_integer.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libform_pic.a(type_alpha.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libform_pic.a(type_alnum.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libform_pic.a(post.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libform_pic.a(field_types.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libform_pic.a(driver.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libform_pic.a(form.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libform_pic.a(field.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libform_pic.a(internals.pico)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD /usr/lib/crti.o
+LOAD /usr/lib/crtbeginS.o
+LOAD libform_pic.a
+LOAD /usr/src/lib/libcurses/libcurses.so
+LOAD /usr/lib/libc.so
+LOAD /usr/lib/crtendS.o
+LOAD /usr/lib/crtn.o
+                0x000000f4                . = (0x0 + SIZEOF_HEADERS)
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.hash           0x000000f4      0x480
+ *(.hash)
+ .hash          0x000000f4      0x480 /usr/lib/crti.o
+
+.gnu.hash
+ *(.gnu.hash)
+
+.dynsym         0x00000574      0x9b0
+ *(.dynsym)
+ .dynsym        0x00000574      0x9b0 /usr/lib/crti.o
+
+.dynstr         0x00000f24      0x6c0
+ *(.dynstr)
+ .dynstr        0x00000f24      0x6c0 /usr/lib/crti.o
+
+.gnu.version    0x000015e4        0x0
+ *(.gnu.version)
+ .gnu.version   0x00000000        0x0 /usr/lib/crti.o
+
+.gnu.version_d  0x000015e4        0x0
+ *(.gnu.version_d)
+ .gnu.version_d
+                0x00000000        0x0 /usr/lib/crti.o
+
+.gnu.version_r  0x000015e4        0x0
+ *(.gnu.version_r)
+ .gnu.version_r
+                0x00000000        0x0 /usr/lib/crti.o
+
+.rel.dyn        0x000015e4      0x1b0
+ *(.rel.init)
+ *(.rel.text .rel.text.* .rel.gnu.linkonce.t.*)
+ *(.rel.fini)
+ *(.rel.rodata .rel.rodata.* .rel.gnu.linkonce.r.*)
+ *(.rel.data.rel.ro .rel.data.rel.ro.* .rel.gnu.linkonce.d.rel.ro.*)
+ *(.rel.data .rel.data.* .rel.gnu.linkonce.d.*)
+ .rel.data.rel  0x000015e4        0x8 /usr/lib/crti.o
+ .rel.data.rel.local
+                0x000015ec      0x150 /usr/lib/crti.o
+ *(.rel.tdata .rel.tdata.* .rel.gnu.linkonce.td.*)
+ *(.rel.tbss .rel.tbss.* .rel.gnu.linkonce.tb.*)
+ *(.rel.ctors)
+ *(.rel.dtors)
+ *(.rel.got)
+ .rel.got       0x0000173c       0x58 /usr/lib/crti.o
+ *(.rel.bss .rel.bss.* .rel.gnu.linkonce.b.*)
+ *(.rel.ifunc)
+ .rel.ifunc     0x00000000        0x0 /usr/lib/crti.o
+
+.rel.plt        0x00001794      0x210
+ *(.rel.plt)
+ .rel.plt       0x00001794      0x210 /usr/lib/crti.o
+ *(.rel.iplt)
+
+.init           0x000019b0        0xa
+ *(SORT(.init))
+ .init          0x000019b0        0x3 /usr/lib/crti.o
+                0x000019b0                _init
+ .init          0x000019b3        0x5 /usr/lib/crtbeginS.o
+ .init          0x000019b8        0x2 /usr/lib/crtn.o
+
+.plt            0x000019c0      0x430
+ *(.plt)
+ .plt           0x000019c0      0x430 /usr/lib/crti.o
+ *(.iplt)
+
+.text           0x00001df0     0x825c
+                0x00001df0                PROVIDE (__eprol, .)
+ *(.text.unlikely .text.*_unlikely)
+ *(.text.exit .text.exit.*)
+ *(.text.startup .text.startup.*)
+ *(.text.hot .text.hot.*)
+ *(.text .stub .text.* .gnu.linkonce.t.*)
+ .text          0x00001df0        0x0 /usr/lib/crti.o
+ .text          0x00001df0       0xef /usr/lib/crtbeginS.o
+ *fill*         0x00001edf        0x1 
+ .text          0x00001ee0      0x175 libform_pic.a(type_ipv6.pico)
+ *fill*         0x00002055        0xb 
+ .text          0x00002060      0x3b6 libform_pic.a(type_ipv4.pico)
+ *fill*         0x00002416        0xa 
+ .text          0x00002420      0x108 libform_pic.a(type_regex.pico)
+ *fill*         0x00002528        0x8 
+ .text          0x00002530      0x4a6 libform_pic.a(type_enum.pico)
+ *fill*         0x000029d6        0xa 
+ .text          0x000029e0      0x2e8 libform_pic.a(type_numeric.pico)
+ *fill*         0x00002cc8        0x8 
+ .text          0x00002cd0      0x238 libform_pic.a(type_integer.pico)
+ *fill*         0x00002f08        0x8 
+ .text          0x00002f10      0x1d4 libform_pic.a(type_alpha.pico)
+ *fill*         0x000030e4        0xc 
+ .text          0x000030f0      0x1d7 libform_pic.a(type_alnum.pico)
+ *fill*         0x000032c7        0x9 
+ .text          0x000032d0      0x172 libform_pic.a(post.pico)
+                0x000032d0                post_form
+                0x000033d0                unpost_form
+ *fill*         0x00003442        0xe 
+ .text          0x00003450      0x3b2 libform_pic.a(field_types.pico)
+                0x00003450                set_field_type
+                0x00003570                field_type
+                0x000035a0                field_arg
+                0x000035d0                new_fieldtype
+                0x00003660                free_fieldtype
+                0x000036c0                set_fieldtype_arg
+                0x00003700                set_fieldtype_choice
+                0x00003730                link_fieldtype
+ *fill*         0x00003802        0xe 
+ .text          0x00003810      0x5a4 libform_pic.a(driver.pico)
+                0x00003810                form_driver
+ *fill*         0x00003db4        0xc 
+ .text          0x00003dc0      0x7e4 libform_pic.a(form.pico)
+                0x00003dc0                set_form_win
+                0x00003e00                form_win
+                0x00003e30                set_form_sub
+                0x00003e70                form_sub
+                0x00003ea0                scale_form
+                0x00003f30                set_form_userptr
+                0x00003f60                form_userptr
+                0x00003f90                set_form_opts
+                0x00003fc0                form_opts_on
+                0x00003ff0                form_opts_off
+                0x00004020                form_opts
+                0x00004050                set_form_init
+                0x00004080                form_init
+                0x000040b0                set_form_term
+                0x000040e0                form_term
+                0x00004110                set_form_fields
+                0x00004260                form_fields
+                0x00004280                field_count
+                0x000042a0                move_field
+                0x000042e0                set_form_page
+                0x00004310                form_max_page
+                0x00004340                form_page
+                0x00004360                set_current_field
+                0x000043a0                current_field
+                0x000043c0                new_form
+                0x00004450                free_form
+                0x000044c0                data_ahead
+                0x000044f0                data_behind
+                0x00004520                pos_form_cursor
+ *fill*         0x000045a4        0xc 
+ .text          0x000045b0      0xf93 libform_pic.a(field.pico)
+                0x000045b0                set_field_userptr
+                0x000045e0                field_userptr
+                0x00004610                set_field_opts
+                0x000046f0                field_opts_on
+                0x000047d0                field_opts_off
+                0x00004860                field_opts
+                0x00004890                set_field_just
+                0x00004900                field_just
+                0x00004930                field_info
+                0x00004980                dynamic_field_info
+                0x000049c0                set_field_printf
+                0x00004bb0                set_field_buffer
+                0x00004c80                field_buffer
+                0x00004dd0                set_field_status
+                0x00004e00                field_status
+                0x00004e20                set_max_field
+                0x00004e60                set_field_fore
+                0x00004e90                field_fore
+                0x00004ec0                set_field_back
+                0x00004ef0                field_back
+                0x00004f20                set_field_pad
+                0x00004f50                field_pad
+                0x00004f80                set_field_init
+                0x00004fb0                field_init
+                0x00004fe0                set_field_term
+                0x00005010                field_term
+                0x00005040                set_new_page
+                0x00005080                new_page
+                0x000050b0                field_index
+                0x000050d0                new_field
+                0x00005290                dup_field
+                0x000053c0                link_field
+                0x00005480                free_field
+ *fill*         0x00005543        0xd 
+ .text          0x00005550     0x4afa libform_pic.a(internals.pico)
+                0x00005550                _formi_init_field_xpos
+                0x00005590                _formi_pos_first_field
+                0x00005610                _formi_pos_new_field
+                0x00005720                _formi_wrap_field
+                0x00006770                _formi_skip_blanks
+                0x000067c0                field_skip_blanks
+                0x00006850                _formi_hscroll_fwd
+                0x00006ae0                _formi_tab_expanded_length
+                0x00006c80                _formi_hscroll_back
+                0x00006d50                _formi_find_pages
+                0x00006ea0                _formi_redraw_field
+                0x00007480                _formi_draw_page
+                0x00007500                _formi_add_char
+                0x00007a40                _formi_validate_char
+                0x00007b10                _formi_calculate_tabs
+                0x00008040                _formi_manipulate_field
+                0x000098d0                _formi_validate_field
+                0x000099d0                _formi_sync_buffer
+                0x00009b50                _formi_field_choice
+                0x00009bd0                _formi_update_field
+                0x00009c70                _formi_sort_fields
+                0x00009dc0                _formi_stitch_fields
+ *fill*         0x0000a04a        0x2 
+ .text          0x0000a04c        0x0 /usr/lib/crtendS.o
+ .text          0x0000a04c        0x0 /usr/lib/crtn.o
+ *(.gnu.warning)
+
+.fini           0x0000a050        0xa
+ *(SORT(.fini))
+ .fini          0x0000a050        0x3 /usr/lib/crti.o
+                0x0000a050                _fini
+ .fini          0x0000a053        0x5 /usr/lib/crtbeginS.o
+ .fini          0x0000a058        0x2 /usr/lib/crtn.o
+                0x0000a05a                PROVIDE (__etext, .)
+                0x0000a05a                PROVIDE (_etext, .)
+                0x0000a05a                PROVIDE (etext, .)
+
+.rodata         0x0000a05c      0x373
+ *(.rodata .rodata.* .gnu.linkonce.r.*)
+ .rodata.str1.1
+                0x0000a05c        0x2 libform_pic.a(type_ipv6.pico)
+ .rodata.str1.1
+                0x0000a05e       0x28 libform_pic.a(type_ipv4.pico)
+ .rodata.str1.1
+                0x0000a086        0x5 libform_pic.a(type_numeric.pico)
+ .rodata.str1.1
+                0x0000a08b        0x6 libform_pic.a(type_integer.pico)
+ *fill*         0x0000a091        0x3 
+ .rodata        0x0000a094       0xf4 libform_pic.a(driver.pico)
+ .rodata        0x0000a188       0x98 libform_pic.a(internals.pico)
+ .rodata.str1.1
+                0x0000a220      0x1af libform_pic.a(internals.pico)
+
+.rodata1
+ *(.rodata1)
+
+.eh_frame_hdr   0x0000a3d0      0x494
+ *(.eh_frame_hdr)
+ .eh_frame_hdr  0x0000a3d0      0x494 libform_pic.a(type_ipv6.pico)
+
+.eh_frame       0x0000a864     0x1130
+ *(.eh_frame)
+ .eh_frame      0x0000a864       0x3c /usr/lib/crti.o
+                                 0x40 (size before relaxing)
+ .eh_frame      0x0000a8a0        0x0 /usr/lib/crtbeginS.o
+ .eh_frame      0x0000a8a0       0x3c libform_pic.a(type_ipv6.pico)
+                                 0x54 (size before relaxing)
+ .eh_frame      0x0000a8dc       0x3c libform_pic.a(type_ipv4.pico)
+                                 0x54 (size before relaxing)
+ .eh_frame      0x0000a918       0x74 libform_pic.a(type_regex.pico)
+                                 0x8c (size before relaxing)
+ .eh_frame      0x0000a98c       0xdc libform_pic.a(type_enum.pico)
+                                 0xf4 (size before relaxing)
+ .eh_frame      0x0000aa68       0x98 libform_pic.a(type_numeric.pico)
+                                 0xb0 (size before relaxing)
+ .eh_frame      0x0000ab00       0x98 libform_pic.a(type_integer.pico)
+                                 0xb0 (size before relaxing)
+ .eh_frame      0x0000ab98       0x94 libform_pic.a(type_alpha.pico)
+                                 0xac (size before relaxing)
+ .eh_frame      0x0000ac2c       0x94 libform_pic.a(type_alnum.pico)
+                                 0xac (size before relaxing)
+ .eh_frame      0x0000acc0       0x40 libform_pic.a(post.pico)
+                                 0x58 (size before relaxing)
+ .eh_frame      0x0000ad00      0x110 libform_pic.a(field_types.pico)
+                                0x128 (size before relaxing)
+ .eh_frame      0x0000ae10       0x20 libform_pic.a(driver.pico)
+                                 0x38 (size before relaxing)
+ .eh_frame      0x0000ae30      0x340 libform_pic.a(form.pico)
+                                0x358 (size before relaxing)
+ .eh_frame      0x0000b170      0x3ec libform_pic.a(field.pico)
+                                0x404 (size before relaxing)
+ .eh_frame      0x0000b55c      0x434 libform_pic.a(internals.pico)
+                                0x44c (size before relaxing)
+ .eh_frame      0x0000b990        0x4 /usr/lib/crtendS.o
+
+.note.minix.ident
+                0x0000b994       0x18
+ .note.minix.ident
+                0x0000b994       0x18 /usr/lib/crti.o
+
+.note.netbsd.pax
+                0x0000b9ac       0x14
+ .note.netbsd.pax
+                0x0000b9ac       0x14 /usr/lib/crti.o
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.exception_ranges
+ *(.exception_ranges .exception_ranges*)
+                0x0000b9c0                . = (ALIGN (0x1000) - ((0x1000 - .) & 0xfff))
+                0x0000c9c0                . = DATA_SEGMENT_ALIGN (0x1000, 0x1000)
+
+.eh_frame
+ *(.eh_frame)
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.exception_ranges
+ *(.exception_ranges .exception_ranges*)
+
+.tdata
+ *(.tdata .tdata.* .gnu.linkonce.td.*)
+
+.tbss
+ *(.tbss .tbss.* .gnu.linkonce.tb.*)
+ *(.tcommon)
+
+.preinit_array
+ *(.preinit_array)
+
+.init_array
+ *(SORT(.init_array.*))
+ *(.init_array)
+
+.fini_array
+ *(SORT(.fini_array.*))
+ *(.fini_array)
+
+.ctors          0x0000c9c0        0x8
+ *crtbegin.o(.ctors)
+ *crtbegin?.o(.ctors)
+ .ctors         0x0000c9c0        0x4 /usr/lib/crtbeginS.o
+ *(EXCLUDE_FILE(*crtend?.o *crtend.o) .ctors)
+ *(SORT(.ctors.*))
+ *(.ctors)
+ .ctors         0x0000c9c4        0x4 /usr/lib/crtendS.o
+                0x0000c9c4                __CTOR_LIST_END__
+
+.dtors          0x0000c9c8        0x8
+ *crtbegin.o(.dtors)
+ *crtbegin?.o(.dtors)
+ .dtors         0x0000c9c8        0x4 /usr/lib/crtbeginS.o
+ *(EXCLUDE_FILE(*crtend?.o *crtend.o) .dtors)
+ *(SORT(.dtors.*))
+ *(.dtors)
+ .dtors         0x0000c9cc        0x4 /usr/lib/crtendS.o
+
+.jcr            0x0000c9d0        0x4
+ *(.jcr)
+ .jcr           0x0000c9d0        0x0 /usr/lib/crtbeginS.o
+ .jcr           0x0000c9d0        0x4 /usr/lib/crtendS.o
+
+.data.rel.ro
+ *(.data.rel.ro.local* .gnu.linkonce.d.rel.ro.local.*)
+ *(.data.rel.ro .data.rel.ro.* .gnu.linkonce.d.rel.ro.*)
+
+.dynamic        0x0000c9d4       0xb8
+ *(.dynamic)
+ .dynamic       0x0000c9d4       0xb8 /usr/lib/crti.o
+                0x0000c9d4                _DYNAMIC
+
+.got            0x0000ca8c       0x2c
+ *(.got)
+ .got           0x0000ca8c       0x2c /usr/lib/crti.o
+ *(.igot)
+                0x0000cab8                . = DATA_SEGMENT_RELRO_END (., (SIZEOF (.got.plt) >= 0xc)?0xc:0x0)
+
+.got.plt        0x0000cab8      0x114
+ *(.got.plt)
+ .got.plt       0x0000cab8      0x114 /usr/lib/crti.o
+                0x0000cab8                _GLOBAL_OFFSET_TABLE_
+ *(.igot.plt)
+
+.data           0x0000cbcc      0x224
+ *(.data .data.* .gnu.linkonce.d.*)
+ .data          0x0000cbcc        0x0 /usr/lib/crti.o
+ .data          0x0000cbcc        0x0 /usr/lib/crtbeginS.o
+ .data.rel      0x0000cbcc       0x26 /usr/lib/crtbeginS.o
+                0x0000cbcc                __dso_handle
+ *fill*         0x0000cbf2        0x2 
+ .data          0x0000cbf4        0x0 libform_pic.a(type_ipv6.pico)
+ .data.rel.local
+                0x0000cbf4       0x2c libform_pic.a(type_ipv6.pico)
+                0x0000cc1c                TYPE_IPV6
+ .data          0x0000cc20        0x0 libform_pic.a(type_ipv4.pico)
+ .data.rel.local
+                0x0000cc20       0x2c libform_pic.a(type_ipv4.pico)
+                0x0000cc48                TYPE_IPV4
+ .data          0x0000cc4c        0x0 libform_pic.a(type_regex.pico)
+ .data.rel.local
+                0x0000cc4c       0x2c libform_pic.a(type_regex.pico)
+                0x0000cc74                TYPE_REGEXP
+ .data          0x0000cc78        0x0 libform_pic.a(type_enum.pico)
+ .data.rel.local
+                0x0000cc78       0x2c libform_pic.a(type_enum.pico)
+                0x0000cca0                TYPE_ENUM
+ .data          0x0000cca4        0x0 libform_pic.a(type_numeric.pico)
+ .data.rel.local
+                0x0000cca4       0x2c libform_pic.a(type_numeric.pico)
+                0x0000cccc                TYPE_NUMERIC
+ .data          0x0000ccd0        0x0 libform_pic.a(type_integer.pico)
+ .data.rel.local
+                0x0000ccd0       0x2c libform_pic.a(type_integer.pico)
+                0x0000ccf8                TYPE_INTEGER
+ .data          0x0000ccfc        0x0 libform_pic.a(type_alpha.pico)
+ .data.rel.local
+                0x0000ccfc       0x2c libform_pic.a(type_alpha.pico)
+                0x0000cd24                TYPE_ALPHA
+ .data          0x0000cd28        0x0 libform_pic.a(type_alnum.pico)
+ .data.rel.local
+                0x0000cd28       0x2c libform_pic.a(type_alnum.pico)
+                0x0000cd50                TYPE_ALNUM
+ .data          0x0000cd54        0x0 libform_pic.a(post.pico)
+ .data          0x0000cd54        0x0 libform_pic.a(field_types.pico)
+ .data          0x0000cd54        0x0 libform_pic.a(driver.pico)
+ .data          0x0000cd54        0x0 libform_pic.a(form.pico)
+ .data          0x0000cd54       0x9c libform_pic.a(field.pico)
+                0x0000cd54                _formi_default_field
+ .data          0x0000cdf0        0x0 libform_pic.a(internals.pico)
+ .data          0x0000cdf0        0x0 /usr/lib/crtendS.o
+ .data          0x0000cdf0        0x0 /usr/lib/crtn.o
+
+.data1
+ *(.data1)
+                0x0000cdf0                _edata = .
+                0x0000cdf0                PROVIDE (edata, .)
+                0x0000cdf0                . = .
+                0x0000cdf0                __bss_start = .
+
+.bss            0x0000cdf0       0x50
+ *(.dynbss)
+ .dynbss        0x00000000        0x0 /usr/lib/crti.o
+ *(.bss .bss.* .gnu.linkonce.b.*)
+ .bss           0x0000cdf0        0x0 /usr/lib/crti.o
+ .bss           0x0000cdf0        0x0 /usr/lib/crtbeginS.o
+ .bss           0x0000cdf0        0x0 libform_pic.a(type_ipv6.pico)
+ .bss           0x0000cdf0        0x0 libform_pic.a(type_ipv4.pico)
+ .bss           0x0000cdf0        0x0 libform_pic.a(type_regex.pico)
+ .bss           0x0000cdf0        0x0 libform_pic.a(type_enum.pico)
+ .bss           0x0000cdf0        0x0 libform_pic.a(type_numeric.pico)
+ .bss           0x0000cdf0        0x0 libform_pic.a(type_integer.pico)
+ .bss           0x0000cdf0        0x0 libform_pic.a(type_alpha.pico)
+ .bss           0x0000cdf0        0x0 libform_pic.a(type_alnum.pico)
+ .bss           0x0000cdf0        0x0 libform_pic.a(post.pico)
+ .bss           0x0000cdf0        0x0 libform_pic.a(field_types.pico)
+ .bss           0x0000cdf0        0x0 libform_pic.a(driver.pico)
+ .bss           0x0000cdf0       0x50 libform_pic.a(form.pico)
+                0x0000cdf0                _formi_default_form
+ .bss           0x0000ce40        0x0 libform_pic.a(field.pico)
+ .bss           0x0000ce40        0x0 libform_pic.a(internals.pico)
+ .bss           0x0000ce40        0x0 /usr/lib/crtendS.o
+ .bss           0x0000ce40        0x0 /usr/lib/crtn.o
+ *(COMMON)
+                0x0000ce40                . = ALIGN ((. != 0x0)?0x4:0x1)
+                0x0000ce40                . = ALIGN (0x4)
+                0x0000ce40                . = ALIGN (0x4)
+                0x0000ce40                _end = .
+                0x0000ce40                PROVIDE (end, .)
+                0x0000ce40                . = DATA_SEGMENT_END (.)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x00000000       0x28
+ *(.comment)
+ .comment       0x00000000       0x28 libform_pic.a(type_ipv6.pico)
+                                 0x29 (size before relaxing)
+ .comment       0x00000000       0x29 libform_pic.a(type_ipv4.pico)
+ .comment       0x00000000       0x29 libform_pic.a(type_regex.pico)
+ .comment       0x00000000       0x29 libform_pic.a(type_enum.pico)
+ .comment       0x00000000       0x29 libform_pic.a(type_numeric.pico)
+ .comment       0x00000000       0x29 libform_pic.a(type_integer.pico)
+ .comment       0x00000000       0x29 libform_pic.a(type_alpha.pico)
+ .comment       0x00000000       0x29 libform_pic.a(type_alnum.pico)
+ .comment       0x00000000       0x29 libform_pic.a(post.pico)
+ .comment       0x00000000       0x29 libform_pic.a(field_types.pico)
+ .comment       0x00000000       0x29 libform_pic.a(driver.pico)
+ .comment       0x00000000       0x29 libform_pic.a(form.pico)
+ .comment       0x00000000       0x29 libform_pic.a(field.pico)
+ .comment       0x00000000       0x29 libform_pic.a(internals.pico)
+
+.ident          0x00000000      0x3ea
+ .ident         0x00000000       0x36 /usr/lib/crti.o
+ .ident         0x00000036       0x3a /usr/lib/crtbeginS.o
+ .ident         0x00000070       0x3c libform_pic.a(type_ipv6.pico)
+ .ident         0x000000ac       0x3e libform_pic.a(type_ipv4.pico)
+ .ident         0x000000ea       0x3c libform_pic.a(type_regex.pico)
+ .ident         0x00000126       0x3e libform_pic.a(type_enum.pico)
+ .ident         0x00000164       0x3c libform_pic.a(type_numeric.pico)
+ .ident         0x000001a0       0x3c libform_pic.a(type_integer.pico)
+ .ident         0x000001dc       0x3d libform_pic.a(type_alpha.pico)
+ .ident         0x00000219       0x36 libform_pic.a(post.pico)
+ .ident         0x0000024f       0x40 libform_pic.a(field_types.pico)
+ .ident         0x0000028f       0x3c libform_pic.a(driver.pico)
+ .ident         0x000002cb       0x37 libform_pic.a(form.pico)
+ .ident         0x00000302       0x3b libform_pic.a(field.pico)
+ .ident         0x0000033d       0x3f libform_pic.a(internals.pico)
+ .ident         0x0000037c       0x38 /usr/lib/crtendS.o
+ .ident         0x000003b4       0x36 /usr/lib/crtn.o
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges
+ *(.debug_aranges)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info
+ *(.debug_info .gnu.linkonce.wi.*)
+
+.debug_abbrev
+ *(.debug_abbrev)
+
+.debug_line
+ *(.debug_line)
+
+.debug_frame
+ *(.debug_frame)
+
+.debug_str
+ *(.debug_str)
+
+.debug_loc
+ *(.debug_loc)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges
+ *(.debug_ranges)
+
+.debug_macro
+ *(.debug_macro)
+
+.gnu.attributes
+ *(.gnu.attributes)
+
+/DISCARD/
+ *(.note.GNU-stack)
+ *(.gnu_debuglink)
+ *(.gnu.lto_*)
+OUTPUT(libform.so.6.0 elf32-i386-minix)

@@ -1,0 +1,547 @@
+Archive member included because of file (symbol)
+
+libterminfo_pic.a(tputs.pico)
+                              (--whole-archive)
+libterminfo_pic.a(ti.pico)    (--whole-archive)
+libterminfo_pic.a(termcap.pico)
+                              (--whole-archive)
+libterminfo_pic.a(tparm.pico)
+                              (--whole-archive)
+libterminfo_pic.a(setupterm.pico)
+                              (--whole-archive)
+libterminfo_pic.a(term.pico)  (--whole-archive)
+libterminfo_pic.a(compile.pico)
+                              (--whole-archive)
+libterminfo_pic.a(curterm.pico)
+                              (--whole-archive)
+libterminfo_pic.a(hash.pico)  (--whole-archive)
+
+Allocating common symbols
+Common symbol       size              file
+
+ttytype             0x100             libterminfo_pic.a(curterm.pico)
+ospeed              0x2               libterminfo_pic.a(tputs.pico)
+BC                  0x4               libterminfo_pic.a(termcap.pico)
+PC                  0x1               libterminfo_pic.a(tputs.pico)
+cur_term            0x4               libterminfo_pic.a(curterm.pico)
+UP                  0x4               libterminfo_pic.a(termcap.pico)
+_ti_database        0x4               libterminfo_pic.a(term.pico)
+
+Discarded input sections
+
+ .note.GNU-stack
+                0x00000000        0x0 libterminfo_pic.a(tputs.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libterminfo_pic.a(ti.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libterminfo_pic.a(termcap.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libterminfo_pic.a(tparm.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libterminfo_pic.a(setupterm.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libterminfo_pic.a(term.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libterminfo_pic.a(compile.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libterminfo_pic.a(curterm.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libterminfo_pic.a(hash.pico)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD /usr/lib/crti.o
+LOAD /usr/lib/crtbeginS.o
+LOAD libterminfo_pic.a
+LOAD /usr/lib/libc.so
+LOAD /usr/lib/crtendS.o
+LOAD /usr/lib/crtn.o
+                0x000000f4                . = (0x0 + SIZEOF_HEADERS)
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.hash           0x000000f4      0x288
+ *(.hash)
+ .hash          0x000000f4      0x288 /usr/lib/crti.o
+
+.gnu.hash
+ *(.gnu.hash)
+
+.dynsym         0x0000037c      0x5d0
+ *(.dynsym)
+ .dynsym        0x0000037c      0x5d0 /usr/lib/crti.o
+
+.dynstr         0x0000094c      0x376
+ *(.dynstr)
+ .dynstr        0x0000094c      0x376 /usr/lib/crti.o
+
+.gnu.version    0x00000cc2        0x0
+ *(.gnu.version)
+ .gnu.version   0x00000000        0x0 /usr/lib/crti.o
+
+.gnu.version_d  0x00000cc4        0x0
+ *(.gnu.version_d)
+ .gnu.version_d
+                0x00000000        0x0 /usr/lib/crti.o
+
+.gnu.version_r  0x00000cc4        0x0
+ *(.gnu.version_r)
+ .gnu.version_r
+                0x00000000        0x0 /usr/lib/crti.o
+
+.rel.dyn        0x00000cc4      0x1c0
+ *(.rel.init)
+ *(.rel.text .rel.text.* .rel.gnu.linkonce.t.*)
+ *(.rel.fini)
+ *(.rel.rodata .rel.rodata.* .rel.gnu.linkonce.r.*)
+ *(.rel.data.rel.ro .rel.data.rel.ro.* .rel.gnu.linkonce.d.rel.ro.*)
+ .rel.data.rel.ro.local
+                0x00000cc4      0x140 /usr/lib/crti.o
+ *(.rel.data .rel.data.* .rel.gnu.linkonce.d.*)
+ .rel.data.rel  0x00000e04        0x8 /usr/lib/crti.o
+ *(.rel.tdata .rel.tdata.* .rel.gnu.linkonce.td.*)
+ *(.rel.tbss .rel.tbss.* .rel.gnu.linkonce.tb.*)
+ *(.rel.ctors)
+ *(.rel.dtors)
+ *(.rel.got)
+ .rel.got       0x00000e0c       0x78 /usr/lib/crti.o
+ *(.rel.bss .rel.bss.* .rel.gnu.linkonce.b.*)
+ *(.rel.ifunc)
+ .rel.ifunc     0x00000000        0x0 /usr/lib/crti.o
+
+.rel.plt        0x00000e84      0x1b8
+ *(.rel.plt)
+ .rel.plt       0x00000e84      0x1b8 /usr/lib/crti.o
+ *(.rel.iplt)
+
+.init           0x00001040        0xa
+ *(SORT(.init))
+ .init          0x00001040        0x3 /usr/lib/crti.o
+                0x00001040                _init
+ .init          0x00001043        0x5 /usr/lib/crtbeginS.o
+ .init          0x00001048        0x2 /usr/lib/crtn.o
+
+.plt            0x00001050      0x380
+ *(.plt)
+ .plt           0x00001050      0x380 /usr/lib/crti.o
+ *(.iplt)
+
+.text           0x000013d0     0x5018
+                0x000013d0                PROVIDE (__eprol, .)
+ *(.text.unlikely .text.*_unlikely)
+ *(.text.exit .text.exit.*)
+ *(.text.startup .text.startup.*)
+ *(.text.hot .text.hot.*)
+ *(.text .stub .text.* .gnu.linkonce.t.*)
+ .text          0x000013d0        0x0 /usr/lib/crti.o
+ .text          0x000013d0       0xef /usr/lib/crtbeginS.o
+ *fill*         0x000014bf        0x1 
+ .text          0x000014c0      0x450 libterminfo_pic.a(tputs.pico)
+                0x000014c0                ti_puts
+                0x00001700                ti_putp
+                0x00001790                tputs
+                0x000017f0                putp
+ .text          0x00001910      0x39a libterminfo_pic.a(ti.pico)
+                0x00001910                ti_getflag
+                0x000019a0                tigetflag
+                0x00001a40                ti_getnum
+                0x00001ae0                tigetnum
+                0x00001b90                ti_getstr
+                0x00001c20                tigetstr
+ *fill*         0x00001caa        0x6 
+ .text          0x00001cb0     0x117d libterminfo_pic.a(termcap.pico)
+                0x00001cb0                tgetent
+                0x00001d60                tgetflag
+                0x00001ea0                tgetnum
+                0x00001fe0                tgetstr
+                0x00002190                tgoto
+                0x000021d0                captoinfo
+ *fill*         0x00002e2d        0x3 
+ .text          0x00002e30      0xfd4 libterminfo_pic.a(tparm.pico)
+                0x00002e30                _ti_parm_analyse
+                0x00002f20                ti_tiparm
+                0x00003d20                tiparm
+                0x00003d60                tparm
+ *fill*         0x00003e04        0xc 
+ .text          0x00003e10      0x218 libterminfo_pic.a(setupterm.pico)
+                0x00003e10                ti_setupterm
+                0x00003fd0                setupterm
+ *fill*         0x00004028        0x8 
+ .text          0x00004030      0xa24 libterminfo_pic.a(term.pico)
+                0x00004030                _ti_getterm
+ *fill*         0x00004a54        0xc 
+ .text          0x00004a60     0x13df libterminfo_pic.a(compile.pico)
+                0x00004a60                _ti_grow_tbuf
+                0x00004ac0                _ti_find_cap
+                0x00004b50                _ti_find_extra
+                0x00004c00                _ti_store_extra
+                0x00004e30                _ti_flatten
+                0x000050a0                _ti_get_token
+                0x00005160                _ti_compile
+                0x00005dc0                _ti_freetic
+ *fill*         0x00005e3f        0x1 
+ .text          0x00005e40      0x2d6 libterminfo_pic.a(curterm.pico)
+                0x00005e40                _ti_setospeed
+                0x00005eb0                set_curterm
+                0x00006060                del_curterm
+                0x000060d0                termname
+                0x000060f0                longname
+ *fill*         0x00006116        0xa 
+ .text          0x00006120      0x2c6 libterminfo_pic.a(hash.pico)
+                0x00006120                _ti_flagid
+                0x00006150                _ti_flagindex
+                0x00006210                _ti_numid
+                0x00006240                _ti_numindex
+                0x000062f0                _ti_strid
+                0x00006320                _ti_strindex
+ *fill*         0x000063e6        0x2 
+ .text          0x000063e8        0x0 /usr/lib/crtendS.o
+ .text          0x000063e8        0x0 /usr/lib/crtn.o
+ *(.gnu.warning)
+
+.fini           0x000063f0        0xa
+ *(SORT(.fini))
+ .fini          0x000063f0        0x3 /usr/lib/crti.o
+                0x000063f0                _fini
+ .fini          0x000063f3        0x5 /usr/lib/crtbeginS.o
+ .fini          0x000063f8        0x2 /usr/lib/crtn.o
+                0x000063fa                PROVIDE (__etext, .)
+                0x000063fa                PROVIDE (_etext, .)
+                0x000063fa                PROVIDE (etext, .)
+
+.rodata         0x000063fc     0x6b44
+ *(.rodata .rodata.* .gnu.linkonce.r.*)
+ .rodata        0x000063fc       0x1e libterminfo_pic.a(tputs.pico)
+ *fill*         0x0000641a        0x2 
+ .rodata        0x0000641c     0x1538 libterminfo_pic.a(termcap.pico)
+ .rodata.str1.1
+                0x00007954       0x67 libterminfo_pic.a(termcap.pico)
+                                 0x6f (size before relaxing)
+ *fill*         0x000079bb        0x1 
+ .rodata        0x000079bc       0xdc libterminfo_pic.a(tparm.pico)
+ .rodata.str1.1
+                0x00007a98       0xde libterminfo_pic.a(setupterm.pico)
+ .rodata.str1.1
+                0x00007b76       0xaa libterminfo_pic.a(term.pico)
+                                 0xbb (size before relaxing)
+ .rodata        0x00007c20     0x3b40 libterminfo_pic.a(term.pico)
+ .rodata        0x0000b760       0x50 libterminfo_pic.a(compile.pico)
+ .rodata.str1.1
+                0x0000b7b0       0xe6 libterminfo_pic.a(compile.pico)
+                                 0xea (size before relaxing)
+ *fill*         0x0000b896        0x2 
+ .rodata        0x0000b898       0x50 libterminfo_pic.a(curterm.pico)
+ .rodata.str1.1
+                0x00000000       0xe6 libterminfo_pic.a(curterm.pico)
+                                  0x1 (size before relaxing)
+ .rodata        0x0000b8e8     0x1658 libterminfo_pic.a(hash.pico)
+
+.rodata1
+ *(.rodata1)
+
+.eh_frame_hdr   0x0000cf40      0x1ac
+ *(.eh_frame_hdr)
+ .eh_frame_hdr  0x0000cf40      0x1ac libterminfo_pic.a(tputs.pico)
+
+.eh_frame       0x0000d0ec      0x678
+ *(.eh_frame)
+ .eh_frame      0x0000d0ec       0x3c /usr/lib/crti.o
+                                 0x40 (size before relaxing)
+ .eh_frame      0x0000d128        0x0 /usr/lib/crtbeginS.o
+ .eh_frame      0x0000d128       0xc0 libterminfo_pic.a(tputs.pico)
+                                 0xd8 (size before relaxing)
+ .eh_frame      0x0000d1e8       0xc0 libterminfo_pic.a(ti.pico)
+                                 0xd8 (size before relaxing)
+ .eh_frame      0x0000d2a8       0xfc libterminfo_pic.a(termcap.pico)
+                                0x114 (size before relaxing)
+ .eh_frame      0x0000d3a4       0xb4 libterminfo_pic.a(tparm.pico)
+                                 0xcc (size before relaxing)
+ .eh_frame      0x0000d458       0x40 libterminfo_pic.a(setupterm.pico)
+                                 0x58 (size before relaxing)
+ .eh_frame      0x0000d498       0x60 libterminfo_pic.a(term.pico)
+                                 0x78 (size before relaxing)
+ .eh_frame      0x0000d4f8      0x11c libterminfo_pic.a(compile.pico)
+                                0x134 (size before relaxing)
+ .eh_frame      0x0000d614       0x98 libterminfo_pic.a(curterm.pico)
+                                 0xb0 (size before relaxing)
+ .eh_frame      0x0000d6ac       0xb4 libterminfo_pic.a(hash.pico)
+                                 0xcc (size before relaxing)
+ .eh_frame      0x0000d760        0x4 /usr/lib/crtendS.o
+
+.note.minix.ident
+                0x0000d764       0x18
+ .note.minix.ident
+                0x0000d764       0x18 /usr/lib/crti.o
+
+.note.netbsd.pax
+                0x0000d77c       0x14
+ .note.netbsd.pax
+                0x0000d77c       0x14 /usr/lib/crti.o
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.exception_ranges
+ *(.exception_ranges .exception_ranges*)
+                0x0000d790                . = (ALIGN (0x1000) - ((0x1000 - .) & 0xfff))
+                0x0000e000                . = DATA_SEGMENT_ALIGN (0x1000, 0x1000)
+
+.eh_frame
+ *(.eh_frame)
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.exception_ranges
+ *(.exception_ranges .exception_ranges*)
+
+.tdata
+ *(.tdata .tdata.* .gnu.linkonce.td.*)
+
+.tbss
+ *(.tbss .tbss.* .gnu.linkonce.tb.*)
+ *(.tcommon)
+
+.preinit_array
+ *(.preinit_array)
+
+.init_array
+ *(SORT(.init_array.*))
+ *(.init_array)
+
+.fini_array
+ *(SORT(.fini_array.*))
+ *(.fini_array)
+
+.ctors          0x0000e000        0x8
+ *crtbegin.o(.ctors)
+ *crtbegin?.o(.ctors)
+ .ctors         0x0000e000        0x4 /usr/lib/crtbeginS.o
+ *(EXCLUDE_FILE(*crtend?.o *crtend.o) .ctors)
+ *(SORT(.ctors.*))
+ *(.ctors)
+ .ctors         0x0000e004        0x4 /usr/lib/crtendS.o
+                0x0000e004                __CTOR_LIST_END__
+
+.dtors          0x0000e008        0x8
+ *crtbegin.o(.dtors)
+ *crtbegin?.o(.dtors)
+ .dtors         0x0000e008        0x4 /usr/lib/crtbeginS.o
+ *(EXCLUDE_FILE(*crtend?.o *crtend.o) .dtors)
+ *(SORT(.dtors.*))
+ *(.dtors)
+ .dtors         0x0000e00c        0x4 /usr/lib/crtendS.o
+
+.jcr            0x0000e010        0x4
+ *(.jcr)
+ .jcr           0x0000e010        0x0 /usr/lib/crtbeginS.o
+ .jcr           0x0000e010        0x4 /usr/lib/crtendS.o
+
+.data.rel.ro    0x0000e014       0xcc
+ *(.data.rel.ro.local* .gnu.linkonce.d.rel.ro.local.*)
+ .data.rel.ro.local
+                0x0000e014       0x48 libterminfo_pic.a(termcap.pico)
+ .data.rel.ro.local
+                0x0000e05c       0x84 libterminfo_pic.a(term.pico)
+                0x0000e05c                compiled_terms
+ *(.data.rel.ro .data.rel.ro.* .gnu.linkonce.d.rel.ro.*)
+
+.dynamic        0x0000e0e0       0xb0
+ *(.dynamic)
+ .dynamic       0x0000e0e0       0xb0 /usr/lib/crti.o
+                0x0000e0e0                _DYNAMIC
+
+.got            0x0000e190       0x3c
+ *(.got)
+ .got           0x0000e190       0x3c /usr/lib/crti.o
+ *(.igot)
+                0x0000e1cc                . = DATA_SEGMENT_RELRO_END (., (SIZEOF (.got.plt) >= 0xc)?0xc:0x0)
+
+.got.plt        0x0000e1cc       0xe8
+ *(.got.plt)
+ .got.plt       0x0000e1cc       0xe8 /usr/lib/crti.o
+                0x0000e1cc                _GLOBAL_OFFSET_TABLE_
+ *(.igot.plt)
+
+.data           0x0000e2b4       0x28
+ *(.data .data.* .gnu.linkonce.d.*)
+ .data          0x0000e2b4        0x0 /usr/lib/crti.o
+ .data          0x0000e2b4        0x0 /usr/lib/crtbeginS.o
+ .data.rel      0x0000e2b4       0x26 /usr/lib/crtbeginS.o
+                0x0000e2b4                __dso_handle
+ *fill*         0x0000e2da        0x2 
+ .data          0x0000e2dc        0x0 libterminfo_pic.a(tputs.pico)
+ .data          0x0000e2dc        0x0 libterminfo_pic.a(ti.pico)
+ .data          0x0000e2dc        0x0 libterminfo_pic.a(termcap.pico)
+ .data          0x0000e2dc        0x0 libterminfo_pic.a(tparm.pico)
+ .data          0x0000e2dc        0x0 libterminfo_pic.a(setupterm.pico)
+ .data          0x0000e2dc        0x0 libterminfo_pic.a(term.pico)
+ .data          0x0000e2dc        0x0 libterminfo_pic.a(compile.pico)
+ .data          0x0000e2dc        0x0 libterminfo_pic.a(curterm.pico)
+ .data          0x0000e2dc        0x0 libterminfo_pic.a(hash.pico)
+ .data          0x0000e2dc        0x0 /usr/lib/crtendS.o
+ .data          0x0000e2dc        0x0 /usr/lib/crtn.o
+
+.data1
+ *(.data1)
+                0x0000e2dc                _edata = .
+                0x0000e2dc                PROVIDE (edata, .)
+                0x0000e2dc                . = .
+                0x0000e2dc                __bss_start = .
+
+.bss            0x0000e2dc      0x91c
+ *(.dynbss)
+ .dynbss        0x00000000        0x0 /usr/lib/crti.o
+ *(.bss .bss.* .gnu.linkonce.b.*)
+ .bss           0x0000e2dc        0x0 /usr/lib/crti.o
+ .bss           0x0000e2dc        0x0 /usr/lib/crtbeginS.o
+ .bss           0x0000e2dc        0x0 libterminfo_pic.a(tputs.pico)
+ .bss           0x0000e2dc        0x0 libterminfo_pic.a(ti.pico)
+ .bss           0x0000e2dc        0x4 libterminfo_pic.a(termcap.pico)
+ .bss           0x0000e2e0        0x4 libterminfo_pic.a(tparm.pico)
+ .bss           0x0000e2e4        0x0 libterminfo_pic.a(setupterm.pico)
+ .bss           0x0000e2e4      0x800 libterminfo_pic.a(term.pico)
+ .bss           0x0000eae4        0x0 libterminfo_pic.a(compile.pico)
+ .bss           0x0000eae4        0x0 libterminfo_pic.a(curterm.pico)
+ .bss           0x0000eae4        0x0 libterminfo_pic.a(hash.pico)
+ .bss           0x0000eae4        0x0 /usr/lib/crtendS.o
+ .bss           0x0000eae4        0x0 /usr/lib/crtn.o
+ *(COMMON)
+ COMMON         0x0000eae4        0x3 libterminfo_pic.a(tputs.pico)
+                0x0000eae4                ospeed
+                0x0000eae6                PC
+ *fill*         0x0000eae7        0x1 
+ COMMON         0x0000eae8        0x8 libterminfo_pic.a(termcap.pico)
+                0x0000eae8                BC
+                0x0000eaec                UP
+ COMMON         0x0000eaf0        0x4 libterminfo_pic.a(term.pico)
+                0x0000eaf0                _ti_database
+ COMMON         0x0000eaf4      0x104 libterminfo_pic.a(curterm.pico)
+                0x0000eaf4                ttytype
+                0x0000ebf4                cur_term
+                0x0000ebf8                . = ALIGN ((. != 0x0)?0x4:0x1)
+                0x0000ebf8                . = ALIGN (0x4)
+                0x0000ebf8                . = ALIGN (0x4)
+                0x0000ebf8                _end = .
+                0x0000ebf8                PROVIDE (end, .)
+                0x0000ebf8                . = DATA_SEGMENT_END (.)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x00000000       0x28
+ *(.comment)
+ .comment       0x00000000       0x28 libterminfo_pic.a(tputs.pico)
+                                 0x29 (size before relaxing)
+ .comment       0x00000000       0x29 libterminfo_pic.a(ti.pico)
+ .comment       0x00000000       0x29 libterminfo_pic.a(termcap.pico)
+ .comment       0x00000000       0x29 libterminfo_pic.a(tparm.pico)
+ .comment       0x00000000       0x29 libterminfo_pic.a(setupterm.pico)
+ .comment       0x00000000       0x29 libterminfo_pic.a(term.pico)
+ .comment       0x00000000       0x29 libterminfo_pic.a(compile.pico)
+ .comment       0x00000000       0x29 libterminfo_pic.a(curterm.pico)
+ .comment       0x00000000       0x29 libterminfo_pic.a(hash.pico)
+
+.ident          0x00000000      0x2d2
+ .ident         0x00000000       0x36 /usr/lib/crti.o
+ .ident         0x00000036       0x3a /usr/lib/crtbeginS.o
+ .ident         0x00000070       0x35 libterminfo_pic.a(tputs.pico)
+ .ident         0x000000a5       0x32 libterminfo_pic.a(ti.pico)
+ .ident         0x000000d7       0x78 libterminfo_pic.a(termcap.pico)
+ .ident         0x0000014f       0x36 libterminfo_pic.a(tparm.pico)
+ .ident         0x00000185       0x39 libterminfo_pic.a(setupterm.pico)
+ .ident         0x000001be       0x35 libterminfo_pic.a(term.pico)
+ .ident         0x000001f3       0x37 libterminfo_pic.a(compile.pico)
+ .ident         0x0000022a       0x3a libterminfo_pic.a(curterm.pico)
+ .ident         0x00000264       0x38 /usr/lib/crtendS.o
+ .ident         0x0000029c       0x36 /usr/lib/crtn.o
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges
+ *(.debug_aranges)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info
+ *(.debug_info .gnu.linkonce.wi.*)
+
+.debug_abbrev
+ *(.debug_abbrev)
+
+.debug_line
+ *(.debug_line)
+
+.debug_frame
+ *(.debug_frame)
+
+.debug_str
+ *(.debug_str)
+
+.debug_loc
+ *(.debug_loc)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges
+ *(.debug_ranges)
+
+.debug_macro
+ *(.debug_macro)
+
+.gnu.attributes
+ *(.gnu.attributes)
+
+/DISCARD/
+ *(.note.GNU-stack)
+ *(.gnu_debuglink)
+ *(.gnu.lto_*)
+OUTPUT(libterminfo.so.1.0 elf32-i386-minix)

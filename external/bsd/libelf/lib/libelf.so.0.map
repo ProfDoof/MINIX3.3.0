@@ -1,0 +1,1124 @@
+Archive member included because of file (symbol)
+
+libelf_pic.a(gelf_xlate.pico)
+                              (--whole-archive)
+libelf_pic.a(gelf_symshndx.pico)
+                              (--whole-archive)
+libelf_pic.a(gelf_syminfo.pico)
+                              (--whole-archive)
+libelf_pic.a(gelf_sym.pico)   (--whole-archive)
+libelf_pic.a(gelf_rela.pico)  (--whole-archive)
+libelf_pic.a(gelf_rel.pico)   (--whole-archive)
+libelf_pic.a(gelf_phdr.pico)  (--whole-archive)
+libelf_pic.a(gelf_move.pico)  (--whole-archive)
+libelf_pic.a(gelf_getclass.pico)
+                              (--whole-archive)
+libelf_pic.a(gelf_dyn.pico)   (--whole-archive)
+libelf_pic.a(gelf_checksum.pico)
+                              (--whole-archive)
+libelf_pic.a(gelf_cap.pico)   (--whole-archive)
+libelf_pic.a(elf_version.pico)
+                              (--whole-archive)
+libelf_pic.a(elf_update.pico)
+                              (--whole-archive)
+libelf_pic.a(elf_strptr.pico)
+                              (--whole-archive)
+libelf_pic.a(elf_shstrndx.pico)
+                              (--whole-archive)
+libelf_pic.a(elf_shnum.pico)  (--whole-archive)
+libelf_pic.a(elf_phnum.pico)  (--whole-archive)
+libelf_pic.a(elf_rawfile.pico)
+                              (--whole-archive)
+libelf_pic.a(elf_rand.pico)   (--whole-archive)
+libelf_pic.a(elf_next.pico)   (--whole-archive)
+libelf_pic.a(elf_kind.pico)   (--whole-archive)
+libelf_pic.a(elf_getident.pico)
+                              (--whole-archive)
+libelf_pic.a(elf_getbase.pico)
+                              (--whole-archive)
+libelf_pic.a(elf_getarsym.pico)
+                              (--whole-archive)
+libelf_pic.a(elf_getarhdr.pico)
+                              (--whole-archive)
+libelf_pic.a(elf_fill.pico)   (--whole-archive)
+libelf_pic.a(elf_errno.pico)  (--whole-archive)
+libelf_pic.a(elf_errmsg.pico)
+                              (--whole-archive)
+libelf_pic.a(elf_cntl.pico)   (--whole-archive)
+libelf_pic.a(elf_begin.pico)  (--whole-archive)
+libelf_pic.a(libelf_xlate.pico)
+                              (--whole-archive)
+libelf_pic.a(libelf_phdr.pico)
+                              (--whole-archive)
+libelf_pic.a(libelf_extended.pico)
+                              (--whole-archive)
+libelf_pic.a(libelf_checksum.pico)
+                              (--whole-archive)
+libelf_pic.a(libelf_align.pico)
+                              (--whole-archive)
+libelf_pic.a(gelf_shdr.pico)  (--whole-archive)
+libelf_pic.a(gelf_ehdr.pico)  (--whole-archive)
+libelf_pic.a(elf_scn.pico)    (--whole-archive)
+libelf_pic.a(elf_data.pico)   (--whole-archive)
+libelf_pic.a(elf_end.pico)    (--whole-archive)
+libelf_pic.a(libelf_shdr.pico)
+                              (--whole-archive)
+libelf_pic.a(libelf_ehdr.pico)
+                              (--whole-archive)
+libelf_pic.a(libelf_data.pico)
+                              (--whole-archive)
+libelf_pic.a(libelf.pico)     (--whole-archive)
+libelf_pic.a(elf_flag.pico)   (--whole-archive)
+libelf_pic.a(libelf_convert.pico)
+                              (--whole-archive)
+libelf_pic.a(libelf_msize.pico)
+                              (--whole-archive)
+libelf_pic.a(gelf_fsize.pico)
+                              (--whole-archive)
+libelf_pic.a(libelf_fsize.pico)
+                              (--whole-archive)
+libelf_pic.a(libelf_ar.pico)  (--whole-archive)
+libelf_pic.a(elf_memory.pico)
+                              (--whole-archive)
+libelf_pic.a(elf_hash.pico)   (--whole-archive)
+libelf_pic.a(libelf_allocate.pico)
+                              (--whole-archive)
+
+Discarded input sections
+
+ .note.GNU-stack
+                0x00000000        0x0 libelf_pic.a(gelf_xlate.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libelf_pic.a(gelf_symshndx.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libelf_pic.a(gelf_syminfo.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libelf_pic.a(gelf_sym.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libelf_pic.a(gelf_rela.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libelf_pic.a(gelf_rel.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libelf_pic.a(gelf_phdr.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libelf_pic.a(gelf_move.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libelf_pic.a(gelf_getclass.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libelf_pic.a(gelf_dyn.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libelf_pic.a(gelf_checksum.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libelf_pic.a(gelf_cap.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libelf_pic.a(elf_version.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libelf_pic.a(elf_update.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libelf_pic.a(elf_strptr.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libelf_pic.a(elf_shstrndx.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libelf_pic.a(elf_shnum.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libelf_pic.a(elf_phnum.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libelf_pic.a(elf_rawfile.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libelf_pic.a(elf_rand.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libelf_pic.a(elf_next.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libelf_pic.a(elf_kind.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libelf_pic.a(elf_getident.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libelf_pic.a(elf_getbase.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libelf_pic.a(elf_getarsym.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libelf_pic.a(elf_getarhdr.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libelf_pic.a(elf_fill.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libelf_pic.a(elf_errno.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libelf_pic.a(elf_errmsg.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libelf_pic.a(elf_cntl.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libelf_pic.a(elf_begin.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libelf_pic.a(libelf_xlate.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libelf_pic.a(libelf_phdr.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libelf_pic.a(libelf_extended.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libelf_pic.a(libelf_checksum.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libelf_pic.a(libelf_align.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libelf_pic.a(gelf_shdr.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libelf_pic.a(gelf_ehdr.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libelf_pic.a(elf_scn.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libelf_pic.a(elf_data.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libelf_pic.a(elf_end.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libelf_pic.a(libelf_shdr.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libelf_pic.a(libelf_ehdr.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libelf_pic.a(libelf_data.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libelf_pic.a(libelf.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libelf_pic.a(elf_flag.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libelf_pic.a(libelf_convert.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libelf_pic.a(libelf_msize.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libelf_pic.a(gelf_fsize.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libelf_pic.a(libelf_fsize.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libelf_pic.a(libelf_ar.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libelf_pic.a(elf_memory.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libelf_pic.a(elf_hash.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libelf_pic.a(libelf_allocate.pico)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD /usr/lib/crti.o
+LOAD /usr/lib/crtbeginS.o
+LOAD libelf_pic.a
+LOAD /usr/lib/libc.so
+LOAD /usr/lib/crtendS.o
+LOAD /usr/lib/crtn.o
+                0x000000f4                . = (0x0 + SIZEOF_HEADERS)
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.hash           0x000000f4      0x470
+ *(.hash)
+ .hash          0x000000f4      0x470 /usr/lib/crti.o
+
+.gnu.hash
+ *(.gnu.hash)
+
+.dynsym         0x00000564      0x970
+ *(.dynsym)
+ .dynsym        0x00000564      0x970 /usr/lib/crti.o
+
+.dynstr         0x00000ed4      0x811
+ *(.dynstr)
+ .dynstr        0x00000ed4      0x811 /usr/lib/crti.o
+
+.gnu.version    0x000016e6        0x0
+ *(.gnu.version)
+ .gnu.version   0x00000000        0x0 /usr/lib/crti.o
+
+.gnu.version_d  0x000016e8        0x0
+ *(.gnu.version_d)
+ .gnu.version_d
+                0x00000000        0x0 /usr/lib/crti.o
+
+.gnu.version_r  0x000016e8        0x0
+ *(.gnu.version_r)
+ .gnu.version_r
+                0x00000000        0x0 /usr/lib/crti.o
+
+.rel.dyn        0x000016e8      0x370
+ *(.rel.init)
+ *(.rel.text .rel.text.* .rel.gnu.linkonce.t.*)
+ *(.rel.fini)
+ *(.rel.rodata .rel.rodata.* .rel.gnu.linkonce.r.*)
+ *(.rel.data.rel.ro .rel.data.rel.ro.* .rel.gnu.linkonce.d.rel.ro.*)
+ .rel.data.rel.ro.local
+                0x000016e8      0x2a0 /usr/lib/crti.o
+ *(.rel.data .rel.data.* .rel.gnu.linkonce.d.*)
+ .rel.data.rel  0x00001988        0x8 /usr/lib/crti.o
+ .rel.data.rel.local
+                0x00001990       0x80 /usr/lib/crti.o
+ *(.rel.tdata .rel.tdata.* .rel.gnu.linkonce.td.*)
+ *(.rel.tbss .rel.tbss.* .rel.gnu.linkonce.tb.*)
+ *(.rel.ctors)
+ *(.rel.dtors)
+ *(.rel.got)
+ .rel.got       0x00001a10       0x48 /usr/lib/crti.o
+ *(.rel.bss .rel.bss.* .rel.gnu.linkonce.b.*)
+ *(.rel.ifunc)
+ .rel.ifunc     0x00000000        0x0 /usr/lib/crti.o
+
+.rel.plt        0x00001a58      0x230
+ *(.rel.plt)
+ .rel.plt       0x00001a58      0x230 /usr/lib/crti.o
+ *(.rel.iplt)
+
+.init           0x00001c90        0xa
+ *(SORT(.init))
+ .init          0x00001c90        0x3 /usr/lib/crti.o
+                0x00001c90                _init
+ .init          0x00001c93        0x5 /usr/lib/crtbeginS.o
+ .init          0x00001c98        0x2 /usr/lib/crtn.o
+
+.plt            0x00001ca0      0x470
+ *(.plt)
+ .plt           0x00001ca0      0x470 /usr/lib/crti.o
+ *(.iplt)
+
+.text           0x00002110    0x103d8
+                0x00002110                PROVIDE (__eprol, .)
+ *(.text.unlikely .text.*_unlikely)
+ *(.text.exit .text.exit.*)
+ *(.text.startup .text.startup.*)
+ *(.text.hot .text.hot.*)
+ *(.text .stub .text.* .gnu.linkonce.t.*)
+ .text          0x00002110        0x0 /usr/lib/crti.o
+ .text          0x00002110       0xef /usr/lib/crtbeginS.o
+ *fill*         0x000021ff        0x1 
+ .text          0x00002200      0x1fa libelf_pic.a(gelf_xlate.pico)
+                0x00002200                elf32_xlatetof
+                0x00002250                elf64_xlatetof
+                0x000022a0                elf32_xlatetom
+                0x000022f0                elf64_xlatetom
+                0x00002340                gelf_xlatetom
+                0x000023a0                gelf_xlatetof
+ *fill*         0x000023fa        0x6 
+ .text          0x00002400      0x2a3 libelf_pic.a(gelf_symshndx.pico)
+                0x00002400                gelf_getsymshndx
+                0x00002560                gelf_update_symshndx
+ *fill*         0x000026a3        0xd 
+ .text          0x000026b0      0x288 libelf_pic.a(gelf_syminfo.pico)
+                0x000026b0                gelf_getsyminfo
+                0x000027f0                gelf_update_syminfo
+ *fill*         0x00002938        0x8 
+ .text          0x00002940      0x348 libelf_pic.a(gelf_sym.pico)
+                0x00002940                gelf_getsym
+                0x00002ae0                gelf_update_sym
+ *fill*         0x00002c88        0x8 
+ .text          0x00002c90      0x355 libelf_pic.a(gelf_rela.pico)
+                0x00002c90                gelf_getrela
+                0x00002e20                gelf_update_rela
+ *fill*         0x00002fe5        0xb 
+ .text          0x00002ff0      0x304 libelf_pic.a(gelf_rel.pico)
+                0x00002ff0                gelf_getrel
+                0x00003160                gelf_update_rel
+ *fill*         0x000032f4        0xc 
+ .text          0x00003300      0x44a libelf_pic.a(gelf_phdr.pico)
+                0x00003300                elf32_getphdr
+                0x00003330                elf64_getphdr
+                0x00003360                gelf_getphdr
+                0x000034f0                elf32_newphdr
+                0x00003530                elf64_newphdr
+                0x00003570                gelf_newphdr
+                0x000035c0                gelf_update_phdr
+ *fill*         0x0000374a        0x6 
+ .text          0x00003750      0x36e libelf_pic.a(gelf_move.pico)
+                0x00003750                gelf_getmove
+                0x00003900                gelf_update_move
+ *fill*         0x00003abe        0x2 
+ .text          0x00003ac0       0x11 libelf_pic.a(gelf_getclass.pico)
+                0x00003ac0                gelf_getclass
+ *fill*         0x00003ad1        0xf 
+ .text          0x00003ae0      0x2e3 libelf_pic.a(gelf_dyn.pico)
+                0x00003ae0                gelf_getdyn
+                0x00003c40                gelf_update_dyn
+ *fill*         0x00003dc3        0xd 
+ .text          0x00003dd0       0xa7 libelf_pic.a(gelf_checksum.pico)
+                0x00003dd0                elf32_checksum
+                0x00003e00                elf64_checksum
+                0x00003e30                gelf_checksum
+ *fill*         0x00003e77        0x9 
+ .text          0x00003e80      0x2d3 libelf_pic.a(gelf_cap.pico)
+                0x00003e80                gelf_getcap
+                0x00003fe0                gelf_update_cap
+ *fill*         0x00004153        0xd 
+ .text          0x00004160       0x3e libelf_pic.a(elf_version.pico)
+                0x00004160                elf_version
+ *fill*         0x0000419e        0x2 
+ .text          0x000041a0     0x1f3e libelf_pic.a(elf_update.pico)
+                0x000041a0                elf_update
+ *fill*         0x000060de        0x2 
+ .text          0x000060e0      0x225 libelf_pic.a(elf_strptr.pico)
+                0x000060e0                elf_strptr
+ *fill*         0x00006305        0xb 
+ .text          0x00006310       0xe4 libelf_pic.a(elf_shstrndx.pico)
+                0x00006310                elf_getshstrndx
+                0x00006380                elf_setshstrndx
+ *fill*         0x000063f4        0xc 
+ .text          0x00006400       0x6c libelf_pic.a(elf_shnum.pico)
+                0x00006400                elf_getshnum
+ *fill*         0x0000646c        0x4 
+ .text          0x00006470       0x6c libelf_pic.a(elf_phnum.pico)
+                0x00006470                elf_getphnum
+ *fill*         0x000064dc        0x4 
+ .text          0x000064e0       0x55 libelf_pic.a(elf_rawfile.pico)
+                0x000064e0                elf_rawfile
+ *fill*         0x00006535        0xb 
+ .text          0x00006540       0x9d libelf_pic.a(elf_rand.pico)
+                0x00006540                elf_rand
+ *fill*         0x000065dd        0x3 
+ .text          0x000065e0      0x14b libelf_pic.a(elf_next.pico)
+                0x000065e0                elf_next
+ *fill*         0x0000672b        0x5 
+ .text          0x00006730       0x1d libelf_pic.a(elf_kind.pico)
+                0x00006730                elf_kind
+ *fill*         0x0000674d        0x3 
+ .text          0x00006750       0xba libelf_pic.a(elf_getident.pico)
+                0x00006750                elf_getident
+ *fill*         0x0000680a        0x6 
+ .text          0x00006810       0x3f libelf_pic.a(elf_getbase.pico)
+                0x00006810                elf_getbase
+ *fill*         0x0000684f        0x1 
+ .text          0x00006850       0x7d libelf_pic.a(elf_getarsym.pico)
+                0x00006850                elf_getarsym
+ *fill*         0x000068cd        0x3 
+ .text          0x000068d0       0x38 libelf_pic.a(elf_getarhdr.pico)
+                0x000068d0                elf_getarhdr
+ *fill*         0x00006908        0x8 
+ .text          0x00006910       0x1d libelf_pic.a(elf_fill.pico)
+                0x00006910                elf_fill
+ *fill*         0x0000692d        0x3 
+ .text          0x00006930       0x4c libelf_pic.a(elf_errno.pico)
+                0x00006930                elf_errno
+                0x00006950                _libelf_get_max_error
+                0x00006960                _libelf_set_error
+ *fill*         0x0000697c        0x4 
+ .text          0x00006980       0xe9 libelf_pic.a(elf_errmsg.pico)
+                0x00006980                elf_errmsg
+                0x00006a30                _libelf_get_unknown_error_message
+                0x00006a50                _libelf_get_no_error_message
+ *fill*         0x00006a69        0x7 
+ .text          0x00006a70       0x7c libelf_pic.a(elf_cntl.pico)
+                0x00006a70                elf_cntl
+ *fill*         0x00006aec        0x4 
+ .text          0x00006af0      0x333 libelf_pic.a(elf_begin.pico)
+                0x00006af0                elf_begin
+ *fill*         0x00006e23        0xd 
+ .text          0x00006e30      0x33f libelf_pic.a(libelf_xlate.pico)
+                0x00006e30                _libelf_xlate
+ *fill*         0x0000716f        0x1 
+ .text          0x00007170      0x3cc libelf_pic.a(libelf_phdr.pico)
+                0x00007170                _libelf_getphdr
+                0x00007370                _libelf_newphdr
+ *fill*         0x0000753c        0x4 
+ .text          0x00007540      0x24e libelf_pic.a(libelf_extended.pico)
+                0x00007540                _libelf_setshnum
+                0x00007610                _libelf_setshstrndx
+                0x000076d0                _libelf_setphnum
+ *fill*         0x0000778e        0x2 
+ .text          0x00007790      0x161 libelf_pic.a(libelf_checksum.pico)
+                0x00007790                _libelf_checksum
+ *fill*         0x000078f1        0xf 
+ .text          0x00007900       0x77 libelf_pic.a(libelf_align.pico)
+                0x00007900                _libelf_malign
+                0x00007940                _libelf_falign
+ *fill*         0x00007977        0x9 
+ .text          0x00007980      0x27e libelf_pic.a(gelf_shdr.pico)
+                0x00007980                elf32_getshdr
+                0x000079b0                elf64_getshdr
+                0x000079e0                gelf_getshdr
+                0x00007af0                gelf_update_shdr
+ *fill*         0x00007bfe        0x2 
+ .text          0x00007c00      0x402 libelf_pic.a(gelf_ehdr.pico)
+                0x00007c00                elf32_getehdr
+                0x00007c40                elf64_getehdr
+                0x00007c80                gelf_getehdr
+                0x00007de0                elf32_newehdr
+                0x00007e20                elf64_newehdr
+                0x00007e60                gelf_newehdr
+                0x00007eb0                gelf_update_ehdr
+ *fill*         0x00008002        0xe 
+ .text          0x00008010      0x597 libelf_pic.a(elf_scn.pico)
+                0x00008010                elf_getscn
+                0x000083e0                elf_ndxscn
+                0x00008410                elf_newscn
+                0x00008550                elf_nextscn
+ *fill*         0x000085a7        0x9 
+ .text          0x000085b0      0x5a8 libelf_pic.a(elf_data.pico)
+                0x000085b0                elf_getdata
+                0x000088e0                elf_newdata
+                0x00008a10                elf_rawdata
+ *fill*         0x00008b58        0x8 
+ .text          0x00008b60      0x14d libelf_pic.a(elf_end.pico)
+                0x00008b60                elf_end
+ *fill*         0x00008cad        0x3 
+ .text          0x00008cb0       0x4f libelf_pic.a(libelf_shdr.pico)
+                0x00008cb0                _libelf_getshdr
+ *fill*         0x00008cff        0x1 
+ .text          0x00008d00      0x4b3 libelf_pic.a(libelf_ehdr.pico)
+                0x00008d00                _libelf_ehdr
+ *fill*         0x000091b3        0xd 
+ .text          0x000091c0       0xd4 libelf_pic.a(libelf_data.pico)
+                0x000091c0                _libelf_xlate_shtype
+ *fill*         0x00009294        0xc 
+ .text          0x000092a0       0x2e libelf_pic.a(libelf.pico)
+                0x000092a0                _libelf_host_byteorder
+                0x000092b0                _libelf_get_elf_class
+                0x000092c0                _libelf_set_elf_class
+ *fill*         0x000092ce        0x2 
+ .text          0x000092d0      0x2c8 libelf_pic.a(elf_flag.pico)
+                0x000092d0                elf_flagdata
+                0x00009340                elf_flagehdr
+                0x000093e0                elf_flagelf
+                0x00009440                elf_flagphdr
+                0x000094e0                elf_flagscn
+                0x00009540                elf_flagshdr
+ *fill*         0x00009598        0x8 
+ .text          0x000095a0     0x7c17 libelf_pic.a(libelf_convert.pico)
+                0x000095a0                _libelf_get_translator
+ *fill*         0x000111b7        0x9 
+ .text          0x000111c0       0xb1 libelf_pic.a(libelf_msize.pico)
+                0x000111c0                _libelf_msize
+ *fill*         0x00011271        0xf 
+ .text          0x00011280       0xda libelf_pic.a(gelf_fsize.pico)
+                0x00011280                elf32_fsize
+                0x000112c0                elf64_fsize
+                0x00011300                gelf_fsize
+ *fill*         0x0001135a        0x6 
+ .text          0x00011360       0x6f libelf_pic.a(libelf_fsize.pico)
+                0x00011360                _libelf_fsize
+ *fill*         0x000113cf        0x1 
+ .text          0x000113d0      0xa2b libelf_pic.a(libelf_ar.pico)
+                0x000113d0                _libelf_ar_gethdr
+                0x000118a0                _libelf_ar_open_member
+                0x00011a20                _libelf_ar_open
+                0x00011c20                _libelf_ar_process_symtab
+ *fill*         0x00011dfb        0x5 
+ .text          0x00011e00      0x13a libelf_pic.a(elf_memory.pico)
+                0x00011e00                elf_memory
+ *fill*         0x00011f3a        0x6 
+ .text          0x00011f40       0x51 libelf_pic.a(elf_hash.pico)
+                0x00011f40                elf_hash
+ *fill*         0x00011f91        0xf 
+ .text          0x00011fa0      0x546 libelf_pic.a(libelf_allocate.pico)
+                0x00011fa0                _libelf_allocate_elf
+                0x00012080                _libelf_init_elf
+                0x00012120                _libelf_release_elf
+                0x000121f0                _libelf_allocate_data
+                0x00012240                _libelf_release_data
+                0x00012280                _libelf_allocate_scn
+                0x00012310                _libelf_release_scn
+ *fill*         0x000124e6        0x2 
+ .text          0x000124e8        0x0 /usr/lib/crtendS.o
+ .text          0x000124e8        0x0 /usr/lib/crtn.o
+ *(.gnu.warning)
+
+.fini           0x000124f0        0xa
+ *(SORT(.fini))
+ .fini          0x000124f0        0x3 /usr/lib/crti.o
+                0x000124f0                _fini
+ .fini          0x000124f3        0x5 /usr/lib/crtbeginS.o
+ .fini          0x000124f8        0x2 /usr/lib/crtn.o
+                0x000124fa                PROVIDE (__etext, .)
+                0x000124fa                PROVIDE (_etext, .)
+                0x000124fa                PROVIDE (etext, .)
+
+.rodata         0x000124fc     0x11a7
+ *(.rodata .rodata.* .gnu.linkonce.r.*)
+ .rodata.str1.1
+                0x000124fc       0x85 libelf_pic.a(gelf_symshndx.pico)
+ .rodata.str1.1
+                0x00012581       0x55 libelf_pic.a(gelf_syminfo.pico)
+                                 0x82 (size before relaxing)
+ .rodata.str1.1
+                0x000125d6       0x49 libelf_pic.a(gelf_sym.pico)
+                                 0x76 (size before relaxing)
+ .rodata.str1.1
+                0x0001261f       0x4c libelf_pic.a(gelf_rela.pico)
+                                 0x79 (size before relaxing)
+ .rodata.str1.1
+                0x0001266b       0x49 libelf_pic.a(gelf_rel.pico)
+                                 0x76 (size before relaxing)
+ .rodata.str1.1
+                0x000126b4       0x4c libelf_pic.a(gelf_move.pico)
+                                 0x79 (size before relaxing)
+ .rodata.str1.1
+                0x00012700       0x49 libelf_pic.a(gelf_dyn.pico)
+                                 0x76 (size before relaxing)
+ .rodata.str1.1
+                0x00012749       0x49 libelf_pic.a(gelf_cap.pico)
+                                 0x76 (size before relaxing)
+ .rodata.str1.1
+                0x00012792      0x210 libelf_pic.a(elf_update.pico)
+                                0x235 (size before relaxing)
+ .rodata.str1.1
+                0x000129a2       0xb0 libelf_pic.a(elf_next.pico)
+ .rodata.str1.1
+                0x00012a52       0x6e libelf_pic.a(elf_getident.pico)
+ .rodata.str1.1
+                0x00012ac0      0x16d libelf_pic.a(elf_errmsg.pico)
+ *fill*         0x00012c2d        0x3 
+ .rodata        0x00012c30       0x20 libelf_pic.a(elf_begin.pico)
+ .rodata.str1.1
+                0x00012c50       0xa5 libelf_pic.a(libelf_xlate.pico)
+                                 0xad (size before relaxing)
+ .rodata.str1.1
+                0x00012cf5       0x7c libelf_pic.a(libelf_phdr.pico)
+                                 0xb1 (size before relaxing)
+ .rodata.str1.1
+                0x00012d71       0x82 libelf_pic.a(libelf_extended.pico)
+ *fill*         0x00012df3        0x1 
+ .rodata        0x00012df4      0x170 libelf_pic.a(libelf_align.pico)
+ .rodata.str1.1
+                0x00012f64       0x3b libelf_pic.a(gelf_shdr.pico)
+                                 0x60 (size before relaxing)
+ .rodata.str1.1
+                0x00012f9f       0x3b libelf_pic.a(gelf_ehdr.pico)
+                                 0x4c (size before relaxing)
+ .rodata.str1.1
+                0x00012fda      0x105 libelf_pic.a(elf_scn.pico)
+                                0x11a (size before relaxing)
+ .rodata.str1.1
+                0x000130df       0x78 libelf_pic.a(elf_data.pico)
+                                 0xb1 (size before relaxing)
+ .rodata.str1.1
+                0x00013157       0x4a libelf_pic.a(elf_end.pico)
+                                 0x4c (size before relaxing)
+ .rodata.str1.1
+                0x000131a1       0x75 libelf_pic.a(libelf_ehdr.pico)
+                                 0xaa (size before relaxing)
+ *fill*         0x00013216        0x2 
+ .rodata        0x00013218       0x60 libelf_pic.a(libelf_data.pico)
+ .rodata.str1.1
+                0x00013278       0x28 libelf_pic.a(libelf_convert.pico)
+                                 0x8e (size before relaxing)
+ .rodata.str1.1
+                0x000132a0       0x4a libelf_pic.a(libelf_msize.pico)
+                                 0x7b (size before relaxing)
+ *fill*         0x000132ea        0x2 
+ .rodata        0x000132ec       0xb8 libelf_pic.a(libelf_msize.pico)
+ .rodata        0x000133a4       0xb8 libelf_pic.a(libelf_fsize.pico)
+ .rodata.str1.1
+                0x0001345c      0x189 libelf_pic.a(libelf_ar.pico)
+                                0x19b (size before relaxing)
+ .rodata.str1.1
+                0x000135e5        0x9 libelf_pic.a(elf_memory.pico)
+ .rodata.str1.1
+                0x000135ee       0xb5 libelf_pic.a(libelf_allocate.pico)
+                                 0xe1 (size before relaxing)
+
+.rodata1
+ *(.rodata1)
+
+.eh_frame_hdr   0x000136a4      0x5f4
+ *(.eh_frame_hdr)
+ .eh_frame_hdr  0x000136a4      0x5f4 libelf_pic.a(gelf_xlate.pico)
+
+.eh_frame       0x00013c98     0x16f8
+ *(.eh_frame)
+ .eh_frame      0x00013c98       0x3c /usr/lib/crti.o
+                                 0x40 (size before relaxing)
+ .eh_frame      0x00013cd4        0x0 /usr/lib/crtbeginS.o
+ .eh_frame      0x00013cd4       0xb0 libelf_pic.a(gelf_xlate.pico)
+                                 0xc8 (size before relaxing)
+ .eh_frame      0x00013d84       0x40 libelf_pic.a(gelf_symshndx.pico)
+                                 0x58 (size before relaxing)
+ .eh_frame      0x00013dc4       0x40 libelf_pic.a(gelf_syminfo.pico)
+                                 0x58 (size before relaxing)
+ .eh_frame      0x00013e04       0x40 libelf_pic.a(gelf_sym.pico)
+                                 0x58 (size before relaxing)
+ .eh_frame      0x00013e44       0x40 libelf_pic.a(gelf_rela.pico)
+                                 0x58 (size before relaxing)
+ .eh_frame      0x00013e84       0x40 libelf_pic.a(gelf_rel.pico)
+                                 0x58 (size before relaxing)
+ .eh_frame      0x00013ec4       0xcc libelf_pic.a(gelf_phdr.pico)
+                                 0xe4 (size before relaxing)
+ .eh_frame      0x00013f90       0x40 libelf_pic.a(gelf_move.pico)
+                                 0x58 (size before relaxing)
+ .eh_frame      0x00013fd0       0x1c libelf_pic.a(gelf_getclass.pico)
+                                 0x34 (size before relaxing)
+ .eh_frame      0x00013fec       0x40 libelf_pic.a(gelf_dyn.pico)
+                                 0x58 (size before relaxing)
+ .eh_frame      0x0001402c       0x54 libelf_pic.a(gelf_checksum.pico)
+                                 0x6c (size before relaxing)
+ .eh_frame      0x00014080       0x40 libelf_pic.a(gelf_cap.pico)
+                                 0x58 (size before relaxing)
+ .eh_frame      0x000140c0       0x1c libelf_pic.a(elf_version.pico)
+                                 0x34 (size before relaxing)
+ .eh_frame      0x000140dc       0x20 libelf_pic.a(elf_update.pico)
+                                 0x38 (size before relaxing)
+ .eh_frame      0x000140fc       0x20 libelf_pic.a(elf_strptr.pico)
+                                 0x38 (size before relaxing)
+ .eh_frame      0x0001411c       0x40 libelf_pic.a(elf_shstrndx.pico)
+                                 0x58 (size before relaxing)
+ .eh_frame      0x0001415c       0x20 libelf_pic.a(elf_shnum.pico)
+                                 0x38 (size before relaxing)
+ .eh_frame      0x0001417c       0x20 libelf_pic.a(elf_phnum.pico)
+                                 0x38 (size before relaxing)
+ .eh_frame      0x0001419c       0x20 libelf_pic.a(elf_rawfile.pico)
+                                 0x38 (size before relaxing)
+ .eh_frame      0x000141bc       0x20 libelf_pic.a(elf_rand.pico)
+                                 0x38 (size before relaxing)
+ .eh_frame      0x000141dc       0x20 libelf_pic.a(elf_next.pico)
+                                 0x38 (size before relaxing)
+ .eh_frame      0x000141fc       0x1c libelf_pic.a(elf_kind.pico)
+                                 0x34 (size before relaxing)
+ .eh_frame      0x00014218       0x20 libelf_pic.a(elf_getident.pico)
+                                 0x38 (size before relaxing)
+ .eh_frame      0x00014238       0x1c libelf_pic.a(elf_getbase.pico)
+                                 0x34 (size before relaxing)
+ .eh_frame      0x00014254       0x20 libelf_pic.a(elf_getarsym.pico)
+                                 0x38 (size before relaxing)
+ .eh_frame      0x00014274       0x1c libelf_pic.a(elf_getarhdr.pico)
+                                 0x34 (size before relaxing)
+ .eh_frame      0x00014290       0x1c libelf_pic.a(elf_fill.pico)
+                                 0x34 (size before relaxing)
+ .eh_frame      0x000142ac       0x54 libelf_pic.a(elf_errno.pico)
+                                 0x6c (size before relaxing)
+ .eh_frame      0x00014300       0x58 libelf_pic.a(elf_errmsg.pico)
+                                 0x70 (size before relaxing)
+ .eh_frame      0x00014358       0x1c libelf_pic.a(elf_cntl.pico)
+                                 0x34 (size before relaxing)
+ .eh_frame      0x00014374       0x20 libelf_pic.a(elf_begin.pico)
+                                 0x38 (size before relaxing)
+ .eh_frame      0x00014394       0x20 libelf_pic.a(libelf_xlate.pico)
+                                 0x38 (size before relaxing)
+ .eh_frame      0x000143b4       0x40 libelf_pic.a(libelf_phdr.pico)
+                                 0x58 (size before relaxing)
+ .eh_frame      0x000143f4       0x60 libelf_pic.a(libelf_extended.pico)
+                                 0x78 (size before relaxing)
+ .eh_frame      0x00014454       0x20 libelf_pic.a(libelf_checksum.pico)
+                                 0x38 (size before relaxing)
+ .eh_frame      0x00014474       0x38 libelf_pic.a(libelf_align.pico)
+                                 0x50 (size before relaxing)
+ .eh_frame      0x000144ac       0x78 libelf_pic.a(gelf_shdr.pico)
+                                 0x90 (size before relaxing)
+ .eh_frame      0x00014524       0xcc libelf_pic.a(gelf_ehdr.pico)
+                                 0xe4 (size before relaxing)
+ .eh_frame      0x000145f0       0x98 libelf_pic.a(elf_scn.pico)
+                                 0xb0 (size before relaxing)
+ .eh_frame      0x00014688       0x60 libelf_pic.a(elf_data.pico)
+                                 0x78 (size before relaxing)
+ .eh_frame      0x000146e8       0x20 libelf_pic.a(elf_end.pico)
+                                 0x38 (size before relaxing)
+ .eh_frame      0x00014708       0x1c libelf_pic.a(libelf_shdr.pico)
+                                 0x34 (size before relaxing)
+ .eh_frame      0x00014724       0x20 libelf_pic.a(libelf_ehdr.pico)
+                                 0x38 (size before relaxing)
+ .eh_frame      0x00014744       0x1c libelf_pic.a(libelf_data.pico)
+                                 0x34 (size before relaxing)
+ .eh_frame      0x00014760       0x54 libelf_pic.a(libelf.pico)
+                                 0x6c (size before relaxing)
+ .eh_frame      0x000147b4       0xc0 libelf_pic.a(elf_flag.pico)
+                                 0xd8 (size before relaxing)
+ .eh_frame      0x00014874      0x8fc libelf_pic.a(libelf_convert.pico)
+                                0x914 (size before relaxing)
+ .eh_frame      0x00015170       0x1c libelf_pic.a(libelf_msize.pico)
+                                 0x34 (size before relaxing)
+ .eh_frame      0x0001518c       0x58 libelf_pic.a(gelf_fsize.pico)
+                                 0x70 (size before relaxing)
+ .eh_frame      0x000151e4       0x1c libelf_pic.a(libelf_fsize.pico)
+                                 0x34 (size before relaxing)
+ .eh_frame      0x00015200       0x80 libelf_pic.a(libelf_ar.pico)
+                                 0x98 (size before relaxing)
+ .eh_frame      0x00015280       0x20 libelf_pic.a(elf_memory.pico)
+                                 0x38 (size before relaxing)
+ .eh_frame      0x000152a0       0x1c libelf_pic.a(elf_hash.pico)
+                                 0x34 (size before relaxing)
+ .eh_frame      0x000152bc       0xd0 libelf_pic.a(libelf_allocate.pico)
+                                 0xe8 (size before relaxing)
+ .eh_frame      0x0001538c        0x4 /usr/lib/crtendS.o
+
+.note.minix.ident
+                0x00015390       0x18
+ .note.minix.ident
+                0x00015390       0x18 /usr/lib/crti.o
+
+.note.netbsd.pax
+                0x000153a8       0x14
+ .note.netbsd.pax
+                0x000153a8       0x14 /usr/lib/crti.o
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.exception_ranges
+ *(.exception_ranges .exception_ranges*)
+                0x000153bc                . = (ALIGN (0x1000) - ((0x1000 - .) & 0xfff))
+                0x000163bc                . = DATA_SEGMENT_ALIGN (0x1000, 0x1000)
+
+.eh_frame
+ *(.eh_frame)
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.exception_ranges
+ *(.exception_ranges .exception_ranges*)
+
+.tdata
+ *(.tdata .tdata.* .gnu.linkonce.td.*)
+
+.tbss
+ *(.tbss .tbss.* .gnu.linkonce.tb.*)
+ *(.tcommon)
+
+.preinit_array
+ *(.preinit_array)
+
+.init_array
+ *(SORT(.init_array.*))
+ *(.init_array)
+
+.fini_array
+ *(SORT(.fini_array.*))
+ *(.fini_array)
+
+.ctors          0x000163bc        0x8
+ *crtbegin.o(.ctors)
+ *crtbegin?.o(.ctors)
+ .ctors         0x000163bc        0x4 /usr/lib/crtbeginS.o
+ *(EXCLUDE_FILE(*crtend?.o *crtend.o) .ctors)
+ *(SORT(.ctors.*))
+ *(.ctors)
+ .ctors         0x000163c0        0x4 /usr/lib/crtendS.o
+                0x000163c0                __CTOR_LIST_END__
+
+.dtors          0x000163c4        0x8
+ *crtbegin.o(.dtors)
+ *crtbegin?.o(.dtors)
+ .dtors         0x000163c4        0x4 /usr/lib/crtbeginS.o
+ *(EXCLUDE_FILE(*crtend?.o *crtend.o) .dtors)
+ *(SORT(.dtors.*))
+ *(.dtors)
+ .dtors         0x000163c8        0x4 /usr/lib/crtendS.o
+
+.jcr            0x000163cc        0x4
+ *(.jcr)
+ .jcr           0x000163cc        0x0 /usr/lib/crtbeginS.o
+ .jcr           0x000163cc        0x4 /usr/lib/crtendS.o
+
+.data.rel.ro    0x000163d0      0x170
+ *(.data.rel.ro.local* .gnu.linkonce.d.rel.ro.local.*)
+ .data.rel.ro.local
+                0x000163d0      0x170 libelf_pic.a(libelf_convert.pico)
+ *(.data.rel.ro .data.rel.ro.* .gnu.linkonce.d.rel.ro.*)
+
+.dynamic        0x00016540       0xb0
+ *(.dynamic)
+ .dynamic       0x00016540       0xb0 /usr/lib/crti.o
+                0x00016540                _DYNAMIC
+
+.got            0x000165f0       0x24
+ *(.got)
+ .got           0x000165f0       0x24 /usr/lib/crti.o
+ *(.igot)
+                0x00016614                . = DATA_SEGMENT_RELRO_END (., (SIZEOF (.got.plt) >= 0xc)?0xc:0x0)
+
+.got.plt        0x00016614      0x124
+ *(.got.plt)
+ .got.plt       0x00016614      0x124 /usr/lib/crti.o
+                0x00016614                _GLOBAL_OFFSET_TABLE_
+ *(.igot.plt)
+
+.data           0x00016738       0x68
+ *(.data .data.* .gnu.linkonce.d.*)
+ .data          0x00016738        0x0 /usr/lib/crti.o
+ .data          0x00016738        0x0 /usr/lib/crtbeginS.o
+ .data.rel      0x00016738       0x26 /usr/lib/crtbeginS.o
+                0x00016738                __dso_handle
+ *fill*         0x0001675e        0x2 
+ .data          0x00016760        0x0 libelf_pic.a(gelf_xlate.pico)
+ .data          0x00016760        0x0 libelf_pic.a(gelf_symshndx.pico)
+ .data          0x00016760        0x0 libelf_pic.a(gelf_syminfo.pico)
+ .data          0x00016760        0x0 libelf_pic.a(gelf_sym.pico)
+ .data          0x00016760        0x0 libelf_pic.a(gelf_rela.pico)
+ .data          0x00016760        0x0 libelf_pic.a(gelf_rel.pico)
+ .data          0x00016760        0x0 libelf_pic.a(gelf_phdr.pico)
+ .data          0x00016760        0x0 libelf_pic.a(gelf_move.pico)
+ .data          0x00016760        0x0 libelf_pic.a(gelf_getclass.pico)
+ .data          0x00016760        0x0 libelf_pic.a(gelf_dyn.pico)
+ .data          0x00016760        0x0 libelf_pic.a(gelf_checksum.pico)
+ .data          0x00016760        0x0 libelf_pic.a(gelf_cap.pico)
+ .data          0x00016760        0x0 libelf_pic.a(elf_version.pico)
+ .data          0x00016760        0x0 libelf_pic.a(elf_update.pico)
+ .data          0x00016760        0x0 libelf_pic.a(elf_strptr.pico)
+ .data          0x00016760        0x0 libelf_pic.a(elf_shstrndx.pico)
+ .data          0x00016760        0x0 libelf_pic.a(elf_shnum.pico)
+ .data          0x00016760        0x0 libelf_pic.a(elf_phnum.pico)
+ .data          0x00016760        0x0 libelf_pic.a(elf_rawfile.pico)
+ .data          0x00016760        0x0 libelf_pic.a(elf_rand.pico)
+ .data          0x00016760        0x0 libelf_pic.a(elf_next.pico)
+ .data          0x00016760        0x0 libelf_pic.a(elf_kind.pico)
+ .data          0x00016760        0x0 libelf_pic.a(elf_getident.pico)
+ .data          0x00016760        0x0 libelf_pic.a(elf_getbase.pico)
+ .data          0x00016760        0x0 libelf_pic.a(elf_getarsym.pico)
+ .data          0x00016760        0x0 libelf_pic.a(elf_getarhdr.pico)
+ .data          0x00016760        0x0 libelf_pic.a(elf_fill.pico)
+ .data          0x00016760        0x0 libelf_pic.a(elf_errno.pico)
+ .data          0x00016760        0x0 libelf_pic.a(elf_errmsg.pico)
+ .data.rel.local
+                0x00016760       0x40 libelf_pic.a(elf_errmsg.pico)
+                0x00016760                _libelf_errors
+ .data          0x000167a0        0x0 libelf_pic.a(elf_cntl.pico)
+ .data          0x000167a0        0x0 libelf_pic.a(elf_begin.pico)
+ .data          0x000167a0        0x0 libelf_pic.a(libelf_xlate.pico)
+ .data          0x000167a0        0x0 libelf_pic.a(libelf_phdr.pico)
+ .data          0x000167a0        0x0 libelf_pic.a(libelf_extended.pico)
+ .data          0x000167a0        0x0 libelf_pic.a(libelf_checksum.pico)
+ .data          0x000167a0        0x0 libelf_pic.a(libelf_align.pico)
+ .data          0x000167a0        0x0 libelf_pic.a(gelf_shdr.pico)
+ .data          0x000167a0        0x0 libelf_pic.a(gelf_ehdr.pico)
+ .data          0x000167a0        0x0 libelf_pic.a(elf_scn.pico)
+ .data          0x000167a0        0x0 libelf_pic.a(elf_data.pico)
+ .data          0x000167a0        0x0 libelf_pic.a(elf_end.pico)
+ .data          0x000167a0        0x0 libelf_pic.a(libelf_shdr.pico)
+ .data          0x000167a0        0x0 libelf_pic.a(libelf_ehdr.pico)
+ .data          0x000167a0        0x0 libelf_pic.a(libelf_data.pico)
+ .data          0x000167a0        0x0 libelf_pic.a(libelf.pico)
+ .data          0x000167a0        0x0 libelf_pic.a(elf_flag.pico)
+ .data          0x000167a0        0x0 libelf_pic.a(libelf_convert.pico)
+ .data          0x000167a0        0x0 libelf_pic.a(libelf_msize.pico)
+ .data          0x000167a0        0x0 libelf_pic.a(gelf_fsize.pico)
+ .data          0x000167a0        0x0 libelf_pic.a(libelf_fsize.pico)
+ .data          0x000167a0        0x0 libelf_pic.a(libelf_ar.pico)
+ .data          0x000167a0        0x0 libelf_pic.a(elf_memory.pico)
+ .data          0x000167a0        0x0 libelf_pic.a(elf_hash.pico)
+ .data          0x000167a0        0x0 libelf_pic.a(libelf_allocate.pico)
+ .data          0x000167a0        0x0 /usr/lib/crtendS.o
+ .data          0x000167a0        0x0 /usr/lib/crtn.o
+
+.data1
+ *(.data1)
+                0x000167a0                _edata = .
+                0x000167a0                PROVIDE (edata, .)
+                0x000167a0                . = .
+                0x000167a0                __bss_start = .
+
+.bss            0x000167a0      0x10c
+ *(.dynbss)
+ .dynbss        0x00000000        0x0 /usr/lib/crti.o
+ *(.bss .bss.* .gnu.linkonce.b.*)
+ .bss           0x000167a0        0x0 /usr/lib/crti.o
+ .bss           0x000167a0        0x0 /usr/lib/crtbeginS.o
+ .bss           0x000167a0        0x0 libelf_pic.a(gelf_xlate.pico)
+ .bss           0x000167a0        0x0 libelf_pic.a(gelf_symshndx.pico)
+ .bss           0x000167a0        0x0 libelf_pic.a(gelf_syminfo.pico)
+ .bss           0x000167a0        0x0 libelf_pic.a(gelf_sym.pico)
+ .bss           0x000167a0        0x0 libelf_pic.a(gelf_rela.pico)
+ .bss           0x000167a0        0x0 libelf_pic.a(gelf_rel.pico)
+ .bss           0x000167a0        0x0 libelf_pic.a(gelf_phdr.pico)
+ .bss           0x000167a0        0x0 libelf_pic.a(gelf_move.pico)
+ .bss           0x000167a0        0x0 libelf_pic.a(gelf_getclass.pico)
+ .bss           0x000167a0        0x0 libelf_pic.a(gelf_dyn.pico)
+ .bss           0x000167a0        0x0 libelf_pic.a(gelf_checksum.pico)
+ .bss           0x000167a0        0x0 libelf_pic.a(gelf_cap.pico)
+ .bss           0x000167a0        0x0 libelf_pic.a(elf_version.pico)
+ .bss           0x000167a0        0x0 libelf_pic.a(elf_update.pico)
+ .bss           0x000167a0        0x0 libelf_pic.a(elf_strptr.pico)
+ .bss           0x000167a0        0x0 libelf_pic.a(elf_shstrndx.pico)
+ .bss           0x000167a0        0x0 libelf_pic.a(elf_shnum.pico)
+ .bss           0x000167a0        0x0 libelf_pic.a(elf_phnum.pico)
+ .bss           0x000167a0        0x0 libelf_pic.a(elf_rawfile.pico)
+ .bss           0x000167a0        0x0 libelf_pic.a(elf_rand.pico)
+ .bss           0x000167a0        0x0 libelf_pic.a(elf_next.pico)
+ .bss           0x000167a0        0x0 libelf_pic.a(elf_kind.pico)
+ .bss           0x000167a0        0x0 libelf_pic.a(elf_getident.pico)
+ .bss           0x000167a0        0x0 libelf_pic.a(elf_getbase.pico)
+ .bss           0x000167a0        0x0 libelf_pic.a(elf_getarsym.pico)
+ .bss           0x000167a0        0x0 libelf_pic.a(elf_getarhdr.pico)
+ .bss           0x000167a0        0x0 libelf_pic.a(elf_fill.pico)
+ .bss           0x000167a0        0x0 libelf_pic.a(elf_errno.pico)
+ .bss           0x000167a0        0x0 libelf_pic.a(elf_errmsg.pico)
+ .bss           0x000167a0        0x0 libelf_pic.a(elf_cntl.pico)
+ .bss           0x000167a0        0x0 libelf_pic.a(elf_begin.pico)
+ .bss           0x000167a0        0x0 libelf_pic.a(libelf_xlate.pico)
+ .bss           0x000167a0        0x0 libelf_pic.a(libelf_phdr.pico)
+ .bss           0x000167a0        0x0 libelf_pic.a(libelf_extended.pico)
+ .bss           0x000167a0        0x0 libelf_pic.a(libelf_checksum.pico)
+ .bss           0x000167a0        0x0 libelf_pic.a(libelf_align.pico)
+ .bss           0x000167a0        0x0 libelf_pic.a(gelf_shdr.pico)
+ .bss           0x000167a0        0x0 libelf_pic.a(gelf_ehdr.pico)
+ .bss           0x000167a0        0x0 libelf_pic.a(elf_scn.pico)
+ .bss           0x000167a0        0x0 libelf_pic.a(elf_data.pico)
+ .bss           0x000167a0        0x0 libelf_pic.a(elf_end.pico)
+ .bss           0x000167a0        0x0 libelf_pic.a(libelf_shdr.pico)
+ .bss           0x000167a0        0x0 libelf_pic.a(libelf_ehdr.pico)
+ .bss           0x000167a0        0x0 libelf_pic.a(libelf_data.pico)
+ .bss           0x000167a0      0x10c libelf_pic.a(libelf.pico)
+                0x000167a0                _libelf
+ .bss           0x000168ac        0x0 libelf_pic.a(elf_flag.pico)
+ .bss           0x000168ac        0x0 libelf_pic.a(libelf_convert.pico)
+ .bss           0x000168ac        0x0 libelf_pic.a(libelf_msize.pico)
+ .bss           0x000168ac        0x0 libelf_pic.a(gelf_fsize.pico)
+ .bss           0x000168ac        0x0 libelf_pic.a(libelf_fsize.pico)
+ .bss           0x000168ac        0x0 libelf_pic.a(libelf_ar.pico)
+ .bss           0x000168ac        0x0 libelf_pic.a(elf_memory.pico)
+ .bss           0x000168ac        0x0 libelf_pic.a(elf_hash.pico)
+ .bss           0x000168ac        0x0 libelf_pic.a(libelf_allocate.pico)
+ .bss           0x000168ac        0x0 /usr/lib/crtendS.o
+ .bss           0x000168ac        0x0 /usr/lib/crtn.o
+ *(COMMON)
+                0x000168ac                . = ALIGN ((. != 0x0)?0x4:0x1)
+                0x000168ac                . = ALIGN (0x4)
+                0x000168ac                . = ALIGN (0x4)
+                0x000168ac                _end = .
+                0x000168ac                PROVIDE (end, .)
+                0x000168ac                . = DATA_SEGMENT_END (.)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x00000000       0x28
+ *(.comment)
+ .comment       0x00000000       0x28 libelf_pic.a(gelf_xlate.pico)
+                                 0x29 (size before relaxing)
+ .comment       0x00000000       0x29 libelf_pic.a(gelf_symshndx.pico)
+ .comment       0x00000000       0x29 libelf_pic.a(gelf_syminfo.pico)
+ .comment       0x00000000       0x29 libelf_pic.a(gelf_sym.pico)
+ .comment       0x00000000       0x29 libelf_pic.a(gelf_rela.pico)
+ .comment       0x00000000       0x29 libelf_pic.a(gelf_rel.pico)
+ .comment       0x00000000       0x29 libelf_pic.a(gelf_phdr.pico)
+ .comment       0x00000000       0x29 libelf_pic.a(gelf_move.pico)
+ .comment       0x00000000       0x29 libelf_pic.a(gelf_getclass.pico)
+ .comment       0x00000000       0x29 libelf_pic.a(gelf_dyn.pico)
+ .comment       0x00000000       0x29 libelf_pic.a(gelf_checksum.pico)
+ .comment       0x00000000       0x29 libelf_pic.a(gelf_cap.pico)
+ .comment       0x00000000       0x29 libelf_pic.a(elf_version.pico)
+ .comment       0x00000000       0x29 libelf_pic.a(elf_update.pico)
+ .comment       0x00000000       0x29 libelf_pic.a(elf_strptr.pico)
+ .comment       0x00000000       0x29 libelf_pic.a(elf_shstrndx.pico)
+ .comment       0x00000000       0x29 libelf_pic.a(elf_shnum.pico)
+ .comment       0x00000000       0x29 libelf_pic.a(elf_phnum.pico)
+ .comment       0x00000000       0x29 libelf_pic.a(elf_rawfile.pico)
+ .comment       0x00000000       0x29 libelf_pic.a(elf_rand.pico)
+ .comment       0x00000000       0x29 libelf_pic.a(elf_next.pico)
+ .comment       0x00000000       0x29 libelf_pic.a(elf_kind.pico)
+ .comment       0x00000000       0x29 libelf_pic.a(elf_getident.pico)
+ .comment       0x00000000       0x29 libelf_pic.a(elf_getbase.pico)
+ .comment       0x00000000       0x29 libelf_pic.a(elf_getarsym.pico)
+ .comment       0x00000000       0x29 libelf_pic.a(elf_getarhdr.pico)
+ .comment       0x00000000       0x29 libelf_pic.a(elf_fill.pico)
+ .comment       0x00000000       0x29 libelf_pic.a(elf_errno.pico)
+ .comment       0x00000000       0x29 libelf_pic.a(elf_errmsg.pico)
+ .comment       0x00000000       0x29 libelf_pic.a(elf_cntl.pico)
+ .comment       0x00000000       0x29 libelf_pic.a(elf_begin.pico)
+ .comment       0x00000000       0x29 libelf_pic.a(libelf_xlate.pico)
+ .comment       0x00000000       0x29 libelf_pic.a(libelf_phdr.pico)
+ .comment       0x00000000       0x29 libelf_pic.a(libelf_extended.pico)
+ .comment       0x00000000       0x29 libelf_pic.a(libelf_checksum.pico)
+ .comment       0x00000000       0x29 libelf_pic.a(libelf_align.pico)
+ .comment       0x00000000       0x29 libelf_pic.a(gelf_shdr.pico)
+ .comment       0x00000000       0x29 libelf_pic.a(gelf_ehdr.pico)
+ .comment       0x00000000       0x29 libelf_pic.a(elf_scn.pico)
+ .comment       0x00000000       0x29 libelf_pic.a(elf_data.pico)
+ .comment       0x00000000       0x29 libelf_pic.a(elf_end.pico)
+ .comment       0x00000000       0x29 libelf_pic.a(libelf_shdr.pico)
+ .comment       0x00000000       0x29 libelf_pic.a(libelf_ehdr.pico)
+ .comment       0x00000000       0x29 libelf_pic.a(libelf_data.pico)
+ .comment       0x00000000       0x29 libelf_pic.a(libelf.pico)
+ .comment       0x00000000       0x29 libelf_pic.a(elf_flag.pico)
+ .comment       0x00000000       0x29 libelf_pic.a(libelf_convert.pico)
+ .comment       0x00000000       0x29 libelf_pic.a(libelf_msize.pico)
+ .comment       0x00000000       0x29 libelf_pic.a(gelf_fsize.pico)
+ .comment       0x00000000       0x29 libelf_pic.a(libelf_fsize.pico)
+ .comment       0x00000000       0x29 libelf_pic.a(libelf_ar.pico)
+ .comment       0x00000000       0x29 libelf_pic.a(elf_memory.pico)
+ .comment       0x00000000       0x29 libelf_pic.a(elf_hash.pico)
+ .comment       0x00000000       0x29 libelf_pic.a(libelf_allocate.pico)
+
+.ident          0x00000000       0xde
+ .ident         0x00000000       0x36 /usr/lib/crti.o
+ .ident         0x00000036       0x3a /usr/lib/crtbeginS.o
+ .ident         0x00000070       0x38 /usr/lib/crtendS.o
+ .ident         0x000000a8       0x36 /usr/lib/crtn.o
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges
+ *(.debug_aranges)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info
+ *(.debug_info .gnu.linkonce.wi.*)
+
+.debug_abbrev
+ *(.debug_abbrev)
+
+.debug_line
+ *(.debug_line)
+
+.debug_frame
+ *(.debug_frame)
+
+.debug_str
+ *(.debug_str)
+
+.debug_loc
+ *(.debug_loc)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges
+ *(.debug_ranges)
+
+.debug_macro
+ *(.debug_macro)
+
+.gnu.attributes
+ *(.gnu.attributes)
+
+/DISCARD/
+ *(.note.GNU-stack)
+ *(.gnu_debuglink)
+ *(.gnu.lto_*)
+OUTPUT(libelf.so.0.0 elf32-i386-minix)

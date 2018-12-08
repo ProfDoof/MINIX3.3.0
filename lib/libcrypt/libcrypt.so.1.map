@@ -1,0 +1,470 @@
+Archive member included because of file (symbol)
+
+libcrypt_pic.a(pw_gensalt.pico)
+                              (--whole-archive)
+libcrypt_pic.a(crypt.pico)    (--whole-archive)
+libcrypt_pic.a(crypt-sha1.pico)
+                              (--whole-archive)
+libcrypt_pic.a(bcrypt.pico)   (--whole-archive)
+libcrypt_pic.a(md5crypt.pico)
+                              (--whole-archive)
+libcrypt_pic.a(hmac_sha1.pico)
+                              (--whole-archive)
+libcrypt_pic.a(util.pico)     (--whole-archive)
+
+Discarded input sections
+
+ .note.GNU-stack
+                0x00000000        0x0 libcrypt_pic.a(pw_gensalt.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libcrypt_pic.a(crypt.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libcrypt_pic.a(crypt-sha1.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libcrypt_pic.a(bcrypt.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libcrypt_pic.a(md5crypt.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libcrypt_pic.a(hmac_sha1.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libcrypt_pic.a(util.pico)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD /usr/lib/crti.o
+LOAD /usr/lib/crtbeginS.o
+LOAD libcrypt_pic.a
+LOAD /usr/lib/libc.so
+LOAD /usr/lib/crtendS.o
+LOAD /usr/lib/crtn.o
+                0x000000f4                . = (0x0 + SIZEOF_HEADERS)
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.hash           0x000000f4      0x164
+ *(.hash)
+ .hash          0x000000f4      0x164 /usr/lib/crti.o
+
+.gnu.hash
+ *(.gnu.hash)
+
+.dynsym         0x00000258      0x320
+ *(.dynsym)
+ .dynsym        0x00000258      0x320 /usr/lib/crti.o
+
+.dynstr         0x00000578      0x21c
+ *(.dynstr)
+ .dynstr        0x00000578      0x21c /usr/lib/crti.o
+
+.gnu.version    0x00000794        0x0
+ *(.gnu.version)
+ .gnu.version   0x00000000        0x0 /usr/lib/crti.o
+
+.gnu.version_d  0x00000794        0x0
+ *(.gnu.version_d)
+ .gnu.version_d
+                0x00000000        0x0 /usr/lib/crti.o
+
+.gnu.version_r  0x00000794        0x0
+ *(.gnu.version_r)
+ .gnu.version_r
+                0x00000000        0x0 /usr/lib/crti.o
+
+.rel.dyn        0x00000794       0x88
+ *(.rel.init)
+ *(.rel.text .rel.text.* .rel.gnu.linkonce.t.*)
+ *(.rel.fini)
+ *(.rel.rodata .rel.rodata.* .rel.gnu.linkonce.r.*)
+ *(.rel.data.rel.ro .rel.data.rel.ro.* .rel.gnu.linkonce.d.rel.ro.*)
+ .rel.data.rel.ro
+                0x00000794       0x60 /usr/lib/crti.o
+ *(.rel.data .rel.data.* .rel.gnu.linkonce.d.*)
+ .rel.data.rel  0x000007f4        0x8 /usr/lib/crti.o
+ *(.rel.tdata .rel.tdata.* .rel.gnu.linkonce.td.*)
+ *(.rel.tbss .rel.tbss.* .rel.gnu.linkonce.tb.*)
+ *(.rel.ctors)
+ *(.rel.dtors)
+ *(.rel.got)
+ .rel.got       0x000007fc       0x20 /usr/lib/crti.o
+ *(.rel.bss .rel.bss.* .rel.gnu.linkonce.b.*)
+ *(.rel.ifunc)
+ .rel.ifunc     0x00000000        0x0 /usr/lib/crti.o
+
+.rel.plt        0x0000081c      0x118
+ *(.rel.plt)
+ .rel.plt       0x0000081c      0x118 /usr/lib/crti.o
+ *(.rel.iplt)
+
+.init           0x00000940        0xa
+ *(SORT(.init))
+ .init          0x00000940        0x3 /usr/lib/crti.o
+                0x00000940                _init
+ .init          0x00000943        0x5 /usr/lib/crtbeginS.o
+ .init          0x00000948        0x2 /usr/lib/crtn.o
+
+.plt            0x00000950      0x240
+ *(.plt)
+ .plt           0x00000950      0x240 /usr/lib/crti.o
+ *(.iplt)
+
+.text           0x00000b90     0x38e0
+                0x00000b90                PROVIDE (__eprol, .)
+ *(.text.unlikely .text.*_unlikely)
+ *(.text.exit .text.exit.*)
+ *(.text.startup .text.startup.*)
+ *(.text.hot .text.hot.*)
+ *(.text .stub .text.* .gnu.linkonce.t.*)
+ .text          0x00000b90        0x0 /usr/lib/crti.o
+ .text          0x00000b90       0xef /usr/lib/crtbeginS.o
+ *fill*         0x00000c7f        0x1 
+ .text          0x00000c80      0x36a libcrypt_pic.a(pw_gensalt.pico)
+                0x00000c80                __gensalt_old
+                0x00000ce0                __gensalt_new
+                0x00000dd0                __gensalt_md5
+                0x00000e60                __gensalt_sha1
+                0x00000f70                pw_gensalt
+ *fill*         0x00000fea        0x6 
+ .text          0x00000ff0     0x16f9 libcrypt_pic.a(crypt.pico)
+                0x00000ff0                crypt
+                0x00001520                des_setkey
+                0x00001fe0                des_cipher
+                0x00002570                setkey
+                0x000025e0                encrypt
+ *fill*         0x000026e9        0x7 
+ .text          0x000026f0      0x3fb libcrypt_pic.a(crypt-sha1.pico)
+                0x000026f0                __crypt_sha1_iterations
+                0x00002760                __crypt_sha1
+ *fill*         0x00002aeb        0x5 
+ .text          0x00002af0     0x100e libcrypt_pic.a(bcrypt.pico)
+                0x00002af0                __gensalt_blowfish
+                0x00002c90                bcrypt_gensalt
+                0x00002d00                __bcrypt
+ *fill*         0x00003afe        0x2 
+ .text          0x00003b00      0x518 libcrypt_pic.a(md5crypt.pico)
+                0x00003b00                __md5crypt
+ *fill*         0x00004018        0x8 
+ .text          0x00004020      0x408 libcrypt_pic.a(hmac_sha1.pico)
+                0x00004020                __hmac_sha1
+ *fill*         0x00004428        0x8 
+ .text          0x00004430       0x3e libcrypt_pic.a(util.pico)
+                0x00004430                __crypt_to64
+ *fill*         0x0000446e        0x2 
+ .text          0x00004470        0x0 /usr/lib/crtendS.o
+ .text          0x00004470        0x0 /usr/lib/crtn.o
+ *(.gnu.warning)
+
+.fini           0x00004470        0xa
+ *(SORT(.fini))
+ .fini          0x00004470        0x3 /usr/lib/crti.o
+                0x00004470                _fini
+ .fini          0x00004473        0x5 /usr/lib/crtbeginS.o
+ .fini          0x00004478        0x2 /usr/lib/crtn.o
+                0x0000447a                PROVIDE (__etext, .)
+                0x0000447a                PROVIDE (_etext, .)
+                0x0000447a                PROVIDE (etext, .)
+
+.rodata         0x0000447c     0x1514
+ *(.rodata .rodata.* .gnu.linkonce.r.*)
+ .rodata.str1.1
+                0x0000447c       0x2f libcrypt_pic.a(pw_gensalt.pico)
+ .rodata.str1.1
+                0x000044ab       0x47 libcrypt_pic.a(crypt.pico)
+ .rodata.cst16  0x000044f2       0x10 libcrypt_pic.a(crypt.pico)
+ .rodata        0x00004502      0x348 libcrypt_pic.a(crypt.pico)
+ .rodata.str1.1
+                0x0000484a       0x14 libcrypt_pic.a(crypt-sha1.pico)
+                                 0x1b (size before relaxing)
+ .rodata.str1.1
+                0x0000485e       0x4b libcrypt_pic.a(bcrypt.pico)
+ *fill*         0x000048a9        0x3 
+ .rodata        0x000048ac     0x10e0 libcrypt_pic.a(bcrypt.pico)
+ .rodata.str1.1
+                0x0000598c        0x4 libcrypt_pic.a(md5crypt.pico)
+                                  0x6 (size before relaxing)
+ .rodata.str1.1
+                0x00000000       0x41 libcrypt_pic.a(util.pico)
+
+.rodata1
+ *(.rodata1)
+
+.eh_frame_hdr   0x00005990       0xb4
+ *(.eh_frame_hdr)
+ .eh_frame_hdr  0x00005990       0xb4 libcrypt_pic.a(pw_gensalt.pico)
+
+.eh_frame       0x00005a44      0x2bc
+ *(.eh_frame)
+ .eh_frame      0x00005a44       0x3c /usr/lib/crti.o
+                                 0x40 (size before relaxing)
+ .eh_frame      0x00005a80        0x0 /usr/lib/crtbeginS.o
+ .eh_frame      0x00005a80       0xa0 libcrypt_pic.a(pw_gensalt.pico)
+                                 0xb8 (size before relaxing)
+ .eh_frame      0x00005b20       0x9c libcrypt_pic.a(crypt.pico)
+                                 0xb4 (size before relaxing)
+ .eh_frame      0x00005bbc       0x40 libcrypt_pic.a(crypt-sha1.pico)
+                                 0x58 (size before relaxing)
+ .eh_frame      0x00005bfc       0xa0 libcrypt_pic.a(bcrypt.pico)
+                                 0xb8 (size before relaxing)
+ .eh_frame      0x00005c9c       0x20 libcrypt_pic.a(md5crypt.pico)
+                                 0x38 (size before relaxing)
+ .eh_frame      0x00005cbc       0x20 libcrypt_pic.a(hmac_sha1.pico)
+                                 0x38 (size before relaxing)
+ .eh_frame      0x00005cdc       0x20 libcrypt_pic.a(util.pico)
+                                 0x38 (size before relaxing)
+ .eh_frame      0x00005cfc        0x4 /usr/lib/crtendS.o
+
+.note.minix.ident
+                0x00005d00       0x18
+ .note.minix.ident
+                0x00005d00       0x18 /usr/lib/crti.o
+
+.note.netbsd.pax
+                0x00005d18       0x14
+ .note.netbsd.pax
+                0x00005d18       0x14 /usr/lib/crti.o
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.exception_ranges
+ *(.exception_ranges .exception_ranges*)
+                0x00005d2c                . = (ALIGN (0x1000) - ((0x1000 - .) & 0xfff))
+                0x00006000                . = DATA_SEGMENT_ALIGN (0x1000, 0x1000)
+
+.eh_frame
+ *(.eh_frame)
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.exception_ranges
+ *(.exception_ranges .exception_ranges*)
+
+.tdata
+ *(.tdata .tdata.* .gnu.linkonce.td.*)
+
+.tbss
+ *(.tbss .tbss.* .gnu.linkonce.tb.*)
+ *(.tcommon)
+
+.preinit_array
+ *(.preinit_array)
+
+.init_array
+ *(SORT(.init_array.*))
+ *(.init_array)
+
+.fini_array
+ *(SORT(.fini_array.*))
+ *(.fini_array)
+
+.ctors          0x00006000        0x8
+ *crtbegin.o(.ctors)
+ *crtbegin?.o(.ctors)
+ .ctors         0x00006000        0x4 /usr/lib/crtbeginS.o
+ *(EXCLUDE_FILE(*crtend?.o *crtend.o) .ctors)
+ *(SORT(.ctors.*))
+ *(.ctors)
+ .ctors         0x00006004        0x4 /usr/lib/crtendS.o
+                0x00006004                __CTOR_LIST_END__
+
+.dtors          0x00006008        0x8
+ *crtbegin.o(.dtors)
+ *crtbegin?.o(.dtors)
+ .dtors         0x00006008        0x4 /usr/lib/crtbeginS.o
+ *(EXCLUDE_FILE(*crtend?.o *crtend.o) .dtors)
+ *(SORT(.dtors.*))
+ *(.dtors)
+ .dtors         0x0000600c        0x4 /usr/lib/crtendS.o
+
+.jcr            0x00006010        0x4
+ *(.jcr)
+ .jcr           0x00006010        0x0 /usr/lib/crtbeginS.o
+ .jcr           0x00006010        0x4 /usr/lib/crtendS.o
+
+.data.rel.ro    0x00006014       0x38
+ *(.data.rel.ro.local* .gnu.linkonce.d.rel.ro.local.*)
+ *(.data.rel.ro .data.rel.ro.* .gnu.linkonce.d.rel.ro.*)
+ .data.rel.ro   0x00006014       0x38 libcrypt_pic.a(pw_gensalt.pico)
+
+.dynamic        0x0000604c       0xb0
+ *(.dynamic)
+ .dynamic       0x0000604c       0xb0 /usr/lib/crti.o
+                0x0000604c                _DYNAMIC
+
+.got            0x000060fc       0x10
+ *(.got)
+ .got           0x000060fc       0x10 /usr/lib/crti.o
+ *(.igot)
+                0x0000610c                . = DATA_SEGMENT_RELRO_END (., (SIZEOF (.got.plt) >= 0xc)?0xc:0x0)
+
+.got.plt        0x0000610c       0x98
+ *(.got.plt)
+ .got.plt       0x0000610c       0x98 /usr/lib/crti.o
+                0x0000610c                _GLOBAL_OFFSET_TABLE_
+ *(.igot.plt)
+
+.data           0x000061a4       0x28
+ *(.data .data.* .gnu.linkonce.d.*)
+ .data          0x000061a4        0x0 /usr/lib/crti.o
+ .data          0x000061a4        0x0 /usr/lib/crtbeginS.o
+ .data.rel      0x000061a4       0x26 /usr/lib/crtbeginS.o
+                0x000061a4                __dso_handle
+ *fill*         0x000061ca        0x2 
+ .data          0x000061cc        0x0 libcrypt_pic.a(pw_gensalt.pico)
+ .data          0x000061cc        0x0 libcrypt_pic.a(crypt.pico)
+ .data          0x000061cc        0x0 libcrypt_pic.a(crypt-sha1.pico)
+ .data          0x000061cc        0x0 libcrypt_pic.a(bcrypt.pico)
+ .data          0x000061cc        0x0 libcrypt_pic.a(md5crypt.pico)
+ .data          0x000061cc        0x0 libcrypt_pic.a(hmac_sha1.pico)
+ .data          0x000061cc        0x0 libcrypt_pic.a(util.pico)
+ .data          0x000061cc        0x0 /usr/lib/crtendS.o
+ .data          0x000061cc        0x0 /usr/lib/crtn.o
+
+.data1
+ *(.data1)
+                0x000061cc                _edata = .
+                0x000061cc                PROVIDE (edata, .)
+                0x000061cc                . = .
+                0x000061cc                __bss_start = .
+
+.bss            0x000061cc     0x3698
+ *(.dynbss)
+ .dynbss        0x00000000        0x0 /usr/lib/crti.o
+ *(.bss .bss.* .gnu.linkonce.b.*)
+ .bss           0x000061cc        0x0 /usr/lib/crti.o
+ .bss           0x000061cc        0x0 /usr/lib/crtbeginS.o
+ .bss           0x000061cc        0x0 libcrypt_pic.a(pw_gensalt.pico)
+ .bss           0x000061cc     0x3504 libcrypt_pic.a(crypt.pico)
+ .bss           0x000096d0       0x77 libcrypt_pic.a(crypt-sha1.pico)
+ *fill*         0x00009747        0x1 
+ .bss           0x00009748       0x9e libcrypt_pic.a(bcrypt.pico)
+ *fill*         0x000097e6        0x2 
+ .bss           0x000097e8       0x7c libcrypt_pic.a(md5crypt.pico)
+ .bss           0x00009864        0x0 libcrypt_pic.a(hmac_sha1.pico)
+ .bss           0x00009864        0x0 libcrypt_pic.a(util.pico)
+ .bss           0x00009864        0x0 /usr/lib/crtendS.o
+ .bss           0x00009864        0x0 /usr/lib/crtn.o
+ *(COMMON)
+                0x00009864                . = ALIGN ((. != 0x0)?0x4:0x1)
+                0x00009864                . = ALIGN (0x4)
+                0x00009864                . = ALIGN (0x4)
+                0x00009864                _end = .
+                0x00009864                PROVIDE (end, .)
+                0x00009864                . = DATA_SEGMENT_END (.)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x00000000       0x28
+ *(.comment)
+ .comment       0x00000000       0x28 libcrypt_pic.a(pw_gensalt.pico)
+                                 0x29 (size before relaxing)
+ .comment       0x00000000       0x29 libcrypt_pic.a(crypt.pico)
+ .comment       0x00000000       0x29 libcrypt_pic.a(crypt-sha1.pico)
+ .comment       0x00000000       0x29 libcrypt_pic.a(bcrypt.pico)
+ .comment       0x00000000       0x29 libcrypt_pic.a(md5crypt.pico)
+ .comment       0x00000000       0x29 libcrypt_pic.a(hmac_sha1.pico)
+ .comment       0x00000000       0x29 libcrypt_pic.a(util.pico)
+
+.ident          0x00000000      0x2b8
+ .ident         0x00000000       0x36 /usr/lib/crti.o
+ .ident         0x00000036       0x3a /usr/lib/crtbeginS.o
+ .ident         0x00000070       0x3c libcrypt_pic.a(pw_gensalt.pico)
+ .ident         0x000000ac       0x3b libcrypt_pic.a(crypt.pico)
+ .ident         0x000000e7       0x40 libcrypt_pic.a(crypt-sha1.pico)
+ .ident         0x00000127       0x77 libcrypt_pic.a(bcrypt.pico)
+ .ident         0x0000019e       0x3f libcrypt_pic.a(md5crypt.pico)
+ .ident         0x000001dd       0x39 libcrypt_pic.a(hmac_sha1.pico)
+ .ident         0x00000216       0x34 libcrypt_pic.a(util.pico)
+ .ident         0x0000024a       0x38 /usr/lib/crtendS.o
+ .ident         0x00000282       0x36 /usr/lib/crtn.o
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges
+ *(.debug_aranges)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info
+ *(.debug_info .gnu.linkonce.wi.*)
+
+.debug_abbrev
+ *(.debug_abbrev)
+
+.debug_line
+ *(.debug_line)
+
+.debug_frame
+ *(.debug_frame)
+
+.debug_str
+ *(.debug_str)
+
+.debug_loc
+ *(.debug_loc)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges
+ *(.debug_ranges)
+
+.debug_macro
+ *(.debug_macro)
+
+.gnu.attributes
+ *(.gnu.attributes)
+
+/DISCARD/
+ *(.note.GNU-stack)
+ *(.gnu_debuglink)
+ *(.gnu.lto_*)
+OUTPUT(libcrypt.so.1.0 elf32-i386-minix)

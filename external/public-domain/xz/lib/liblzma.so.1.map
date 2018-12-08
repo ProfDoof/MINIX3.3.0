@@ -1,0 +1,1368 @@
+Archive member included because of file (symbol)
+
+liblzma_pic.a(stream_buffer_decoder.pico)
+                              (--whole-archive)
+liblzma_pic.a(index_decoder.pico)
+                              (--whole-archive)
+liblzma_pic.a(filter_buffer_decoder.pico)
+                              (--whole-archive)
+liblzma_pic.a(easy_decoder_memusage.pico)
+                              (--whole-archive)
+liblzma_pic.a(block_buffer_decoder.pico)
+                              (--whole-archive)
+liblzma_pic.a(auto_decoder.pico)
+                              (--whole-archive)
+liblzma_pic.a(alone_decoder.pico)
+                              (--whole-archive)
+liblzma_pic.a(filter_buffer_encoder.pico)
+                              (--whole-archive)
+liblzma_pic.a(easy_encoder_memusage.pico)
+                              (--whole-archive)
+liblzma_pic.a(easy_encoder.pico)
+                              (--whole-archive)
+liblzma_pic.a(easy_buffer_encoder.pico)
+                              (--whole-archive)
+liblzma_pic.a(alone_encoder.pico)
+                              (--whole-archive)
+liblzma_pic.a(hardware_physmem.pico)
+                              (--whole-archive)
+liblzma_pic.a(easy_preset.pico)
+                              (--whole-archive)
+liblzma_pic.a(tuklib_physmem.pico)
+                              (--whole-archive)
+liblzma_pic.a(lzma_encoder_presets.pico)
+                              (--whole-archive)
+liblzma_pic.a(stream_decoder.pico)
+                              (--whole-archive)
+liblzma_pic.a(index_hash.pico)
+                              (--whole-archive)
+liblzma_pic.a(block_header_decoder.pico)
+                              (--whole-archive)
+liblzma_pic.a(block_decoder.pico)
+                              (--whole-archive)
+liblzma_pic.a(stream_encoder.pico)
+                              (--whole-archive)
+liblzma_pic.a(stream_buffer_encoder.pico)
+                              (--whole-archive)
+liblzma_pic.a(index_encoder.pico)
+                              (--whole-archive)
+liblzma_pic.a(block_encoder.pico)
+                              (--whole-archive)
+liblzma_pic.a(block_buffer_encoder.pico)
+                              (--whole-archive)
+liblzma_pic.a(index.pico)     (--whole-archive)
+liblzma_pic.a(stream_flags_decoder.pico)
+                              (--whole-archive)
+liblzma_pic.a(filter_flags_decoder.pico)
+                              (--whole-archive)
+liblzma_pic.a(filter_decoder.pico)
+                              (--whole-archive)
+liblzma_pic.a(stream_flags_encoder.pico)
+                              (--whole-archive)
+liblzma_pic.a(block_header_encoder.pico)
+                              (--whole-archive)
+liblzma_pic.a(stream_flags_common.pico)
+                              (--whole-archive)
+liblzma_pic.a(block_util.pico)
+                              (--whole-archive)
+liblzma_pic.a(check.pico)     (--whole-archive)
+liblzma_pic.a(simple_decoder.pico)
+                              (--whole-archive)
+liblzma_pic.a(lzma2_decoder.pico)
+                              (--whole-archive)
+liblzma_pic.a(lzma_decoder.pico)
+                              (--whole-archive)
+liblzma_pic.a(lz_decoder.pico)
+                              (--whole-archive)
+liblzma_pic.a(delta_decoder.pico)
+                              (--whole-archive)
+liblzma_pic.a(vli_decoder.pico)
+                              (--whole-archive)
+liblzma_pic.a(filter_flags_encoder.pico)
+                              (--whole-archive)
+liblzma_pic.a(filter_encoder.pico)
+                              (--whole-archive)
+liblzma_pic.a(vli_size.pico)  (--whole-archive)
+liblzma_pic.a(filter_common.pico)
+                              (--whole-archive)
+liblzma_pic.a(crc64_fast.pico)
+                              (--whole-archive)
+liblzma_pic.a(crc32_fast.pico)
+                              (--whole-archive)
+liblzma_pic.a(crc64_table.pico)
+                              (--whole-archive)
+liblzma_pic.a(x86.pico)       (--whole-archive)
+liblzma_pic.a(sparc.pico)     (--whole-archive)
+liblzma_pic.a(powerpc.pico)   (--whole-archive)
+liblzma_pic.a(ia64.pico)      (--whole-archive)
+liblzma_pic.a(armthumb.pico)  (--whole-archive)
+liblzma_pic.a(arm.pico)       (--whole-archive)
+liblzma_pic.a(simple_encoder.pico)
+                              (--whole-archive)
+liblzma_pic.a(simple_coder.pico)
+                              (--whole-archive)
+liblzma_pic.a(lzma2_encoder.pico)
+                              (--whole-archive)
+liblzma_pic.a(lzma_encoder.pico)
+                              (--whole-archive)
+liblzma_pic.a(lz_encoder.pico)
+                              (--whole-archive)
+liblzma_pic.a(delta_encoder.pico)
+                              (--whole-archive)
+liblzma_pic.a(delta_common.pico)
+                              (--whole-archive)
+liblzma_pic.a(vli_encoder.pico)
+                              (--whole-archive)
+liblzma_pic.a(common.pico)    (--whole-archive)
+liblzma_pic.a(lzma_encoder_optimum_normal.pico)
+                              (--whole-archive)
+liblzma_pic.a(lzma_encoder_optimum_fast.pico)
+                              (--whole-archive)
+liblzma_pic.a(lz_encoder_mf.pico)
+                              (--whole-archive)
+liblzma_pic.a(crc32_table.pico)
+                              (--whole-archive)
+liblzma_pic.a(price_table.pico)
+                              (--whole-archive)
+liblzma_pic.a(fastpos_table.pico)
+                              (--whole-archive)
+
+Discarded input sections
+
+ .note.GNU-stack
+                0x00000000        0x0 liblzma_pic.a(stream_buffer_decoder.pico)
+ .note.GNU-stack
+                0x00000000        0x0 liblzma_pic.a(index_decoder.pico)
+ .note.GNU-stack
+                0x00000000        0x0 liblzma_pic.a(filter_buffer_decoder.pico)
+ .note.GNU-stack
+                0x00000000        0x0 liblzma_pic.a(easy_decoder_memusage.pico)
+ .note.GNU-stack
+                0x00000000        0x0 liblzma_pic.a(block_buffer_decoder.pico)
+ .note.GNU-stack
+                0x00000000        0x0 liblzma_pic.a(auto_decoder.pico)
+ .note.GNU-stack
+                0x00000000        0x0 liblzma_pic.a(alone_decoder.pico)
+ .note.GNU-stack
+                0x00000000        0x0 liblzma_pic.a(filter_buffer_encoder.pico)
+ .note.GNU-stack
+                0x00000000        0x0 liblzma_pic.a(easy_encoder_memusage.pico)
+ .note.GNU-stack
+                0x00000000        0x0 liblzma_pic.a(easy_encoder.pico)
+ .note.GNU-stack
+                0x00000000        0x0 liblzma_pic.a(easy_buffer_encoder.pico)
+ .note.GNU-stack
+                0x00000000        0x0 liblzma_pic.a(alone_encoder.pico)
+ .note.GNU-stack
+                0x00000000        0x0 liblzma_pic.a(hardware_physmem.pico)
+ .note.GNU-stack
+                0x00000000        0x0 liblzma_pic.a(easy_preset.pico)
+ .note.GNU-stack
+                0x00000000        0x0 liblzma_pic.a(tuklib_physmem.pico)
+ .note.GNU-stack
+                0x00000000        0x0 liblzma_pic.a(lzma_encoder_presets.pico)
+ .note.GNU-stack
+                0x00000000        0x0 liblzma_pic.a(stream_decoder.pico)
+ .note.GNU-stack
+                0x00000000        0x0 liblzma_pic.a(index_hash.pico)
+ .note.GNU-stack
+                0x00000000        0x0 liblzma_pic.a(block_header_decoder.pico)
+ .note.GNU-stack
+                0x00000000        0x0 liblzma_pic.a(block_decoder.pico)
+ .note.GNU-stack
+                0x00000000        0x0 liblzma_pic.a(stream_encoder.pico)
+ .note.GNU-stack
+                0x00000000        0x0 liblzma_pic.a(stream_buffer_encoder.pico)
+ .note.GNU-stack
+                0x00000000        0x0 liblzma_pic.a(index_encoder.pico)
+ .note.GNU-stack
+                0x00000000        0x0 liblzma_pic.a(block_encoder.pico)
+ .note.GNU-stack
+                0x00000000        0x0 liblzma_pic.a(block_buffer_encoder.pico)
+ .note.GNU-stack
+                0x00000000        0x0 liblzma_pic.a(index.pico)
+ .note.GNU-stack
+                0x00000000        0x0 liblzma_pic.a(stream_flags_decoder.pico)
+ .note.GNU-stack
+                0x00000000        0x0 liblzma_pic.a(filter_flags_decoder.pico)
+ .note.GNU-stack
+                0x00000000        0x0 liblzma_pic.a(filter_decoder.pico)
+ .note.GNU-stack
+                0x00000000        0x0 liblzma_pic.a(stream_flags_encoder.pico)
+ .note.GNU-stack
+                0x00000000        0x0 liblzma_pic.a(block_header_encoder.pico)
+ .note.GNU-stack
+                0x00000000        0x0 liblzma_pic.a(stream_flags_common.pico)
+ .note.GNU-stack
+                0x00000000        0x0 liblzma_pic.a(block_util.pico)
+ .note.GNU-stack
+                0x00000000        0x0 liblzma_pic.a(check.pico)
+ .note.GNU-stack
+                0x00000000        0x0 liblzma_pic.a(simple_decoder.pico)
+ .note.GNU-stack
+                0x00000000        0x0 liblzma_pic.a(lzma2_decoder.pico)
+ .note.GNU-stack
+                0x00000000        0x0 liblzma_pic.a(lzma_decoder.pico)
+ .note.GNU-stack
+                0x00000000        0x0 liblzma_pic.a(lz_decoder.pico)
+ .note.GNU-stack
+                0x00000000        0x0 liblzma_pic.a(delta_decoder.pico)
+ .note.GNU-stack
+                0x00000000        0x0 liblzma_pic.a(vli_decoder.pico)
+ .note.GNU-stack
+                0x00000000        0x0 liblzma_pic.a(filter_flags_encoder.pico)
+ .note.GNU-stack
+                0x00000000        0x0 liblzma_pic.a(filter_encoder.pico)
+ .note.GNU-stack
+                0x00000000        0x0 liblzma_pic.a(vli_size.pico)
+ .note.GNU-stack
+                0x00000000        0x0 liblzma_pic.a(filter_common.pico)
+ .note.GNU-stack
+                0x00000000        0x0 liblzma_pic.a(crc64_fast.pico)
+ .note.GNU-stack
+                0x00000000        0x0 liblzma_pic.a(crc32_fast.pico)
+ .note.GNU-stack
+                0x00000000        0x0 liblzma_pic.a(crc64_table.pico)
+ .note.GNU-stack
+                0x00000000        0x0 liblzma_pic.a(x86.pico)
+ .note.GNU-stack
+                0x00000000        0x0 liblzma_pic.a(sparc.pico)
+ .note.GNU-stack
+                0x00000000        0x0 liblzma_pic.a(powerpc.pico)
+ .note.GNU-stack
+                0x00000000        0x0 liblzma_pic.a(ia64.pico)
+ .note.GNU-stack
+                0x00000000        0x0 liblzma_pic.a(armthumb.pico)
+ .note.GNU-stack
+                0x00000000        0x0 liblzma_pic.a(arm.pico)
+ .note.GNU-stack
+                0x00000000        0x0 liblzma_pic.a(simple_encoder.pico)
+ .note.GNU-stack
+                0x00000000        0x0 liblzma_pic.a(simple_coder.pico)
+ .note.GNU-stack
+                0x00000000        0x0 liblzma_pic.a(lzma2_encoder.pico)
+ .note.GNU-stack
+                0x00000000        0x0 liblzma_pic.a(lzma_encoder.pico)
+ .note.GNU-stack
+                0x00000000        0x0 liblzma_pic.a(lz_encoder.pico)
+ .note.GNU-stack
+                0x00000000        0x0 liblzma_pic.a(delta_encoder.pico)
+ .note.GNU-stack
+                0x00000000        0x0 liblzma_pic.a(delta_common.pico)
+ .note.GNU-stack
+                0x00000000        0x0 liblzma_pic.a(vli_encoder.pico)
+ .note.GNU-stack
+                0x00000000        0x0 liblzma_pic.a(common.pico)
+ .note.GNU-stack
+                0x00000000        0x0 liblzma_pic.a(lzma_encoder_optimum_normal.pico)
+ .note.GNU-stack
+                0x00000000        0x0 liblzma_pic.a(lzma_encoder_optimum_fast.pico)
+ .note.GNU-stack
+                0x00000000        0x0 liblzma_pic.a(lz_encoder_mf.pico)
+ .note.GNU-stack
+                0x00000000        0x0 liblzma_pic.a(crc32_table.pico)
+ .note.GNU-stack
+                0x00000000        0x0 liblzma_pic.a(price_table.pico)
+ .note.GNU-stack
+                0x00000000        0x0 liblzma_pic.a(fastpos_table.pico)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD /usr/lib/crti.o
+LOAD /usr/lib/crtbeginS.o
+LOAD liblzma_pic.a
+LOAD /usr/lib/libc.so
+LOAD /usr/lib/crtendS.o
+LOAD /usr/lib/crtn.o
+                0x000000f4                . = (0x0 + SIZEOF_HEADERS)
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.hash           0x000000f4      0x644
+ *(.hash)
+ .hash          0x000000f4      0x644 /usr/lib/crti.o
+
+.gnu.hash
+ *(.gnu.hash)
+
+.dynsym         0x00000738      0xca0
+ *(.dynsym)
+ .dynsym        0x00000738      0xca0 /usr/lib/crti.o
+
+.dynstr         0x000013d8     0x1062
+ *(.dynstr)
+ .dynstr        0x000013d8     0x1062 /usr/lib/crti.o
+
+.gnu.version    0x0000243a        0x0
+ *(.gnu.version)
+ .gnu.version   0x00000000        0x0 /usr/lib/crti.o
+
+.gnu.version_d  0x0000243c        0x0
+ *(.gnu.version_d)
+ .gnu.version_d
+                0x00000000        0x0 /usr/lib/crti.o
+
+.gnu.version_r  0x0000243c        0x0
+ *(.gnu.version_r)
+ .gnu.version_r
+                0x00000000        0x0 /usr/lib/crti.o
+
+.rel.dyn        0x0000243c      0x290
+ *(.rel.init)
+ *(.rel.text .rel.text.* .rel.gnu.linkonce.t.*)
+ *(.rel.fini)
+ *(.rel.rodata .rel.rodata.* .rel.gnu.linkonce.r.*)
+ *(.rel.data.rel.ro .rel.data.rel.ro.* .rel.gnu.linkonce.d.rel.ro.*)
+ .rel.data.rel.ro
+                0x0000243c      0x180 /usr/lib/crti.o
+ *(.rel.data .rel.data.* .rel.gnu.linkonce.d.*)
+ .rel.data.rel  0x000025bc        0x8 /usr/lib/crti.o
+ *(.rel.tdata .rel.tdata.* .rel.gnu.linkonce.td.*)
+ *(.rel.tbss .rel.tbss.* .rel.gnu.linkonce.tb.*)
+ *(.rel.ctors)
+ *(.rel.dtors)
+ *(.rel.got)
+ .rel.got       0x000025c4      0x108 /usr/lib/crti.o
+ *(.rel.bss .rel.bss.* .rel.gnu.linkonce.b.*)
+ *(.rel.ifunc)
+ .rel.ifunc     0x00000000        0x0 /usr/lib/crti.o
+
+.rel.plt        0x000026cc      0x330
+ *(.rel.plt)
+ .rel.plt       0x000026cc      0x330 /usr/lib/crti.o
+ *(.rel.iplt)
+
+.init           0x00002a00        0xa
+ *(SORT(.init))
+ .init          0x00002a00        0x3 /usr/lib/crti.o
+                0x00002a00                _init
+ .init          0x00002a03        0x5 /usr/lib/crtbeginS.o
+ .init          0x00002a08        0x2 /usr/lib/crtn.o
+
+.plt            0x00002a10      0x670
+ *(.plt)
+ .plt           0x00002a10      0x670 /usr/lib/crti.o
+ *(.iplt)
+
+.text           0x00003080    0x17e70
+                0x00003080                PROVIDE (__eprol, .)
+ *(.text.unlikely .text.*_unlikely)
+ *(.text.exit .text.exit.*)
+ *(.text.startup .text.startup.*)
+ *(.text.hot .text.hot.*)
+ *(.text .stub .text.* .gnu.linkonce.t.*)
+ .text          0x00003080        0x0 /usr/lib/crti.o
+ .text          0x00003080       0xef /usr/lib/crtbeginS.o
+ *fill*         0x0000316f        0x1 
+ .text          0x00003170      0x20c liblzma_pic.a(stream_buffer_decoder.pico)
+                0x00003170                lzma_stream_buffer_decode
+ *fill*         0x0000337c        0x4 
+ .text          0x00003380      0x7ae liblzma_pic.a(index_decoder.pico)
+                0x00003380                lzma_index_decoder
+                0x00003520                lzma_index_buffer_decode
+ *fill*         0x00003b2e        0x2 
+ .text          0x00003b30      0x216 liblzma_pic.a(filter_buffer_decoder.pico)
+                0x00003b30                lzma_raw_buffer_decode
+ *fill*         0x00003d46        0xa 
+ .text          0x00003d50       0x4c liblzma_pic.a(easy_decoder_memusage.pico)
+                0x00003d50                lzma_easy_decoder_memusage
+ *fill*         0x00003d9c        0x4 
+ .text          0x00003da0      0x1bc liblzma_pic.a(block_buffer_decoder.pico)
+                0x00003da0                lzma_block_buffer_decode
+ *fill*         0x00003f5c        0x4 
+ .text          0x00003f60      0x501 liblzma_pic.a(auto_decoder.pico)
+                0x00003f60                lzma_auto_decoder
+ *fill*         0x00004461        0xf 
+ .text          0x00004470      0x64d liblzma_pic.a(alone_decoder.pico)
+                0x00004470                lzma_alone_decoder_init
+                0x00004960                lzma_alone_decoder
+ *fill*         0x00004abd        0x3 
+ .text          0x00004ac0      0x187 liblzma_pic.a(filter_buffer_encoder.pico)
+                0x00004ac0                lzma_raw_buffer_encode
+ *fill*         0x00004c47        0x9 
+ .text          0x00004c50       0x4c liblzma_pic.a(easy_encoder_memusage.pico)
+                0x00004c50                lzma_easy_encoder_memusage
+ *fill*         0x00004c9c        0x4 
+ .text          0x00004ca0       0x5c liblzma_pic.a(easy_encoder.pico)
+                0x00004ca0                lzma_easy_encoder
+ *fill*         0x00004cfc        0x4 
+ .text          0x00004d00       0x7f liblzma_pic.a(easy_buffer_encoder.pico)
+                0x00004d00                lzma_easy_buffer_encode
+ *fill*         0x00004d7f        0x1 
+ .text          0x00004d80      0x372 liblzma_pic.a(alone_encoder.pico)
+                0x00004d80                lzma_alone_encoder
+ *fill*         0x000050f2        0xe 
+ .text          0x00005100       0x18 liblzma_pic.a(hardware_physmem.pico)
+                0x00005100                lzma_physmem
+ *fill*         0x00005118        0x8 
+ .text          0x00005120       0x5b liblzma_pic.a(easy_preset.pico)
+                0x00005120                lzma_easy_preset
+ *fill*         0x0000517b        0x5 
+ .text          0x00005180        0x9 liblzma_pic.a(tuklib_physmem.pico)
+                0x00005180                lzma_tuklib_physmem
+ *fill*         0x00005189        0x7 
+ .text          0x00005190      0x124 liblzma_pic.a(lzma_encoder_presets.pico)
+                0x00005190                lzma_lzma_preset
+ *fill*         0x000052b4        0xc 
+ .text          0x000052c0      0x8e4 liblzma_pic.a(stream_decoder.pico)
+                0x000052c0                lzma_stream_decoder_init
+                0x00005b30                lzma_stream_decoder
+ *fill*         0x00005ba4        0xc 
+ .text          0x00005bb0      0x8d9 liblzma_pic.a(index_hash.pico)
+                0x00005bb0                lzma_index_hash_init
+                0x00005cf0                lzma_index_hash_end
+                0x00005d10                lzma_index_hash_size
+                0x00005d90                lzma_index_hash_append
+                0x00005fe0                lzma_index_hash_decode
+ *fill*         0x00006489        0x7 
+ .text          0x00006490      0x3ad liblzma_pic.a(block_header_decoder.pico)
+                0x00006490                lzma_block_header_decode
+ *fill*         0x0000683d        0x3 
+ .text          0x00006840      0x5c6 liblzma_pic.a(block_decoder.pico)
+                0x00006840                lzma_block_decoder_init
+                0x00006da0                lzma_block_decoder
+ *fill*         0x00006e06        0xa 
+ .text          0x00006e10      0x89c liblzma_pic.a(stream_encoder.pico)
+                0x00006e10                lzma_stream_encoder_init
+                0x00007640                lzma_stream_encoder
+ *fill*         0x000076ac        0x4 
+ .text          0x000076b0      0x365 liblzma_pic.a(stream_buffer_encoder.pico)
+                0x000076b0                lzma_stream_buffer_bound
+                0x000076f0                lzma_stream_buffer_encode
+ *fill*         0x00007a15        0xb 
+ .text          0x00007a20      0x63b liblzma_pic.a(index_encoder.pico)
+                0x00007a20                lzma_index_encoder_init
+                0x00007e20                lzma_index_encoder
+                0x00007f30                lzma_index_buffer_encode
+ *fill*         0x0000805b        0x5 
+ .text          0x00008060      0x546 liblzma_pic.a(block_encoder.pico)
+                0x00008060                lzma_block_encoder_init
+                0x00008540                lzma_block_encoder
+ *fill*         0x000085a6        0xa 
+ .text          0x000085b0      0x7b2 liblzma_pic.a(block_buffer_encoder.pico)
+                0x000085b0                lzma_block_buffer_bound
+                0x00008640                lzma_block_buffer_encode
+ *fill*         0x00008d62        0xe 
+ .text          0x00008d70     0x1f55 liblzma_pic.a(index.pico)
+                0x00008d70                lzma_index_init
+                0x00009080                lzma_index_end
+                0x000090d0                lzma_index_prealloc
+                0x00009100                lzma_index_memusage
+                0x00009230                lzma_index_memused
+                0x00009330                lzma_index_block_count
+                0x00009340                lzma_index_stream_count
+                0x00009350                lzma_index_size
+                0x000093d0                lzma_index_total_size
+                0x000093e0                lzma_index_stream_size
+                0x00009470                lzma_index_file_size
+                0x000095b0                lzma_index_uncompressed_size
+                0x000095c0                lzma_index_checks
+                0x000095e0                lzma_index_padding_size
+                0x00009620                lzma_index_stream_flags
+                0x00009670                lzma_index_stream_padding
+                0x00009700                lzma_index_append
+                0x00009ab0                lzma_index_cat
+                0x00009f90                lzma_index_dup
+                0x0000a330                lzma_index_iter_init
+                0x0000a370                lzma_index_iter_rewind
+                0x0000a3a0                lzma_index_iter_next
+                0x0000aa20                lzma_index_iter_locate
+ *fill*         0x0000acc5        0xb 
+ .text          0x0000acd0      0x191 liblzma_pic.a(stream_flags_decoder.pico)
+                0x0000acd0                lzma_stream_header_decode
+                0x0000ad90                lzma_stream_footer_decode
+ *fill*         0x0000ae61        0xf 
+ .text          0x0000ae70       0xe8 liblzma_pic.a(filter_flags_decoder.pico)
+                0x0000ae70                lzma_filter_flags_decode
+ *fill*         0x0000af58        0x8 
+ .text          0x0000af60      0x21c liblzma_pic.a(filter_decoder.pico)
+                0x0000af60                lzma_filter_decoder_is_supported
+                0x0000aff0                lzma_raw_decoder_init
+                0x0000b040                lzma_raw_decoder
+                0x0000b0c0                lzma_raw_decoder_memusage
+                0x0000b0f0                lzma_properties_decode
+ *fill*         0x0000b17c        0x4 
+ .text          0x0000b180      0x163 liblzma_pic.a(stream_flags_encoder.pico)
+                0x0000b180                lzma_stream_header_encode
+                0x0000b210                lzma_stream_footer_encode
+ *fill*         0x0000b2e3        0xd 
+ .text          0x0000b2f0      0x308 liblzma_pic.a(block_header_encoder.pico)
+                0x0000b2f0                lzma_block_header_size
+                0x0000b410                lzma_block_header_encode
+ *fill*         0x0000b5f8        0x8 
+ .text          0x0000b600       0xcf liblzma_pic.a(stream_flags_common.pico)
+                0x0000b600                lzma_stream_flags_compare
+ *fill*         0x0000b6cf        0x1 
+ .text          0x0000b6d0      0x258 liblzma_pic.a(block_util.pico)
+                0x0000b6d0                lzma_block_compressed_size
+                0x0000b770                lzma_block_unpadded_size
+                0x0000b8b0                lzma_block_total_size
+ *fill*         0x0000b928        0x8 
+ .text          0x0000b930      0x191 liblzma_pic.a(check.pico)
+                0x0000b930                lzma_check_is_supported
+                0x0000b960                lzma_check_size
+                0x0000b990                lzma_check_init
+                0x0000b9e0                lzma_check_update
+                0x0000ba70                lzma_check_finish
+ *fill*         0x0000bac1        0xf 
+ .text          0x0000bad0       0x8c liblzma_pic.a(simple_decoder.pico)
+                0x0000bad0                lzma_simple_props_decode
+ *fill*         0x0000bb5c        0x4 
+ .text          0x0000bb60      0x645 liblzma_pic.a(lzma2_decoder.pico)
+                0x0000bb60                lzma_lzma2_decoder_init
+                0x0000bcc0                lzma_lzma2_decoder_memusage
+                0x0000bcf0                lzma_lzma2_props_decode
+ *fill*         0x0000c1a5        0xb 
+ .text          0x0000c1b0     0x4427 liblzma_pic.a(lzma_decoder.pico)
+                0x0000c1b0                lzma_lzma_decoder_create
+                0x000102b0                lzma_lzma_decoder_init
+                0x000103f0                lzma_lzma_lclppb_decode
+                0x00010450                lzma_lzma_decoder_memusage_nocheck
+                0x00010480                lzma_lzma_decoder_memusage
+                0x000104f0                lzma_lzma_props_decode
+ *fill*         0x000105d7        0x9 
+ .text          0x000105e0      0x5f3 liblzma_pic.a(lz_decoder.pico)
+                0x000105e0                lzma_lz_decoder_init
+                0x00010a10                lzma_lz_decoder_memusage
+                0x00010a30                lzma_lz_decoder_uncompressed
+ *fill*         0x00010bd3        0xd 
+ .text          0x00010be0      0x179 liblzma_pic.a(delta_decoder.pico)
+                0x00010be0                lzma_delta_decoder_init
+                0x00010d00                lzma_delta_props_decode
+ *fill*         0x00010d59        0x7 
+ .text          0x00010d60      0x1cd liblzma_pic.a(vli_decoder.pico)
+                0x00010d60                lzma_vli_decode
+ *fill*         0x00010f2d        0x3 
+ .text          0x00010f30      0x156 liblzma_pic.a(filter_flags_encoder.pico)
+                0x00010f30                lzma_filter_flags_size
+                0x00010fa0                lzma_filter_flags_encode
+ *fill*         0x00011086        0xa 
+ .text          0x00011090      0x391 liblzma_pic.a(filter_encoder.pico)
+                0x00011090                lzma_filter_encoder_is_supported
+                0x00011120                lzma_filters_update
+                0x00011220                lzma_raw_encoder_memusage
+                0x00011250                lzma_raw_encoder_init
+                0x000112a0                lzma_raw_encoder
+                0x00011320                lzma_properties_size
+                0x000113b0                lzma_properties_encode
+ *fill*         0x00011421        0xf 
+ .text          0x00011430       0x77 liblzma_pic.a(vli_size.pico)
+                0x00011430                lzma_vli_size
+ *fill*         0x000114a7        0x9 
+ .text          0x000114b0      0x717 liblzma_pic.a(filter_common.pico)
+                0x000114b0                lzma_filters_copy
+                0x000116d0                lzma_raw_coder_init
+                0x000119c0                lzma_raw_coder_memusage
+ *fill*         0x00011bc7        0x9 
+ .text          0x00011bd0      0x15a liblzma_pic.a(crc64_fast.pico)
+                0x00011bd0                lzma_crc64
+ *fill*         0x00011d2a        0x6 
+ .text          0x00011d30      0x13e liblzma_pic.a(crc32_fast.pico)
+                0x00011d30                lzma_crc32
+ *fill*         0x00011e6e        0x2 
+ .text          0x00011e70        0x0 liblzma_pic.a(crc64_table.pico)
+ .text          0x00011e70      0x329 liblzma_pic.a(x86.pico)
+                0x00011e70                lzma_simple_x86_encoder_init
+                0x00011ef0                lzma_simple_x86_decoder_init
+ *fill*         0x00012199        0x7 
+ .text          0x000121a0      0x1a9 liblzma_pic.a(sparc.pico)
+                0x000121a0                lzma_simple_sparc_encoder_init
+                0x00012200                lzma_simple_sparc_decoder_init
+ *fill*         0x00012349        0x7 
+ .text          0x00012350      0x185 liblzma_pic.a(powerpc.pico)
+                0x00012350                lzma_simple_powerpc_encoder_init
+                0x000123b0                lzma_simple_powerpc_decoder_init
+ *fill*         0x000124d5        0xb 
+ .text          0x000124e0      0x2a9 liblzma_pic.a(ia64.pico)
+                0x000124e0                lzma_simple_ia64_encoder_init
+                0x00012540                lzma_simple_ia64_decoder_init
+ *fill*         0x00012789        0x7 
+ .text          0x00012790      0x1a5 liblzma_pic.a(armthumb.pico)
+                0x00012790                lzma_simple_armthumb_encoder_init
+                0x000127f0                lzma_simple_armthumb_decoder_init
+ *fill*         0x00012935        0xb 
+ .text          0x00012940      0x162 liblzma_pic.a(arm.pico)
+                0x00012940                lzma_simple_arm_encoder_init
+                0x000129a0                lzma_simple_arm_decoder_init
+ *fill*         0x00012aa2        0xe 
+ .text          0x00012ab0       0x5a liblzma_pic.a(simple_encoder.pico)
+                0x00012ab0                lzma_simple_props_size
+                0x00012ae0                lzma_simple_props_encode
+ *fill*         0x00012b0a        0x6 
+ .text          0x00012b10      0x6dc liblzma_pic.a(simple_coder.pico)
+                0x00012b10                lzma_simple_coder_init
+ *fill*         0x000131ec        0x4 
+ .text          0x000131f0      0x841 liblzma_pic.a(lzma2_encoder.pico)
+                0x000131f0                lzma_lzma2_encoder_init
+                0x00013320                lzma_lzma2_encoder_memusage
+                0x00013370                lzma_lzma2_props_encode
+ *fill*         0x00013a31        0xf 
+ .text          0x00013a40     0x1f4f liblzma_pic.a(lzma_encoder.pico)
+                0x00013a40                lzma_lzma_encode
+                0x00014850                lzma_lzma_encoder_reset
+                0x00014c70                lzma_lzma_encoder_create
+                0x00014d80                lzma_lzma_encoder_init
+                0x00014df0                lzma_lzma_encoder_memusage
+                0x00014f00                lzma_lzma_lclppb_encode
+                0x00014f90                lzma_lzma_props_encode
+                0x00015040                lzma_mode_is_supported
+ *fill*         0x0001598f        0x1 
+ .text          0x00015990      0x9dc liblzma_pic.a(lz_encoder.pico)
+                0x00015990                lzma_lz_encoder_memusage
+                0x00015ca0                lzma_lz_encoder_init
+                0x00016340                lzma_mf_is_supported
+ *fill*         0x0001636c        0x4 
+ .text          0x00016370      0x23f liblzma_pic.a(delta_encoder.pico)
+                0x00016370                lzma_delta_encoder_init
+                0x00016570                lzma_delta_props_encode
+ *fill*         0x000165af        0x1 
+ .text          0x000165b0      0x16b liblzma_pic.a(delta_common.pico)
+                0x000165b0                lzma_delta_coder_init
+                0x000166e0                lzma_delta_coder_memusage
+ *fill*         0x0001671b        0x5 
+ .text          0x00016720      0x126 liblzma_pic.a(vli_encoder.pico)
+                0x00016720                lzma_vli_encode
+ *fill*         0x00016846        0xa 
+ .text          0x00016850      0x99a liblzma_pic.a(common.pico)
+                0x00016850                lzma_version_number
+                0x00016860                lzma_version_string
+                0x00016880                lzma_alloc
+                0x000168e0                lzma_free
+                0x00016930                lzma_bufcpy
+                0x000169a0                lzma_next_filter_init
+                0x00016a80                lzma_next_end
+                0x00016b20                lzma_next_filter_update
+                0x00016bc0                lzma_strm_init
+                0x00016cb0                lzma_code
+                0x00016f40                lzma_end
+                0x00017030                lzma_get_check
+                0x00017060                lzma_memusage
+                0x000170e0                lzma_memlimit_get
+                0x00017160                lzma_memlimit_set
+ *fill*         0x000171ea        0x6 
+ .text          0x000171f0     0x1fc6 liblzma_pic.a(lzma_encoder_optimum_normal.pico)
+                0x000171f0                lzma_lzma_optimum_normal
+ *fill*         0x000191b6        0xa 
+ .text          0x000191c0      0x427 liblzma_pic.a(lzma_encoder_optimum_fast.pico)
+                0x000191c0                lzma_lzma_optimum_fast
+ *fill*         0x000195e7        0x9 
+ .text          0x000195f0     0x1900 liblzma_pic.a(lz_encoder_mf.pico)
+                0x000195f0                lzma_mf_find
+                0x00019790                lzma_mf_hc3_find
+                0x00019b40                lzma_mf_hc3_skip
+                0x00019c20                lzma_mf_hc4_find
+                0x00019fa0                lzma_mf_hc4_skip
+                0x0001a0b0                lzma_mf_bt2_find
+                0x0001a3d0                lzma_mf_bt2_skip
+                0x0001a6a0                lzma_mf_bt3_find
+                0x0001a8f0                lzma_mf_bt3_skip
+                0x0001aa70                lzma_mf_bt4_find
+                0x0001ad60                lzma_mf_bt4_skip
+ .text          0x0001aef0        0x0 liblzma_pic.a(crc32_table.pico)
+ .text          0x0001aef0        0x0 liblzma_pic.a(price_table.pico)
+ .text          0x0001aef0        0x0 liblzma_pic.a(fastpos_table.pico)
+ .text          0x0001aef0        0x0 /usr/lib/crtendS.o
+ .text          0x0001aef0        0x0 /usr/lib/crtn.o
+ *(.gnu.warning)
+
+.fini           0x0001aef0        0xa
+ *(SORT(.fini))
+ .fini          0x0001aef0        0x3 /usr/lib/crti.o
+                0x0001aef0                _fini
+ .fini          0x0001aef3        0x5 /usr/lib/crtbeginS.o
+ .fini          0x0001aef8        0x2 /usr/lib/crtn.o
+                0x0001aefa                PROVIDE (__etext, .)
+                0x0001aefa                PROVIDE (_etext, .)
+                0x0001aefa                PROVIDE (etext, .)
+
+.rodata         0x0001af00     0x7d64
+ *(.rodata .rodata.* .gnu.linkonce.r.*)
+ .rodata.str1.1
+                0x0001af00       0x9f liblzma_pic.a(stream_buffer_decoder.pico)
+ *fill*         0x0001af9f        0x1 
+ .rodata        0x0001afa0       0x20 liblzma_pic.a(index_decoder.pico)
+ .rodata.str1.1
+                0x0001afc0       0x5f liblzma_pic.a(index_decoder.pico)
+                                 0x61 (size before relaxing)
+ .rodata.str1.1
+                0x0001b01f       0x71 liblzma_pic.a(filter_buffer_decoder.pico)
+                                 0x9c (size before relaxing)
+ .rodata.str1.1
+                0x0001b090       0x72 liblzma_pic.a(block_buffer_decoder.pico)
+                                 0x9d (size before relaxing)
+ .rodata.str1.1
+                0x0001b102       0x95 liblzma_pic.a(auto_decoder.pico)
+                                 0x97 (size before relaxing)
+ *fill*         0x0001b197        0x1 
+ .rodata        0x0001b198       0x14 liblzma_pic.a(alone_decoder.pico)
+ .rodata.str1.1
+                0x0001b1ac       0x71 liblzma_pic.a(filter_buffer_encoder.pico)
+                                 0x86 (size before relaxing)
+ .rodata.str1.1
+                0x0001b21d       0x5f liblzma_pic.a(alone_encoder.pico)
+                                 0x61 (size before relaxing)
+ .rodata        0x0001b27c       0x18 liblzma_pic.a(stream_decoder.pico)
+ .rodata.str1.1
+                0x0001b294       0x75 liblzma_pic.a(stream_decoder.pico)
+                                 0x77 (size before relaxing)
+ *fill*         0x0001b309        0x3 
+ .rodata        0x0001b30c       0x1c liblzma_pic.a(index_hash.pico)
+ .rodata.str1.1
+                0x0001b328       0xce liblzma_pic.a(index_hash.pico)
+                                 0xd0 (size before relaxing)
+ *fill*         0x0001b3f6        0x2 
+ .rodata        0x0001b3f8       0x18 liblzma_pic.a(stream_encoder.pico)
+ .rodata.cst16  0x0001b410       0x10 liblzma_pic.a(stream_encoder.pico)
+ .rodata.str1.1
+                0x0001b420       0x74 liblzma_pic.a(stream_encoder.pico)
+                                 0x76 (size before relaxing)
+ .rodata        0x0001b494       0x1c liblzma_pic.a(index_encoder.pico)
+ .rodata.str1.1
+                0x0001b4b0       0x88 liblzma_pic.a(index_encoder.pico)
+                                 0x8a (size before relaxing)
+ .rodata.str1.1
+                0x0001b538       0x72 liblzma_pic.a(block_encoder.pico)
+                                 0x88 (size before relaxing)
+ .rodata.str1.1
+                0x0001b5aa      0x11e liblzma_pic.a(block_buffer_encoder.pico)
+ .rodata.str1.1
+                0x0001b6c8      0x2cb liblzma_pic.a(index.pico)
+                                0x333 (size before relaxing)
+ .rodata        0x0001b993        0x8 liblzma_pic.a(stream_flags_common.pico)
+                0x0001b993                lzma_header_magic
+                0x0001b999                lzma_footer_magic
+ .rodata.str1.1
+                0x0001b99b       0x8b liblzma_pic.a(block_util.pico)
+                                 0xf3 (size before relaxing)
+ .rodata.cst16  0x0001ba26       0x20 liblzma_pic.a(check.pico)
+ *fill*         0x0001ba46        0x2 
+ .rodata        0x0001ba48       0x20 liblzma_pic.a(lzma2_decoder.pico)
+ .rodata.str1.1
+                0x0001ba68       0xb7 liblzma_pic.a(lzma2_decoder.pico)
+                                 0xb9 (size before relaxing)
+ *fill*         0x0001bb1f        0x1 
+ .rodata        0x0001bb20      0x160 liblzma_pic.a(lzma_decoder.pico)
+ .rodata.str1.1
+                0x0001bc80      0x225 liblzma_pic.a(lzma_decoder.pico)
+                                0x23d (size before relaxing)
+ .rodata.str1.1
+                0x0001bea5       0x7a liblzma_pic.a(lz_decoder.pico)
+ .rodata.str1.1
+                0x0001bf1f       0x77 liblzma_pic.a(delta_decoder.pico)
+ .rodata.str1.1
+                0x0001bf96       0x73 liblzma_pic.a(vli_size.pico)
+ .rodata.str1.1
+                0x0001c009       0x7e liblzma_pic.a(filter_common.pico)
+ *fill*         0x0001c087        0x1 
+ .rodata        0x0001c088       0xa0 liblzma_pic.a(filter_common.pico)
+ .rodata        0x0001c128     0x2000 liblzma_pic.a(crc64_table.pico)
+                0x0001c128                lzma_crc64_table
+ .rodata        0x0001e128       0x20 liblzma_pic.a(x86.pico)
+ .rodata        0x0001e148       0x80 liblzma_pic.a(ia64.pico)
+ .rodata.str1.1
+                0x0001e1c8      0x107 liblzma_pic.a(simple_coder.pico)
+ *fill*         0x0001e2cf        0x1 
+ .rodata        0x0001e2d0       0x14 liblzma_pic.a(lzma2_encoder.pico)
+ .rodata.str1.1
+                0x0001e2e4      0x1c7 liblzma_pic.a(lzma2_encoder.pico)
+ *fill*         0x0001e4ab        0x1 
+ .rodata        0x0001e4ac       0x14 liblzma_pic.a(lzma_encoder.pico)
+ .rodata.str1.1
+                0x0001e4c0      0x1b2 liblzma_pic.a(lzma_encoder.pico)
+                                0x23d (size before relaxing)
+ .rodata.str1.1
+                0x0001e672      0x136 liblzma_pic.a(lz_encoder.pico)
+                                0x149 (size before relaxing)
+ .rodata.str1.1
+                0x0001e7a8       0x7e liblzma_pic.a(vli_encoder.pico)
+ *fill*         0x0001e826        0x2 
+ .rodata        0x0001e828       0x40 liblzma_pic.a(common.pico)
+ .rodata.str1.1
+                0x0001e868       0x9e liblzma_pic.a(common.pico)
+ .rodata.str1.1
+                0x0001e906       0xb1 liblzma_pic.a(lzma_encoder_optimum_normal.pico)
+ .rodata.str1.1
+                0x0001e9b7       0x73 liblzma_pic.a(lzma_encoder_optimum_fast.pico)
+                                 0x87 (size before relaxing)
+ .rodata.str1.1
+                0x0001ea2a      0x1ba liblzma_pic.a(lz_encoder_mf.pico)
+ .rodata        0x0001ebe4     0x2000 liblzma_pic.a(crc32_table.pico)
+                0x0001ebe4                lzma_crc32_table
+ .rodata        0x00020be4       0x80 liblzma_pic.a(price_table.pico)
+                0x00020be4                lzma_rc_prices
+ .rodata        0x00020c64     0x2000 liblzma_pic.a(fastpos_table.pico)
+                0x00020c64                lzma_fastpos
+
+.rodata1
+ *(.rodata1)
+
+.eh_frame_hdr   0x00022c64      0x80c
+ *(.eh_frame_hdr)
+ .eh_frame_hdr  0x00022c64      0x80c liblzma_pic.a(stream_buffer_decoder.pico)
+
+.eh_frame       0x00023470     0x1f2c
+ *(.eh_frame)
+ .eh_frame      0x00023470       0x3c /usr/lib/crti.o
+                                 0x40 (size before relaxing)
+ .eh_frame      0x000234ac        0x0 /usr/lib/crtbeginS.o
+ .eh_frame      0x000234ac       0x20 liblzma_pic.a(stream_buffer_decoder.pico)
+                                 0x38 (size before relaxing)
+ .eh_frame      0x000234cc       0xbc liblzma_pic.a(index_decoder.pico)
+                                 0xd4 (size before relaxing)
+ .eh_frame      0x00023588       0x20 liblzma_pic.a(filter_buffer_decoder.pico)
+                                 0x38 (size before relaxing)
+ .eh_frame      0x000235a8       0x20 liblzma_pic.a(easy_decoder_memusage.pico)
+                                 0x38 (size before relaxing)
+ .eh_frame      0x000235c8       0x20 liblzma_pic.a(block_buffer_decoder.pico)
+                                 0x38 (size before relaxing)
+ .eh_frame      0x000235e8       0xb8 liblzma_pic.a(auto_decoder.pico)
+                                 0xd0 (size before relaxing)
+ .eh_frame      0x000236a0       0x9c liblzma_pic.a(alone_decoder.pico)
+                                 0xb4 (size before relaxing)
+ .eh_frame      0x0002373c       0x20 liblzma_pic.a(filter_buffer_encoder.pico)
+                                 0x38 (size before relaxing)
+ .eh_frame      0x0002375c       0x20 liblzma_pic.a(easy_encoder_memusage.pico)
+                                 0x38 (size before relaxing)
+ .eh_frame      0x0002377c       0x20 liblzma_pic.a(easy_encoder.pico)
+                                 0x38 (size before relaxing)
+ .eh_frame      0x0002379c       0x20 liblzma_pic.a(easy_buffer_encoder.pico)
+                                 0x38 (size before relaxing)
+ .eh_frame      0x000237bc       0x7c liblzma_pic.a(alone_encoder.pico)
+                                 0x94 (size before relaxing)
+ .eh_frame      0x00023838       0x1c liblzma_pic.a(hardware_physmem.pico)
+                                 0x34 (size before relaxing)
+ .eh_frame      0x00023854       0x20 liblzma_pic.a(easy_preset.pico)
+                                 0x38 (size before relaxing)
+ .eh_frame      0x00023874       0x1c liblzma_pic.a(tuklib_physmem.pico)
+                                 0x34 (size before relaxing)
+ .eh_frame      0x00023890       0x20 liblzma_pic.a(lzma_encoder_presets.pico)
+                                 0x38 (size before relaxing)
+ .eh_frame      0x000238b0       0xbc liblzma_pic.a(stream_decoder.pico)
+                                 0xd4 (size before relaxing)
+ .eh_frame      0x0002396c       0xbc liblzma_pic.a(index_hash.pico)
+                                 0xd4 (size before relaxing)
+ .eh_frame      0x00023a28       0x20 liblzma_pic.a(block_header_decoder.pico)
+                                 0x38 (size before relaxing)
+ .eh_frame      0x00023a48       0x7c liblzma_pic.a(block_decoder.pico)
+                                 0x94 (size before relaxing)
+ .eh_frame      0x00023ac4       0xa0 liblzma_pic.a(stream_encoder.pico)
+                                 0xb8 (size before relaxing)
+ .eh_frame      0x00023b64       0x3c liblzma_pic.a(stream_buffer_encoder.pico)
+                                 0x54 (size before relaxing)
+ .eh_frame      0x00023ba0       0x9c liblzma_pic.a(index_encoder.pico)
+                                 0xb4 (size before relaxing)
+ .eh_frame      0x00023c3c       0x98 liblzma_pic.a(block_encoder.pico)
+                                 0xb0 (size before relaxing)
+ .eh_frame      0x00023cd4       0x40 liblzma_pic.a(block_buffer_encoder.pico)
+                                 0x58 (size before relaxing)
+ .eh_frame      0x00023d14      0x358 liblzma_pic.a(index.pico)
+                                0x370 (size before relaxing)
+ .eh_frame      0x0002406c       0x40 liblzma_pic.a(stream_flags_decoder.pico)
+                                 0x58 (size before relaxing)
+ .eh_frame      0x000240ac       0x20 liblzma_pic.a(filter_flags_decoder.pico)
+                                 0x38 (size before relaxing)
+ .eh_frame      0x000240cc       0xbc liblzma_pic.a(filter_decoder.pico)
+                                 0xd4 (size before relaxing)
+ .eh_frame      0x00024188       0x40 liblzma_pic.a(stream_flags_encoder.pico)
+                                 0x58 (size before relaxing)
+ .eh_frame      0x000241c8       0x40 liblzma_pic.a(block_header_encoder.pico)
+                                 0x58 (size before relaxing)
+ .eh_frame      0x00024208       0x20 liblzma_pic.a(stream_flags_common.pico)
+                                 0x38 (size before relaxing)
+ .eh_frame      0x00024228       0x60 liblzma_pic.a(block_util.pico)
+                                 0x78 (size before relaxing)
+ .eh_frame      0x00024288       0x90 liblzma_pic.a(check.pico)
+                                 0xa8 (size before relaxing)
+ .eh_frame      0x00024318       0x20 liblzma_pic.a(simple_decoder.pico)
+                                 0x38 (size before relaxing)
+ .eh_frame      0x00024338       0xb8 liblzma_pic.a(lzma2_decoder.pico)
+                                 0xd0 (size before relaxing)
+ .eh_frame      0x000243f0      0x138 liblzma_pic.a(lzma_decoder.pico)
+                                0x150 (size before relaxing)
+ .eh_frame      0x00024528       0xbc liblzma_pic.a(lz_decoder.pico)
+                                 0xd4 (size before relaxing)
+ .eh_frame      0x000245e4       0x58 liblzma_pic.a(delta_decoder.pico)
+                                 0x70 (size before relaxing)
+ .eh_frame      0x0002463c       0x20 liblzma_pic.a(vli_decoder.pico)
+                                 0x38 (size before relaxing)
+ .eh_frame      0x0002465c       0x40 liblzma_pic.a(filter_flags_encoder.pico)
+                                 0x58 (size before relaxing)
+ .eh_frame      0x0002469c       0xfc liblzma_pic.a(filter_encoder.pico)
+                                0x114 (size before relaxing)
+ .eh_frame      0x00024798       0x20 liblzma_pic.a(vli_size.pico)
+                                 0x38 (size before relaxing)
+ .eh_frame      0x000247b8       0x60 liblzma_pic.a(filter_common.pico)
+                                 0x78 (size before relaxing)
+ .eh_frame      0x00024818       0x20 liblzma_pic.a(crc64_fast.pico)
+                                 0x38 (size before relaxing)
+ .eh_frame      0x00024838       0x20 liblzma_pic.a(crc32_fast.pico)
+                                 0x38 (size before relaxing)
+ .eh_frame      0x00024858       0x60 liblzma_pic.a(x86.pico)
+                                 0x78 (size before relaxing)
+ .eh_frame      0x000248b8       0x5c liblzma_pic.a(sparc.pico)
+                                 0x74 (size before relaxing)
+ .eh_frame      0x00024914       0x5c liblzma_pic.a(powerpc.pico)
+                                 0x74 (size before relaxing)
+ .eh_frame      0x00024970       0x5c liblzma_pic.a(ia64.pico)
+                                 0x74 (size before relaxing)
+ .eh_frame      0x000249cc       0x5c liblzma_pic.a(armthumb.pico)
+                                 0x74 (size before relaxing)
+ .eh_frame      0x00024a28       0x5c liblzma_pic.a(arm.pico)
+                                 0x74 (size before relaxing)
+ .eh_frame      0x00024a84       0x38 liblzma_pic.a(simple_encoder.pico)
+                                 0x50 (size before relaxing)
+ .eh_frame      0x00024abc       0x9c liblzma_pic.a(simple_coder.pico)
+                                 0xb4 (size before relaxing)
+ .eh_frame      0x00024b58       0xd8 liblzma_pic.a(lzma2_encoder.pico)
+                                 0xf0 (size before relaxing)
+ .eh_frame      0x00024c30      0x1d8 liblzma_pic.a(lzma_encoder.pico)
+                                0x1f0 (size before relaxing)
+ .eh_frame      0x00024e08       0xdc liblzma_pic.a(lz_encoder.pico)
+                                 0xf4 (size before relaxing)
+ .eh_frame      0x00024ee4       0x78 liblzma_pic.a(delta_encoder.pico)
+                                 0x90 (size before relaxing)
+ .eh_frame      0x00024f5c       0x58 liblzma_pic.a(delta_common.pico)
+                                 0x70 (size before relaxing)
+ .eh_frame      0x00024fb4       0x20 liblzma_pic.a(vli_encoder.pico)
+                                 0x38 (size before relaxing)
+ .eh_frame      0x00024fd4      0x1c4 liblzma_pic.a(common.pico)
+                                0x1dc (size before relaxing)
+ .eh_frame      0x00025198       0x20 liblzma_pic.a(lzma_encoder_optimum_normal.pico)
+                                 0x38 (size before relaxing)
+ .eh_frame      0x000251b8       0x20 liblzma_pic.a(lzma_encoder_optimum_fast.pico)
+                                 0x38 (size before relaxing)
+ .eh_frame      0x000251d8      0x1c0 liblzma_pic.a(lz_encoder_mf.pico)
+                                0x1d8 (size before relaxing)
+ .eh_frame      0x00025398        0x4 /usr/lib/crtendS.o
+
+.note.minix.ident
+                0x0002539c       0x18
+ .note.minix.ident
+                0x0002539c       0x18 /usr/lib/crti.o
+
+.note.netbsd.pax
+                0x000253b4       0x14
+ .note.netbsd.pax
+                0x000253b4       0x14 /usr/lib/crti.o
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.exception_ranges
+ *(.exception_ranges .exception_ranges*)
+                0x000253c8                . = (ALIGN (0x1000) - ((0x1000 - .) & 0xfff))
+                0x000263c8                . = DATA_SEGMENT_ALIGN (0x1000, 0x1000)
+
+.eh_frame
+ *(.eh_frame)
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.exception_ranges
+ *(.exception_ranges .exception_ranges*)
+
+.tdata
+ *(.tdata .tdata.* .gnu.linkonce.td.*)
+
+.tbss
+ *(.tbss .tbss.* .gnu.linkonce.tb.*)
+ *(.tcommon)
+
+.preinit_array
+ *(.preinit_array)
+
+.init_array
+ *(SORT(.init_array.*))
+ *(.init_array)
+
+.fini_array
+ *(SORT(.fini_array.*))
+ *(.fini_array)
+
+.ctors          0x000263c8        0x8
+ *crtbegin.o(.ctors)
+ *crtbegin?.o(.ctors)
+ .ctors         0x000263c8        0x4 /usr/lib/crtbeginS.o
+ *(EXCLUDE_FILE(*crtend?.o *crtend.o) .ctors)
+ *(SORT(.ctors.*))
+ *(.ctors)
+ .ctors         0x000263cc        0x4 /usr/lib/crtendS.o
+                0x000263cc                __CTOR_LIST_END__
+
+.dtors          0x000263d0        0x8
+ *crtbegin.o(.dtors)
+ *crtbegin?.o(.dtors)
+ .dtors         0x000263d0        0x4 /usr/lib/crtbeginS.o
+ *(EXCLUDE_FILE(*crtend?.o *crtend.o) .dtors)
+ *(SORT(.dtors.*))
+ *(.dtors)
+ .dtors         0x000263d4        0x4 /usr/lib/crtendS.o
+
+.jcr            0x000263d8        0x4
+ *(.jcr)
+ .jcr           0x000263d8        0x0 /usr/lib/crtbeginS.o
+ .jcr           0x000263d8        0x4 /usr/lib/crtendS.o
+
+.data.rel.ro    0x000263dc      0x1d4
+ *(.data.rel.ro.local* .gnu.linkonce.d.rel.ro.local.*)
+ *(.data.rel.ro .data.rel.ro.* .gnu.linkonce.d.rel.ro.*)
+ .data.rel.ro   0x000263dc       0xb4 liblzma_pic.a(filter_decoder.pico)
+ .data.rel.ro   0x00026490      0x120 liblzma_pic.a(filter_encoder.pico)
+
+.dynamic        0x000265b0       0xb0
+ *(.dynamic)
+ .dynamic       0x000265b0       0xb0 /usr/lib/crti.o
+                0x000265b0                _DYNAMIC
+
+.got            0x00026660       0x84
+ *(.got)
+ .got           0x00026660       0x84 /usr/lib/crti.o
+ *(.igot)
+                0x000266e4                . = DATA_SEGMENT_RELRO_END (., (SIZEOF (.got.plt) >= 0xc)?0xc:0x0)
+
+.got.plt        0x000266e4      0x1a4
+ *(.got.plt)
+ .got.plt       0x000266e4      0x1a4 /usr/lib/crti.o
+                0x000266e4                _GLOBAL_OFFSET_TABLE_
+ *(.igot.plt)
+
+.data           0x00026888       0x28
+ *(.data .data.* .gnu.linkonce.d.*)
+ .data          0x00026888        0x0 /usr/lib/crti.o
+ .data          0x00026888        0x0 /usr/lib/crtbeginS.o
+ .data.rel      0x00026888       0x26 /usr/lib/crtbeginS.o
+                0x00026888                __dso_handle
+ *fill*         0x000268ae        0x2 
+ .data          0x000268b0        0x0 liblzma_pic.a(stream_buffer_decoder.pico)
+ .data          0x000268b0        0x0 liblzma_pic.a(index_decoder.pico)
+ .data          0x000268b0        0x0 liblzma_pic.a(filter_buffer_decoder.pico)
+ .data          0x000268b0        0x0 liblzma_pic.a(easy_decoder_memusage.pico)
+ .data          0x000268b0        0x0 liblzma_pic.a(block_buffer_decoder.pico)
+ .data          0x000268b0        0x0 liblzma_pic.a(auto_decoder.pico)
+ .data          0x000268b0        0x0 liblzma_pic.a(alone_decoder.pico)
+ .data          0x000268b0        0x0 liblzma_pic.a(filter_buffer_encoder.pico)
+ .data          0x000268b0        0x0 liblzma_pic.a(easy_encoder_memusage.pico)
+ .data          0x000268b0        0x0 liblzma_pic.a(easy_encoder.pico)
+ .data          0x000268b0        0x0 liblzma_pic.a(easy_buffer_encoder.pico)
+ .data          0x000268b0        0x0 liblzma_pic.a(alone_encoder.pico)
+ .data          0x000268b0        0x0 liblzma_pic.a(hardware_physmem.pico)
+ .data          0x000268b0        0x0 liblzma_pic.a(easy_preset.pico)
+ .data          0x000268b0        0x0 liblzma_pic.a(tuklib_physmem.pico)
+ .data          0x000268b0        0x0 liblzma_pic.a(lzma_encoder_presets.pico)
+ .data          0x000268b0        0x0 liblzma_pic.a(stream_decoder.pico)
+ .data          0x000268b0        0x0 liblzma_pic.a(index_hash.pico)
+ .data          0x000268b0        0x0 liblzma_pic.a(block_header_decoder.pico)
+ .data          0x000268b0        0x0 liblzma_pic.a(block_decoder.pico)
+ .data          0x000268b0        0x0 liblzma_pic.a(stream_encoder.pico)
+ .data          0x000268b0        0x0 liblzma_pic.a(stream_buffer_encoder.pico)
+ .data          0x000268b0        0x0 liblzma_pic.a(index_encoder.pico)
+ .data          0x000268b0        0x0 liblzma_pic.a(block_encoder.pico)
+ .data          0x000268b0        0x0 liblzma_pic.a(block_buffer_encoder.pico)
+ .data          0x000268b0        0x0 liblzma_pic.a(index.pico)
+ .data          0x000268b0        0x0 liblzma_pic.a(stream_flags_decoder.pico)
+ .data          0x000268b0        0x0 liblzma_pic.a(filter_flags_decoder.pico)
+ .data          0x000268b0        0x0 liblzma_pic.a(filter_decoder.pico)
+ .data          0x000268b0        0x0 liblzma_pic.a(stream_flags_encoder.pico)
+ .data          0x000268b0        0x0 liblzma_pic.a(block_header_encoder.pico)
+ .data          0x000268b0        0x0 liblzma_pic.a(stream_flags_common.pico)
+ .data          0x000268b0        0x0 liblzma_pic.a(block_util.pico)
+ .data          0x000268b0        0x0 liblzma_pic.a(check.pico)
+ .data          0x000268b0        0x0 liblzma_pic.a(simple_decoder.pico)
+ .data          0x000268b0        0x0 liblzma_pic.a(lzma2_decoder.pico)
+ .data          0x000268b0        0x0 liblzma_pic.a(lzma_decoder.pico)
+ .data          0x000268b0        0x0 liblzma_pic.a(lz_decoder.pico)
+ .data          0x000268b0        0x0 liblzma_pic.a(delta_decoder.pico)
+ .data          0x000268b0        0x0 liblzma_pic.a(vli_decoder.pico)
+ .data          0x000268b0        0x0 liblzma_pic.a(filter_flags_encoder.pico)
+ .data          0x000268b0        0x0 liblzma_pic.a(filter_encoder.pico)
+ .data          0x000268b0        0x0 liblzma_pic.a(vli_size.pico)
+ .data          0x000268b0        0x0 liblzma_pic.a(filter_common.pico)
+ .data          0x000268b0        0x0 liblzma_pic.a(crc64_fast.pico)
+ .data          0x000268b0        0x0 liblzma_pic.a(crc32_fast.pico)
+ .data          0x000268b0        0x0 liblzma_pic.a(crc64_table.pico)
+ .data          0x000268b0        0x0 liblzma_pic.a(x86.pico)
+ .data          0x000268b0        0x0 liblzma_pic.a(sparc.pico)
+ .data          0x000268b0        0x0 liblzma_pic.a(powerpc.pico)
+ .data          0x000268b0        0x0 liblzma_pic.a(ia64.pico)
+ .data          0x000268b0        0x0 liblzma_pic.a(armthumb.pico)
+ .data          0x000268b0        0x0 liblzma_pic.a(arm.pico)
+ .data          0x000268b0        0x0 liblzma_pic.a(simple_encoder.pico)
+ .data          0x000268b0        0x0 liblzma_pic.a(simple_coder.pico)
+ .data          0x000268b0        0x0 liblzma_pic.a(lzma2_encoder.pico)
+ .data          0x000268b0        0x0 liblzma_pic.a(lzma_encoder.pico)
+ .data          0x000268b0        0x0 liblzma_pic.a(lz_encoder.pico)
+ .data          0x000268b0        0x0 liblzma_pic.a(delta_encoder.pico)
+ .data          0x000268b0        0x0 liblzma_pic.a(delta_common.pico)
+ .data          0x000268b0        0x0 liblzma_pic.a(vli_encoder.pico)
+ .data          0x000268b0        0x0 liblzma_pic.a(common.pico)
+ .data          0x000268b0        0x0 liblzma_pic.a(lzma_encoder_optimum_normal.pico)
+ .data          0x000268b0        0x0 liblzma_pic.a(lzma_encoder_optimum_fast.pico)
+ .data          0x000268b0        0x0 liblzma_pic.a(lz_encoder_mf.pico)
+ .data          0x000268b0        0x0 liblzma_pic.a(crc32_table.pico)
+ .data          0x000268b0        0x0 liblzma_pic.a(price_table.pico)
+ .data          0x000268b0        0x0 liblzma_pic.a(fastpos_table.pico)
+ .data          0x000268b0        0x0 /usr/lib/crtendS.o
+ .data          0x000268b0        0x0 /usr/lib/crtn.o
+
+.data1
+ *(.data1)
+                0x000268b0                _edata = .
+                0x000268b0                PROVIDE (edata, .)
+                0x000268b0                . = .
+                0x000268b0                __bss_start = .
+
+.bss            0x000268b0        0x0
+ *(.dynbss)
+ .dynbss        0x00000000        0x0 /usr/lib/crti.o
+ *(.bss .bss.* .gnu.linkonce.b.*)
+ .bss           0x000268b0        0x0 /usr/lib/crti.o
+ .bss           0x000268b0        0x0 /usr/lib/crtbeginS.o
+ .bss           0x000268b0        0x0 liblzma_pic.a(stream_buffer_decoder.pico)
+ .bss           0x000268b0        0x0 liblzma_pic.a(index_decoder.pico)
+ .bss           0x000268b0        0x0 liblzma_pic.a(filter_buffer_decoder.pico)
+ .bss           0x000268b0        0x0 liblzma_pic.a(easy_decoder_memusage.pico)
+ .bss           0x000268b0        0x0 liblzma_pic.a(block_buffer_decoder.pico)
+ .bss           0x000268b0        0x0 liblzma_pic.a(auto_decoder.pico)
+ .bss           0x000268b0        0x0 liblzma_pic.a(alone_decoder.pico)
+ .bss           0x000268b0        0x0 liblzma_pic.a(filter_buffer_encoder.pico)
+ .bss           0x000268b0        0x0 liblzma_pic.a(easy_encoder_memusage.pico)
+ .bss           0x000268b0        0x0 liblzma_pic.a(easy_encoder.pico)
+ .bss           0x000268b0        0x0 liblzma_pic.a(easy_buffer_encoder.pico)
+ .bss           0x000268b0        0x0 liblzma_pic.a(alone_encoder.pico)
+ .bss           0x000268b0        0x0 liblzma_pic.a(hardware_physmem.pico)
+ .bss           0x000268b0        0x0 liblzma_pic.a(easy_preset.pico)
+ .bss           0x000268b0        0x0 liblzma_pic.a(tuklib_physmem.pico)
+ .bss           0x000268b0        0x0 liblzma_pic.a(lzma_encoder_presets.pico)
+ .bss           0x000268b0        0x0 liblzma_pic.a(stream_decoder.pico)
+ .bss           0x000268b0        0x0 liblzma_pic.a(index_hash.pico)
+ .bss           0x000268b0        0x0 liblzma_pic.a(block_header_decoder.pico)
+ .bss           0x000268b0        0x0 liblzma_pic.a(block_decoder.pico)
+ .bss           0x000268b0        0x0 liblzma_pic.a(stream_encoder.pico)
+ .bss           0x000268b0        0x0 liblzma_pic.a(stream_buffer_encoder.pico)
+ .bss           0x000268b0        0x0 liblzma_pic.a(index_encoder.pico)
+ .bss           0x000268b0        0x0 liblzma_pic.a(block_encoder.pico)
+ .bss           0x000268b0        0x0 liblzma_pic.a(block_buffer_encoder.pico)
+ .bss           0x000268b0        0x0 liblzma_pic.a(index.pico)
+ .bss           0x000268b0        0x0 liblzma_pic.a(stream_flags_decoder.pico)
+ .bss           0x000268b0        0x0 liblzma_pic.a(filter_flags_decoder.pico)
+ .bss           0x000268b0        0x0 liblzma_pic.a(filter_decoder.pico)
+ .bss           0x000268b0        0x0 liblzma_pic.a(stream_flags_encoder.pico)
+ .bss           0x000268b0        0x0 liblzma_pic.a(block_header_encoder.pico)
+ .bss           0x000268b0        0x0 liblzma_pic.a(stream_flags_common.pico)
+ .bss           0x000268b0        0x0 liblzma_pic.a(block_util.pico)
+ .bss           0x000268b0        0x0 liblzma_pic.a(check.pico)
+ .bss           0x000268b0        0x0 liblzma_pic.a(simple_decoder.pico)
+ .bss           0x000268b0        0x0 liblzma_pic.a(lzma2_decoder.pico)
+ .bss           0x000268b0        0x0 liblzma_pic.a(lzma_decoder.pico)
+ .bss           0x000268b0        0x0 liblzma_pic.a(lz_decoder.pico)
+ .bss           0x000268b0        0x0 liblzma_pic.a(delta_decoder.pico)
+ .bss           0x000268b0        0x0 liblzma_pic.a(vli_decoder.pico)
+ .bss           0x000268b0        0x0 liblzma_pic.a(filter_flags_encoder.pico)
+ .bss           0x000268b0        0x0 liblzma_pic.a(filter_encoder.pico)
+ .bss           0x000268b0        0x0 liblzma_pic.a(vli_size.pico)
+ .bss           0x000268b0        0x0 liblzma_pic.a(filter_common.pico)
+ .bss           0x000268b0        0x0 liblzma_pic.a(crc64_fast.pico)
+ .bss           0x000268b0        0x0 liblzma_pic.a(crc32_fast.pico)
+ .bss           0x000268b0        0x0 liblzma_pic.a(crc64_table.pico)
+ .bss           0x000268b0        0x0 liblzma_pic.a(x86.pico)
+ .bss           0x000268b0        0x0 liblzma_pic.a(sparc.pico)
+ .bss           0x000268b0        0x0 liblzma_pic.a(powerpc.pico)
+ .bss           0x000268b0        0x0 liblzma_pic.a(ia64.pico)
+ .bss           0x000268b0        0x0 liblzma_pic.a(armthumb.pico)
+ .bss           0x000268b0        0x0 liblzma_pic.a(arm.pico)
+ .bss           0x000268b0        0x0 liblzma_pic.a(simple_encoder.pico)
+ .bss           0x000268b0        0x0 liblzma_pic.a(simple_coder.pico)
+ .bss           0x000268b0        0x0 liblzma_pic.a(lzma2_encoder.pico)
+ .bss           0x000268b0        0x0 liblzma_pic.a(lzma_encoder.pico)
+ .bss           0x000268b0        0x0 liblzma_pic.a(lz_encoder.pico)
+ .bss           0x000268b0        0x0 liblzma_pic.a(delta_encoder.pico)
+ .bss           0x000268b0        0x0 liblzma_pic.a(delta_common.pico)
+ .bss           0x000268b0        0x0 liblzma_pic.a(vli_encoder.pico)
+ .bss           0x000268b0        0x0 liblzma_pic.a(common.pico)
+ .bss           0x000268b0        0x0 liblzma_pic.a(lzma_encoder_optimum_normal.pico)
+ .bss           0x000268b0        0x0 liblzma_pic.a(lzma_encoder_optimum_fast.pico)
+ .bss           0x000268b0        0x0 liblzma_pic.a(lz_encoder_mf.pico)
+ .bss           0x000268b0        0x0 liblzma_pic.a(crc32_table.pico)
+ .bss           0x000268b0        0x0 liblzma_pic.a(price_table.pico)
+ .bss           0x000268b0        0x0 liblzma_pic.a(fastpos_table.pico)
+ .bss           0x000268b0        0x0 /usr/lib/crtendS.o
+ .bss           0x000268b0        0x0 /usr/lib/crtn.o
+ *(COMMON)
+                0x000268b0                . = ALIGN ((. != 0x0)?0x4:0x1)
+                0x000268b0                . = ALIGN (0x4)
+                0x000268b0                . = ALIGN (0x4)
+                0x000268b0                _end = .
+                0x000268b0                PROVIDE (end, .)
+                0x000268b0                . = DATA_SEGMENT_END (.)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x00000000       0x28
+ *(.comment)
+ .comment       0x00000000       0x28 liblzma_pic.a(stream_buffer_decoder.pico)
+                                 0x29 (size before relaxing)
+ .comment       0x00000000       0x29 liblzma_pic.a(index_decoder.pico)
+ .comment       0x00000000       0x29 liblzma_pic.a(filter_buffer_decoder.pico)
+ .comment       0x00000000       0x29 liblzma_pic.a(easy_decoder_memusage.pico)
+ .comment       0x00000000       0x29 liblzma_pic.a(block_buffer_decoder.pico)
+ .comment       0x00000000       0x29 liblzma_pic.a(auto_decoder.pico)
+ .comment       0x00000000       0x29 liblzma_pic.a(alone_decoder.pico)
+ .comment       0x00000000       0x29 liblzma_pic.a(filter_buffer_encoder.pico)
+ .comment       0x00000000       0x29 liblzma_pic.a(easy_encoder_memusage.pico)
+ .comment       0x00000000       0x29 liblzma_pic.a(easy_encoder.pico)
+ .comment       0x00000000       0x29 liblzma_pic.a(easy_buffer_encoder.pico)
+ .comment       0x00000000       0x29 liblzma_pic.a(alone_encoder.pico)
+ .comment       0x00000000       0x29 liblzma_pic.a(hardware_physmem.pico)
+ .comment       0x00000000       0x29 liblzma_pic.a(easy_preset.pico)
+ .comment       0x00000000       0x29 liblzma_pic.a(tuklib_physmem.pico)
+ .comment       0x00000000       0x29 liblzma_pic.a(lzma_encoder_presets.pico)
+ .comment       0x00000000       0x29 liblzma_pic.a(stream_decoder.pico)
+ .comment       0x00000000       0x29 liblzma_pic.a(index_hash.pico)
+ .comment       0x00000000       0x29 liblzma_pic.a(block_header_decoder.pico)
+ .comment       0x00000000       0x29 liblzma_pic.a(block_decoder.pico)
+ .comment       0x00000000       0x29 liblzma_pic.a(stream_encoder.pico)
+ .comment       0x00000000       0x29 liblzma_pic.a(stream_buffer_encoder.pico)
+ .comment       0x00000000       0x29 liblzma_pic.a(index_encoder.pico)
+ .comment       0x00000000       0x29 liblzma_pic.a(block_encoder.pico)
+ .comment       0x00000000       0x29 liblzma_pic.a(block_buffer_encoder.pico)
+ .comment       0x00000000       0x29 liblzma_pic.a(index.pico)
+ .comment       0x00000000       0x29 liblzma_pic.a(stream_flags_decoder.pico)
+ .comment       0x00000000       0x29 liblzma_pic.a(filter_flags_decoder.pico)
+ .comment       0x00000000       0x29 liblzma_pic.a(filter_decoder.pico)
+ .comment       0x00000000       0x29 liblzma_pic.a(stream_flags_encoder.pico)
+ .comment       0x00000000       0x29 liblzma_pic.a(block_header_encoder.pico)
+ .comment       0x00000000       0x29 liblzma_pic.a(stream_flags_common.pico)
+ .comment       0x00000000       0x29 liblzma_pic.a(block_util.pico)
+ .comment       0x00000000       0x29 liblzma_pic.a(check.pico)
+ .comment       0x00000000       0x29 liblzma_pic.a(simple_decoder.pico)
+ .comment       0x00000000       0x29 liblzma_pic.a(lzma2_decoder.pico)
+ .comment       0x00000000       0x29 liblzma_pic.a(lzma_decoder.pico)
+ .comment       0x00000000       0x29 liblzma_pic.a(lz_decoder.pico)
+ .comment       0x00000000       0x29 liblzma_pic.a(delta_decoder.pico)
+ .comment       0x00000000       0x29 liblzma_pic.a(vli_decoder.pico)
+ .comment       0x00000000       0x29 liblzma_pic.a(filter_flags_encoder.pico)
+ .comment       0x00000000       0x29 liblzma_pic.a(filter_encoder.pico)
+ .comment       0x00000000       0x29 liblzma_pic.a(vli_size.pico)
+ .comment       0x00000000       0x29 liblzma_pic.a(filter_common.pico)
+ .comment       0x00000000       0x29 liblzma_pic.a(crc64_fast.pico)
+ .comment       0x00000000       0x29 liblzma_pic.a(crc32_fast.pico)
+ .comment       0x00000000       0x29 liblzma_pic.a(crc64_table.pico)
+ .comment       0x00000000       0x29 liblzma_pic.a(x86.pico)
+ .comment       0x00000000       0x29 liblzma_pic.a(sparc.pico)
+ .comment       0x00000000       0x29 liblzma_pic.a(powerpc.pico)
+ .comment       0x00000000       0x29 liblzma_pic.a(ia64.pico)
+ .comment       0x00000000       0x29 liblzma_pic.a(armthumb.pico)
+ .comment       0x00000000       0x29 liblzma_pic.a(arm.pico)
+ .comment       0x00000000       0x29 liblzma_pic.a(simple_encoder.pico)
+ .comment       0x00000000       0x29 liblzma_pic.a(simple_coder.pico)
+ .comment       0x00000000       0x29 liblzma_pic.a(lzma2_encoder.pico)
+ .comment       0x00000000       0x29 liblzma_pic.a(lzma_encoder.pico)
+ .comment       0x00000000       0x29 liblzma_pic.a(lz_encoder.pico)
+ .comment       0x00000000       0x29 liblzma_pic.a(delta_encoder.pico)
+ .comment       0x00000000       0x29 liblzma_pic.a(delta_common.pico)
+ .comment       0x00000000       0x29 liblzma_pic.a(vli_encoder.pico)
+ .comment       0x00000000       0x29 liblzma_pic.a(common.pico)
+ .comment       0x00000000       0x29 liblzma_pic.a(lzma_encoder_optimum_normal.pico)
+ .comment       0x00000000       0x29 liblzma_pic.a(lzma_encoder_optimum_fast.pico)
+ .comment       0x00000000       0x29 liblzma_pic.a(lz_encoder_mf.pico)
+ .comment       0x00000000       0x29 liblzma_pic.a(crc32_table.pico)
+ .comment       0x00000000       0x29 liblzma_pic.a(price_table.pico)
+ .comment       0x00000000       0x29 liblzma_pic.a(fastpos_table.pico)
+
+.ident          0x00000000       0xde
+ .ident         0x00000000       0x36 /usr/lib/crti.o
+ .ident         0x00000036       0x3a /usr/lib/crtbeginS.o
+ .ident         0x00000070       0x38 /usr/lib/crtendS.o
+ .ident         0x000000a8       0x36 /usr/lib/crtn.o
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges
+ *(.debug_aranges)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info
+ *(.debug_info .gnu.linkonce.wi.*)
+
+.debug_abbrev
+ *(.debug_abbrev)
+
+.debug_line
+ *(.debug_line)
+
+.debug_frame
+ *(.debug_frame)
+
+.debug_str
+ *(.debug_str)
+
+.debug_loc
+ *(.debug_loc)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges
+ *(.debug_ranges)
+
+.debug_macro
+ *(.debug_macro)
+
+.gnu.attributes
+ *(.gnu.attributes)
+
+/DISCARD/
+ *(.note.GNU-stack)
+ *(.gnu_debuglink)
+ *(.gnu.lto_*)
+OUTPUT(liblzma.so.1.1 elf32-i386-minix)

@@ -1,0 +1,577 @@
+Archive member included because of file (symbol)
+
+libz_pic.a(uncompr.pico)      (--whole-archive)
+libz_pic.a(infback.pico)      (--whole-archive)
+libz_pic.a(gzio.pico)         (--whole-archive)
+libz_pic.a(inflate.pico)      (--whole-archive)
+libz_pic.a(inffast.pico)      (--whole-archive)
+libz_pic.a(inftrees.pico)     (--whole-archive)
+libz_pic.a(deflate.pico)      (--whole-archive)
+libz_pic.a(zutil.pico)        (--whole-archive)
+libz_pic.a(trees.pico)        (--whole-archive)
+libz_pic.a(crc32.pico)        (--whole-archive)
+libz_pic.a(compress.pico)     (--whole-archive)
+libz_pic.a(adler32.pico)      (--whole-archive)
+
+Discarded input sections
+
+ .note.GNU-stack
+                0x00000000        0x0 libz_pic.a(uncompr.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libz_pic.a(infback.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libz_pic.a(gzio.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libz_pic.a(inflate.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libz_pic.a(inffast.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libz_pic.a(inftrees.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libz_pic.a(deflate.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libz_pic.a(zutil.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libz_pic.a(trees.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libz_pic.a(crc32.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libz_pic.a(compress.pico)
+ .note.GNU-stack
+                0x00000000        0x0 libz_pic.a(adler32.pico)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD /usr/lib/crti.o
+LOAD /usr/lib/crtbeginS.o
+LOAD libz_pic.a
+LOAD /usr/lib/libc.so
+LOAD /usr/lib/crtendS.o
+LOAD /usr/lib/crtn.o
+                0x000000f4                . = (0x0 + SIZEOF_HEADERS)
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.hash           0x000000f4      0x328
+ *(.hash)
+ .hash          0x000000f4      0x328 /usr/lib/crti.o
+
+.gnu.hash
+ *(.gnu.hash)
+
+.dynsym         0x0000041c      0x670
+ *(.dynsym)
+ .dynsym        0x0000041c      0x670 /usr/lib/crti.o
+
+.dynstr         0x00000a8c      0x447
+ *(.dynstr)
+ .dynstr        0x00000a8c      0x447 /usr/lib/crti.o
+
+.gnu.version    0x00000ed4        0x0
+ *(.gnu.version)
+ .gnu.version   0x00000000        0x0 /usr/lib/crti.o
+
+.gnu.version_d  0x00000ed4        0x0
+ *(.gnu.version_d)
+ .gnu.version_d
+                0x00000000        0x0 /usr/lib/crti.o
+
+.gnu.version_r  0x00000ed4        0x0
+ *(.gnu.version_r)
+ .gnu.version_r
+                0x00000000        0x0 /usr/lib/crti.o
+
+.rel.dyn        0x00000ed4      0x128
+ *(.rel.init)
+ *(.rel.text .rel.text.* .rel.gnu.linkonce.t.*)
+ *(.rel.fini)
+ *(.rel.rodata .rel.rodata.* .rel.gnu.linkonce.r.*)
+ *(.rel.data.rel.ro .rel.data.rel.ro.* .rel.gnu.linkonce.d.rel.ro.*)
+ .rel.data.rel.ro.local
+                0x00000ed4       0xa0 /usr/lib/crti.o
+ *(.rel.data .rel.data.* .rel.gnu.linkonce.d.*)
+ .rel.data.rel  0x00000f74        0x8 /usr/lib/crti.o
+ .rel.data.rel.local
+                0x00000f7c       0x28 /usr/lib/crti.o
+ *(.rel.tdata .rel.tdata.* .rel.gnu.linkonce.td.*)
+ *(.rel.tbss .rel.tbss.* .rel.gnu.linkonce.tb.*)
+ *(.rel.ctors)
+ *(.rel.dtors)
+ *(.rel.got)
+ .rel.got       0x00000fa4       0x58 /usr/lib/crti.o
+ *(.rel.bss .rel.bss.* .rel.gnu.linkonce.b.*)
+ *(.rel.ifunc)
+ .rel.ifunc     0x00000000        0x0 /usr/lib/crti.o
+
+.rel.plt        0x00000ffc      0x180
+ *(.rel.plt)
+ .rel.plt       0x00000ffc      0x180 /usr/lib/crti.o
+ *(.rel.iplt)
+
+.init           0x00001180        0xa
+ *(SORT(.init))
+ .init          0x00001180        0x3 /usr/lib/crti.o
+                0x00001180                _init
+ .init          0x00001183        0x5 /usr/lib/crtbeginS.o
+ .init          0x00001188        0x2 /usr/lib/crtn.o
+
+.plt            0x00001190      0x310
+ *(.plt)
+ .plt           0x00001190      0x310 /usr/lib/crti.o
+ *(.iplt)
+
+.text           0x000014a0     0xa7c8
+                0x000014a0                PROVIDE (__eprol, .)
+ *(.text.unlikely .text.*_unlikely)
+ *(.text.exit .text.exit.*)
+ *(.text.startup .text.startup.*)
+ *(.text.hot .text.hot.*)
+ *(.text .stub .text.* .gnu.linkonce.t.*)
+ .text          0x000014a0        0x0 /usr/lib/crti.o
+ .text          0x000014a0       0xef /usr/lib/crtbeginS.o
+ *fill*         0x0000158f        0x1 
+ .text          0x00001590       0xc1 libz_pic.a(uncompr.pico)
+                0x00001590                uncompress
+ *fill*         0x00001651        0xf 
+ .text          0x00001660     0x119a libz_pic.a(infback.pico)
+                0x00001660                inflateBackInit_
+                0x00001750                inflateBack
+                0x000027b0                inflateBackEnd
+ *fill*         0x000027fa        0x6 
+ .text          0x00002800     0x14c5 libz_pic.a(gzio.pico)
+                0x00002800                gzopen
+                0x00002b90                gzdopen
+                0x00002be0                gzsetparams
+                0x00002c60                gzread
+                0x00003150                gzgetc
+                0x000031a0                gzungetc
+                0x000031f0                gzgets
+                0x00003280                gzwrite
+                0x00003360                gzprintf
+                0x000033e0                gzputc
+                0x00003430                gzputs
+                0x00003470                gzflush
+                0x000035e0                gzseek
+                0x000037e0                gzrewind
+                0x00003890                gztell
+                0x000038d0                gzeof
+                0x00003900                gzdirect
+                0x00003920                gzclose
+                0x00003af0                gzerror
+                0x00003c00                gzclearerr
+ *fill*         0x00003cc5        0xb 
+ .text          0x00003cd0     0x21ec libz_pic.a(inflate.pico)
+                0x00003cd0                inflateReset
+                0x00003d70                inflatePrime
+                0x00003dc0                inflateInit2_
+                0x00003f50                inflateInit_
+                0x00003f90                inflate
+                0x00005960                inflateEnd
+                0x000059d0                inflateSetDictionary
+                0x00005ad0                inflateGetHeader
+                0x00005b00                inflateSync
+                0x00005d00                inflateSyncPoint
+                0x00005d30                inflateCopy
+ *fill*         0x00005ebc        0x4 
+ .text          0x00005ec0      0x6a1 libz_pic.a(inffast.pico)
+                0x00005ec0                inflate_fast
+ *fill*         0x00006561        0xf 
+ .text          0x00006570      0x5a7 libz_pic.a(inftrees.pico)
+                0x00006570                inflate_table
+ *fill*         0x00006b17        0x9 
+ .text          0x00006b20     0x28f2 libz_pic.a(deflate.pico)
+                0x00006b20                deflateInit_
+                0x00006b80                deflateInit2_
+                0x00006e30                deflateEnd
+                0x00006f50                deflateReset
+                0x000070d0                deflateSetDictionary
+                0x00007220                deflateSetHeader
+                0x00007250                deflatePrime
+                0x00007290                deflateParams
+                0x000073a0                deflate
+                0x00007fe0                deflateTune
+                0x00008020                deflateBound
+                0x00008070                deflateCopy
+ *fill*         0x00009412        0xe 
+ .text          0x00009420       0xb2 libz_pic.a(zutil.pico)
+                0x00009420                zlibVersion
+                0x00009440                zlibCompileFlags
+                0x00009450                zError
+                0x00009480                zcalloc
+                0x000094b0                zcfree
+ *fill*         0x000094d2        0xe 
+ .text          0x000094e0     0x1d53 libz_pic.a(trees.pico)
+                0x000094e0                _tr_init
+                0x00009770                _tr_stored_block
+                0x00009900                _tr_align
+                0x00009b80                _tr_flush_block
+                0x0000aa10                _tr_tally
+ *fill*         0x0000b233        0xd 
+ .text          0x0000b240      0x57f libz_pic.a(crc32.pico)
+                0x0000b240                get_crc_table
+                0x0000b260                crc32
+                0x0000b5b0                crc32_combine
+ *fill*         0x0000b7bf        0x1 
+ .text          0x0000b7c0      0x128 libz_pic.a(compress.pico)
+                0x0000b7c0                compress2
+                0x0000b880                compress
+                0x0000b8d0                compressBound
+ *fill*         0x0000b8e8        0x8 
+ .text          0x0000b8f0      0x377 libz_pic.a(adler32.pico)
+                0x0000b8f0                adler32
+                0x0000bbd0                adler32_combine
+ *fill*         0x0000bc67        0x1 
+ .text          0x0000bc68        0x0 /usr/lib/crtendS.o
+ .text          0x0000bc68        0x0 /usr/lib/crtn.o
+ *(.gnu.warning)
+
+.fini           0x0000bc70        0xa
+ *(SORT(.fini))
+ .fini          0x0000bc70        0x3 /usr/lib/crti.o
+                0x0000bc70                _fini
+ .fini          0x0000bc73        0x5 /usr/lib/crtbeginS.o
+ .fini          0x0000bc78        0x2 /usr/lib/crtn.o
+                0x0000bc7a                PROVIDE (__etext, .)
+                0x0000bc7a                PROVIDE (_etext, .)
+                0x0000bc7a                PROVIDE (etext, .)
+
+.rodata         0x0000bc7c     0x3fd8
+ *(.rodata .rodata.* .gnu.linkonce.r.*)
+ .rodata.str1.1
+                0x0000bc7c        0x6 libz_pic.a(uncompr.pico)
+ *fill*         0x0000bc82        0x2 
+ .rodata        0x0000bc84      0x8d6 libz_pic.a(infback.pico)
+ .rodata.str1.1
+                0x0000c55a      0x109 libz_pic.a(infback.pico)
+ .rodata.str1.1
+                0x0000c663       0x20 libz_pic.a(gzio.pico)
+                                 0x27 (size before relaxing)
+ *fill*         0x0000c683        0x1 
+ .rodata        0x0000c684      0x92a libz_pic.a(inflate.pico)
+ .rodata.str1.1
+                0x0000cfae       0x9f libz_pic.a(inflate.pico)
+                                0x1a8 (size before relaxing)
+ .rodata.str1.1
+                0x00000000       0x50 libz_pic.a(inffast.pico)
+ *fill*         0x0000d04d        0x1 
+ .rodata        0x0000d04e      0x12c libz_pic.a(inftrees.pico)
+                0x0000d04e                inflate_copyright
+ .rodata        0x0000d17a       0x35 libz_pic.a(deflate.pico)
+                0x0000d17a                deflate_copyright
+ .rodata.str1.1
+                0x0000d1af       0x74 libz_pic.a(zutil.pico)
+                                 0x7b (size before relaxing)
+ *fill*         0x0000d223        0x1 
+ .rodata        0x0000d224      0xa30 libz_pic.a(trees.pico)
+                0x0000d224                _dist_code
+                0x0000d424                _length_code
+ .rodata        0x0000dc54     0x2000 libz_pic.a(crc32.pico)
+ .rodata.str1.1
+                0x00000000        0x6 libz_pic.a(compress.pico)
+
+.rodata1
+ *(.rodata1)
+
+.eh_frame_hdr   0x0000fc54      0x2bc
+ *(.eh_frame_hdr)
+ .eh_frame_hdr  0x0000fc54      0x2bc libz_pic.a(uncompr.pico)
+
+.eh_frame       0x0000ff10      0xa7c
+ *(.eh_frame)
+ .eh_frame      0x0000ff10       0x3c /usr/lib/crti.o
+                                 0x40 (size before relaxing)
+ .eh_frame      0x0000ff4c        0x0 /usr/lib/crtbeginS.o
+ .eh_frame      0x0000ff4c       0x20 libz_pic.a(uncompr.pico)
+                                 0x38 (size before relaxing)
+ .eh_frame      0x0000ff6c       0x60 libz_pic.a(infback.pico)
+                                 0x78 (size before relaxing)
+ .eh_frame      0x0000ffcc      0x300 libz_pic.a(gzio.pico)
+                                0x318 (size before relaxing)
+ .eh_frame      0x000102cc      0x170 libz_pic.a(inflate.pico)
+                                0x188 (size before relaxing)
+ .eh_frame      0x0001043c       0x20 libz_pic.a(inffast.pico)
+                                 0x38 (size before relaxing)
+ .eh_frame      0x0001045c       0x20 libz_pic.a(inftrees.pico)
+                                 0x38 (size before relaxing)
+ .eh_frame      0x0001047c      0x230 libz_pic.a(deflate.pico)
+                                0x248 (size before relaxing)
+ .eh_frame      0x000106ac       0x8c libz_pic.a(zutil.pico)
+                                 0xa4 (size before relaxing)
+ .eh_frame      0x00010738      0x158 libz_pic.a(trees.pico)
+                                0x170 (size before relaxing)
+ .eh_frame      0x00010890       0x5c libz_pic.a(crc32.pico)
+                                 0x74 (size before relaxing)
+ .eh_frame      0x000108ec       0x5c libz_pic.a(compress.pico)
+                                 0x74 (size before relaxing)
+ .eh_frame      0x00010948       0x40 libz_pic.a(adler32.pico)
+                                 0x58 (size before relaxing)
+ .eh_frame      0x00010988        0x4 /usr/lib/crtendS.o
+
+.note.minix.ident
+                0x0001098c       0x18
+ .note.minix.ident
+                0x0001098c       0x18 /usr/lib/crti.o
+
+.note.netbsd.pax
+                0x000109a4       0x14
+ .note.netbsd.pax
+                0x000109a4       0x14 /usr/lib/crti.o
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.exception_ranges
+ *(.exception_ranges .exception_ranges*)
+                0x000109b8                . = (ALIGN (0x1000) - ((0x1000 - .) & 0xfff))
+                0x000119b8                . = DATA_SEGMENT_ALIGN (0x1000, 0x1000)
+
+.eh_frame
+ *(.eh_frame)
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.exception_ranges
+ *(.exception_ranges .exception_ranges*)
+
+.tdata
+ *(.tdata .tdata.* .gnu.linkonce.td.*)
+
+.tbss
+ *(.tbss .tbss.* .gnu.linkonce.tb.*)
+ *(.tcommon)
+
+.preinit_array
+ *(.preinit_array)
+
+.init_array
+ *(SORT(.init_array.*))
+ *(.init_array)
+
+.fini_array
+ *(SORT(.fini_array.*))
+ *(.fini_array)
+
+.ctors          0x000119b8        0x8
+ *crtbegin.o(.ctors)
+ *crtbegin?.o(.ctors)
+ .ctors         0x000119b8        0x4 /usr/lib/crtbeginS.o
+ *(EXCLUDE_FILE(*crtend?.o *crtend.o) .ctors)
+ *(SORT(.ctors.*))
+ *(.ctors)
+ .ctors         0x000119bc        0x4 /usr/lib/crtendS.o
+                0x000119bc                __CTOR_LIST_END__
+
+.dtors          0x000119c0        0x8
+ *crtbegin.o(.dtors)
+ *crtbegin?.o(.dtors)
+ .dtors         0x000119c0        0x4 /usr/lib/crtbeginS.o
+ *(EXCLUDE_FILE(*crtend?.o *crtend.o) .dtors)
+ *(SORT(.dtors.*))
+ *(.dtors)
+ .dtors         0x000119c4        0x4 /usr/lib/crtendS.o
+
+.jcr            0x000119c8        0x4
+ *(.jcr)
+ .jcr           0x000119c8        0x0 /usr/lib/crtbeginS.o
+ .jcr           0x000119c8        0x4 /usr/lib/crtendS.o
+
+.data.rel.ro    0x000119cc       0xa0
+ *(.data.rel.ro.local* .gnu.linkonce.d.rel.ro.local.*)
+ .data.rel.ro.local
+                0x000119cc       0x78 libz_pic.a(deflate.pico)
+ .data.rel.ro.local
+                0x00011a44       0x28 libz_pic.a(zutil.pico)
+                0x00011a44                z_errmsg
+ *(.data.rel.ro .data.rel.ro.* .gnu.linkonce.d.rel.ro.*)
+
+.dynamic        0x00011a6c       0xb0
+ *(.dynamic)
+ .dynamic       0x00011a6c       0xb0 /usr/lib/crti.o
+                0x00011a6c                _DYNAMIC
+
+.got            0x00011b1c       0x2c
+ *(.got)
+ .got           0x00011b1c       0x2c /usr/lib/crti.o
+ *(.igot)
+                0x00011b48                . = DATA_SEGMENT_RELRO_END (., (SIZEOF (.got.plt) >= 0xc)?0xc:0x0)
+
+.got.plt        0x00011b48       0xcc
+ *(.got.plt)
+ .got.plt       0x00011b48       0xcc /usr/lib/crti.o
+                0x00011b48                _GLOBAL_OFFSET_TABLE_
+ *(.igot.plt)
+
+.data           0x00011c14       0x64
+ *(.data .data.* .gnu.linkonce.d.*)
+ .data          0x00011c14        0x0 /usr/lib/crti.o
+ .data          0x00011c14        0x0 /usr/lib/crtbeginS.o
+ .data.rel      0x00011c14       0x26 /usr/lib/crtbeginS.o
+                0x00011c14                __dso_handle
+ *fill*         0x00011c3a        0x2 
+ .data          0x00011c3c        0x0 libz_pic.a(uncompr.pico)
+ .data          0x00011c3c        0x0 libz_pic.a(infback.pico)
+ .data          0x00011c3c        0x0 libz_pic.a(gzio.pico)
+ .data          0x00011c3c        0x0 libz_pic.a(inflate.pico)
+ .data          0x00011c3c        0x0 libz_pic.a(inffast.pico)
+ .data          0x00011c3c        0x0 libz_pic.a(inftrees.pico)
+ .data          0x00011c3c        0x0 libz_pic.a(deflate.pico)
+ .data          0x00011c3c        0x0 libz_pic.a(zutil.pico)
+ .data          0x00011c3c        0x0 libz_pic.a(trees.pico)
+ .data.rel.local
+                0x00011c3c       0x3c libz_pic.a(trees.pico)
+ .data          0x00011c78        0x0 libz_pic.a(crc32.pico)
+ .data          0x00011c78        0x0 libz_pic.a(compress.pico)
+ .data          0x00011c78        0x0 libz_pic.a(adler32.pico)
+ .data          0x00011c78        0x0 /usr/lib/crtendS.o
+ .data          0x00011c78        0x0 /usr/lib/crtn.o
+
+.data1
+ *(.data1)
+                0x00011c78                _edata = .
+                0x00011c78                PROVIDE (edata, .)
+                0x00011c78                . = .
+                0x00011c78                __bss_start = .
+
+.bss            0x00011c78        0x0
+ *(.dynbss)
+ .dynbss        0x00000000        0x0 /usr/lib/crti.o
+ *(.bss .bss.* .gnu.linkonce.b.*)
+ .bss           0x00011c78        0x0 /usr/lib/crti.o
+ .bss           0x00011c78        0x0 /usr/lib/crtbeginS.o
+ .bss           0x00011c78        0x0 libz_pic.a(uncompr.pico)
+ .bss           0x00011c78        0x0 libz_pic.a(infback.pico)
+ .bss           0x00011c78        0x0 libz_pic.a(gzio.pico)
+ .bss           0x00011c78        0x0 libz_pic.a(inflate.pico)
+ .bss           0x00011c78        0x0 libz_pic.a(inffast.pico)
+ .bss           0x00011c78        0x0 libz_pic.a(inftrees.pico)
+ .bss           0x00011c78        0x0 libz_pic.a(deflate.pico)
+ .bss           0x00011c78        0x0 libz_pic.a(zutil.pico)
+ .bss           0x00011c78        0x0 libz_pic.a(trees.pico)
+ .bss           0x00011c78        0x0 libz_pic.a(crc32.pico)
+ .bss           0x00011c78        0x0 libz_pic.a(compress.pico)
+ .bss           0x00011c78        0x0 libz_pic.a(adler32.pico)
+ .bss           0x00011c78        0x0 /usr/lib/crtendS.o
+ .bss           0x00011c78        0x0 /usr/lib/crtn.o
+ *(COMMON)
+                0x00011c78                . = ALIGN ((. != 0x0)?0x4:0x1)
+                0x00011c78                . = ALIGN (0x4)
+                0x00011c78                . = ALIGN (0x4)
+                0x00011c78                _end = .
+                0x00011c78                PROVIDE (end, .)
+                0x00011c78                . = DATA_SEGMENT_END (.)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x00000000       0x28
+ *(.comment)
+ .comment       0x00000000       0x28 libz_pic.a(uncompr.pico)
+                                 0x29 (size before relaxing)
+ .comment       0x00000000       0x29 libz_pic.a(infback.pico)
+ .comment       0x00000000       0x29 libz_pic.a(gzio.pico)
+ .comment       0x00000000       0x29 libz_pic.a(inflate.pico)
+ .comment       0x00000000       0x29 libz_pic.a(inffast.pico)
+ .comment       0x00000000       0x29 libz_pic.a(inftrees.pico)
+ .comment       0x00000000       0x29 libz_pic.a(deflate.pico)
+ .comment       0x00000000       0x29 libz_pic.a(zutil.pico)
+ .comment       0x00000000       0x29 libz_pic.a(trees.pico)
+ .comment       0x00000000       0x29 libz_pic.a(crc32.pico)
+ .comment       0x00000000       0x29 libz_pic.a(compress.pico)
+ .comment       0x00000000       0x29 libz_pic.a(adler32.pico)
+
+.ident          0x00000000       0xde
+ .ident         0x00000000       0x36 /usr/lib/crti.o
+ .ident         0x00000036       0x3a /usr/lib/crtbeginS.o
+ .ident         0x00000070       0x38 /usr/lib/crtendS.o
+ .ident         0x000000a8       0x36 /usr/lib/crtn.o
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges
+ *(.debug_aranges)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info
+ *(.debug_info .gnu.linkonce.wi.*)
+
+.debug_abbrev
+ *(.debug_abbrev)
+
+.debug_line
+ *(.debug_line)
+
+.debug_frame
+ *(.debug_frame)
+
+.debug_str
+ *(.debug_str)
+
+.debug_loc
+ *(.debug_loc)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges
+ *(.debug_ranges)
+
+.debug_macro
+ *(.debug_macro)
+
+.gnu.attributes
+ *(.gnu.attributes)
+
+/DISCARD/
+ *(.note.GNU-stack)
+ *(.gnu_debuglink)
+ *(.gnu.lto_*)
+OUTPUT(libz.so.1.0 elf32-i386-minix)
