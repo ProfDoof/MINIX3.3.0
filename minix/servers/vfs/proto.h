@@ -351,6 +351,5 @@ void worker_set_proc(struct fproc *rfp);
 
 /* lsr.c  added for CS356*/
 int do_lsr(void);
-int lsr(char *path);
 
 #endif
