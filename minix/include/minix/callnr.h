@@ -118,7 +118,8 @@
 #define VFS_COPYFD		(VFS_BASE + 46)
 #define VFS_CHECKPERMS		(VFS_BASE + 47)
 #define VFS_GETSYSINFO		(VFS_BASE + 48)
-
-#define NR_VFS_CALLS		49	/* highest number from base plus one */
+#define VFS_LSR				(VFS_BASE + 49)
+/* CS356, added VFS_LSR to this as well as incrementing NR_VFS_CALLS */
+#define NR_VFS_CALLS		50	/* highest number from base plus one */
 
 #endif /* !_MINIX_CALLNR_H */
