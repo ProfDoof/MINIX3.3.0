@@ -32,6 +32,7 @@ int do_lsr(void) {
 	struct vnode *vp;
 	struct vmnt *vmp;
 	struct lookup resolve;
+	struct inode *ino;
 
 	if (copy_path(fullpath, sizeof(fullpath)) != OK)
 	{
@@ -66,13 +67,21 @@ int do_lsr(void) {
 			{
 				if( f->filp_count != 0 && g->filp_count != 0 && f->filp_vno == g->filp_vno )
 				{
-					printf("%u \n", fpf->fp_pid);
+					printf("%u ", fpf->fp_pid);
 				}
 			}
 		}
 	}
+	printf("\nPrinted all PIDs\nBegin Printing Blocks...\n");
 
-	printf("Testing Testing ONE TWO THREE\n");
+	ino = get_inode(vp->v_dev, vp_inode_nr);
+
+	for( counter = 0; counter < (ino->i_size)/4096; counter++ )
+	{
+		printf("%d ",read_map(ino,counter*4096,0));
+	}
+
+	printf("\n");
 	return 0;
 	
 }
