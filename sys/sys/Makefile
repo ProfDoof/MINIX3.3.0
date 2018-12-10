@@ -40,7 +40,7 @@ INCS=	acct.h agpio.h aio.h ansi.h aout_mids.h ataio.h atomic.h audioio.h \
 	ttydefaults.h ttydev.h types.h \
 	ucontext.h ucred.h uio.h un.h unistd.h unpcb.h user.h utsname.h uuid.h \
 	vadvise.h verified_exec.h videoio.h vmmeter.h vnode.h vnode_if.h \
-	wait.h wapbl.h wapbl_replay.h wdog.h xattr.h lsrlib.h
+	wait.h wapbl.h wapbl_replay.h wdog.h xattr.h
 
 INCSYMLINKS=\
 	sys/exec_elf.h /usr/include/elf.h \
