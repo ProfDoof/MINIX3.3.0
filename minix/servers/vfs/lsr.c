@@ -17,7 +17,7 @@
 #include "path.h"
 #include "threads.h"
 #include "fproc.h"
-#include "inode.h"
+#include "../../fs/mfs/inode.h"
 #include "super.h"
 #include <sys/select.h>
 #include <minix/safecopies.h>
