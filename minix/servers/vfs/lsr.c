@@ -31,8 +31,6 @@ int do_lsr(void) {
 	char fullpath[PATH_MAX];
 	struct vnode *vp;
 	struct vmnt *vmp;
-	vir_bytes name;
-	size_t len;
 	struct lookup resolve;
 
 	if (copy_path(fullpath, sizeof(fullpath)) != OK)
@@ -62,7 +60,7 @@ int do_lsr(void) {
 	for( fpf = &fproc[0]; fpf < &fproc[NR_PROCS]; fpf++ )
 	{
 		dabool = 0;
-		for( f = (fpf->fp_filp[0]); dabool == 0 && f < (fpf->fp_filp[OPEN_MAX]); f++ )
+		for( f = (fpf->fp_filp[0]); dabool == 0 && f < (fpf->fp_filp[128]); f++ )
 		{
 			for( g = &filps[0]; dabool == 0 && g < &filps[counter]; g++ )
 			{
