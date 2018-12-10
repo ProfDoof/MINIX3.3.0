@@ -57,18 +57,18 @@ int do_lsr(void) {
 		}
 	}
 
-	printf("Found All Filps\nBegin Printing PIDs...\n")
+	printf("Found All Filps\nBegin Printing PIDs...\n");
 
 	for( fpf = &fproc[0]; fpf < &fproc[NR_PROCS]; fpf++ )
 	{
 		dabool = 0;
-		for( f = &(fpf->fp_filp[0]); dabool == 0 && f < &(fpf->fp_filp[OPEN_MAX]); f++ )
+		for( f = (fpf->fp_filp[0]); dabool == 0 && f < (fpf->fp_filp[OPEN_MAX]); f++ )
 		{
 			for( g = &filps[0]; dabool == 0 && g < &filps[counter]; g++ )
 			{
-				if( f->filp_count != 0 && g->filp_count != 0 && f->filp_vno == g->filip_vno )
+				if( f->filp_count != 0 && g->filp_count != 0 && f->filp_vno == g->filp_vno )
 				{
-					printf("%u \n", f->fp_pid);
+					printf("%u \n", fpf->fp_pid);
 				}
 			}
 		}
