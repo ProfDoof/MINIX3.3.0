@@ -2,7 +2,6 @@
 #include <stdio.h>
 #include <sys/cdefs.h>
 #include "namespace.h"
-#include <lsrlib.h>
 
 #include <fcntl.h>
 #include <stdarg.h>
