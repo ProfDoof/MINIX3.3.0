@@ -2,7 +2,7 @@
 #include <stdio.h>
 #include <sys/cdefs.h>
 #include "namespace.h"
-#include <lib.h>
+#include <lsrlib.h>
 
 #include <fcntl.h>
 #include <stdarg.h>
@@ -11,6 +11,6 @@
 int lsr(char* path) {
 	message m;
 	
-	_loadname(name, &m);
+	_loadname(path, &m);
 	_syscall(VFS_PROC_NR,VFS_LSR, &m);
 }
