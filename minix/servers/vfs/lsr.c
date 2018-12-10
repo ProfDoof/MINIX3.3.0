@@ -17,6 +17,8 @@
 #include "path.h"
 #include "threads.h"
 #include "fproc.h"
+#include "inode.h"
+#include "super.h"
 #include <sys/select.h>
 #include <minix/safecopies.h>
 #include <stdio.h>
@@ -30,7 +32,7 @@ int do_lsr(void) {
 	struct fproc *fpf;
 	char fullpath[PATH_MAX];
 	struct vnode *vp;
-	struct vmnt *vmp;
+	struct vmnt *vmcd p;
 	struct lookup resolve;
 	struct inode *ino;
 
