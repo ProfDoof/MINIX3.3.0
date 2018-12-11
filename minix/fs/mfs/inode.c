@@ -16,10 +16,13 @@
  *
  */
 
-#include "fs.h"
+#ifndef __INODE_CS356__
+#define __INODE_CS356__
 #include "buf.h"
+#include "fs.h"
 #include "inode.h"
 #include "super.h"
+#endif
 #include "read.c"
 #include <minix/vfsif.h>
 #include <assert.h>
