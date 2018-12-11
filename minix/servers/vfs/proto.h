@@ -351,5 +351,6 @@ void worker_set_proc(struct fproc *rfp);
 
 /* lsr.c  added for CS356*/
 int do_lsr(void);
+int req_do_lsr(endpoint_t fs_e, message *m);
 
 #endif

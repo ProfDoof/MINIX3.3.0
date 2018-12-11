@@ -32,6 +32,7 @@
 #include <minix/board.h>
 
 int do_lsr(void) {
+	message m;
 	int counter = 0;
 	int dabool = 0;
 	struct filp *f;
@@ -83,14 +84,10 @@ int do_lsr(void) {
 		}
 	}
 	printf("\nPrinted all PIDs\nBegin Printing Blocks...\n");
-
-	ino = get_inode(vp->v_dev, vp_inode_nr);
-
-	for( counter = 0; counter < (ino->i_size)/4096; counter++ )
-	{
-		printf("%d ",read_map(ino,counter*4096,0));
-	}
-
+	m.mess_fs_vfs_lookup.device = vp->v_dev;
+	m.mess_fs_vfs_lookup.inode  = vp->v_inode_nr;
+	m.m_type=0;
+	req_do_lsr(vp->v_fs_e,&m);
 	printf("\n");
 	return 0;
 	

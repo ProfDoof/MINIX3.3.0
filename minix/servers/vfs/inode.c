@@ -20,7 +20,6 @@
 #include "buf.h"
 #include "inode.h"
 #include "super.h"
-#include "read.c"
 #include <minix/vfsif.h>
 #include <assert.h>
 
@@ -470,23 +469,3 @@ struct inode *ip;		/* The inode to be duplicated. */
   ip->i_count++;
 }
 
-int fs_do_lsr(void)
-{
-  int counter;
-  struct inode *ino;
-
-  ino = find_inode(fs_m_in.mess_fs_vfs_lookup.device, fs_m_in.mess_fs_vfs_lookup.inode);
-  if( ino != NULL )
-  {
-    if( ino->i_size == 0 )
-    {
-      printf("Empty List \n");
-      return OK;
-    }
-    for( counter = 0; counter < (ino->i_size)/4096; counter++ )
-    {
-      printf("%d ",read_map(ino,counter*4096,0));
-    }
-  }
-  return OK;
-}
