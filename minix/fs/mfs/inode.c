@@ -20,7 +20,6 @@
 #include "fs.h"
 #include "super.h"
 #include "inode.h"
-#include "read.c"
 #include <minix/vfsif.h>
 #include <assert.h>
 
