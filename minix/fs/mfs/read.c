@@ -6,10 +6,7 @@
 #include "buf.h"
 #include "fs.h"
 #include "super.h"
-#ifndef __INODE_CS356__
-#define __INODE_CS356__
 #include "inode.h"
-#endif
 #include <minix/vfsif.h>
 #include <minix/minlib.h>
 #include <sys/param.h>
