@@ -1,12 +1,12 @@
+#include "fs.h"
 #include <stddef.h>
 #include <string.h>
 #include <stdlib.h>
 #include <minix/com.h>
 #include <minix/u64.h>
 #include "buf.h"
-#include "fs.h"
-#include "super.h"
 #include "inode.h"
+#include "super.h"
 #include <minix/vfsif.h>
 #include <minix/minlib.h>
 #include <sys/param.h>
