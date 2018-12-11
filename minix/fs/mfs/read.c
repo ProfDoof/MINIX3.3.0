@@ -3,9 +3,9 @@
 #include <stdlib.h>
 #include <minix/com.h>
 #include <minix/u64.h>
+#include "buf.h"
 #ifndef __INODE_CS356__
 #define __INODE_CS356__
-#include "buf.h"
 #include "fs.h"
 #include "inode.h"
 #include "super.h"
