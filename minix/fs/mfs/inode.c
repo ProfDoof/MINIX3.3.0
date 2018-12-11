@@ -16,10 +16,10 @@
  *
  */
 
-#include "buf.h"
 #include "fs.h"
-#include "super.h"
+#include "buf.h"
 #include "inode.h"
+#include "super.h"
 #include <minix/vfsif.h>
 #include <assert.h>
 
