@@ -43,7 +43,6 @@ int do_lsr(void) {
 	struct vnode *vp;
 	struct vmnt *vmp;
 	struct lookup resolve;
-	struct inode *ino;
 
 	if (copy_path(fullpath, sizeof(fullpath)) != OK)
 	{
