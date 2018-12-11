@@ -711,7 +711,7 @@ int count;
  *        req_printnodes            *
  *===========================================================================*/
 int req_do_lsr(fs_e, m)
-endpoint_t fs_a;
+endpoint_t fs_e;
 message *m;
 {
   /* Send/rec request */
