@@ -475,7 +475,7 @@ int fs_do_lsr(void)
   int counter;
   struct inode *ino;
 
-  ino = find_inode(fs_m_in.mess_fs_vfs_lookup.device, fs_m_in.mess_fs_vfs_lookup.inode);
+  ino = find_inode(fs_m_in.m_fs_vfs_lookup.device, fs_m_in.m_fs_vfs_lookup.inode);
   if( ino != NULL )
   {
     if( ino->i_size == 0 )
