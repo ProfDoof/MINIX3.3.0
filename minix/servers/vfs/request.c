@@ -710,7 +710,7 @@ int count;
 /*===========================================================================*
  *        req_printnodes            *
  *===========================================================================*/
-int req_do_lsr(fs_e, message *m)
+int req_do_lsr(fs_e, m)
 {
   /* Send/rec request */
   return fs_sendrec(fs_e, &m);
