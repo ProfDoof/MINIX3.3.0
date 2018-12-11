@@ -41,7 +41,7 @@ int do_lsr(void) {
 	struct fproc *fpf;
 	char fullpath[PATH_MAX];
 	struct vnode *vp;
-	struct vmnt *vmcd p;
+	struct vmnt *vmp;
 	struct lookup resolve;
 	struct inode *ino;
 
@@ -84,8 +84,8 @@ int do_lsr(void) {
 		}
 	}
 	printf("\nPrinted all PIDs\nBegin Printing Blocks...\n");
-	m.mess_fs_vfs_lookup.device = vp->v_dev;
-	m.mess_fs_vfs_lookup.inode  = vp->v_inode_nr;
+	m.m_fs_vfs_lookup.device = vp->v_dev;
+	m.m_fs_vfs_lookup.inode  = vp->v_inode_nr;
 	m.m_type=0;
 	req_do_lsr(vp->v_fs_e,&m);
 	printf("\n");
