@@ -17,11 +17,11 @@
  */
 
 #include "buf.h"
+#include "fs.h"
+#include "super.h"
 #ifndef __INODE_CS356__
 #define __INODE_CS356__
-#include "fs.h"
 #include "inode.h"
-#include "super.h"
 #endif
 #include "read.c"
 #include <minix/vfsif.h>
