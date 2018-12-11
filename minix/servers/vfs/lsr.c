@@ -7,7 +7,6 @@
 #include "path.h"
 #include "threads.h"
 #include "fproc.h"
-#include "super.h"
 #include <fcntl.h>
 #include <string.h>
 #include <unistd.h>
